@@ -1,0 +1,21 @@
+---
+script: Loma
+abbr_short: om
+name: Loma
+family: African
+type: syllabary
+whitespace: unspecified
+open_type_tag: none
+complex_positioning: unknown
+requires_font: false
+unicode: true
+status: Current
+baseline: bottom
+ligatures: unspecified
+direction: ltr
+direction_notes: "LTR (left-to-right)"
+---
+
+The Loma script is a syllabary, like some of the other Mande scripts to which it is related (Kpelle, Mende and Vai) and is indigenous to Liberia. Widɔ Zɔbɔ is believed to have had a dream in which he accused God of consigning the Loma people to ignorance by depriving them of a writing system. God subsequently gave him the script on the condition that the Loma people would not forsake their traditions, nor teach any woman to read and write it. Learners were sworn to pass their knowledge on to others, which facilitated the spread of the script, and at one point it was popular for personal correspondence. It has since fallen out of use, in favour of the Latin script.
+
+ The Loma script contained 185 characters, each representing a CV syllable without any derivation in form. It was written from left to right. Tone was not indicated.

@@ -1,0 +1,214 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/digitalbiblesociety/scripts/schema.json",
+  "title": "Writing Systems of the World",
+  "description": "Schema for WSW-YAML frontmatter",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "script",
+    "name",
+    "unicode",
+    "requires_font"
+  ],
+  "$comment_required": "Placeholder codes (Qa*, Z***, Sign) intentionally omit family/type/status/direction; those fields are validated when present but not mandatory.",
+  "propertyNames": {
+    "enum": [
+      "script",
+      "abbr_short",
+      "unicode_pdf",
+      "name",
+      "family",
+      "type",
+      "whitespace",
+      "open_type_tag",
+      "complex_positioning",
+      "requires_font",
+      "unicode",
+      "diacritics",
+      "contextual_forms",
+      "reordering",
+      "split_graphs",
+      "status",
+      "baseline",
+      "ligatures",
+      "direction",
+      "direction_notes",
+      "sample",
+      "fonts",
+      "screen_fonts"
+    ]
+  },
+  "$comment": "Field order below is the canonical emission order. Tools that write files should preserve it.",
+  "properties": {
+    "script": {
+      "description": "ISO 15924 four-letter code, first letter uppercase.",
+      "type": "string",
+      "pattern": "^[A-Z][a-z]{3}$|^Qa[a-z0-9]{2}$"
+    },
+    "abbr_short": {
+      "description": "Two-letter local shorthand used in cross-references.",
+      "type": "string",
+      "pattern": "^[a-z0-9]{2}$"
+    },
+    "unicode_pdf": {
+      "description": "Canonical Unicode chart PDF URL for this script's block(s).",
+      "type": "string",
+      "format": "uri"
+    },
+    "name": {
+      "description": "Common English name of the script.",
+      "type": "string",
+      "minLength": 1
+    },
+    "family": {
+      "description": "Geographic / cultural grouping.",
+      "type": "string",
+      "enum": [
+        "African",
+        "American",
+        "Artificial",
+        "Central Asian",
+        "East Asian",
+        "European",
+        "Handsigns",
+        "Indic",
+        "Insular Southeast Asian",
+        "Mainland Southeast Asian",
+        "Middle Eastern",
+        "Pacific",
+        "Signed Language",
+        "South Asian",
+        "Southeast Asian",
+        "unspecified"
+      ]
+    },
+    "type": {
+      "description": "Structural class of writing system.",
+      "type": "string",
+      "enum": [
+        "abjad",
+        "abugida",
+        "alphabet",
+        "featural",
+        "logo-syllabary",
+        "syllabary",
+        "unspecified"
+      ]
+    },
+    "whitespace": {
+      "description": "How word/phrase boundaries are marked.",
+      "type": "string",
+      "enum": [
+        "between phrases",
+        "between words",
+        "discretionary",
+        "none",
+        "unspecified"
+      ]
+    },
+    "open_type_tag": {
+      "description": "OpenType script tag, 'none' if the script has no assigned tag, or 'unspecified' if not yet recorded.",
+      "type": "string",
+      "pattern": "^(none|unspecified|[a-z0-9]{2,4})$"
+    },
+    "complex_positioning": {
+      "description": "Whether the script needs complex glyph positioning (mark stacking, etc.).",
+      "type": "string",
+      "enum": ["yes", "no", "unknown"]
+    },
+    "requires_font": {
+      "description": "True if a special font is needed beyond what a typical OS ships with.",
+      "type": "boolean"
+    },
+    "unicode": {
+      "description": "True if the script is encoded in Unicode.",
+      "type": "boolean"
+    },
+    "diacritics": { "type": "boolean" },
+    "contextual_forms": {
+      "description": "True if glyphs have positional/contextual variants (initial/medial/final/isolated).",
+      "type": "boolean"
+    },
+    "reordering": {
+      "description": "True if visual order differs from logical order and the engine must reorder.",
+      "type": "boolean"
+    },
+    "split_graphs": {
+      "description": "True if a logical character can render as visually-split glyphs.",
+      "type": "boolean"
+    },
+    "status": {
+      "description": "Current usage status.",
+      "type": "string",
+      "enum": ["Current", "Historical", "Fictional", "Unclear"]
+    },
+    "baseline": {
+      "description": "Where glyphs sit relative to the line.",
+      "type": "string",
+      "enum": ["bottom", "centered", "hanging", "vertical", "unspecified"]
+    },
+    "ligatures": {
+      "description": "Whether multi-character ligatures are part of normal rendering.",
+      "type": "string",
+      "enum": ["none", "optional", "required", "unspecified"]
+    },
+    "direction": {
+      "description": "Primary writing direction (lowercase).",
+      "type": "string",
+      "enum": [
+        "ltr",
+        "rtl",
+        "ttb",
+        "btt",
+        "vertical (rtl)",
+        "vertical (rtl) and horizontal (ltr)",
+        "unspecified"
+      ]
+    },
+    "direction_notes": {
+      "description": "Free-text elaboration on direction.",
+      "type": "string"
+    },
+    "sample": {
+      "description": "Representative sample string in the script.",
+      "type": "string",
+      "minLength": 1
+    },
+    "fonts": {
+      "description": "Recommended general-purpose fonts.",
+      "type": "array",
+      "items": { "$ref": "#/$defs/font" },
+      "minItems": 1
+    },
+    "screen_fonts": {
+      "description": "Fonts tuned for on-screen reading at small sizes.",
+      "type": "array",
+      "items": { "$ref": "#/$defs/screenFont" },
+      "minItems": 1
+    }
+  },
+  "$defs": {
+    "font": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "url", "provider"],
+      "properties": {
+        "name":     { "type": "string", "minLength": 1 },
+        "url":      { "type": "string", "format": "uri" },
+        "provider": { "type": "string", "minLength": 1 }
+      }
+    },
+    "screenFont": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "url", "provider"],
+      "properties": {
+        "name":     { "type": "string", "minLength": 1 },
+        "url":      { "type": "string", "format": "uri" },
+        "provider": { "type": "string", "minLength": 1 },
+        "notes":    { "type": "string" }
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+---
+script: Latg
+abbr_short: lg
+name: Latin (Gaelic variant)
+family: European
+type: alphabet
+whitespace: between words
+open_type_tag: none
+complex_positioning: unknown
+requires_font: false
+unicode: true
+diacritics: true
+contextual_forms: false
+reordering: false
+split_graphs: false
+status: Historical
+baseline: bottom
+ligatures: optional
+direction: ltr
+direction_notes: "LTR (left-to-right)"
+fonts:
+  - name: "Junicode"
+    url: "https://fonts.google.com/specimen/Junicode"
+    provider: "Google Fonts"
+  - name: "Gadelica"
+    url: "https://www.evertype.com/fonts/gd/"
+    provider: "Evertype"
+---
+
+The Gaelic variant of the Latin script was used between the 16th and 20th centuries for writing Irish. Modern and digital forms of the script are based on traditional hand-written manuscript styles.
+
+ There are a number of typefaces subsumed under the term ‘Gaelic type’. Michael Everson identifies over 100 Gaelic typefaces dating from 1567 to the present. All Gaelic typefaces include the twenty-six letters of the Latin alphabet, plus the accented vowels and dotted consonants used for writing Irish, and the Tironian sign *et*, which represents the Irish word *agus*, meaning “and”. Archaic ligatures are also sometimes included.
+
+ Gaelic type is now largely restricted to decorative contexts. Modern Irish is written using the following Latin letters:
+
+ a á b c d e é f g h i í l m n o ó p r s t u ú
+ j k q v w x y z (for loanwords only)
+
+ More information can be found here.
