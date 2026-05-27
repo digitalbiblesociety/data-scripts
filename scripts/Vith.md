@@ -1,5 +1,6 @@
 ---
 script: Vith
+unicode_pdf: "https://www.unicode.org/charts/PDF/U10570.pdf"
 name: Vithkuqi
 family: European
 type: alphabet

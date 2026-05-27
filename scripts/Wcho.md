@@ -1,5 +1,6 @@
 ---
 script: Wcho
+unicode_pdf: "https://www.unicode.org/charts/PDF/U1E2C0.pdf"
 name: Wancho
 family: South Asian
 type: alphabet

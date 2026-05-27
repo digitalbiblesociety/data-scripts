@@ -1,5 +1,6 @@
 ---
 script: Krai
+unicode_pdf: "https://www.unicode.org/charts/PDF/U16D40.pdf"
 name: Kirat Rai
 family: South Asian
 type: abugida

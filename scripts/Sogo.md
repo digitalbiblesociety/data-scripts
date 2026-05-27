@@ -1,5 +1,6 @@
 ---
 script: Sogo
+unicode_pdf: "https://www.unicode.org/charts/PDF/U10F00.pdf"
 name: Old Sogdian
 family: Middle Eastern
 type: abjad

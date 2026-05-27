@@ -1,5 +1,6 @@
 ---
 script: Kawi
+unicode_pdf: "https://www.unicode.org/charts/PDF/U11F00.pdf"
 name: Kawi
 family: Mainland Southeast Asian
 type: abugida

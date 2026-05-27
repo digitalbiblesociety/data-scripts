@@ -1,6 +1,7 @@
 ---
 script: Tglg
 abbr_short: tg
+unicode_pdf: "https://www.unicode.org/charts/PDF/U1700.pdf"
 name: "Tagalog (Baybayin, Alibata)"
 family: Insular Southeast Asian
 type: abugida

@@ -1,5 +1,6 @@
 ---
 script: Gukh
+unicode_pdf: "https://www.unicode.org/charts/PDF/U16100.pdf"
 name: Gurung Khema
 family: South Asian
 type: abugida

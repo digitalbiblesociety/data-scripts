@@ -1,5 +1,6 @@
 ---
 script: Sogd
+unicode_pdf: "https://www.unicode.org/charts/PDF/U10F30.pdf"
 name: Sogdian
 family: Middle Eastern
 type: abjad

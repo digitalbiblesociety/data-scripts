@@ -1,5 +1,6 @@
 ---
 script: Rohg
+unicode_pdf: "https://www.unicode.org/charts/PDF/U10D00.pdf"
 name: Hanifi Rohingya
 family: Mainland Southeast Asian
 type: alphabet

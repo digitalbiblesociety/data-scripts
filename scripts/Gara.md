@@ -1,5 +1,6 @@
 ---
 script: Gara
+unicode_pdf: "https://www.unicode.org/charts/PDF/U10D40.pdf"
 name: Garay
 family: African
 type: alphabet

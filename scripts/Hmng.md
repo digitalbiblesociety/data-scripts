@@ -1,6 +1,7 @@
 ---
 script: Hmng
 abbr_short: hm
+unicode_pdf: "https://www.unicode.org/charts/PDF/U16B00.pdf"
 name: Pahawh Hmong
 family: East Asian
 type: syllabary

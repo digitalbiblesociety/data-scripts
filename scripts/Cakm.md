@@ -1,6 +1,7 @@
 ---
 script: Cakm
 abbr_short: ck
+unicode_pdf: "https://www.unicode.org/charts/PDF/U11100.pdf"
 name: Chakma
 family: Indic
 type: abugida

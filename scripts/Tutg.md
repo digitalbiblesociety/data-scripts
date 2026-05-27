@@ -1,5 +1,6 @@
 ---
 script: Tutg
+unicode_pdf: "https://www.unicode.org/charts/PDF/U11380.pdf"
 name: Tulu-Tigalari
 family: South Asian
 type: abugida

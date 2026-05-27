@@ -1,5 +1,6 @@
 ---
 script: Sunu
+unicode_pdf: "https://www.unicode.org/charts/PDF/U11BC0.pdf"
 name: Sunuwar
 family: South Asian
 type: alphabet

@@ -1,5 +1,6 @@
 ---
 script: Nand
+unicode_pdf: "https://www.unicode.org/charts/PDF/U119A0.pdf"
 name: Nandinagari
 family: South Asian
 type: abugida

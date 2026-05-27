@@ -1,5 +1,6 @@
 ---
 script: Toto
+unicode_pdf: "https://www.unicode.org/charts/PDF/U1E290.pdf"
 name: Toto
 family: South Asian
 type: alphabet

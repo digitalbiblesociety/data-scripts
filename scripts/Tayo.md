@@ -1,5 +1,6 @@
 ---
 script: Tayo
+unicode_pdf: "https://www.unicode.org/charts/PDF/U1E6C0.pdf"
 name: Tai Yo
 family: Mainland Southeast Asian
 type: abugida

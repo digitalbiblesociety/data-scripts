@@ -1,5 +1,6 @@
 ---
 script: Tnsa
+unicode_pdf: "https://www.unicode.org/charts/PDF/U16A70.pdf"
 name: Tangsa
 family: South Asian
 type: alphabet

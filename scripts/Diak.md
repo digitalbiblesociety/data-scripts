@@ -1,5 +1,6 @@
 ---
 script: Diak
+unicode_pdf: "https://www.unicode.org/charts/PDF/U11900.pdf"
 name: Dives Akuru
 family: South Asian
 type: abugida

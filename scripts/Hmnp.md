@@ -1,5 +1,6 @@
 ---
 script: Hmnp
+unicode_pdf: "https://www.unicode.org/charts/PDF/U1E100.pdf"
 name: Nyiakeng Puachue Hmong
 family: unspecified
 type: alphabet

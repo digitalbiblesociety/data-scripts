@@ -1,5 +1,6 @@
 ---
 script: Todr
+unicode_pdf: "https://www.unicode.org/charts/PDF/U105C0.pdf"
 name: Todhri
 family: European
 type: alphabet

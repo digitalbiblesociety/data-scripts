@@ -1,5 +1,6 @@
 ---
 script: Elym
+unicode_pdf: "https://www.unicode.org/charts/PDF/U10FE0.pdf"
 name: Elymaic
 family: Middle Eastern
 type: abjad

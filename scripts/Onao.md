@@ -1,5 +1,6 @@
 ---
 script: Onao
+unicode_pdf: "https://www.unicode.org/charts/PDF/U1E5D0.pdf"
 name: Ol Onal
 family: South Asian
 type: alphabet

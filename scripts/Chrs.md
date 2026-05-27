@@ -1,5 +1,6 @@
 ---
 script: Chrs
+unicode_pdf: "https://www.unicode.org/charts/PDF/U10FB0.pdf"
 name: Chorasmian
 family: Middle Eastern
 type: abjad

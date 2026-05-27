@@ -1,6 +1,7 @@
 ---
 script: Tfng
 abbr_short: tf
+unicode_pdf: "https://www.unicode.org/charts/PDF/U2D30.pdf"
 name: Tifinagh (Berber)
 family: African
 type: abjad

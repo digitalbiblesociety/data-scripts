@@ -1,5 +1,6 @@
 ---
 script: Ougr
+unicode_pdf: "https://www.unicode.org/charts/PDF/U10F70.pdf"
 name: Old Uyghur
 family: Central Asian
 type: abjad

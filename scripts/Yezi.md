@@ -1,5 +1,6 @@
 ---
 script: Yezi
+unicode_pdf: "https://www.unicode.org/charts/PDF/U10E80.pdf"
 name: Yezidi
 family: Middle Eastern
 type: alphabet
