@@ -548,12 +548,7 @@ func readFrontmatter(path string) ([]fmEntry, error) {
 	return entries, nil
 }
 
-func validateFile(path string) []string {
-	entries, err := readFrontmatter(path)
-	if err != nil {
-		return []string{fmt.Sprintf("frontmatter: %v", err)}
-	}
-
+func validateEntries(entries []fmEntry) []string {
 	var errs []string
 	seen := map[string]bool{}
 	lastIdx := -1
@@ -652,6 +647,28 @@ func unquote(v string) string {
 	return v
 }
 
+// dupReport returns one group of lines per value that appears in more than one
+// file, sorted for stable output, plus the count of colliding values.
+func dupReport(label string, byValue map[string][]string) (lines []string, count int) {
+	var dups []string
+	for v, files := range byValue {
+		if len(files) > 1 {
+			dups = append(dups, v)
+		}
+	}
+	sort.Strings(dups)
+	for _, v := range dups {
+		count++
+		lines = append(lines, fmt.Sprintf("duplicate %s %q in:", label, v))
+		files := append([]string(nil), byValue[v]...)
+		sort.Strings(files)
+		for _, f := range files {
+			lines = append(lines, "  - "+f)
+		}
+	}
+	return lines, count
+}
+
 func runValidate(dir string) int {
 	dents, err := os.ReadDir(dir)
 	if err != nil {
@@ -666,9 +683,33 @@ func runValidate(dir string) int {
 	}
 	sort.Strings(paths)
 
+	// Accumulate script codes and abbr_short values across the whole corpus;
+	// per-file validation can't see collisions between files.
+	codeFiles := map[string][]string{}
+	abbrFiles := map[string][]string{}
+
 	ok, bad := 0, 0
 	for _, p := range paths {
-		errs := validateFile(p)
+		entries, err := readFrontmatter(p)
+		if err != nil {
+			bad++
+			fmt.Printf("%s\n  - frontmatter: %v\n", p, err)
+			continue
+		}
+		for _, e := range entries {
+			switch e.key {
+			case "script":
+				if v := unquote(e.value); v != "" {
+					codeFiles[v] = append(codeFiles[v], p)
+				}
+			case "abbr_short":
+				if v := unquote(e.value); v != "" {
+					abbrFiles[v] = append(abbrFiles[v], p)
+				}
+			}
+		}
+
+		errs := validateEntries(entries)
 		if len(errs) == 0 {
 			ok++
 			continue
@@ -679,8 +720,23 @@ func runValidate(dir string) int {
 			fmt.Printf("  - %s\n", e)
 		}
 	}
+
+	codeLines, codeDups := dupReport("script code", codeFiles)
+	abbrLines, abbrDups := dupReport("abbr_short", abbrFiles)
+	dupLines := append(codeLines, abbrLines...)
+	dups := codeDups + abbrDups
+	if len(dupLines) > 0 {
+		fmt.Println()
+		for _, l := range dupLines {
+			fmt.Println(l)
+		}
+	}
+
 	fmt.Printf("\n%d ok, %d with errors (of %d total)\n", ok, bad, len(paths))
-	if bad > 0 {
+	if dups > 0 {
+		fmt.Printf("%d duplicate value(s) across files\n", dups)
+	}
+	if bad > 0 || dups > 0 {
 		return 1
 	}
 	return 0

@@ -99,6 +99,7 @@ Checks every file under `scripts/`:
 - enum vocabularies (`family`, `type`, `status`, `direction`, …)
 - regex patterns (`script`, `abbr_short`, `open_type_tag`)
 - boolean fields are `true`/`false`
+- `script` codes and `abbr_short` values are unique across the corpus
 
 Exits non-zero if any file has issues. Current status: **313 ok, 0 with errors**.
 
