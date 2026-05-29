@@ -9,7 +9,6 @@ The repository currently holds **313 scripts**: the public ISO 15924 set plus lo
 ```
 schema.json     JSON Schema describing the frontmatter (WSW-YAML)
 scripts/        One <Code>.md per script; <Code> is ISO 15924 (e.g. Arab.md)
-scripts/index.json  Flattened JSON dump of the corpus
 tools/          Go utilities (Go ≥ 1.22, stdlib only)
   update.go     Fetches new scripts from silnrsi/wstr and validates the corpus
   go.mod
