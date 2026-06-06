@@ -38,6 +38,20 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/Hanuman"
     provider: "Google Fonts"
     notes: "Traditional letterforms; best available hinting for Khmer at screen sizes"
+languages:
+  - brb
+  - cmo
+  - jra
+  - kdt
+  - khm
+  - krr
+  - krv
+  - kxm
+  - pcb
+  - pli
+  - rka
+  - smu
+  - tpu
 ---
 
 The Khmer script is an abugida, descended from the Brahmic script Pallava. It is used for writing Khmer, the official language of Cambodia. The script is also sometimes used for writing minority languages in Cambodia, such as Brao and Mnong.

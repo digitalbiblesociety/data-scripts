@@ -28,6 +28,8 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Ogham"
     provider: "Google Fonts"
     notes: "Best available for Ogham screen rendering"
+languages:
+  - sga
 ---
 
 The Ogham script dates from approximately the 5th century AD and was used in Ireland, Wales, Devon, Cornwall, and the Isle of Man, until the 10th century. There were two written traditions; the earliest extant examples of the script are inscribed into stone, while post 7th century examples are more frequently written on manuscripts.

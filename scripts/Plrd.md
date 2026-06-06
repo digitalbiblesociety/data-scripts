@@ -25,6 +25,19 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Miao"
     provider: "Google Fonts"
     notes: "Best available for Pollard Miao script at screen sizes"
+languages:
+  - hmd
+  - hmz
+  - hnj
+  - ktp
+  - lpo
+  - mww
+  - sfm
+  - ygp
+  - yna
+  - ysy
+  - ywq
+  - ywu
 ---
 
 The Pollard (also called Miao, Pollard Miao, Simple Miao or Old Miao) script was created by Samuel Pollard, a missionary working with the A-Hmao (or Large Flowery Miao) language in southern China, in the early 20th century. The script has been adapted for use by other languages in Southeast Asia. It has been revised a number of times since its inception - the form used in the 1936 Western Hmong translation of the New Testament became widespread, until the Chinese authorities in 1957 began to object to the script on the grounds of religious association and introduced a pinyin-style system. In 1988 however, Pollards script underwent a final reform to yield the version currently in use, alongside the previous version and the pinyin system.

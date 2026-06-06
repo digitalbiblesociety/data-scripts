@@ -27,6 +27,8 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Warang+Citi"
     provider: "Google Fonts"
     notes: "Best available for Warang Citi at screen sizes"
+languages:
+  - hoc
 ---
 
 The Warang Citi script is used for writing the Ho language spoken largely in the state of Jharkhand in eastern India. The history of the script is controversial. Followers of Lako Bodra, an influential community leader who is variously credited with the invention or the rediscovery of the script, claim a much older heritage for the script than scholars have evidence for. The script displays a number of similarities with other scripts including Latin and Brahmi; Bodras followers claim that this is the result of borrowing *from* Varang Kshiti but scholars generally believe it is the result of borrowing *into* it. The version of the script which has been most well-documented is based on an archaic (perhaps secret shamanistic) dialect of Ho called Ho Hayam, not the more widely-spoken dialect, Ho Kaji.

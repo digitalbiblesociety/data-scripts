@@ -37,6 +37,16 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/BPG+Ariali"
     provider: "Google Fonts"
     notes: "Community standard Georgian sans; excellent hinting history"
+languages:
+  - abk
+  - bbl
+  - jge
+  - kat
+  - lzz
+  - oav
+  - oss
+  - sva
+  - xmf
 ---
 
 The Georgian language is spoken by approximately 3,900,000 people in Georgia, as well as by 355,000 people in Azerbaijan, Turkey and Iran. The earliest uncontested inscription in the language dates from the 5th century. Since that time, Georgian has been written in three distinct scripts. The original script was an inscriptional form called *Asomtavruli*, from which a manuscript form, *Nuskhuri*, was derived. For a time, these were combined in a bicameral system called *Khutsuri* in which Asomtavruli letters were used as the upper case and Nushkuri as the lower case. Since the 11th century, a third script has been attested, called *Mkhedruli*. There is some debate as to the origins of this third script; some scholars say that it evolved from the Khutsuri system, other, that it pre-dates it. What is generally agreed upon is that Mkhedruli was used as a secular script alongside the ecclesiastical Khutsuri until the 18th century, since which time it has been used for nearly all Georgian writing. The three scripts share the same letter names, despite having different letter shapes.

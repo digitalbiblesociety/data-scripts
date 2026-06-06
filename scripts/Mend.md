@@ -20,6 +20,8 @@ fonts:
   - name: "Noto Sans Mende Kikakui"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Mende+Kikakui"
     provider: "Google Fonts"
+languages:
+  - men
 ---
 
 The Mende (also called Kikakui) script was devised by Mohammed Turay for writing the Sierra Leonean language, Mende, spoken by almost 1.5 million people. It was modified by one of Turays students, Kisimi Kamara, in 1921 to produce the form currently used. It is an abugida; each of the 195 symbols represents a consonant with an inherent vowel. Symbols are sometimes formed by adding diacritics to a basic consonant sign to indicate the quality of the vowel; more often, every legitimate consonant+vowel syllable is represented by a unique, underived sign. It is the only West African syllabary to be written from right to left, which is attributed to Kamaras Islamic heritage and familiarity with the Arabic script, also written from right to left. It is generally believed that the inventors also had some knowledge of the Vai script of Liberia, as the two scripts share significant similarities both in form and in origin.

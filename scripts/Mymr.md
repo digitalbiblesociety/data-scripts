@@ -38,6 +38,48 @@ screen_fonts:
     url: "https://software.sil.org/padauk/"
     provider: "SIL International"
     notes: "Gold-standard Myanmar screen font; SIL invested heavily in TrueType hinting for low-resolution use"
+languages:
+  - ahk
+  - aio
+  - blk
+  - bwe
+  - csh
+  - dnu
+  - dnv
+  - hpo
+  - int
+  - jkm
+  - kht
+  - kjp
+  - ksu
+  - ksw
+  - kvq
+  - kvt
+  - kxf
+  - kxk
+  - kyu
+  - lmk
+  - mnw
+  - mwt
+  - mya
+  - obr
+  - omx
+  - pce
+  - pdu
+  - phk
+  - pli
+  - pll
+  - pwo
+  - pyx
+  - rbb
+  - rki
+  - rmz
+  - san
+  - shn
+  - tco
+  - tjl
+  - tvn
+  - vwa
 ---
 
 The Myanmar script was adapted from the Mon script, a descendent of Brahmi, and is found in stone inscriptions dating from the 12th century. It is used for writing the Burmese and Mon languages, both spoken in Myanmar (previously Burma). The two languages differ in how some phonemic values are assigned to letters. The script is also used, with character extensions, to write some of the Karen languages spoken in Myanmar and Thailand.

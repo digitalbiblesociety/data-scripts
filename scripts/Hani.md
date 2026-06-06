@@ -31,6 +31,33 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/IBM+Plex+Sans+SC"
     provider: "IBM / Google Fonts"
     notes: "Best general-purpose screen-first Han font"
+languages:
+  - bca
+  - bfs
+  - how
+  - ium
+  - kmc
+  - oko
+  - pcc
+  - pyu
+  - swi
+  - vie
+  - zch
+  - zeh
+  - zgb
+  - zgm
+  - zgn
+  - zha
+  - zhd
+  - zhn
+  - zlj
+  - zln
+  - zlq
+  - zqe
+  - zyg
+  - zyj
+  - zyn
+  - zzj
 ---
 
 The Han script comprises three systems; when used for writing the languages of China the characters are called *hanzi*, the same characters used for writing Japanese are called *kanji*, and for Korean, *hanja*. It is commonly assumed that the Sinitic languages (Chinese languages) are monosyllabic, and that one written character = one syllable = one word. However, there are many polysyllabic words in both the ancient and modern lexicons, and the average length of a word in Mandarin is two syllables. These words are represented using combinations of characters, each representing one syllable. There are some exceptions to this rule, in the form of unofficial but widely used single characters representing polysyllabic Chinese words, such as *túshūguăn* library and *wèntí* question. This is common when the characters are used for writing Japanese, due to different phonological rules governing the language. A single character may frequently represent a polysyllabic word in Japanese and some of the other languages for which Han characters are used.

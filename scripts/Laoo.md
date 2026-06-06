@@ -42,6 +42,10 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/Phetsarath+OT"
     provider: "Google Fonts"
     notes: "Traditional Lao letterforms; well-regarded for small-size screen use"
+languages:
+  - hnj
+  - kjg
+  - lao
 ---
 
 The Lao script is used for writing the Lao language, and is also the official script of a number of minority languages in Laos. The Lao language is closely related to Thai; there is a considerable Lao-speaking population in Thailand who write their language with the Thai script. However, the Lao script underwent a number of reforms which caused significant divergence from the Thai script. When the communist Pathet Lao overthrew the Lao government in 1975, they implemented a final spelling reform which simplified and standardized the script.

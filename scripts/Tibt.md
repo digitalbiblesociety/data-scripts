@@ -33,6 +33,62 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Tibetan"
     provider: "Google Fonts"
     notes: "Even stroke weight prevents thin Tibetan hairlines from disappearing"
+languages:
+  - adi
+  - adx
+  - bft
+  - bfu
+  - bod
+  - bro
+  - cgk
+  - clk
+  - cna
+  - cvg
+  - dka
+  - dre
+  - dzl
+  - dzo
+  - ght
+  - goe
+  - hut
+  - jda
+  - jya
+  - kbg
+  - khg
+  - kjz
+  - kkf
+  - kte
+  - lae
+  - lbf
+  - lbj
+  - lep
+  - lkh
+  - loy
+  - luk
+  - lya
+  - mon
+  - muk
+  - neh
+  - nmm
+  - npb
+  - ola
+  - ole
+  - otb
+  - prx
+  - sbu
+  - sgt
+  - sip
+  - spt
+  - taj
+  - tcn
+  - tdg
+  - tgf
+  - tsj
+  - xct
+  - xkf
+  - xkz
+  - xsr
+  - zau
 ---
 
 The Tibetan script is used for writing the Tibetan, Dzongkha, Ladakhi and Sikkimese languages, spoken in Tibet, Bhutan, Nepal and India. It is also used for transcribing religious Sanskrit texts. The exact origin of the script is not clear; Tibetan Buddhism traditionally ascribes its creation to Minister Thon mi Sambhota in Northeast India, but Bon Po religious tradition cites Iranian or Central Asian origins. What is generally agreed upon is that it is ultimately derived from the Brahmi script, as evidenced by its syllabic structure, its use of diacritics to modify the vowel in a syllable, and its typically Brahmic canonical arrangement of the letters in phonological groups.

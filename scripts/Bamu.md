@@ -20,6 +20,8 @@ fonts:
   - name: "Noto Sans Bamum"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Bamum"
     provider: "Google Fonts"
+languages:
+  - bax
 ---
 
 The Bamum script of Cameroon was devised at the end of the C19th following a dream in which the Bamum King Njoya was inspired to provide a writing system for his people by creating a series of pictographs. The script was something of a communal production; the Bamum people were reportedly invited to supply the King with a number of simple symbols, from which he chose more than 500 to use in the Bamum script. Initially, the script was logographic, but it underwent a series of changes influenced by the rebus principle. After about 30 years, full phonetic representation had been realized, and the script had developed into a syllabary composed of just 80 base characters.

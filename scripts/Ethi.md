@@ -34,6 +34,61 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/IBM+Plex+Sans+Ethiopic"
     provider: "IBM / Google Fonts"
     notes: "Screen-first approach; wide spacing distinguishes similar Ethiopic syllables"
+languages:
+  - aar
+  - agj
+  - ahg
+  - aiw
+  - alw
+  - amf
+  - amh
+  - anu
+  - awn
+  - bcq
+  - bji
+  - bst
+  - bsw
+  - bwo
+  - byn
+  - dox
+  - drs
+  - dwr
+  - gax
+  - gdl
+  - gez
+  - gmv
+  - gof
+  - gru
+  - guk
+  - gyl
+  - har
+  - hdy
+  - ior
+  - jnj
+  - kbr
+  - kqy
+  - ktb
+  - kxc
+  - mdx
+  - mdy
+  - mfx
+  - moy
+  - mpe
+  - muz
+  - mym
+  - orm
+  - sgw
+  - sid
+  - ssy
+  - stv
+  - suq
+  - tig
+  - tir
+  - wal
+  - xan
+  - xom
+  - zay
+  - zwa
 ---
 
 The Ethiopic (Geez) script was developed as the writing system of the Geez language, a Semitic language spoken in Ethiopia and Eritrea until the 10th to the 12th centuries. Although the language ceased to be used in vernacular speech (it now serves a liturgical function only), the script is still widely used for writing the Ethiopian and Eritrean Semitic languages such as Tigré, Amharic and Tigrinya. In some languages, the script is called *fidäl* (ፊደል), which means alphabet, and individual letters are referred to as *fidel*. The script is believed by many to have derived from the epigraphic South Arabian script, of Proto-Sinaitic heritage, although there is some dispute surrounding this assertion; some also believe it to have descended from Egyptian hieroglyphics. According to the tradition of the Ethiopian Orthodox Tewahedo Church, the script was divinely revealed to Enos, grandson of the first man, Adam. Unlike other Semitic scripts, Ethiopic is written from left to right.

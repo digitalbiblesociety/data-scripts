@@ -22,6 +22,12 @@ fonts:
   - name: "Noto Sans Khojki"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Khojki"
     provider: "Google Fonts"
+languages:
+  - guj
+  - lah
+  - pan
+  - skr
+  - snd
 ---
 
 Khojki is a Brahmi-derived abugida related to the Sharada script. It is used by the Khoja people - an ethnic group of largely Ismaili Shia Muslims - for recording religious literature in the Sindhi language. Khojki has been used since at least the 16th century, originally for manuscripts, but later in printed form also. The script has also been used to write other South Asian languages; however, in recent years its use has declined markedly.

@@ -28,6 +28,8 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Old+Persian"
     provider: "Google Fonts"
     notes: "Wedge forms of Old Persian suit pixel grid rendering"
+languages:
+  - peo
 ---
 
 Old Persian cuneiform was the main script for writing the Old Persian language from 525-330 BC. Visually it resembles Sumero-Akkadian cuneiform; most of the letters are arrangements of between two and five horizontal, vertical or angle-shaped wedges. However, there appears to be no derivational relationship between the sound-to-symbol mapping of individual letters in the two scripts, nor has any other script been found which links the forms of the scripts. For this reason, Old Persian cuneiform is generally believed to have been an independent invention.

@@ -33,6 +33,21 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/Readex+Pro"
     provider: "Google Fonts"
     notes: "Best freely available Nastaliq-adjacent screen font; handles connected forms at low DPI"
+languages:
+  - arb
+  - arz
+  - bal
+  - fas
+  - glk
+  - hno
+  - kas
+  - khw
+  - mvy
+  - pan
+  - pst
+  - skr
+  - som
+  - urd
 ---
 
 The Nastaliq variant of Arabic script is a cursive script, written horizontally but at a sloping angle where the longer the sequence of characters is in a calligraphically-connected cluster, the taller it becomes. It has short verticals and long horizontal strokes. Due to the slope and calligraphic style, placement of nuqtas (dots) on the base characters is forced to vary quite a bit among different letters and even different forms of the same letter. Words are separated by a space. 

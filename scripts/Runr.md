@@ -31,6 +31,9 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/Junicode"
     provider: "Google Fonts"
     notes: "Extensive hand-hinting for runic and medieval scripts; clear at 12px"
+languages:
+  - deu
+  - non
 ---
 
 The Runic alphabets were used throughout Northern Europe from the 1st to the 7th century AD. There are various conflicting theories as to the runes’ origins; some scholars suggest they were developed in Denmark and spread southwards to Europe, while others suggest that they were a German invention which spread both northwards and southwards. Runic inscriptions have been found as far south as Istanbul.

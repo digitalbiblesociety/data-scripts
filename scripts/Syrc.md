@@ -33,6 +33,25 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Syriac"
     provider: "Google Fonts"
     notes: "Best freely available Syriac with acceptable screen hinting"
+languages:
+  - aii
+  - amw
+  - ara
+  - arb
+  - arc
+  - bhn
+  - bjf
+  - hrt
+  - kqd
+  - lhs
+  - oar
+  - sam
+  - sog
+  - syc
+  - syn
+  - syr
+  - tmr
+  - tru
 ---
 
 The Syriac script is attested as early as the year 6 AD. It was primarily used for writing the Syriac language, now extinct outside of the Syrian church. The Assyrian Neo-Aramaic, Chaldean Neo-Aramaic and Turoyo/Surayt languages are descended from Syriac, and are still written in the Syriac script. It can also be used for writing Arabic, known as *Garshani* writing. The script is descended from Proto-Canaanite writing. There are two main dialects of spoken Syriac; West Syriac, used by the Syrian Orthodox, Maronites, and Syrian Catholics; and East Syriac, used by the Assyrians and Chaldaeans. There are three ancient variations of the script: the classical liturgical script called *Estrangelo*, the Western variant, and the Eastern variant. There is also a Modern Syriac orthography, based on the Eastern variety and having the aim of bridging the differences in Aramaic dialects. A common spoken Aramaic *koine* used among Iraqis of Assyrian descent is based on this orthography.

@@ -20,6 +20,8 @@ fonts:
   - name: "Noto Sans Old South Arabian"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Old+South+Arabian"
     provider: "Google Fonts"
+languages:
+  - xsa
 ---
 
 The Old South Arabian script (also called Musnad, Epigraphic South Arabian, or Sayhadic) was used for writing a group of closely related Semitic languages, all of which are now extinct. The script was used throughout the Arabian peninsula, particularly in modern-day Yemen, between the 6th and the 8th centuries AD, after which it was replaced by Arabic writing. It is the forerunner of the modern-day Ethiopic script.

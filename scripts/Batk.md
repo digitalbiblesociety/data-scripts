@@ -21,6 +21,13 @@ fonts:
   - name: "Noto Sans Batak"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Batak"
     provider: "Google Fonts"
+languages:
+  - akb
+  - bbc
+  - btd
+  - btm
+  - bts
+  - btx
 ---
 
 The Batak script is used to write the six Batak languages (Toba, Karo, Dairi, Mandailing, Simalungun and Angkola) spoken collectively by approximately 3 million people on the Indonesian island of Sumatra. It is one of several scripts indigenous to the Indonesian archipelago, descended from the Old Kawi script, which in turn is derived from the Pallava, and ultimately the Brahmi, script.

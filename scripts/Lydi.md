@@ -20,6 +20,8 @@ fonts:
   - name: "Noto Sans Lydian"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Lydian"
     provider: "Google Fonts"
+languages:
+  - xld
 ---
 
 The Lydian script was used between 700 and 200 BC for writing the Lydian language, an ancient Indo-European language spoken in the modern-day Turkish provinces of Manisa and inland İzmir.

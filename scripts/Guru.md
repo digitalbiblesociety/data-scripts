@@ -42,6 +42,10 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/IBM+Plex+Sans+Gurmukhi"
     provider: "IBM / Google Fonts"
     notes: "Clear matras and subjoined characters at small sizes"
+languages:
+  - pan
+  - skr
+  - snd
 ---
 
 The Gurmukhi script is used primarily by followers of the Sikh religion in India to write the Punjabi language. Gurmukhi writing is historically derived from Brahmi, but its present form was developed in the 16th century by Guru Angad, successor to the founder of the Sikh religion, Guru Nanak. The word Gurmukhi means from the mouth of the guru. Muslims in the Pakistani Punjab write Punjabi in the Persian script; use of the Persian script for writing Punjabi is called *Shahmukhi*.

@@ -31,6 +31,25 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Tifinagh"
     provider: "Google Fonts"
     notes: "Geometric Tifinagh forms well-suited to pixel rendering"
+languages:
+  - auj
+  - gha
+  - grr
+  - kab
+  - mzb
+  - nxm
+  - rif
+  - shi
+  - shy
+  - taq
+  - tda
+  - tez
+  - thv
+  - thz
+  - ttq
+  - tzm
+  - zen
+  - zgh
 ---
 
 The Tifinagh alphabet is used to write the Berber languages spoken in North Africa; it is believed to be a form of the Ancient Berber script. It is widely used by the Tuareg, the principal inhabitants of the Saharan interior.

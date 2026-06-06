@@ -34,6 +34,13 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/IBM+Plex+Sans+Armenian"
     provider: "IBM / Google Fonts"
     notes: "Screen-first, distinguishes similar Armenian letterforms"
+languages:
+  - axm
+  - hye
+  - hyw
+  - kur
+  - rmi
+  - xcl
 ---
 
 The Armenian alphabet was created around 405AD by Mesrop Mashtots. He reportedly studied a number of scripts, including Greek and Syriac, before having a dream in which he saw elements of these scripts integrated into one system. The Geez script has also been suggested as a possible influence. Armenia adopted Christianity in the early fourth century, but later began reverting to paganism. Mashtots believed that if the Bible could be written in Armenian the country would have the means to maintain a Christian faith and culture at a time when the Persian empire was attempting to assimilate the country. It also enabled Armenian educational institutions to be established, as well as a large body of early Armenian literature. The alphabet has been used in the country since its inception, with some modifications.

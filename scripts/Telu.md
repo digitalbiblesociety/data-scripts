@@ -42,6 +42,30 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/IBM+Plex+Sans+Telugu"
     provider: "IBM / Google Fonts"
     notes: "Clear distinction of similar Telugu letterforms"
+languages:
+  - cde
+  - esg
+  - gau
+  - gdb
+  - gon
+  - hoc
+  - key
+  - kfc
+  - kff
+  - kxv
+  - lmn
+  - mju
+  - nit
+  - ort
+  - pcj
+  - rei
+  - saz
+  - srb
+  - tel
+  - wbq
+  - wsg
+  - yeu
+  - zrg
 ---
 
 The Telugu script is used for writing the Telugu language, a Dravidian language spoken by almost 70,000,000 people in South India. Telugu is the official language of the Indian state of Andhra Pradesh. The Telugu script is also used for writing a number of minority languages in Southern India, including Chenchu, Savara and Manna-Dora to which the Telugu language is related. The script is closely related to the Kannada script; a person familiar with one script can normally read the other. The two scripts developed from a common Brahmic source but diverged around the 13th century AD. From this time until the early 20th century, Telugu was a literary language - the written form reflected an archaic spoken form. Modern standard Telugu only began to be written during the second half of the 20th century.

@@ -26,6 +26,12 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Buginese"
     provider: "Google Fonts"
     notes: "Best available for Buginese at screen sizes"
+languages:
+  - bug
+  - mak
+  - mdr
+  - mqx
+  - wtw
 ---
 
 The Buginese (also known as the Lontara) script is used for writing the Bugis, Makasar, and Mandar languages of Sulawesi in Indonesia. It is related to the other Brahmic scripts indigenous to the Indonesian archipelago. Like many in this family it is read from left to right. It is an abugida consisting of 18 consonants which can be marked with diacritics above, below or alongside to change the quality of the inherent a vowel. There is also a letter to represent a word-initial vowel, which can be modified by means of the same diacritics; unmarked it represents a. One ligature exists, to represent iya. Buginese writing employs one punctuation mark, roughly corresponding in usage to the Latin full-stop and comma combined. Unique Buginese digits are unknown; Latin digits are preferred. As is the case with many Brahmi scripts, letters are conventionally sorted according to place of articulation.

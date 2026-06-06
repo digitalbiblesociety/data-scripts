@@ -44,6 +44,31 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/IBM+Plex+Sans"
     provider: "IBM / Google Fonts"
     notes: "Screen-first design philosophy extends to Greek glyphs"
+languages:
+  - aae
+  - aat
+  - acy
+  - bgx
+  - cop
+  - cpg
+  - ecr
+  - ell
+  - gag
+  - grc
+  - igs
+  - pnt
+  - rmn
+  - rup
+  - scx
+  - sqi
+  - sxc
+  - tsd
+  - tur
+  - uum
+  - xbc
+  - xdc
+  - xpg
+  - yej
 ---
 
 The Greek script was the first documented writing system to represent consonants and vowels with distinct symbols, making it the oldest true alphabet. It has been used since the 8th century BC for writing the Greek language, and select letters are also currently used in writing mathematic and scientific concepts such as π (pi) and Ω (Ohm). Some symbols have been incorporated into the International Phonetic Alphabet. The script has also been used for writing a number of minority languages, including Urum, Albanian Tosk, and Balkan Gagauz Turkish.

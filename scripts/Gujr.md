@@ -42,6 +42,24 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/IBM+Plex+Sans+Gujarati"
     provider: "IBM / Google Fonts"
     notes: "Screen-first design; clear distinction of similar characters"
+languages:
+  - ave
+  - bhb
+  - cdi
+  - dhn
+  - dub
+  - duh
+  - gas
+  - gbl
+  - gjk
+  - gra
+  - guj
+  - kex
+  - kfr
+  - kxp
+  - prp
+  - vas
+  - vav
 ---
 
 The Gujarati script is used for writing the Gujarati and Chodri languages, together spoken by almost 47 million people. It is also used alongside the Devanagari script for writing a number of languages used by the Bhil people, one of Indias largest indigenous groups. The script is related to Devanagari, with modifications to some of the letters, and without the headstroke which characterizes most of the Nagari scripts. The loss of the headstroke reflects the scripts origins in informal writing; until the mid-19th century it was used primarily for bookkeeping and personal correspondence, but since printing facilities have become widely available to Gujarati speakers the script is used in schools, for printing books and newspapers, in government offices and public signage, and is one of the official scripts of India.

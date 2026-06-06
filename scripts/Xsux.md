@@ -24,6 +24,9 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Cuneiform"
     provider: "Google Fonts"
     notes: "Wedge-form cuneiform needs consistent stroke width at low DPI"
+languages:
+  - akk
+  - hit
 ---
 
 Sumero-Akkadian Cuneiform, widely believed to be the first writing system in the world, was comprised of a combination of logographic, consonantal alphabetic and syllabic signs. It was originally used for writing the extinct Sumerian language, spoken in what is now Iraq. The script later spread through a region comprising parts of modern-day Iran, Turkey, Syria and Egypt, for writing the Akkadian, Eblaite, Elamite, Hittite, Luwian, Hattic, Hurrian, and Urartian languages.

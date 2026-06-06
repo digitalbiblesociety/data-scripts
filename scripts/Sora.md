@@ -25,6 +25,8 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Sora+Sompeng"
     provider: "Google Fonts"
     notes: "Best available for Sora Sompeng on screen"
+languages:
+  - srb
 ---
 
 The Sora Sompeng script is used for writing the Sora language spoken by about 310,000 people in India, predominantly in the eastern state of Orissa. Sora is in the Munda language family. It is also sometmes called Saora or Savara, but is not to be confused with the Savara language in the Dravidian family. According to the Ethnologue, Sora (Munda) is given the language code srb, and Savara (Dravidian) is given the language code svr.

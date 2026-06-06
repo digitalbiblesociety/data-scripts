@@ -51,6 +51,12 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/Assistant"
     provider: "Google Fonts"
     notes: "Designed for contemporary Hebrew screen typography at small sizes"
+languages:
+  - heb
+  - jpr
+  - jrb
+  - sam
+  - yid
 ---
 
 The Hebrew script is primarily used for writing the Hebrew, Samaritan and Yiddish languages. It is also used for writing some varieties of Arabic spoken in North Africa, Iraq and Yemen; the languages of the Jewish communities in Italy and Corfu, Morocco (Berber), Spain and the Caucasus mountains; and the modern Jewish Aramaic languages. Prior to 500 BC the Hebrew language was written in the Paleo-Hebrew script, which was abandoned after the Jewish exile in the 5th century BC in favour of the Aramaic script, from which the current Hebrew script descended. It is commonly called the Hebrew alphabet, after its first two letters *aleph* and *bet*, although it is actually an abjad.

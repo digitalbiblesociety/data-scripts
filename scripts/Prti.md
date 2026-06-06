@@ -20,6 +20,8 @@ fonts:
   - name: "Noto Sans Inscriptional Parthian"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Inscriptional+Parthian"
     provider: "Google Fonts"
+languages:
+  - xpr
 ---
 
 Inscriptional Parthian is one of three related ancient scripts, along with Inscriptional Pahlavi and Psalter Pahlavi, used for writing a number of Iranian and Indo-European languages. All three scripts developed from the Imperial Aramaic script.

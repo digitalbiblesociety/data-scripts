@@ -19,6 +19,8 @@ fonts:
   - name: "Noto Sans Inscriptional Pahlavi"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Inscriptional+Pahlavi"
     provider: "Google Fonts"
+languages:
+  - pal
 ---
 
 Inscriptional Pahlavi is the earliest of the three forms of the Pahlavi script, used regularly as a monumental script from the 2nd century BC until the 5th century AD. Later forms of the script were called Psalter Pahlavi and Book Pahlavi. Psalter Pahlavi is so far attested in only two sources, so the bulk of our knowledge is related to the other two forms. The names of these, Inscriptional and Book Pahlavi are somewhat misleading; the Inscriptional form was used on monuments, coins, seals and amulets, as would be expected, but the Book form was used in manuscript texts as well as on stone monuments. The distinction then refers to whether the letters were connected (Book Pahlavi) or unconnected (Inscriptional Pahlavi) rather than to distinct uses of either form.

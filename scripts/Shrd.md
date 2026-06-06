@@ -22,6 +22,9 @@ fonts:
   - name: "Noto Sans Sharada"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Sharada"
     provider: "Google Fonts"
+languages:
+  - kas
+  - san
 ---
 
 The Sharada script evolved from Gupta Brahmi in the 9th century AD. In its earlier forms it was widespread over the northwest parts of the Indian subcontinent and was the progenitor of the Gurmukhi script, but later it became restricted to Kashmir, where it was the principal means of writing until the 20th century.

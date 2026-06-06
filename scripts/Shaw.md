@@ -27,6 +27,8 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Shavian"
     provider: "Google Fonts"
     notes: "Geometric Shavian letterforms survive low-DPI rendering"
+languages:
+  - eng
 ---
 
 The Shavian alphabet was created by Kingsley Read as the winning entry in a competition posthumously funded by the Irish playwright George Bernard Shaw. Shaw had become increasingly frustrated by the inconsistent rules of English spelling and provided in his will for a £500 prize to be given to the creator of a new, phonetic alphabet for writing the English language. Read’s creation was judged to be the best of over 450 entries.

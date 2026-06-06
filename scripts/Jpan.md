@@ -39,6 +39,10 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/IBM+Plex+Sans+JP"
     provider: "IBM / Google Fonts"
     notes: "Screen-first Japanese; IBM hinting discipline applied to kana and kanji"
+languages:
+  - ain
+  - jpn
+  - ryu
 ---
 
 The Japanese language is written in a mixture of three scripts; *kanji*, which is derived from Chinese characters and represents logographic or morphological units, and two *kana*, pairs of syllabaries. The two kana are called *hiragana* and *katakana*. A single text usually contains all three scripts. Kanji is used for writing nouns, verb stems, adjective stems and some adverbs. Hiragana is used primarily for grammatical elements - particles, inflectional endings and auxiliary verbs. Katakana is used for writing loan words, onomatopoeic words, to give emphasis, to suggest a conversational tone, or to indicate irony or a euphemism. The two kana can also be used to write a word for which the writer does not know the kanji character. A fourth writing system, Roman, is also used in small amounts, particularly for writing numerals. The Japanese writing system is neither syllabic nor logographic, but uses elements of both in tandem.

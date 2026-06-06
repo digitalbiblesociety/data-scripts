@@ -19,6 +19,9 @@ fonts:
   - name: "Noto Sans Tirhuta"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Tirhuta"
     provider: "Google Fonts"
+languages:
+  - mai
+  - san
 ---
 
 The Tirhuta (also called Mithilakshar) script has historically been used for writing the Maithili language, an Indo-Aryan language spoken by almost 35 million people. Maithili is spoken predominantly in the state of Bihar in India and in the Narayani and Janakpur zones of Nepal. Nowadays, the Maithili language is written almost exclusively in the Devanagari script, although Tirhuta is still sometimes used by religious pundits for writing ceremonial letters and documents, and efforts are underway to broaden the scope of its usage. These efforts were aided in 2003 when the Government of India included Maithili in the Eighth Schedule of the India Constitution as a scheduled language, thus ensuring official support for its development, and in 2011 when the script was accepted into ISO 15924.

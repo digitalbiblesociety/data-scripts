@@ -25,6 +25,10 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Kayah+Li"
     provider: "Google Fonts"
     notes: "Open apertures in Kayah Li suit pixel rendering"
+languages:
+  - eky
+  - kvy
+  - kyu
 ---
 
 Kayah Li is used to write the Eastern and Western Kayah Li languages, spoken by 360,000 and 210,000 people respectively. These are Karen languages native to Myanmar but also spoken by significant refugee populations in Thailand. The script was created in 1962 by Htae Bu Phae. It bears noticeable similarities to the Myanmar script and to the Indic scripts. The Kayah Li languages can also be written using the Myanmar script.

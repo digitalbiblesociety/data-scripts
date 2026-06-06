@@ -18,6 +18,16 @@ baseline: bottom
 ligatures: unspecified
 direction: ltr
 direction_notes: "LTR (left-to-right)"
+languages:
+  - chn
+  - deu
+  - eng
+  - fra
+  - lil
+  - oka
+  - ron
+  - spa
+  - thp
 ---
 
 Duployan Shorthand (also called Sloan-Duployan Shorthand, or Duployan Stenography) was first created in 1860 by Emile Duployé, as a stenographic shorthand for rapidly writing French. It was also adapted for writing English, German, Spanish, and Romanian.

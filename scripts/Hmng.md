@@ -27,6 +27,12 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Pahawh+Hmong"
     provider: "Google Fonts"
     notes: "Best available for Pahawh Hmong on screen"
+languages:
+  - hmd
+  - hmn
+  - hnj
+  - hrm
+  - mww
 ---
 
 The Pahawh Hmong script has been used since 1959 for writing the Hmong language spoken in China, Vietnam, Laos and Thailand, as well as by a significant immigrant population in the United States and Australia. It was created by Shong Lue, who claimed to have been sent by God to teach the script to the Hmong people, following a series of divine revelations. He developed the script in four stages, the second and third of which are the forms in most widespread current use.

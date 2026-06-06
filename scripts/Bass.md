@@ -19,6 +19,8 @@ fonts:
   - name: "Noto Sans Bassa Vah"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Bassa+Vah"
     provider: "Google Fonts"
+languages:
+  - bsq
 ---
 
 The Bassa Vah script is used to write the Bassa language spoken in Liberia and Sierra Leone, and by Bassa speakers in Brazil and the Caribbean. The name originated from the Bassa word Vah, meaning to throw a sign; the script developed from the earlier Bassa communication system of signs made from chewed leaves or carved into trees and left in set locations where they would be found and interpreted. As this system developed, it was employed by the Bassa people to avoid slave traders, so was suppressed by colonial powers and became almost extinct.

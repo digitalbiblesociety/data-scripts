@@ -29,6 +29,8 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Yi"
     provider: "Google Fonts"
     notes: "Yi syllabary benefits from consistent stroke weight at low DPI"
+languages:
+  - iii
 ---
 
 The Yi script is used for writing the Tibeto-Burman languages spoken by the Yi tribes of Southwest China - Nuosu (also called Sichuan Yi or Northern Yi), Eastern Yisu (also called Shiping-Jianshui Yi), Wusa Nasu (also called Eastern Yi), Sani, and Mantsu (also called Black Lolo or Flowery Lolo). The Yi tribes are geographically disparate, so significant internal variation can be displayed in writing. For example, there are approximately forty forms of the character meaning *stomach*. However, in 1974 the script was standardized for writing the Liangshan dialect of Nuosu. Efforts are underway to standardize the script across the other Yi languages as a pure syllabary, in which each sign represents all morphemes with the same pronunciation. A distinction is sometimes made between the standardized form, called Yi, and the non-standardized form, called Classic Yi.

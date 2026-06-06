@@ -31,6 +31,9 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Meetei+Mayek"
     provider: "Google Fonts"
     notes: "Script's circular elements need consistent weight; Noto provides this"
+languages:
+  - mni
+  - omp
 ---
 
 The Meetei Mayek script is used for writing the Meetei (also called Manipuri) language spoken by about 1,400,000 people in India, primarily the state of Manipur, Bangladesh, and Myanmar. The language has been largely written in the Bengali script since the 18th century, but Meetei Mayek writing has experienced a resurgence in the last hundred years. The origins of the script are controversial, most of the early documents having been destroyed in the 18th century. Some sources claim it has been used for almost 4,000 years, and others suggest it derived from the Bengali script as recently as the 17th century.

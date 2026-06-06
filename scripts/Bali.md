@@ -28,6 +28,10 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Balinese"
     provider: "Google Fonts"
     notes: "Complex Balinese stacking marks require even stroke weight"
+languages:
+  - ban
+  - kaw
+  - sas
 ---
 
 The Balinese script is used for writing the Balinese language spoken on the Indonesian islands of Java and Bali. It is derived from the Old Kawi script, and is ultimately of Brahmic descent. It is very similar to the Javanese script in form and behaviour; some consider them to be typological variants of one another. The Balinese script is an abugida in which each of the consonants has an inherent a vowel. These can be modified by the addition of diacritics above, below or alongside the consonant, to change the inherent vowel to one of the other 15 vowels in the Balinese inventory. Some of these vowels are split vowels, that is, they are written with a combination of marks in more than one position relative to the consonant. Syllable-initial vowels are represented by independent vowel characters. At least two of these can function as consonants, in that they can be followed by the virama to represent a syllable-final glottal stop.

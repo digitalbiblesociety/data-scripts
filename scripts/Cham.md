@@ -26,6 +26,9 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Cham"
     provider: "Google Fonts"
     notes: "Best available for Cham at screen sizes"
+languages:
+  - cja
+  - cjm
 ---
 
 The Cham script is a Brahmi-derived abugida used for writing the Cham language. There are two major dialects of Cham, spoken collectively by about 230,000 people in two isolated groups in Vietnam and Cambodia, both of which once had a thriving literary tradition dating from the 8th century. The Cambodian Cham population used to be much larger, but it is estimated that up to 500,000 died as a result of the Khmer Rouges policies in the 1970s. Under this regime the Cham were also forced to use the Cambodian language exclusively.

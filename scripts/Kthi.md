@@ -22,6 +22,10 @@ fonts:
   - name: "Noto Sans Kaithi"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Kaithi"
     provider: "Google Fonts"
+languages:
+  - bho
+  - mai
+  - tdb
 ---
 
 The Kaithi script has been used predominantly in the Indian states of Bihar and Uttar Pradesh (but also in other North Indian states and the Nepali terai) for writing a group of Indo-Aryan languages. It is often claimed to be a Bihari script despite its use and influence extending beyond the state of Bihar. Kaithi has been used for writing the Bhojpuri, Maghadi, Urdu, Awadhi, Maithili, and Bengali languages since the 16th century. Its use was generally discouraged under British rule in India, except in the state of Bihar, where it was officially sanctioned for use in government offices - hence the association with that state. In other areas it was used primarily by the *kayastha* caste, a Brahmin caste which consists largely of writers by trade. The script was widely used until the early 1900s, and there is some evidence that it is still used for personal correspondence in rural areas.

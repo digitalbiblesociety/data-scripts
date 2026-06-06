@@ -38,6 +38,10 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/Noto+Sans+KR"
     provider: "Google Fonts"
     notes: "Well-calibrated stroke weight prevents thin Hangul elements from disappearing"
+languages:
+  - cia
+  - jje
+  - okm
 ---
 
 Hangul is the phonetic writing system developed in 1446 for writing the Korean language. Prior to this, Korean had been written in Chinese characters, called *hanja* in Korean, but this was laborious. A given Chinese character could be used to represent a spoken syllable, irrespective of its original Chinese meaning, or it could be used to represent the Korean word with the closest meaning to its original. Reading was difficult because the intended function of the character was not always apparent. Hangul was developed by King Sejong to combat the difficulties associate with writing Korean in *hanja*. However it was not universally accepted, and for a time was prohibited by Japanese colonial authorities. Only after Korea became independent in 1945 was Hangul accepted as the countrys national script.

@@ -29,6 +29,8 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Glagolitic"
     provider: "Google Fonts"
     notes: "Rounded Glagolitic forms suit pixel rendering"
+languages:
+  - chu
 ---
 
 The Glagolitic script, also known as Glagolitsa and Asbuka, is the earliest known Slavic alphabet. The name Glagolitic comes from the Old Slavic word *glagol*, meaning *word*. The origins of the script are not clear; two opposing views claim that it was either created by a single individual (most popularly cited as Constantine/St. Cyril), or that it was derived from Greek cursive forms and was already in use by the time St. Cyril arrived in the area. Cubberley suggests in The Slavic Alphabets that the Slavs themselves created the script based on Greek cursive letters a few centuries before St Cyril and St Methodius mission in 860, and that St. Cyril formalized the system and added some new letters based on Coptic, Hebrew or Armenian forms, to represent sounds not found in Greek. What is known is that Glagolitic writing was used throughout the Balkans in tandem with Cyrillic until the 13th century, after which time it was largely replaced by Cyrillic. In Croatia, Glagolitic continued to be used until the 19th century, particularly in the church, and is still used in a limited way on the island of Krk.

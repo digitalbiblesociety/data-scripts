@@ -42,6 +42,24 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/IBM+Plex+Sans+Malayalam"
     provider: "IBM / Google Fonts"
     notes: "Clear curves and open counters for low-DPI Malayalam"
+languages:
+  - aaf
+  - all
+  - brw
+  - iru
+  - kev
+  - kfg
+  - kfh
+  - mal
+  - mjq
+  - mjr
+  - mjv
+  - pcf
+  - pcg
+  - pkr
+  - udg
+  - xub
+  - yea
 ---
 
 The Malayalam script is used for writing the Malayalam language, the official language of the Indian state of Kerala, and a number of minority languages spoken in India. Until the 16th century Malayalam was written in the *vattezhuthu* script, a Brahmic script which developed alongside Grantha writing, from which the modern Malayalam script descended.

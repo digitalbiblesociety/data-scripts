@@ -27,6 +27,12 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Javanese"
     provider: "Google Fonts"
     notes: "Complex Javanese conjuncts need careful weight at low DPI"
+languages:
+  - ban
+  - jav
+  - osi
+  - sun
+  - tes
 ---
 
 Javanese is Indonesias oldest literary language, its literary history being traceable to the C4th. Since that time, it has been written in several different scripts - Pallava, Old Javanese, and an Arabic variant known as *gundil* script - before arriving at its present form in the C17th and 18th. The present Javanese script is a modern variant of Old Kawi, an ancient Brahmic script from which many scripts in the Indonesian archipelago are derived. It is the pre-colonial script of the Javanese language spoken on the Indonesian islands of Java and Bali and is used to write the Tengger and Osing languages, also spoken in Java and Bali. Historically it was also used to write the Bali language, which is now written largely in the Latin and Balinese scripts, and the Sunda language, which is now written in the Latin and Arabic scripts. The Javanese script is closely related to the Balinese script, although Javanese contains 4 consonant letters which are absent in the Balinese.

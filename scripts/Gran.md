@@ -21,6 +21,9 @@ fonts:
   - name: "Noto Sans Grantha"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Grantha"
     provider: "Google Fonts"
+languages:
+  - oty
+  - san
 ---
 
 The Grantha script was designed for writing sacred texts in the Sanskrit language. The script is thought to be based on the stone-age cave inscriptions from the Chera dynasty, and to have gone through three stages of development; Early, Middle and Modern. The only examples of Early or Middle Grantha are from odd words interspersed with Tamil in inscriptions. The earliest inscription written entirely in Grantha has been dated to 1383, and is written in the most modern form of the script.

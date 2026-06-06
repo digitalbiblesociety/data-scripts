@@ -27,6 +27,9 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Samaritan"
     provider: "Google Fonts"
     notes: "Best available for Samaritan script on screen"
+languages:
+  - sam
+  - smp
 ---
 
 The Samaritan script is of Phoenician descent, via the Paleo-Hebrew script. Samaritan writing began to noticeably diverge from Paleo-Hebrew writing around the 3rd century and has been used since that time for the Samaritan dialects of Hebrew, Aramaic and Arabic. These languages are no longer in everyday spoken use but are still used for writing liturgical and scholarly works. Samaritan is also the script for the bi-weekly newspaper A.B., published in Israel.

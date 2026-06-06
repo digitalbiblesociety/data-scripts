@@ -20,6 +20,8 @@ fonts:
   - name: "Noto Sans Soyombo"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Soyombo"
     provider: "Google Fonts"
+languages:
+  - cmg
 ---
 
 The Soyombo script was developed by the Mongolian monk and scholar Bogdo Zanabazar in 1686 to write Mongolian. According to legend, Zanabazar based the script on letter-like signs he saw in the sky one night. Other theories suggest that the shapes of the letters may have been based on the Ranjana script of Nepal.

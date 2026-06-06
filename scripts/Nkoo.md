@@ -33,6 +33,10 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/Gabaon"
     provider: "Google Fonts"
     notes: "Specifically designed for N'Ko digital use; clear at 12–14px"
+languages:
+  - bam
+  - man
+  - nqo
 ---
 
 The Nko script was created in 1949 by Soloman Kante to write the Bambara language, one of the Manding languages spoken in Mali, in response to a newspaper article reflecting the colonial misconception that Africans were culturally inferior due to their lack of indigenous writing systems. The word Nko means \\\I say\\\" in all the Manding languages. Kante had travelled widely throughout West Africa

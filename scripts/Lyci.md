@@ -21,6 +21,8 @@ fonts:
   - name: "Noto Sans Lycian"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Lycian"
     provider: "Google Fonts"
+languages:
+  - xlc
 ---
 
 The Lycian alphabet was used during the 5th to 3rd centuries BC for writing the Lycian language, an Indo-European language spoken in what is now Southern Turkey.

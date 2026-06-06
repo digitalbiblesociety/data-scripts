@@ -28,6 +28,8 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Limbu"
     provider: "Google Fonts"
     notes: "Best available for Limbu screen rendering"
+languages:
+  - lif
 ---
 
 The Limbu script (also called Kiranti, Sirijonga or Sirijanga script) is used by about 400,000 people for writing the Limbu language spoken in Nepal and northern India. The Limbu language is also written in the Devanagari script. It was first brought to the attention of the wider world by the scholars Francis Buchanan Hamilton, A. Campbell and Brian Hodgson in the mid to late 19th century. The origins of the script are unknown; it is evident from its structure that it is of Brahmic derivation, and appears to be closely related to the Lepcha script. Limbu folklore relates that in the 9th century the Limbu king Sirijanga prayed to the goddess Saravati for wisdom as to how to devise a script for his people, and in response she revealed the story of creation to him, written in the script. The original script was modified in the mid 20th century by Imansin Cemjon and B.B. Subba, who increased the number of signs and re-assigned new values to some of the original symbols.

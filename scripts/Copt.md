@@ -30,6 +30,12 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Coptic"
     provider: "Google Fonts"
     notes: "Geometric Coptic letterforms suit pixel rendering"
+languages:
+  - cop
+  - dgl
+  - fia
+  - onw
+  - xnz
 ---
 
 The Coptic alphabet is closely derived from the Greek alphabet. It is used for writing the Coptic language, which was the latest descendant of the Egyptian language and is now the liturgical language of the Coptic church. Prior to the creation of the Coptic alphabet, Egyptian was written in the Greek alphabet; prior to that, in the Demotic script. By the 1st century, spoken Egyptian had become quite removed from Demotic writing. It was also around that time that the Christian religion began spreading from Greece to Egypt. Egyptian Christians wanted a visible symbol of their new faith, and in the 3rd century the Bible was translated into the Coptic language. This translation used the Greek alphabet supplemented by Demotic symbols for representing non-Greek sounds.

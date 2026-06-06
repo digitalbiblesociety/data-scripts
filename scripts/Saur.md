@@ -26,6 +26,8 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Saurashtra"
     provider: "Google Fonts"
     notes: "Best available for Saurashtra at screen sizes"
+languages:
+  - saz
 ---
 
 The Saurashtra language is spoken by approximately 130,000 people in Southern India. The Saurashtra script is of Brahmic origin, although its exact derivation is not known. Unlike most of the surrounding Dravidian languages, Saurashtra is Indo-European. The language has its own script of the same name, but is also written in the Tamil, Telugu, and Devanagari scripts. There is some debate amongst speakers of the Saurashtra language as to which script is best suited to the language.

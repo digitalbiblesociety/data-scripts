@@ -27,6 +27,8 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Gothic"
     provider: "Google Fonts"
     notes: "Simple stroke structure of Gothic script is well-preserved at low DPI"
+languages:
+  - got
 ---
 
 The word “Gothic” is used in the context of writing systems to describe three very different, unrelated, styles of writing:

@@ -29,6 +29,8 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/IBM+Plex+Sans+KR"
     provider: "IBM / Google Fonts"
     notes: "Best freely available screen-first Korean font"
+languages:
+  - kor
 ---
 
 The Korean language is often written using a combination of a language-specific script, called *Hangul*, and Chinese Han characters, called *hanja* in Korean. Hangul is a complete orthography; anything that can be said in Korean can be written in Hangul, but there are cultural and historical reasons for the use of hanja. The form of writing which combines both scripts is sometimes called Korean mixed script.

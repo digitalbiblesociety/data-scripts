@@ -34,6 +34,12 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Serif+Lisu"
     provider: "Google Fonts"
     notes: "Serif variant clearer at small screen sizes than some expects"
+languages:
+  - atb
+  - lbc
+  - lis
+  - lpo
+  - nxq
 ---
 
 The Lisu script (also known as the Old Lisu script or the Fraser script) was invented in 1915 by a Burmese preacher, Sara Ba Thaw, and modified by a British missionary, James Fraser, in the 1930s. It is based on the Latin script, combined with some Burmese orthographic conventions. The script was created in China to represent the Lisu language, however since that time many Lisu speakers have emigrated to Myanmar, Thailand and India, in which countries the script is also used.

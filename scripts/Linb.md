@@ -27,6 +27,8 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Linear+B"
     provider: "Google Fonts"
     notes: "Best available for Linear B at screen sizes"
+languages:
+  - grc
 ---
 
 Linear B was used from approximately 1375-1100 BC for writing Mycenaean Greek, the earliest known form of the Greek language.

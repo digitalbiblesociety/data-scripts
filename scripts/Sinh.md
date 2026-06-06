@@ -38,6 +38,10 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Sinhala"
     provider: "Google Fonts"
     notes: "Sinhala vowel marks need consistent weight at low DPI"
+languages:
+  - pli
+  - san
+  - sin
 ---
 
 The Sinhala script is used for writing the Sinhala language, spoken by approximately 15,500,000 people in Sri Lanka, and for transcribing the ancient Pali and Sanskrit languages. The script is derived from Brahmi, and shows close similarities to the Grantha script which was used in southern India until the 16th century. Sinhala is a diglossic language, that is, the spoken and written forms of the language show considerable variation. The main differences are that retroflex ɭ and ɳ are represented in writing but have assimilated to alveolar l and n in speech, that three vowel sounds ə, a and ā are represented by only two letters, the pronunciation of which is generally predictable from a set of contextual rules, and that there are two letters transcribed ṣ and ś but both pronounced ʃ. Additionally, spelling conventions do not always reflect current pronunciation.

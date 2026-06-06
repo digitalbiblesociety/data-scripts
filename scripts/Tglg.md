@@ -25,6 +25,8 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Tagalog"
     provider: "Google Fonts"
     notes: "Best available Baybayin for screen use"
+languages:
+  - fil
 ---
 
 The Tagalog script, also known as Baybayin, is an extinct script indigenous to the Philippines. It was used to write the Tagalog language, which is still spoken by 21 million people throughout the Philippines, although it is now written in the Latin script. The Tagalog script was an abugida which descended from the Oldl Kawi, and ultimately the Brahmic, scripts. Each of the 14 consonants contained an inherent a vowel, with other vowels being represented by means of diacritical marks placed above or below the syllable. There are also 3 vowel characters to represent syllable-initial vowels. Only V and CV syllables could be represented in the orthography, although spoken Tagalog also employed VC and CVC syllables. In words taking one of the latter forms, the correct interpretation was inferred through context. In the 1600s, Spanish missionaries translating books into the language struggled with their inability to write final consonants, so a virama character was created to accommodate these in the orthography. This was met with mixed feelings; many Tagalog felt that such a reform corrupted the language, and used the virama only when writing Spanish words. The only punctuation mark was a line, or pair of lines, which served the roles approximately equivalent to the Latin comma or full stop, or separated sets of words.

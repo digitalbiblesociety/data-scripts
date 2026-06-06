@@ -26,6 +26,10 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Tagbanwa"
     provider: "Google Fonts"
     notes: "Best available for Tagbanwa screen rendering"
+languages:
+  - tbk
+  - tbw
+  - tgt
 ---
 
 The Tagbanwa (also known as Apurahuano) script is one of the Brahmic scripts indigenous to the Philippines. It is used to write the Tagbanwa language, which is spoken by approximately 8,000 people living in scattered communities throughout the Palawan region. Although the language is used exclusively between speakers of Tagbanwa, younger generations prefer to use Tagalog in the company of other non-Tagbanwa Filipinos, as there is felt to be some stigma attached to the Tagbanwa identity. The result is that use of the language is declining, and, in keeping with that trend, literacy in the script is low. Of the three living indigenous Philippine scripts - Hanunoo, Buhid and Tagbanwa - Tagbanwa is acknowledged to be the least widely used.

@@ -25,6 +25,8 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Egyptian+Hieroglyphs"
     provider: "Google Fonts"
     notes: "Hieroglyphs need consistent outline weight; Noto provides this"
+languages:
+  - egy
 ---
 
 Egyptian hieroglyphics were used for writing the Egyptian language from about 3000 BC until 400 AD. Symbols resembling hieroglyphs had been used by artisans in the region since 4000 BC, but with no ascertainable linguistic content. The first hieroglyphs were used for making inscriptions on buildings and tombs. Later they came to be used to decorate jewelry, record events on papyrus and to put a royal or divine signature, called a *cartouche* on an item.

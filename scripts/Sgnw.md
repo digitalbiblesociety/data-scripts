@@ -23,6 +23,8 @@ fonts:
   - name: "Sutton SignWriting One"
     url: "https://github.com/Deaf-Blind/SignWriting"
     provider: "GitHub"
+languages:
+  - ase
 ---
 
 SignWriting was developed in 1974 by Valerie Sutton, a dancer. Two years earlier, Sutton had developed DanceWriting, a notation system for transcribing dance movements. She was asked by Lars von der Lieth, from the University of Copenhagen, to produce something similar for the purpose of writing down signed languages.

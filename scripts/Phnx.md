@@ -23,6 +23,8 @@ fonts:
   - name: "Noto Sans Phoenician"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Phoenician"
     provider: "Google Fonts"
+languages:
+  - phn
 ---
 
 The Phoenician script was the first widespread script whose symbols exclusively represented sounds rather than concepts. It is difficult to dissect a continuous branch of script evolution into different stages, and the term Phoenician is used by some scholars interchangeably with Old Canaanite, and covers variant forms of the script, for example the Punic and Moabite writing systems. Other scholars use the term Old Canaanite to refer to the form of the script used before 1050 BC, and Phoenician to refer to later forms.

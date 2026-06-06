@@ -19,6 +19,8 @@ baseline: hanging
 ligatures: required
 direction: ltr
 direction_notes: "LTR (left-to-right)"
+languages:
+  - wsg
 ---
 
 The Gunjala Gondi script, also known as Koytura Gunjala Lipi, is named after the village of Gunjala in the Indian state of Telangana (formerly part of Andhra Pradesh) where manuscripts written in the script were recently found. The script is used to write the Gondi language and is distinct from the Masaram Gondi script designed in 1928 by Munshi Mangal Singh Masaram.

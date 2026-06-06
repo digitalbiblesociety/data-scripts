@@ -40,6 +40,22 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/IBM+Plex+Sans+Kannada"
     provider: "IBM / Google Fonts"
     notes: "Consistent stroke weight across complex conjuncts"
+languages:
+  - bfq
+  - brw
+  - gom
+  - kan
+  - kfa
+  - kfd
+  - kfg
+  - kfi
+  - knn
+  - lmn
+  - pcg
+  - tcy
+  - vmd
+  - xub
+  - yea
 ---
 
 The Kannada script is used for writing the Kannada language spoken by over 35 million people in southern India. It is also used for writing Konkani, a South Indian language with over 3 million speakers, Tulu, with almost 2 million speakers, and a number of south Indian minority languages including Badaga, Kudiya and Paniya. The script is closely related to Telugu writing; both languages were written using the Old Kanarese script until the 1500s when it diverged into two distinct varieties. The script was standardized in the 19th century under the influence of Christian mission organizations, who established printing presses for printing books in the Kannada language.

@@ -27,6 +27,14 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Newa"
     provider: "Google Fonts"
     notes: "Best available for Newa/Newari on screen"
+languages:
+  - ben
+  - hin
+  - mai
+  - nep
+  - new
+  - nwc
+  - san
 ---
 
 The Newa script, also known as Newar, or Prachalit (meaning popular), is used primarily for writing Newari, a Tibeto-Burman language of Nepal (also called Nepal-Bhasha, literally Nepal-Language, but not to be confused with Nepali). This script has also been used, extensively in some cases, for writing the Sanskrit, Nepali, Hindi, Bengali, and Maithili languages. The script is also known as Nepalakshar, Newah Akhah and Pachumol. It is one of six scripts subsumed under the name Nepal-Lipi, literally Nepal-Script, though it is not to be confused with Devanagari, which is the script normally used for writing Nepali.

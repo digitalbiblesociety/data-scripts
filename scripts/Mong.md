@@ -30,6 +30,18 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Mongolian"
     provider: "Google Fonts"
     notes: "Traditional Mongolian vertical script; consistent weight prevents thin strokes vanishing"
+languages:
+  - alt
+  - bxm
+  - bxu
+  - dta
+  - evn
+  - mnc
+  - mon
+  - mvf
+  - oui
+  - sjo
+  - xal
 ---
 
 The Mongolian script is used for writing the Mongolian language, both within the Inner Mongolia Autonomous Region of the People’s Republic of China and elsewhere in China. In the Mongolian Peoples Republic (Outer Mongolia), the traditional script was replaced by a Cyrillic orthography since the early 1940s, but revived in the 1990s, so that both scripts are now used in tandem.

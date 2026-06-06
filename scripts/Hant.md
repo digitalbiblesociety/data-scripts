@@ -35,6 +35,12 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/Noto+Sans+TC"
     provider: "Google Fonts"
     notes: "Well-calibrated for traditional character complexity at small sizes"
+languages:
+  - cmn
+  - hak
+  - lzh
+  - nan
+  - yue
 ---
 
 The Traditional Han script, also known as Traditional Chinese, developed from the Clerical script, ultimately from the Oracle Bone script, around the 5th century AD. It was used since that time throughout the Chinese-speaking world until the Communist government of China replaced it with the Simplified Han script in 1949. The simplified script is now the official script of the Peoples Republic of China (PRC) and of Singapore, but the traditional characters are still used in Taiwan, Hong Kong and Macau, as well as for aesthetic purposes in the PRC and Singapore.

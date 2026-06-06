@@ -42,6 +42,50 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/IBM+Plex+Sans+Bengali"
     provider: "IBM / Google Fonts"
     notes: "Screen-optimised stroke weight for Bengali conjuncts"
+languages:
+  - aot
+  - asm
+  - ben
+  - bpy
+  - brx
+  - ccp
+  - cdf
+  - cdz
+  - cfm
+  - ctg
+  - der
+  - dis
+  - grt
+  - haj
+  - kdq
+  - kha
+  - kyw
+  - lax
+  - lus
+  - mjt
+  - mjx
+  - mni
+  - mrg
+  - nct
+  - njz
+  - nki
+  - nmo
+  - nng
+  - rah
+  - rkt
+  - sat
+  - sck
+  - sdr
+  - sjp
+  - suv
+  - syl
+  - tdb
+  - tpe
+  - trp
+  - txo
+  - unr
+  - unx
+  - usi
 ---
 
 The Bengali (also called Bangla) script is used for writing the Bengali language, spoken by over 180,000,000 people mostly in Bangladesh and India. It is also used for a number of other Indian languages including Sylheti and, with one or two modifications, Assamese. It is a Brahmic script although its exact derivation is disputed. Bengali writing shares some similarities with the Dravidian-language scripts, particularly in the shapes of some vowel letters, but it is generally more similar to the Aryan-language scripts, in particular Devanagari.

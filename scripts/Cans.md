@@ -35,6 +35,29 @@ screen_fonts:
     url: "https://www.languagegeek.com/font/fontdownload.html"
     provider: "Language Geek"
     notes: "Designed by a community member for screen use across Canadian syllabics; clear distinction at low DPI"
+languages:
+  - bea
+  - bla
+  - caf
+  - chp
+  - ciw
+  - cre
+  - crj
+  - crk
+  - crl
+  - crm
+  - crx
+  - csw
+  - den
+  - ikt
+  - iku
+  - nsk
+  - ojb
+  - oji
+  - ojs
+  - ojw
+  - scs
+  - sek
 ---
 
 Unified Canadian Aboriginal Syllabics are not, strictly speaking, a single script, but a family of related scripts used for writing a number of Algonquin and Inuit languages (previously also the Athabaskan languages) indigenous to Canada. However, they are encoded in Unicode as a unified block. They are used almost exclusively in Canada, for writing the Cree, Ojibwe, Inuktitut, and occasionally Blackfoot languages.

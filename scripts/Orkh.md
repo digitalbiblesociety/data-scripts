@@ -26,6 +26,8 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Old+Turkic"
     provider: "Google Fonts"
     notes: "Best available for Old Turkic at screen sizes"
+languages:
+  - otk
 ---
 
 The Orkhon script was used for writing Turkic languages in Mongolia and Siberia from the 8th to the 13th centuries. The earliest examples of writing in any Turkic language were found on the banks of the Orkhon river, hence the name of this script. Following this discovery, other examples were found, written in variant forms of the script. For this reason, the term Orkhon is sometimes used in a collective sense to refer to the Old Turkic scripts as a whole, and the other styles considered variant forms of it. The Orkhon style of Old Turkic is sometimes grouped with the Yenisei style and the pair referred to as Orkhon-Yenisei. The Orkhon style is the most widely-known form of Old Turkic writing.

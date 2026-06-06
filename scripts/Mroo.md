@@ -27,6 +27,8 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Mro"
     provider: "Google Fonts"
     notes: "Best available for Mro script at screen sizes"
+languages:
+  - mro
 ---
 
 The Mro (also called Mru or Murong) script is used for writing the Mro language, spoken in the Chittagong Hill Tracts of Bangladesh. 

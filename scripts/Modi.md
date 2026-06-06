@@ -20,6 +20,9 @@ fonts:
   - name: "Noto Sans Modi"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Modi"
     provider: "Google Fonts"
+languages:
+  - mar
+  - omr
 ---
 
 The Modi script was used from the 17th century until the 1950s for writing Marathi, the state language of the Indian state of Maharashtra. The script developed from a cursive form of Devanagari, so shares a number of features with, and is visually similar to, that script. Modi is an abugida written using thirty-three consonant letters, each bearing the inherent vowel /a/. This vowel can be changed by appending one of seven vowel diacritics to the consonant, or silenced by appending a *virama* below the consonant. Vowels which are not preceded by a consonant are written with one of eight independent vowel letters.

@@ -21,6 +21,8 @@ fonts:
   - name: "Noto Sans Carian"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Carian"
     provider: "Google Fonts"
+languages:
+  - xcr
 ---
 
 The Carian script was used between the 7th and 1st centuries BC in what is now the Aegean region of Turkey, for writing the Carian language. It was also used in the Nile delta, where Carians were fighting for the Egyptian pharoahs.

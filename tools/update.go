@@ -450,6 +450,7 @@ var canonicalOrder = []string{
 	"sample",
 	"fonts",
 	"screen_fonts",
+	"languages",
 }
 
 var (
@@ -587,7 +588,7 @@ func validateValue(e fmEntry) string {
 
 	// Sequences (fonts, screen_fonts) — we accept them if the key is allowed
 	// to be a sequence in the schema and the lines beneath looked list-ish.
-	if e.key == "fonts" || e.key == "screen_fonts" {
+	if e.key == "fonts" || e.key == "screen_fonts" || e.key == "languages" {
 		if e.value != "" {
 			return "must be a YAML sequence (no inline scalar)"
 		}

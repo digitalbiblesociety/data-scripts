@@ -25,6 +25,8 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Cypriot"
     provider: "Google Fonts"
     notes: "Best available hinted Cypriot for screen use"
+languages:
+  - grc
 ---
 
 The Cypriot script was used from approximately the 11th to the 4th centuries BC, for writing the Greek language in Cyprus. It descended from the Linear A script, and is closely related to the Linear B script, but has no visual or structural relationship to the Greek alphabet. The script was used primarily for record keeping, not for literary purposes.

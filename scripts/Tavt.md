@@ -28,6 +28,12 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Tai+Viet"
     provider: "Google Fonts"
     notes: "Best available for Tai Viet screen rendering"
+languages:
+  - blt
+  - soa
+  - twh
+  - tyr
+  - tyt
 ---
 
 The Tai Viet script is used for writing the Tai Dam, Tai Dón, Tai Daeng, Thai Song and Tày Tac languages spoken in Vietnam, Laos, China and Thailand. Speakers of these languages are also found in the United States, Australia and France. There is significant variation in the orthographic conventions of the Tai languages, as well as in their phonologies, which in turn impacts the orthography. However, a unified, standardized version of the script, with an agreed upon core set of characters, was developed at a UNESCO-sponsored workshop in 2006, and subsequently accepted for encoding in The Unicode Standard.

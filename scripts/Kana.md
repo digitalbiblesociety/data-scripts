@@ -33,6 +33,10 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/BIZ+UDGothic"
     provider: "Google Fonts"
     notes: "UD approach: widened katakana spacing for low-resolution use"
+languages:
+  - ain
+  - nan
+  - ryu
 ---
 
 Katakana is one of two syllabaries, called *kana*, used for writing Japanese, along with Hiragana. Until the 8th century, Japanese was written using Chinese characters, called *kanji*, on which the shapes of the katakana symbols are based. Modern Japanese texts are commonly written in a mixture of kanji, hiragana and katakana. Katakana is typically used for writing loanwords, onomatopoeic and mimetic words, exclamations, and some specialized scientific terminology. It can also be used to imply a conversational tone, to give emphasis to particular words, or to signal irony or a euphemism. Both hiragana and katakana can be written in small type alongside or above kanji words to indicate the pronunciation or meaning of the kanji.
