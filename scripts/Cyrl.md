@@ -210,7 +210,6 @@ languages:
   - xpm
   - xrm
   - xrn
-  - xss
   - xwo
   - yah
   - yai
@@ -220,7 +219,6 @@ languages:
   - ysr
   - yug
   - yux
-  - zkb
   - zko
   - zkz
 ---

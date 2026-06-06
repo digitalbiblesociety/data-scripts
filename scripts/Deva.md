@@ -216,7 +216,6 @@ languages:
   - phw
   - pkh
   - pli
-  - plp
   - psu
   - pum
   - pwr
@@ -261,7 +260,6 @@ languages:
   - tij
   - tkb
   - tkt
-  - tmk
   - twm
   - txo
   - unr

@@ -83,8 +83,6 @@ languages:
   - aib
   - aiq
   - aiw
-  - ajp
-  - ajt
   - aju
   - aka
   - amh
@@ -332,7 +330,6 @@ languages:
   - siy
   - siz
   - skr
-  - slq
   - smp
   - smy
   - snd
@@ -394,7 +391,6 @@ languages:
   - wni
   - wof
   - wol
-  - wrd
   - wsv
   - xco
   - xhe

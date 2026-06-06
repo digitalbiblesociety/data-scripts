@@ -57,7 +57,6 @@ languages:
   - kex
   - kfr
   - kxp
-  - prp
   - vas
   - vav
 ---
