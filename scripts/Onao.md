@@ -18,6 +18,32 @@ baseline: bottom
 ligatures: unspecified
 direction: ltr
 direction_notes: LTR (left-to-right)
+translations:
+  - translation_iso: ara
+    name: أول أونال
+    auto: true
+  - translation_iso: deu
+    name: Ol-Onal-Schrift
+    auto: true
+  - translation_iso: fra
+    name: ol onal
+  - translation_iso: hin
+    name: अल अनल लिपि
+  - translation_iso: jpn
+    name: オル・オナル文字
+    auto: true
+  - translation_iso: kor
+    name: 올 오날 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita ol onal
+    auto: true
+  - translation_iso: spa
+    name: alfabeto ol onal
+    auto: true
+  - translation_iso: zho
+    name: 奥尔奥纳尔文
+    auto: true
 ---
 
 The Ol Onal script is used in parts of Odisha, West Bengal and Jharkhand in India to write the Bhumij language (which might be considered a dialect of Mundari).

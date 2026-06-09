@@ -19,6 +19,29 @@ fonts:
   - name: "Noto Sans Palmyrene"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Palmyrene"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: الأبجدية التدمرية
+  - translation_iso: deu
+    name: palmyrenische Schrift
+    auto: true
+  - translation_iso: fra
+    name: écriture palmyréenne
+  - translation_iso: hin
+    name: पाल्मीरीन लिपि
+    auto: true
+  - translation_iso: jpn
+    name: パルミラ文字
+  - translation_iso: kor
+    name: 팔미라 문자
+    auto: true
+  - translation_iso: por
+    name: Alfabeto palmireno
+    auto: true
+  - translation_iso: spa
+    name: alfabeto de Palmira
+  - translation_iso: zho
+    name: 帕尔迈拉字母
 ---
 
 The Palmyrene script was derived from cursive versions of Aramaic writing around the 1st century BC. It was initially used in the area between the city of Damascus and the Euphrates river, for writing the Palmyrene (also called Palmyrenean) dialect of West Aramaic. The latest extant documents written in the script are from the year 273 AD, the year that the Palmyrene empire was sacked by the Roman Emperor Aurelian.

@@ -14,6 +14,33 @@ baseline: bottom
 ligatures: unspecified
 direction: ltr
 direction_notes: "LTR (left-to-right)"
+translations:
+  - translation_iso: ara
+    name: تدوين هامنوسيس
+    auto: true
+  - translation_iso: deu
+    name: Hamburger Notationssystem
+    auto: true
+  - translation_iso: fra
+    name: réservé à l’usage privé (40e)
+  - translation_iso: hin
+    name: हैमनोसिस संकेतन
+    auto: true
+  - translation_iso: jpn
+    name: ハムノシス
+    auto: true
+  - translation_iso: kor
+    name: 함노시스 표기법
+    auto: true
+  - translation_iso: por
+    name: Notação HamNoSys
+    auto: true
+  - translation_iso: spa
+    name: notación HamNoSys
+    auto: true
+  - translation_iso: zho
+    name: 汉堡手语标记法
+    auto: true
 ---
 
 The Hamburg Sign Language Notation System, or HamNoSys, was first developed by a group of hearing and deaf people in 1985. It is currently in its third revision. Unlike the other scripts for writing signed languages, HamNoSys is not intended as a practical writing tool for everyday communication. Rather, its purpose is analogous to that of the International Phonetic Alphabet, which is used to transcribe the sounds of any given spoken language in a consistent way. In the same way, HamNoSys is based on the phonology of signed languages and designed with the capacity to transcribe every natural signed language in the world using consistent symbols across languages.

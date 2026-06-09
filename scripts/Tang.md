@@ -21,6 +21,28 @@ fonts:
   - name: "Noto Serif Tangut"
     url: "https://fonts.google.com/noto/specimen/Noto+Serif+Tangut"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: خط تانغوت
+    auto: true
+  - translation_iso: deu
+    name: Xixia-Schrift
+  - translation_iso: fra
+    name: écriture tangoute
+  - translation_iso: hin
+    name: तांगुत लिपि
+    auto: true
+  - translation_iso: jpn
+    name: 西夏文字
+  - translation_iso: kor
+    name: 서하 문자
+  - translation_iso: por
+    name: Escrita tangut
+    auto: true
+  - translation_iso: spa
+    name: Escritura tangut
+  - translation_iso: zho
+    name: 西夏文
 ---
 
 The Tangut script (also called Xixia) was widely used between 1036 and 1502 for writing the Tangut language, an extinct Tibeto-Burman language from China. The script was written with almost 6,000 characters. It was created at the decree of the emperor, and is thought to have been modelled on Chinese. However, although the overall look of the characters resembles Chinese writing, the two scripts are mutually illegible, and the stroke types are different. Another important difference between the two is that Tangut characters are wholly lacking in any pictographic basis, that is, the shapes of the characters are not modelled on the things or concepts that they represent. 

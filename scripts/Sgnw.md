@@ -25,6 +25,26 @@ fonts:
     provider: "GitHub"
 languages:
   - ase
+translations:
+  - translation_iso: ara
+    name: كتابة الإشارة
+  - translation_iso: deu
+    name: SignWriting
+  - translation_iso: fra
+    name: SignWriting
+  - translation_iso: hin
+    name: साइनराइटिंग
+    auto: true
+  - translation_iso: jpn
+    name: サットン手話表記法
+  - translation_iso: kor
+    name: 서턴 수화 표기법
+  - translation_iso: por
+    name: SignWriting
+  - translation_iso: spa
+    name: SignoEscritura
+  - translation_iso: zho
+    name: 书写符号
 ---
 
 SignWriting was developed in 1974 by Valerie Sutton, a dancer. Two years earlier, Sutton had developed DanceWriting, a notation system for transcribing dance movements. She was asked by Lars von der Lieth, from the University of Copenhagen, to produce something similar for the purpose of writing down signed languages.

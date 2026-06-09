@@ -23,6 +23,29 @@ fonts:
   - name: "Noto Sans Dogra"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Dogra"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: خط دوغرا
+    auto: true
+  - translation_iso: deu
+    name: Dogra-Schrift
+    auto: true
+  - translation_iso: fra
+    name: dogra
+  - translation_iso: hin
+    name: डोगरी लिपि
+  - translation_iso: jpn
+    name: ドーグリー文字
+  - translation_iso: kor
+    name: 도그라 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita dogra
+    auto: true
+  - translation_iso: spa
+    name: alfabeto dogra
+  - translation_iso: zho
+    name: 多格拉文
 ---
 
 The Dogra or Dogri script is a Brahmi-based alphasyllabary that is written from left to right. Independent and initial vowels are written using letters, while dependent vowels are expressed using combining signs. Consonant letters possess the inherent vowel *a*, which is changed by the attachment of a vowel sign. Consonant clusters are written in various ways, such as with visible *halanta*, as an atomic ligature, and with half-forms; *repha* is attested, but rarely used. There are no formal conventions regarding representation of conjuncts.

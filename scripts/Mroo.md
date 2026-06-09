@@ -29,6 +29,33 @@ screen_fonts:
     notes: "Best available for Mro script at screen sizes"
 languages:
   - mro
+translations:
+  - translation_iso: ara
+    name: مرو
+    auto: true
+  - translation_iso: deu
+    name: Mro-Schrift
+    auto: true
+  - translation_iso: fra
+    name: mro
+  - translation_iso: hin
+    name: म्रो लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ムロ文字
+    auto: true
+  - translation_iso: kor
+    name: 므로 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita mro
+    auto: true
+  - translation_iso: spa
+    name: mro
+    auto: true
+  - translation_iso: zho
+    name: 默禄文
+    auto: true
 ---
 
 The Mro (also called Mru or Murong) script is used for writing the Mro language, spoken in the Chittagong Hill Tracts of Bangladesh. 

@@ -221,6 +221,25 @@ languages:
   - yux
   - zko
   - zkz
+translations:
+  - translation_iso: ara
+    name: ألفبائية كيريلية
+  - translation_iso: deu
+    name: kyrillisches Alphabet
+  - translation_iso: fra
+    name: écriture cyrillique
+  - translation_iso: hin
+    name: सीरिलिक वर्णमाला
+  - translation_iso: jpn
+    name: キリル文字
+  - translation_iso: kor
+    name: 키릴 문자
+  - translation_iso: por
+    name: Alfabeto cirílico
+  - translation_iso: spa
+    name: alfabeto cirílico
+  - translation_iso: zho
+    name: 西里尔字母
 ---
 
 The creation of the Cyrillic script is traditionally attributed to Saint Cyril, a missionary working in Bulgaria during the 9th century. He and his brother are also credited with the invention of the Glagolitic script, a derivation of the Greek cursive alphabet which was modified to fit the sound systems of Slavic languages. Some historians credit Clement of Ohrid, a student of Saint Cyrils, with creating the Cyrillic script as a more readable writing system based on Glagolitic. The Cyrillic script was initially used for writing Old Church Slavonic (also called Old Bulgarian), but it has undergone a number of changes since that time, so much so that the old and modern variants are considered by many to be two different but related scripts. Many of the modern letterforms differ from those used in early Cyrillic writing, some letters have been dropped, and new letters have been added. An orthographic reform was implemented by the Russian tsar Peter the Great in 1708 which removed a number of obsolete letters so that Russian writing is now almost perfectly phonetic.

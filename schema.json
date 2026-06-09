@@ -37,7 +37,8 @@
       "sample",
       "fonts",
       "screen_fonts",
-      "languages"
+      "languages",
+      "translations"
     ]
   },
   "$comment": "Field order below is the canonical emission order. Tools that write files should preserve it.",
@@ -194,6 +195,12 @@
       "items": { "type": "string", "pattern": "^[a-z]{3}$" },
       "uniqueItems": true,
       "minItems": 1
+    },
+    "translations": {
+      "description": "Localized names of the script in supported UI languages.",
+      "type": "array",
+      "items": { "$ref": "#/$defs/translation" },
+      "minItems": 1
     }
   },
   "$defs": {
@@ -216,6 +223,23 @@
         "url":      { "type": "string", "format": "uri" },
         "provider": { "type": "string", "minLength": 1 },
         "notes":    { "type": "string" }
+      }
+    },
+    "translation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["translation_iso", "name"],
+      "properties": {
+        "translation_iso": {
+          "description": "ISO 639-3 code of the translation language.",
+          "type": "string",
+          "pattern": "^[a-z]{3}$"
+        },
+        "name": { "type": "string", "minLength": 1 },
+        "auto": {
+          "description": "True if machine-generated (LLM/MT) rather than curated.",
+          "type": "boolean"
+        }
       }
     }
   }

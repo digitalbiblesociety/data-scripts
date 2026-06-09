@@ -33,6 +33,29 @@ languages:
   - hnj
   - hrm
   - mww
+translations:
+  - translation_iso: ara
+    name: باهوه همونغ
+    auto: true
+  - translation_iso: deu
+    name: Pahawh Hmong
+  - translation_iso: fra
+    name: pahawh hmong
+  - translation_iso: hin
+    name: पहाव ह्मोंग लिपि
+    auto: true
+  - translation_iso: jpn
+    name: パハウ・フモン文字
+  - translation_iso: kor
+    name: 파하우 몽 문자
+    auto: true
+  - translation_iso: por
+    name: Pahawh hmong
+    auto: true
+  - translation_iso: spa
+    name: Pahawh Hmong
+  - translation_iso: zho
+    name: 帕哈苗文
 ---
 
 The Pahawh Hmong script has been used since 1959 for writing the Hmong language spoken in China, Vietnam, Laos and Thailand, as well as by a significant immigrant population in the United States and Australia. It was created by Shong Lue, who claimed to have been sent by God to teach the script to the Hmong people, following a series of divine revelations. He developed the script in four stages, the second and third of which are the forms in most widespread current use.

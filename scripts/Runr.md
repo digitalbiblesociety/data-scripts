@@ -34,6 +34,25 @@ screen_fonts:
 languages:
   - deu
   - non
+translations:
+  - translation_iso: ara
+    name: أبجدية رونية
+  - translation_iso: deu
+    name: Runeninschrift
+  - translation_iso: fra
+    name: écriture runique
+  - translation_iso: hin
+    name: रूनी लिपि
+  - translation_iso: jpn
+    name: ルーン文字
+  - translation_iso: kor
+    name: 룬 문자
+  - translation_iso: por
+    name: runas
+  - translation_iso: spa
+    name: alfabeto rúnico
+  - translation_iso: zho
+    name: 盧恩字母
 ---
 
 The Runic alphabets were used throughout Northern Europe from the 1st to the 7th century AD. There are various conflicting theories as to the runes’ origins; some scholars suggest they were developed in Denmark and spread southwards to Europe, while others suggest that they were a German invention which spread both northwards and southwards. Runic inscriptions have been found as far south as Istanbul.

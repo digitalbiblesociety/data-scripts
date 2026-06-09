@@ -31,6 +31,27 @@ screen_fonts:
     notes: "Best available for Sundanese screen use"
 languages:
   - sun
+translations:
+  - translation_iso: ara
+    name: خط سوندي
+    auto: true
+  - translation_iso: deu
+    name: Aksara Sunda
+  - translation_iso: fra
+    name: écriture soundanaise
+  - translation_iso: hin
+    name: सुन्द लिपि
+  - translation_iso: jpn
+    name: スンダ文字
+  - translation_iso: kor
+    name: 순다 문자
+  - translation_iso: por
+    name: Escrita sundanesa
+    auto: true
+  - translation_iso: spa
+    name: alfabeto sundanés
+  - translation_iso: zho
+    name: 巽他字母
 ---
 
 The Sundanese script is used to write the Sundanese language, spoken by about 27 million people on the Indonesian island of Java. Today, the language is generally written in either the Sundanese or the Latin script, but has historically also been written using other scripts. As of 1996, the Sundanese script has been the official script for the language; it is currently taught in schools and used for public signage.

@@ -18,6 +18,31 @@ baseline: unspecified
 ligatures: unspecified
 direction: rtl
 direction_notes: RTL (right-to-left)
+translations:
+  - translation_iso: ara
+    name: كتابة يزيدية
+  - translation_iso: deu
+    name: jesidische Schrift
+    auto: true
+  - translation_iso: fra
+    name: alphabet yézidi
+  - translation_iso: hin
+    name: येज़िदी लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ヤズィーディー文字
+    auto: true
+  - translation_iso: kor
+    name: 예지디 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita Iezidi
+  - translation_iso: spa
+    name: alfabeto yezidí
+    auto: true
+  - translation_iso: zho
+    name: 雅兹迪文
+    auto: true
 ---
 
 Yezidi (also spelled Yazidi) is a liturgical script used by approximately 100,000 followers of the Yezidi religion, mainly in Kurdistan but also in Iraq, Syria, Turkey and the Caucasus.

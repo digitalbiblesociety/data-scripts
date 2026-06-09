@@ -42,6 +42,25 @@ languages:
   - oui
   - sjo
   - xal
+translations:
+  - translation_iso: ara
+    name: كتابة مغولية
+  - translation_iso: deu
+    name: mongolische Schrift
+  - translation_iso: fra
+    name: mongol bitchig
+  - translation_iso: hin
+    name: मंगोल लिपि
+  - translation_iso: jpn
+    name: モンゴル文字
+  - translation_iso: kor
+    name: 몽골 문자
+  - translation_iso: por
+    name: Escrita mongol tradicional
+  - translation_iso: spa
+    name: alfabeto mongol
+  - translation_iso: zho
+    name: 传统蒙古文
 ---
 
 The Mongolian script is used for writing the Mongolian language, both within the Inner Mongolia Autonomous Region of the People’s Republic of China and elsewhere in China. In the Mongolian Peoples Republic (Outer Mongolia), the traditional script was replaced by a Cyrillic orthography since the early 1940s, but revived in the 1990s, so that both scripts are now used in tandem.

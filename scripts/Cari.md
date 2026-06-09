@@ -23,6 +23,30 @@ fonts:
     provider: "Google Fonts"
 languages:
   - xcr
+translations:
+  - translation_iso: ara
+    name: أبجدية كارية
+    auto: true
+  - translation_iso: deu
+    name: karische Schrift
+    auto: true
+  - translation_iso: fra
+    name: alphabets cariens
+  - translation_iso: hin
+    name: कारियाई लिपि
+    auto: true
+  - translation_iso: jpn
+    name: カリア文字
+  - translation_iso: kor
+    name: 카리아 문자
+    auto: true
+  - translation_iso: por
+    name: Alfabeto cário
+    auto: true
+  - translation_iso: spa
+    name: alfabeto cario
+  - translation_iso: zho
+    name: 卡利亚字母
 ---
 
 The Carian script was used between the 7th and 1st centuries BC in what is now the Aegean region of Turkey, for writing the Carian language. It was also used in the Nile delta, where Carians were fighting for the Egyptian pharoahs.

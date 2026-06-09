@@ -31,6 +31,27 @@ screen_fonts:
     notes: "Best available for Lepcha screen rendering"
 languages:
   - lep
+translations:
+  - translation_iso: ara
+    name: ليبتشا
+    auto: true
+  - translation_iso: deu
+    name: Lepcha-Schrift
+  - translation_iso: fra
+    name: lepcha
+  - translation_iso: hin
+    name: लेपचा लिपि
+  - translation_iso: jpn
+    name: レプチャ文字
+  - translation_iso: kor
+    name: 렙차 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita lepcha
+  - translation_iso: spa
+    name: lepcha
+  - translation_iso: zho
+    name: 雷布查字母
 ---
 
 The Lepcha script is also called the Róng script - Lepcha people call themselves *Róngkup*, children of the Róng. It is used for writing the Lepcha language, a Tibeto-Burman language spoken by about 52,800 people in India, Nepal and Bhutan. The script is derived from Tibetan writing, probably motivated by Buddhist missionary activity in the 1700s. Early manuscripts were written in vertical columns but later and current texts are written horizontally. Many letters, when rotated back to their previous vertical position, closely resemble their Tibetan counterparts.

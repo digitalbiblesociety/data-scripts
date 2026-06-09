@@ -21,6 +21,25 @@ fonts:
   - name: "Latin Modern Math"
     url: "https://www.gust.org.pl/projects/e-foundry/lm-math"
     provider: "GUST"
+translations:
+  - translation_iso: ara
+    name: تدوين رياضي
+  - translation_iso: deu
+    name: mathematische Notation
+  - translation_iso: fra
+    name: notation mathématique
+  - translation_iso: hin
+    name: गणितीय संकेतन
+  - translation_iso: jpn
+    name: 数学的表記
+  - translation_iso: kor
+    name: 수학 표기법
+  - translation_iso: por
+    name: notação matemática
+  - translation_iso: spa
+    name: notación matemática
+  - translation_iso: zho
+    name: 数学符号
 ---
 
 Mathematical notation has been described by Stephen Wolfram as ‘the language of mathematics’. It is a broad term for describing any of the visual vocabulary used for recording mathematical concepts. Mathematical notation is used by mathematicians, physicists, engineers and economists, among others.

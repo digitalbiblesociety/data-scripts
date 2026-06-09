@@ -37,6 +37,25 @@ languages:
   - ain
   - nan
   - ryu
+translations:
+  - translation_iso: ara
+    name: كاتاكانا
+  - translation_iso: deu
+    name: Katakana
+  - translation_iso: fra
+    name: katakana
+  - translation_iso: hin
+    name: काताकाना
+  - translation_iso: jpn
+    name: 片仮名
+  - translation_iso: kor
+    name: 가타카나
+  - translation_iso: por
+    name: katakana
+  - translation_iso: spa
+    name: katakana
+  - translation_iso: zho
+    name: 片假名
 ---
 
 Katakana is one of two syllabaries, called *kana*, used for writing Japanese, along with Hiragana. Until the 8th century, Japanese was written using Chinese characters, called *kanji*, on which the shapes of the katakana symbols are based. Modern Japanese texts are commonly written in a mixture of kanji, hiragana and katakana. Katakana is typically used for writing loanwords, onomatopoeic and mimetic words, exclamations, and some specialized scientific terminology. It can also be used to imply a conversational tone, to give emphasis to particular words, or to signal irony or a euphemism. Both hiragana and katakana can be written in small type alongside or above kanji words to indicate the pronunciation or meaning of the kanji.

@@ -18,6 +18,32 @@ baseline: hanging
 ligatures: unspecified
 direction: ltr
 direction_notes: LTR (left-to-right)
+translations:
+  - translation_iso: ara
+    name: خط سونوار
+    auto: true
+  - translation_iso: deu
+    name: Sunuwar-Schrift
+    auto: true
+  - translation_iso: fra
+    name: sunwar
+  - translation_iso: hin
+    name: सुनुवार वर्णमाला
+  - translation_iso: jpn
+    name: スヌワール文字
+    auto: true
+  - translation_iso: kor
+    name: 수누와르 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita sunuwar
+    auto: true
+  - translation_iso: spa
+    name: alfabeto sunuwar
+    auto: true
+  - translation_iso: zho
+    name: 苏努瓦尔文
+    auto: true
 ---
 
 The Sunuwar script (previously name _Jenticha script_ and sometimes called _Kõits script_) is used for writing Sunuwar, a Tibeto-Burman language spoken by 40,000 people in eastern Nepal and by an unknown number in Sikkim, India.

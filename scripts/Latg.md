@@ -25,6 +25,27 @@ fonts:
   - name: "Gadelica"
     url: "https://www.evertype.com/fonts/gd/"
     provider: "Evertype"
+translations:
+  - translation_iso: ara
+    name: حرف غيلي
+  - translation_iso: deu
+    name: Irische Schrift
+  - translation_iso: fra
+    name: écriture gaélique
+  - translation_iso: hin
+    name: गेलिक लातिनी
+    auto: true
+  - translation_iso: jpn
+    name: ゲール文字
+  - translation_iso: kor
+    name: 게일 문자
+  - translation_iso: por
+    name: Escrita gaélica
+    auto: true
+  - translation_iso: spa
+    name: caligrafía gaélica
+  - translation_iso: zho
+    name: 盖尔体
 ---
 
 The Gaelic variant of the Latin script was used between the 16th and 20th centuries for writing Irish. Modern and digital forms of the script are based on traditional hand-written manuscript styles.

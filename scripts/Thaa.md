@@ -32,6 +32,26 @@ screen_fonts:
     notes: "Best available hinted Thaana for screen rendering"
 languages:
   - div
+translations:
+  - translation_iso: ara
+    name: تانة
+  - translation_iso: deu
+    name: Thaana-Alphabet
+  - translation_iso: fra
+    name: thâna
+  - translation_iso: hin
+    name: ताना लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ターナ文字
+  - translation_iso: kor
+    name: 타나 문자
+  - translation_iso: por
+    name: Escrita Thaana
+  - translation_iso: spa
+    name: thaana
+  - translation_iso: zho
+    name: 它拿字母
 ---
 
 The Thaana script is used for writing the Maldivian language, also known as Dhivehi, spoken by about 370,000 people in the Maldives and in Maldivian communities in India. The script is unique to this language. The language is also called Mahl, particularly on the island of Minicoy in the Indian territory of Lakshadweep. The Maldivian language has been written in its own script, it is thought, for over two millennia, when it was developed by Maldivian Buddhist monks translating the Buddhist scriptures.

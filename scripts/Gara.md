@@ -18,6 +18,30 @@ baseline: bottom
 ligatures: unspecified
 direction: rtl
 direction_notes: RTL (right-to-left)
+translations:
+  - translation_iso: ara
+    name: خط كاراي
+  - translation_iso: deu
+    name: Garay-Schrift
+    auto: true
+  - translation_iso: fra
+    name: garay
+  - translation_iso: hin
+    name: गाराय लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ガライ文字
+    auto: true
+  - translation_iso: kor
+    name: 가라이 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita garay
+    auto: true
+  - translation_iso: spa
+    name: Alfabeto garay
+  - translation_iso: zho
+    name: 噶莱字母
 ---
 
 The Garay (also called Wolof) alphabet was created by Assane Faye in 1961 for writing the Wolof language, spoken in Senegal.

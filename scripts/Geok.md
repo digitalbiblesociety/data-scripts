@@ -23,6 +23,32 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Serif+Georgian"
     provider: "Google Fonts"
     notes: "Khutsuri historical forms; best available hinted option"
+translations:
+  - translation_iso: ara
+    name: خوتسوري
+    auto: true
+  - translation_iso: deu
+    name: Chutsuri
+  - translation_iso: fra
+    name: khoutsouri
+  - translation_iso: hin
+    name: खुत्सुरी लिपि
+    auto: true
+  - translation_iso: jpn
+    name: フツリ文字
+    auto: true
+  - translation_iso: kor
+    name: 쿠츠리 문자
+    auto: true
+  - translation_iso: por
+    name: Khutsuri
+    auto: true
+  - translation_iso: spa
+    name: khutsuri
+    auto: true
+  - translation_iso: zho
+    name: 胡楚里文
+    auto: true
 ---
 
 Khutsuri is an ecclesiastical writing system composed of two alphabets, historically used for writing the Georgian language. The inscriptional *Asomtavruli* alphabet was the earliest means of writing Georgian, having been used as early as the 5th century. A manuscript form called *Nushkuri* was derived from this alphabet for use in handwritten texts around the 9th century. From the 10th century, the two forms came to be used together as upper- and lower case pairs of a single writing system.

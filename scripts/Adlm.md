@@ -27,6 +27,26 @@ fonts:
   - name: "Noto Sans Adlam Unjoined"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Adlam+Unjoined"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: خط أدلم
+  - translation_iso: deu
+    name: Adlam (Schrift)
+  - translation_iso: fra
+    name: adlam
+  - translation_iso: hin
+    name: ऐडलम लिपि
+    auto: true
+  - translation_iso: jpn
+    name: アドラム文字
+  - translation_iso: kor
+    name: 아들람 문자
+  - translation_iso: por
+    name: Alfabeto Adlam
+  - translation_iso: spa
+    name: alfabeto adlam
+  - translation_iso: zho
+    name: 阿德拉姆字母
 ---
 
 The Adlam script is used for writing the Fulani language in Guinea. Prior to the creation of this script, the Fulani language was written in the Latin and Arabic scripts. In the 1980s, two teenage brothers, Ibrahima and Abdoulaye Barry, wondered why their language did not have its own script and set about creating one. They named their script ‘Adlam’ because the first four characters in the repertoire represent A, D, L, and M.

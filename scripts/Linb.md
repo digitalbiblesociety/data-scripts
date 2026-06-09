@@ -29,6 +29,25 @@ screen_fonts:
     notes: "Best available for Linear B at screen sizes"
 languages:
   - grc
+translations:
+  - translation_iso: ara
+    name: نظام خطي ب
+  - translation_iso: deu
+    name: Linearschrift B
+  - translation_iso: fra
+    name: linéaire B
+  - translation_iso: hin
+    name: रेखीय बी लिपि
+  - translation_iso: jpn
+    name: 線文字B
+  - translation_iso: kor
+    name: 선형문자 B
+  - translation_iso: por
+    name: Linear B
+  - translation_iso: spa
+    name: lineal B
+  - translation_iso: zho
+    name: 线形文字B
 ---
 
 Linear B was used from approximately 1375-1100 BC for writing Mycenaean Greek, the earliest known form of the Greek language.

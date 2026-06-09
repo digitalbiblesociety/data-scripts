@@ -14,6 +14,29 @@ baseline: bottom
 ligatures: unspecified
 direction: ltr
 direction_notes: "LTR (left-to-right)"
+translations:
+  - translation_iso: ara
+    name: خط أفاكا
+    auto: true
+  - translation_iso: deu
+    name: Afaka-Schrift
+  - translation_iso: fra
+    name: afaka
+  - translation_iso: hin
+    name: अफाका लिपि
+    auto: true
+  - translation_iso: jpn
+    name: アファカ文字
+  - translation_iso: kor
+    name: 아파카 문자
+  - translation_iso: por
+    name: Escrita afaka
+  - translation_iso: spa
+    name: silabario afaka
+    auto: true
+  - translation_iso: zho
+    name: 阿法卡音节文字
+    auto: true
 ---
 
 The Afaka script was a syllabary created around 1910 for writing the Nenge (also called Ndjuka, or Eastern Maroon Creole) language, an English creole spoken by about 23,000 people in Suriname and French Guyana. It is the only known indigenous script for a creole language. The script was named for its inventor, a Nenge man called Afaka Atumisi. It is now believed to have fallen into disuse.

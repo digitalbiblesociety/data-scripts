@@ -20,6 +20,28 @@ fonts:
   - name: "Noto Sans Takri"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Takri"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: خط تاكري
+    auto: true
+  - translation_iso: deu
+    name: Takri-Schrift
+    auto: true
+  - translation_iso: fra
+    name: écriture tâkrî
+  - translation_iso: hin
+    name: टाकरी
+  - translation_iso: jpn
+    name: タークリー文字
+  - translation_iso: kor
+    name: 타크리 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita takri
+  - translation_iso: spa
+    name: alfabeto takri
+  - translation_iso: zho
+    name: 塔克里字母
 ---
 
 The Takri script was used between the 16th and 19th centuries in what are now Jammu and Kashmir, Himachal Pradesh, the Punjab, and Uttarakhand. It was used for writing the Chambeali and Dogri languages, as well as a number of Pahari (Himalayan) languages including Jaunsari and Kulvi. The script is derived from Sharada, one of the Gupta scripts, and is related to the Gurmukhi and Lahnda scripts. It was widely used both in official and personal contexts. For much of its history it was used alongside Devanagari. Since the late 19th century, it has gradually been supplanted by Devanagari, although there have been some movements to revitalize it for certain Pahari languages and dialects of Kashmiri.

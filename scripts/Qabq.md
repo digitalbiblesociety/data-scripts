@@ -14,6 +14,33 @@ baseline: unspecified
 ligatures: unspecified
 direction: ltr
 direction_notes: "LTR (left-to-right)"
+translations:
+  - translation_iso: ara
+    name: خط باداغا
+    auto: true
+  - translation_iso: deu
+    name: Badaga-Schrift
+    auto: true
+  - translation_iso: fra
+    name: réservé à l’usage privé (43e)
+  - translation_iso: hin
+    name: बडगा लिपि
+    auto: true
+  - translation_iso: jpn
+    name: バダガ文字
+    auto: true
+  - translation_iso: kor
+    name: 바다가 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita badaga
+    auto: true
+  - translation_iso: spa
+    name: escritura badaga
+    auto: true
+  - translation_iso: zho
+    name: 巴达加文
+    auto: true
 ---
 
 The Badaga script is a relatively recent creation. It was developed over approximately 40 years by Yogesh Raj Kadasoley, and officially released in 2012. The script is designed for writing the Badaga language, a Dravidian language spoken in Tamil Nadu in South India. The Badaga people primarily worship the Hindu goddess Hethai.

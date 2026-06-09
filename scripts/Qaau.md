@@ -21,6 +21,33 @@ fonts:
   - name: "Noto Sans Tulu-Tigalari"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Tulu-Tigalari"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: خط تيغالاري
+    auto: true
+  - translation_iso: deu
+    name: Tulu-Tigalari-Schrift
+    auto: true
+  - translation_iso: fra
+    name: réservé à l’usage privé (21e)
+  - translation_iso: hin
+    name: तुलु लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ティガラリ文字
+    auto: true
+  - translation_iso: kor
+    name: 툴루 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita tulu
+    auto: true
+  - translation_iso: spa
+    name: escritura tulu-tigalari
+    auto: true
+  - translation_iso: zho
+    name: 图卢-蒂加拉里文
+    auto: true
 ---
 
 The Tulu script has been used since at least the 15th century (and, many scholars believe, much earlier than this) for writing the Tulu language. Tulu speakers generally refer to the script using the name *Tigalari*, rather than Tulu. Tulu is a Dravidian language spoken by almost 2 million people in the South Indian states of Karnataka (coastal region) and Kerala (Kasaragod district). In the northern parts of the Tulu-speaking region the language carries considerable prestige and is used as a *lingua franca* amongst educated people, but in the southern areas it is not so well respected. The northern dialect is considered to be the standard form.

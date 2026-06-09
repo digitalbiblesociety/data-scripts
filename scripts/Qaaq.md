@@ -16,6 +16,33 @@ baseline: bottom
 ligatures: none
 direction: ltr
 direction_notes: "LTR (left-to-right)"
+translations:
+  - translation_iso: ara
+    name: تدوين ستوكي
+    auto: true
+  - translation_iso: deu
+    name: Stokoe-Notation
+    auto: true
+  - translation_iso: fra
+    name: réservé à l’usage privé (17e)
+  - translation_iso: hin
+    name: स्टोकी संकेतन
+    auto: true
+  - translation_iso: jpn
+    name: ストーキー表記法
+    auto: true
+  - translation_iso: kor
+    name: 스토키 표기법
+    auto: true
+  - translation_iso: por
+    name: Notação Stokoe
+    auto: true
+  - translation_iso: spa
+    name: notación Stokoe
+    auto: true
+  - translation_iso: zho
+    name: 斯多基符号
+    auto: true
 ---
 
 Stokoe Notation was developed in 1960 by William Stokoe for writing American Sign Language (ASL), and later adapted for writing British and Australian Aboriginal Sign Languages. It was the first *phonemic* script created for writing a signed language, although it was not created for the Deaf to write down their language for daily use, and it never came to be used for this purpose. Rather, it has always been used for linguistic research and analysis.

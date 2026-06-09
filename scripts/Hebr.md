@@ -57,6 +57,25 @@ languages:
   - jrb
   - sam
   - yid
+translations:
+  - translation_iso: ara
+    name: كتابة عبرية
+  - translation_iso: deu
+    name: hebräisches Alphabet
+  - translation_iso: fra
+    name: alphabet hébreu
+  - translation_iso: hin
+    name: इब्रानी लिपि
+  - translation_iso: jpn
+    name: ヘブライ文字
+  - translation_iso: kor
+    name: 히브리 문자
+  - translation_iso: por
+    name: alfabeto hebraico
+  - translation_iso: spa
+    name: alfabeto hebreo
+  - translation_iso: zho
+    name: 希伯来字母
 ---
 
 The Hebrew script is primarily used for writing the Hebrew, Samaritan and Yiddish languages. It is also used for writing some varieties of Arabic spoken in North Africa, Iraq and Yemen; the languages of the Jewish communities in Italy and Corfu, Morocco (Berber), Spain and the Caucasus mountains; and the modern Jewish Aramaic languages. Prior to 500 BC the Hebrew language was written in the Paleo-Hebrew script, which was abandoned after the Jewish exile in the 5th century BC in favour of the Aramaic script, from which the current Hebrew script descended. It is commonly called the Hebrew alphabet, after its first two letters *aleph* and *bet*, although it is actually an abjad.

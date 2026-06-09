@@ -58,6 +58,25 @@ languages:
   - ojw
   - scs
   - sek
+translations:
+  - translation_iso: ara
+    name: المقاطع اللفظية الأصلية الكندية
+  - translation_iso: deu
+    name: Kanadische Silbenschrift
+  - translation_iso: fra
+    name: syllabaire autochtone canadien
+  - translation_iso: hin
+    name: कनाडा के ऐबोरजीनी लिपि
+  - translation_iso: jpn
+    name: カナダ先住民文字
+  - translation_iso: kor
+    name: 캐나다 원주민 음절문자
+  - translation_iso: por
+    name: silabários indígenas canadenses
+  - translation_iso: spa
+    name: silabarios indígenas canadienses
+  - translation_iso: zho
+    name: 加拿大原住民音节文字
 ---
 
 Unified Canadian Aboriginal Syllabics are not, strictly speaking, a single script, but a family of related scripts used for writing a number of Algonquin and Inuit languages (previously also the Athabaskan languages) indigenous to Canada. However, they are encoded in Unicode as a unified block. They are used almost exclusively in Canada, for writing the Cree, Ojibwe, Inuktitut, and occasionally Blackfoot languages.

@@ -20,6 +20,30 @@ fonts:
   - name: "Noto Sans Psalter Pahlavi"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Psalter+Pahlavi"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: خط الزبور البهلوي
+    auto: true
+  - translation_iso: deu
+    name: Psalter-Pahlavi
+    auto: true
+  - translation_iso: fra
+    name: pehlvi des psautiers
+  - translation_iso: hin
+    name: साल्टर पहलवी लिपि
+    auto: true
+  - translation_iso: jpn
+    name: パフラヴィ文字
+  - translation_iso: kor
+    name: 시편 팔라비 문자
+    auto: true
+  - translation_iso: por
+    name: Pahlavi do saltério
+    auto: true
+  - translation_iso: spa
+    name: pahlavi salterial
+  - translation_iso: zho
+    name: 诗篇巴列维文
 ---
 
 Psalter Pahlavi was one of three forms of the ancient Pahlavi script, used for writing the Middle Iranian languages. Psalter Pahlavi has so far only been attested in two sources, a 7th century manuscript of the Psalms of David (hence its name) and an inscription on a bronze cross found at Herat (in present-day Afghanistan). The lack of surviving material in this form of the script has left a number of gaps in modern-day scholars understanding of Psalter Pahlavi writing.

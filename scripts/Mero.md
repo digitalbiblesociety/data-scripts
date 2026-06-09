@@ -20,6 +20,33 @@ fonts:
   - name: "Noto Sans Meroitic Hieroglyphs"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Meroitic+Hieroglyphs"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: الهيروغليفية المروية
+    auto: true
+  - translation_iso: deu
+    name: meroitische Hieroglyphen
+    auto: true
+  - translation_iso: fra
+    name: hiéroglyphes méroïtiques
+  - translation_iso: hin
+    name: मेरोइटिक चित्रलिपि
+    auto: true
+  - translation_iso: jpn
+    name: メロエ文字
+    auto: true
+  - translation_iso: kor
+    name: 메로에 문자
+    auto: true
+  - translation_iso: por
+    name: Hieróglifos meroíticos
+    auto: true
+  - translation_iso: spa
+    name: jeroglíficos meroíticos
+    auto: true
+  - translation_iso: zho
+    name: 麦罗埃文圣书体
+    auto: true
 ---
 
 The Meroitic (also Meroïtic) script was used between the 3rd century BC and the 6th century AD in the Kingdom of Kush, in what is now Sudan. After the introduction of Christianity to the area, Meroitic writing was replaced by Coptic. The Meroitic language was written using two writing systems, a cursive form and a hieroglyphic form.

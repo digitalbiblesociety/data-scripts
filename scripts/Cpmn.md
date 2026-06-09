@@ -17,6 +17,27 @@ baseline: unspecified
 ligatures: unspecified
 direction: ltr
 direction_notes: LTR (left-to-right)
+translations:
+  - translation_iso: ara
+    name: مقطعية قبرصية مينوية
+    auto: true
+  - translation_iso: deu
+    name: Kypro-Minoische Schrift
+  - translation_iso: fra
+    name: écriture cypro-minoenne
+  - translation_iso: hin
+    name: साइप्रो-मिनोअन लिपि
+    auto: true
+  - translation_iso: jpn
+    name: キュプロ・ミノア文字
+  - translation_iso: kor
+    name: 키프로스-미노스 음절문자
+  - translation_iso: por
+    name: Linear C
+  - translation_iso: spa
+    name: Silabario chipro-minoico
+  - translation_iso: zho
+    name: 塞浦路斯-米诺斯文字
 ---
 
 The Cypro-Minoan script was a logosyllabary used on the island of Cyprus around 1500-1100 BC.

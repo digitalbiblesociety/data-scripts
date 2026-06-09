@@ -27,6 +27,25 @@ screen_fonts:
 languages:
   - akk
   - hit
+translations:
+  - translation_iso: ara
+    name: كتابة مسمارية
+  - translation_iso: deu
+    name: Keilschrift
+  - translation_iso: fra
+    name: cunéiforme
+  - translation_iso: hin
+    name: अंकन
+  - translation_iso: jpn
+    name: 楔形文字
+  - translation_iso: kor
+    name: 쐐기 문자
+  - translation_iso: por
+    name: escrita cuneiforme
+  - translation_iso: spa
+    name: escritura cuneiforme
+  - translation_iso: zho
+    name: 楔形文字
 ---
 
 Sumero-Akkadian Cuneiform, widely believed to be the first writing system in the world, was comprised of a combination of logographic, consonantal alphabetic and syllabic signs. It was originally used for writing the extinct Sumerian language, spoken in what is now Iraq. The script later spread through a region comprising parts of modern-day Iran, Turkey, Syria and Egypt, for writing the Akkadian, Eblaite, Elamite, Hittite, Luwian, Hattic, Hurrian, and Urartian languages.

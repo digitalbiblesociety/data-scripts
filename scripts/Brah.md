@@ -25,6 +25,25 @@ fonts:
 languages:
   - pka
   - pli
+translations:
+  - translation_iso: ara
+    name: خط براهمي
+  - translation_iso: deu
+    name: Brahmi-Schrift
+  - translation_iso: fra
+    name: brahmi
+  - translation_iso: hin
+    name: ब्राह्मी लिपि
+  - translation_iso: jpn
+    name: ブラーフミー文字
+  - translation_iso: kor
+    name: 브라흐미 문자
+  - translation_iso: por
+    name: escrita brami
+  - translation_iso: spa
+    name: Brahmi
+  - translation_iso: zho
+    name: 婆罗米文
 ---
 
 The Brahmi script is ancestral to most of the scripts of South Asia, Southeast Asia, and to some Central Asian scripts. The name Brahmi actually does not refer to a single, discrete script as such; general practise is to use the term to refer to any script in the family now known as Brahmic, up until approximately 400 AD, at which point they became differentiated enough to be given their own names. Brahmic writing was originally used for writing early dialects of the Prakrit language, but spread widely during the period of Indian cultural expansion in the 1st millenium AD and has since provided the underlying design for over sixty scripts used by languages from the Indo-Aryan, Dravidian, Austro-Asiatic and Tibeto-Burman language families. By about 1000 AD the various varieties of Brahmic writing had diverged to the point that they were all independent scripts whose common ancestry was not always immediately apparent.

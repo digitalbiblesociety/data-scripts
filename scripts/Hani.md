@@ -58,6 +58,25 @@ languages:
   - zyj
   - zyn
   - zzj
+translations:
+  - translation_iso: ara
+    name: مقاطع صينية
+  - translation_iso: deu
+    name: Chinesische Schrift
+  - translation_iso: fra
+    name: sinogrammes
+  - translation_iso: hin
+    name: चीनी भावचित्र
+  - translation_iso: jpn
+    name: 漢字
+  - translation_iso: kor
+    name: 한자
+  - translation_iso: por
+    name: Caracteres chineses
+  - translation_iso: spa
+    name: caracteres chinos
+  - translation_iso: zho
+    name: 汉字
 ---
 
 The Han script comprises three systems; when used for writing the languages of China the characters are called *hanzi*, the same characters used for writing Japanese are called *kanji*, and for Korean, *hanja*. It is commonly assumed that the Sinitic languages (Chinese languages) are monosyllabic, and that one written character = one syllable = one word. However, there are many polysyllabic words in both the ancient and modern lexicons, and the average length of a word in Mandarin is two syllables. These words are represented using combinations of characters, each representing one syllable. There are some exceptions to this rule, in the form of unofficial but widely used single characters representing polysyllabic Chinese words, such as *túshūguăn* library and *wèntí* question. This is common when the characters are used for writing Japanese, due to different phonological rules governing the language. A single character may frequently represent a polysyllabic word in Japanese and some of the other languages for which Han characters are used.

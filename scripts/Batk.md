@@ -28,6 +28,25 @@ languages:
   - btm
   - bts
   - btx
+translations:
+  - translation_iso: ara
+    name: نص باتاك
+  - translation_iso: deu
+    name: Batak
+  - translation_iso: fra
+    name: écriture batak
+  - translation_iso: hin
+    name: बटक लिपि
+  - translation_iso: jpn
+    name: バタク文字
+  - translation_iso: kor
+    name: 바탁 문자
+  - translation_iso: por
+    name: Escrita batak
+  - translation_iso: spa
+    name: alfabeto batak
+  - translation_iso: zho
+    name: 巴塔克文
 ---
 
 The Batak script is used to write the six Batak languages (Toba, Karo, Dairi, Mandailing, Simalungun and Angkola) spoken collectively by approximately 3 million people on the Indonesian island of Sumatra. It is one of several scripts indigenous to the Indonesian archipelago, descended from the Old Kawi script, which in turn is derived from the Pallava, and ultimately the Brahmi, script.

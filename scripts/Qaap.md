@@ -20,6 +20,33 @@ fonts:
   - name: "Noto Sans Sogdian"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Sogdian"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: أبجدية صغدية
+    auto: true
+  - translation_iso: deu
+    name: sogdische Schrift
+    auto: true
+  - translation_iso: fra
+    name: réservé à l’usage privé (16e)
+  - translation_iso: hin
+    name: सोग्दी लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ソグド文字
+    auto: true
+  - translation_iso: kor
+    name: 소그드 문자
+    auto: true
+  - translation_iso: por
+    name: Alfabeto sogdiano
+    auto: true
+  - translation_iso: spa
+    name: sogdiano
+    auto: true
+  - translation_iso: zho
+    name: 粟特文
+    auto: true
 ---
 
 The Sogdian script was one of three scripts used for writing the Sogdian language, a middle Iranian language spoken in Sogdiana, a region in the Achaemenid Persian empire comprising parts of modern-day Uzbekistan, Tajikistan, Pakistan and China. This language was also written in the Manichaean and Syriac scripts. Sogdian writing derives from the Aramaic script and was used from approximately the 1st to the 13th centuries AD, during which time three main varieties emerged, the *Ancient Letters*, the *Sutra* style and the *Uyghur* style. This third style should not be confused with the Old Uyghur alphabet, although in some sources Sutra Sogdian is simply called Sogdian, and Uyghur Sogdian is simply called Uyghur, due to the latter being widely used to write the Turkic Uyghur language in the 8th century. Some sources also call the Sutra and Uyghur styles *formal* and *cursive* respectively.

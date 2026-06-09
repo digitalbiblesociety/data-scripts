@@ -30,6 +30,26 @@ languages:
   - lzh
   - mon
   - zho
+translations:
+  - translation_iso: ara
+    name: خط فاغسبا
+    auto: true
+  - translation_iso: deu
+    name: Phagpa-Schrift
+  - translation_iso: fra
+    name: écriture phagspa
+  - translation_iso: hin
+    name: फाग्सपा लिपि
+  - translation_iso: jpn
+    name: パスパ文字
+  - translation_iso: kor
+    name: 파스파 문자
+  - translation_iso: por
+    name: "Escrita 'phags-pa"
+  - translation_iso: spa
+    name: "'phags-pa"
+  - translation_iso: zho
+    name: 八思巴文
 ---
 
 The Phags-pa script, called *hor gsar yig* in Tibetan and *dörbelǰin üsüg* in Mongolian, is named for its creator, the Tibetan sage Phags-pa Lama. Phags-pa was appointed National Perceptor in 1264 by the emperor Khubila Khan, by whom he was ordered to devise a script in which all the languages of his empire - including Tibetan, Uyghur, Mongolian and Chinese - could be written. The new script met with limited success and only scanty accounts of its creation exist in the biographies written by Phags pas disciples. Until the 1980s the bulk of research into the Phags-pa script was done outside of the old Mongol Empire and the script was thought to have enjoyed very limited use. However in the last twenty years there has been an increase in research into the script in China and Mongolia, which has uncovered more material than was previously thought to exist. Even taking these new discoveries into account, it still appears that Phags-pa use was sporadic.

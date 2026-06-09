@@ -43,6 +43,25 @@ languages:
   - ain
   - jpn
   - ryu
+translations:
+  - translation_iso: ara
+    name: نظام كتابة ياباني
+  - translation_iso: deu
+    name: japanische Schrift
+  - translation_iso: fra
+    name: "système d'écriture du japonais"
+  - translation_iso: hin
+    name: जापानी लेखन पद्धति
+  - translation_iso: jpn
+    name: 日本語の表記体系
+  - translation_iso: kor
+    name: 일본어 표기 체계
+  - translation_iso: por
+    name: escrita japonesa
+  - translation_iso: spa
+    name: escritura japonesa
+  - translation_iso: zho
+    name: 日语书写系统
 ---
 
 The Japanese language is written in a mixture of three scripts; *kanji*, which is derived from Chinese characters and represents logographic or morphological units, and two *kana*, pairs of syllabaries. The two kana are called *hiragana* and *katakana*. A single text usually contains all three scripts. Kanji is used for writing nouns, verb stems, adjective stems and some adverbs. Hiragana is used primarily for grammatical elements - particles, inflectional endings and auxiliary verbs. Katakana is used for writing loan words, onomatopoeic words, to give emphasis, to suggest a conversational tone, or to indicate irony or a euphemism. The two kana can also be used to write a word for which the writer does not know the kanji character. A fourth writing system, Roman, is also used in small amounts, particularly for writing numerals. The Japanese writing system is neither syllabic nor logographic, but uses elements of both in tandem.

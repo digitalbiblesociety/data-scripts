@@ -22,6 +22,27 @@ fonts:
     provider: "Google Fonts"
 languages:
   - bax
+translations:
+  - translation_iso: ara
+    name: خط باموم
+    auto: true
+  - translation_iso: deu
+    name: Bamun-Schrift
+  - translation_iso: fra
+    name: écriture bamoum
+  - translation_iso: hin
+    name: बामुम लिपि
+    auto: true
+  - translation_iso: jpn
+    name: バムン文字
+  - translation_iso: kor
+    name: 바뭄 문자
+  - translation_iso: por
+    name: Silabário bamum
+  - translation_iso: spa
+    name: escritura Shümom
+  - translation_iso: zho
+    name: 巴姆穆文字
 ---
 
 The Bamum script of Cameroon was devised at the end of the C19th following a dream in which the Bamum King Njoya was inspired to provide a writing system for his people by creating a series of pictographs. The script was something of a communal production; the Bamum people were reportedly invited to supply the King with a number of simple symbols, from which he chose more than 500 to use in the Bamum script. Initially, the script was logographic, but it underwent a series of changes influenced by the rebus principle. After about 30 years, full phonetic representation had been realized, and the script had developed into a syllabary composed of just 80 base characters.

@@ -17,6 +17,29 @@ baseline: unspecified
 ligatures: unspecified
 direction: unspecified
 direction_notes: UNSPECIFIED
+translations:
+  - translation_iso: ara
+    name: ناشي دونغبا
+    auto: true
+  - translation_iso: deu
+    name: Dongba-Schrift
+    auto: true
+  - translation_iso: fra
+    name: naxi dongba
+  - translation_iso: hin
+    name: नाशी डोंगबा लिपि
+    auto: true
+  - translation_iso: jpn
+    name: トンパ文字
+  - translation_iso: kor
+    name: 동파 문자
+  - translation_iso: por
+    name: Escrita dongba
+  - translation_iso: spa
+    name: escritura dongba
+    auto: true
+  - translation_iso: zho
+    name: 东巴文
 ---
 
 Naxi Dongba is a pictographic script used by the Naxi people of Yunnan Province in China.

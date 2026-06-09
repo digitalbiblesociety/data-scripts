@@ -50,6 +50,26 @@ languages:
   - tzm
   - zen
   - zgh
+translations:
+  - translation_iso: ara
+    name: تيفيناغ
+  - translation_iso: deu
+    name: Tifinagh-Schrift
+  - translation_iso: fra
+    name: tifinagh
+  - translation_iso: hin
+    name: तिफिनाघ लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ティフィナグ文字
+  - translation_iso: kor
+    name: 티피나그 문자
+  - translation_iso: por
+    name: Alfabeto tifinagh
+  - translation_iso: spa
+    name: tifinag
+  - translation_iso: zho
+    name: 提非纳文字
 ---
 
 The Tifinagh alphabet is used to write the Berber languages spoken in North Africa; it is believed to be a form of the Ancient Berber script. It is widely used by the Tuareg, the principal inhabitants of the Saharan interior.

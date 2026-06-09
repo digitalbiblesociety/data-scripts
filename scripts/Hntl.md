@@ -17,6 +17,34 @@ baseline: centered
 ligatures: unspecified
 direction: unspecified
 direction_notes: UNSPECIFIED
+translations:
+  - translation_iso: ara
+    name: هان تقليدي مع لاتيني
+    auto: true
+  - translation_iso: deu
+    name: Traditionelles Han mit Lateinisch
+    auto: true
+  - translation_iso: fra
+    name: sinogrammes traditionnels avec latin
+    auto: true
+  - translation_iso: hin
+    name: लातिनी सहित पारंपरिक हान
+    auto: true
+  - translation_iso: jpn
+    name: ラテン文字付き繁体字
+    auto: true
+  - translation_iso: kor
+    name: 번체 한자와 라틴 문자
+    auto: true
+  - translation_iso: por
+    name: Han tradicional com latim
+    auto: true
+  - translation_iso: spa
+    name: han tradicional con latino
+    auto: true
+  - translation_iso: zho
+    name: 带拉丁字母的繁体汉字
+    auto: true
 ---
 
 Han with Latin is a combination of the Han script and Latin script.

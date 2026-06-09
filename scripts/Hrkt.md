@@ -32,6 +32,25 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/BIZ+UDGothic"
     provider: "Google Fonts"
     notes: "UD design for Japanese syllabaries at all screen resolutions"
+translations:
+  - translation_iso: ara
+    name: كانا
+  - translation_iso: deu
+    name: Kana
+  - translation_iso: fra
+    name: kana
+  - translation_iso: hin
+    name: काना
+  - translation_iso: jpn
+    name: 仮名
+  - translation_iso: kor
+    name: 가나
+  - translation_iso: por
+    name: kana
+  - translation_iso: spa
+    name: kana
+  - translation_iso: zho
+    name: 假名
 ---
 
 The Japanese language is written in a mixture of scripts; *kanji*, which are derived from Chinese characters and represent logographic or morphological units, and *kana*, a pair of syllabaries. The two kana are called *hiragana* and *katakana*. A single text usually contains all three scripts. Kanji are used for writing nouns, verb stems, adjective stems and some adverbs. Hiragana is used primarily for grammatical elements - particles, inflectional endings, and auxiliary verbs. Katakana is used for writing loan words, onomatopoeic words, to give emphasis, to suggest a conversational tone, or to indicate irony or a euphemism.

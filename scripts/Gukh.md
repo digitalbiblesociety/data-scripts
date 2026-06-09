@@ -18,6 +18,33 @@ baseline: unspecified
 ligatures: unspecified
 direction: ltr
 direction_notes: LTR (left-to-right)
+translations:
+  - translation_iso: ara
+    name: خط غورونغ خيما
+    auto: true
+  - translation_iso: deu
+    name: Gurung-Khema-Schrift
+    auto: true
+  - translation_iso: fra
+    name: gouroung khema
+  - translation_iso: hin
+    name: गुरुंग खेमा लिपि
+    auto: true
+  - translation_iso: jpn
+    name: グルン・ケーマ文字
+    auto: true
+  - translation_iso: kor
+    name: 구룽 케마 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita gurung khema
+    auto: true
+  - translation_iso: spa
+    name: gurung khema
+    auto: true
+  - translation_iso: zho
+    name: 古隆克玛文
+    auto: true
 ---
 
 Gurung Khema is one of three scripts used for writing the Eastern and Western Gurung languages spoken in Nepal, Bhutan and India.

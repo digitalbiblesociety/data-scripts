@@ -26,6 +26,26 @@ screen_fonts:
     notes: "Best available hinted Osmanya for screen rendering"
 languages:
   - som
+translations:
+  - translation_iso: ara
+    name: كتابة عثمانية
+  - translation_iso: deu
+    name: Osmaniya-Schrift
+  - translation_iso: fra
+    name: osmanais
+  - translation_iso: hin
+    name: उस्मानिया लिपि
+    auto: true
+  - translation_iso: jpn
+    name: オスマニヤ文字
+  - translation_iso: kor
+    name: 오스마냐 문자
+  - translation_iso: por
+    name: Escrita osmanya
+  - translation_iso: spa
+    name: osmanya
+  - translation_iso: zho
+    name: 奥斯曼亚字母
 ---
 
 The Osmanya script (also known as far soomaali or cismaanya) was invented by Cismaan Yuusuf Keenadiid between 1920 and 1922. It was used sporadically from 1922-1973 for writing the Somali language. It was particularly used from 1961-1969, when it was officially approved alongside the Latin script by the newly democratic government. However, following a military coup in 1969, an intense literacy campaign using only the Latin script saw a sharp decline in Osmanya usage. In 1973 a standardised Latin orthography was adopted as the official script of the Somali language. Osmanya remained in limited use, predominantly in private correspondence and bookkeeping, although it is now considered to be unused except by Somali historians and scholars.

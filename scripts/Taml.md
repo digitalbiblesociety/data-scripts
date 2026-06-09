@@ -58,6 +58,25 @@ languages:
   - vaa
   - xub
   - xuj
+translations:
+  - translation_iso: ara
+    name: الخط التملي البراهمي
+  - translation_iso: deu
+    name: tamilische Schrift
+  - translation_iso: fra
+    name: alphasyllabaire tamoul
+  - translation_iso: hin
+    name: तमिल लिपि
+  - translation_iso: jpn
+    name: タミル文字
+  - translation_iso: kor
+    name: 타밀 문자
+  - translation_iso: por
+    name: Alfabeto tâmil
+  - translation_iso: spa
+    name: alfabeto tamil
+  - translation_iso: zho
+    name: 泰米爾文
 ---
 
 The Tamil script, also called *tamiz ezuttu*, is used for writing the Tamil language, a Dravidian language spoken by over 65,500,000 people in India, Sri Lanka, Singapore, Malaysia and Mauritius. Tamil is an official language in the south Indian state of Tamil Nadu as well as in Sri Lanka and Malaysia. The script is derived from Brahmi, so is related to many of the scripts used for writing Indian Indo-Aryan languages, to which the Tamil language itself is unrelated.

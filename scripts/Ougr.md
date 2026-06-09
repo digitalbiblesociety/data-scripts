@@ -18,6 +18,26 @@ baseline: unspecified
 ligatures: unspecified
 direction: rtl
 direction_notes: RTL (right-to-left)
+translations:
+  - translation_iso: ara
+    name: أبجدية أويغورية قديمة
+  - translation_iso: deu
+    name: uigurisches Alphabet
+  - translation_iso: fra
+    name: alphabet vieil-ouïghour
+  - translation_iso: hin
+    name: प्राचीन उइगुर लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ウイグル文字
+  - translation_iso: kor
+    name: 위구르 문자
+  - translation_iso: por
+    name: Alfabeto uigur antigo
+  - translation_iso: spa
+    name: alfabeto uigur antiguo
+  - translation_iso: zho
+    name: 回鹘字母
 ---
 
 The Old Uighur language is an extinct variety of Old Turkic spoken in the Tarim basin.

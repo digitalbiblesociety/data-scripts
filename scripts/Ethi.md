@@ -89,6 +89,25 @@ languages:
   - xom
   - zay
   - zwa
+translations:
+  - translation_iso: ara
+    name: حروف جعزية
+  - translation_iso: deu
+    name: äthiopische Schrift
+  - translation_iso: fra
+    name: alphasyllabaire guèze
+  - translation_iso: hin
+    name: इथियोपियाई लिपि
+  - translation_iso: jpn
+    name: ゲエズ文字
+  - translation_iso: kor
+    name: 그으즈 문자
+  - translation_iso: por
+    name: "Escrita ge'ez"
+  - translation_iso: spa
+    name: alfabeto etíope
+  - translation_iso: zho
+    name: 格厄茲字母
 ---
 
 The Ethiopic (Geez) script was developed as the writing system of the Geez language, a Semitic language spoken in Ethiopia and Eritrea until the 10th to the 12th centuries. Although the language ceased to be used in vernacular speech (it now serves a liturgical function only), the script is still widely used for writing the Ethiopian and Eritrean Semitic languages such as Tigré, Amharic and Tigrinya. In some languages, the script is called *fidäl* (ፊደል), which means alphabet, and individual letters are referred to as *fidel*. The script is believed by many to have derived from the epigraphic South Arabian script, of Proto-Sinaitic heritage, although there is some dispute surrounding this assertion; some also believe it to have descended from Egyptian hieroglyphics. According to the tradition of the Ethiopian Orthodox Tewahedo Church, the script was divinely revealed to Enos, grandson of the first man, Adam. Unlike other Semitic scripts, Ethiopic is written from left to right.

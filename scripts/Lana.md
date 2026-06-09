@@ -34,6 +34,29 @@ languages:
   - nod
   - phu
   - stu
+translations:
+  - translation_iso: ara
+    name: تاي ثام
+    auto: true
+  - translation_iso: deu
+    name: Lanna
+  - translation_iso: fra
+    name: écriture taï tham
+  - translation_iso: hin
+    name: धम्म लान्ना लिपि
+  - translation_iso: jpn
+    name: ラーンナー文字
+  - translation_iso: kor
+    name: 란나 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita tai tham
+    auto: true
+  - translation_iso: spa
+    name: tai tham
+    auto: true
+  - translation_iso: zho
+    name: 老傣仂文
 ---
 
 The Lanna script is also known as the Tai Tham, Dham, Yuan, or Northern Thai script. It has been used for writing the Northern Thai, Lü and Khün languages. Northern Thai is the biggest language group which uses the script, with 6million speakers, but literacy is low. Lü is now written in the New Tai Lue script, although some speakers born before 1950 are still literate in Lanna. The script has religious significance and is used in Buddhist monasteries.

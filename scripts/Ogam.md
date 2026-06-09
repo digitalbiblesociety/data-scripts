@@ -30,6 +30,26 @@ screen_fonts:
     notes: "Best available for Ogham screen rendering"
 languages:
   - sga
+translations:
+  - translation_iso: ara
+    name: أوجهام
+  - translation_iso: deu
+    name: Ogham
+  - translation_iso: fra
+    name: ogam
+  - translation_iso: hin
+    name: ओगम लिपि
+    auto: true
+  - translation_iso: jpn
+    name: オガム文字
+  - translation_iso: kor
+    name: 오검 문자
+  - translation_iso: por
+    name: ogham
+  - translation_iso: spa
+    name: ogámico
+  - translation_iso: zho
+    name: 欧甘字母
 ---
 
 The Ogham script dates from approximately the 5th century AD and was used in Ireland, Wales, Devon, Cornwall, and the Isle of Man, until the 10th century. There were two written traditions; the earliest extant examples of the script are inscribed into stone, while post 7th century examples are more frequently written on manuscripts.

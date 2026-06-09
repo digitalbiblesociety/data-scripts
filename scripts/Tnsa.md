@@ -18,6 +18,33 @@ baseline: unspecified
 ligatures: unspecified
 direction: ltr
 direction_notes: LTR (left-to-right)
+translations:
+  - translation_iso: ara
+    name: خط تانغسا
+    auto: true
+  - translation_iso: deu
+    name: Tangsa-Schrift
+    auto: true
+  - translation_iso: fra
+    name: tangsa
+  - translation_iso: hin
+    name: तांगसा लिपि
+    auto: true
+  - translation_iso: jpn
+    name: タンサ文字
+    auto: true
+  - translation_iso: kor
+    name: 탕사 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita tangsa
+    auto: true
+  - translation_iso: spa
+    name: alfabeto tangsa
+    auto: true
+  - translation_iso: zho
+    name: 唐萨文
+    auto: true
 ---
 
 The Tangsa (also called Tangshang or Hawa) are a cluster of about 70 sub-tribes who live along the border of India and Myanmar.

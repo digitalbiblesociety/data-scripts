@@ -15,6 +15,29 @@ baseline: hanging
 ligatures: unspecified
 direction: rtl
 direction_notes: other
+translations:
+  - translation_iso: ara
+    name: خط ساراتي
+    auto: true
+  - translation_iso: deu
+    name: Sarati
+  - translation_iso: fra
+    name: sarati
+  - translation_iso: hin
+    name: सराती लिपि
+    auto: true
+  - translation_iso: jpn
+    name: サラティ
+  - translation_iso: kor
+    name: 사라티 문자
+    auto: true
+  - translation_iso: por
+    name: Sarati
+    auto: true
+  - translation_iso: spa
+    name: sarati
+  - translation_iso: zho
+    name: 沙拉堤文字
 ---
 
 The Sarati script is an artificial script created by J. R. R. Tolkien for writing the artificial language, Quenya, which is spoken in the fictional territory of Middle-earth, where many of Tolkien’s novels are set.

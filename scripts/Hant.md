@@ -41,6 +41,25 @@ languages:
   - lzh
   - nan
   - yue
+translations:
+  - translation_iso: ara
+    name: حروف صينية تقليدية
+  - translation_iso: deu
+    name: Langzeichen
+  - translation_iso: fra
+    name: sinogrammes traditionnels
+  - translation_iso: hin
+    name: पारम्परिक चीनी वर्ण
+  - translation_iso: jpn
+    name: 繁体字
+  - translation_iso: kor
+    name: 정체자
+  - translation_iso: por
+    name: Chinês tradicional
+  - translation_iso: spa
+    name: caracteres chinos tradicionales
+  - translation_iso: zho
+    name: 繁体字
 ---
 
 The Traditional Han script, also known as Traditional Chinese, developed from the Clerical script, ultimately from the Oracle Bone script, around the 5th century AD. It was used since that time throughout the Chinese-speaking world until the Communist government of China replaced it with the Simplified Han script in 1949. The simplified script is now the official script of the Peoples Republic of China (PRC) and of Singapore, but the traditional characters are still used in Taiwan, Hong Kong and Macau, as well as for aesthetic purposes in the PRC and Singapore.

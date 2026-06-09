@@ -17,6 +17,31 @@ baseline: unspecified
 ligatures: unspecified
 direction: ltr
 direction_notes: LTR (left-to-right)
+translations:
+  - translation_iso: ara
+    name: خط تولونغ سيكي
+    auto: true
+  - translation_iso: deu
+    name: Tolong-Siki-Schrift
+    auto: true
+  - translation_iso: fra
+    name: tolong siki
+  - translation_iso: hin
+    name: तोलोङ सिकि
+  - translation_iso: jpn
+    name: トロン・シキ文字
+    auto: true
+  - translation_iso: kor
+    name: 톨롱 시키 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita Tolong Siki
+  - translation_iso: spa
+    name: tolong siki
+    auto: true
+  - translation_iso: zho
+    name: 托隆西基文
+    auto: true
 ---
 
 Tolong Siki is an alphabetic script written from left to right.

@@ -14,6 +14,28 @@ baseline: bottom
 ligatures: unspecified
 direction: ltr
 direction_notes: "LTR (left-to-right)"
+translations:
+  - translation_iso: ara
+    name: خط مون
+    auto: true
+  - translation_iso: deu
+    name: Moonalphabet
+  - translation_iso: fra
+    name: écriture Moon
+  - translation_iso: hin
+    name: मून लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ムーン・タイプ
+  - translation_iso: kor
+    name: 문 타입
+  - translation_iso: por
+    name: Escrita Moon
+    auto: true
+  - translation_iso: spa
+    name: Escritura Moon
+  - translation_iso: zho
+    name: 穆恩字母
 ---
 
 The Moon script was created in the mid-1800s by William Moon, a blind man living in England, after he became frustrated with the other embossed scripts which were used at the time. Moon became blind as an adult, having already learned to read as a child, and most modern users of the script are also those who have become blind after learning to read printed text and are familiar with the shapes of letters.

@@ -52,6 +52,26 @@ languages:
   - rka
   - smu
   - tpu
+translations:
+  - translation_iso: ara
+    name: أبجدية خميرية
+    auto: true
+  - translation_iso: deu
+    name: Khmer-Schrift
+  - translation_iso: fra
+    name: alphasyllabaire khmer
+  - translation_iso: hin
+    name: खमेर लिपि
+  - translation_iso: jpn
+    name: クメール文字
+  - translation_iso: kor
+    name: 크메르 문자
+  - translation_iso: por
+    name: Alfabeto khmer
+  - translation_iso: spa
+    name: alfabeto camboyano
+  - translation_iso: zho
+    name: 高棉文
 ---
 
 The Khmer script is an abugida, descended from the Brahmic script Pallava. It is used for writing Khmer, the official language of Cambodia. The script is also sometimes used for writing minority languages in Cambodia, such as Brao and Mnong.

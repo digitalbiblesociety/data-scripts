@@ -17,6 +17,30 @@ baseline: centered
 ligatures: unspecified
 direction: vertical (rtl) and horizontal (ltr)
 direction_notes: VERTICAL (RTL) AND HORIZONTAL (LTR)
+translations:
+  - translation_iso: ara
+    name: خط شويشو
+    auto: true
+  - translation_iso: deu
+    name: Shui-Schrift
+    auto: true
+  - translation_iso: fra
+    name: shuishu
+  - translation_iso: hin
+    name: शुईशू लिपि
+    auto: true
+  - translation_iso: jpn
+    name: 水書
+  - translation_iso: kor
+    name: 수 문자
+  - translation_iso: por
+    name: Shuishu
+    auto: true
+  - translation_iso: spa
+    name: escritura shui
+    auto: true
+  - translation_iso: zho
+    name: 水书
 ---
 
 The Shuishu script (also called Sui) is used by the Shui people in the Guizhou province of China.

@@ -22,6 +22,29 @@ fonts:
     provider: "Google Fonts"
 languages:
   - xld
+translations:
+  - translation_iso: ara
+    name: أبجدية ليدية
+    auto: true
+  - translation_iso: deu
+    name: Lydisches Alphabet
+  - translation_iso: fra
+    name: alphabet lydien
+  - translation_iso: hin
+    name: लिडियन लिपि
+    auto: true
+  - translation_iso: jpn
+    name: リュディア文字
+  - translation_iso: kor
+    name: 리디아 문자
+    auto: true
+  - translation_iso: por
+    name: Alfabeto lídio
+    auto: true
+  - translation_iso: spa
+    name: Alfabeto lidio
+  - translation_iso: zho
+    name: 吕底亚字母
 ---
 
 The Lydian script was used between 700 and 200 BC for writing the Lydian language, an ancient Indo-European language spoken in the modern-day Turkish provinces of Manisa and inland İzmir.

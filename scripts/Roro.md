@@ -14,6 +14,26 @@ baseline: bottom
 ligatures: unspecified
 direction: ltr
 direction_notes: boustrophedon
+translations:
+  - translation_iso: ara
+    name: رونغورونغو
+  - translation_iso: deu
+    name: Rongorongo
+  - translation_iso: fra
+    name: rongorongo
+  - translation_iso: hin
+    name: रोंगोरोंगो लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ロンゴロンゴ
+  - translation_iso: kor
+    name: 롱고롱고 문자
+  - translation_iso: por
+    name: Rongorongo
+  - translation_iso: spa
+    name: Rongo rongo
+  - translation_iso: zho
+    name: 朗格朗格
 ---
 
 The Rongorongo script was discovered on Easter Island, in the southeastern Pacific Ocean, in the 19th century. It is thought to have been used by speakers of the Rapanui language, but it is not known whether it was a form of writing proper, or whether it was simply a mnemonic device to aid in the memorization of genealogy, liturgy, choreography and other elements of the Easter Islanders’ daily lives.

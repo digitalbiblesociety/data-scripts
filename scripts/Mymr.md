@@ -80,6 +80,29 @@ languages:
   - tjl
   - tvn
   - vwa
+translations:
+  - translation_iso: ara
+    name: أبجدية بورمية
+    auto: true
+  - translation_iso: deu
+    name: birmanische Schrift
+  - translation_iso: fra
+    name: écriture birmane
+  - translation_iso: hin
+    name: मोन-बर्मी लिपि
+  - translation_iso: jpn
+    name: ビルマ文字
+    auto: true
+  - translation_iso: kor
+    name: 버마 문자
+    auto: true
+  - translation_iso: por
+    name: Alfabeto birmanês
+    auto: true
+  - translation_iso: spa
+    name: alfabeto miagmá
+  - translation_iso: zho
+    name: 緬甸字母
 ---
 
 The Myanmar script was adapted from the Mon script, a descendent of Brahmi, and is found in stone inscriptions dating from the 12th century. It is used for writing the Burmese and Mon languages, both spoken in Myanmar (previously Burma). The two languages differ in how some phonemic values are assigned to letters. The script is also used, with character extensions, to write some of the Karen languages spoken in Myanmar and Thailand.

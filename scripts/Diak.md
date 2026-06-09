@@ -18,6 +18,27 @@ baseline: unspecified
 ligatures: unspecified
 direction: ltr
 direction_notes: LTR (left-to-right)
+translations:
+  - translation_iso: ara
+    name: ديهفس أكورو
+  - translation_iso: deu
+    name: Dives Akuru
+    auto: true
+  - translation_iso: fra
+    name: dives akuru
+  - translation_iso: hin
+    name: दिवेस अकुरु
+  - translation_iso: jpn
+    name: ディヴェ文字
+  - translation_iso: kor
+    name: 디베스 아쿠루 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita Dhives Akuru
+  - translation_iso: spa
+    name: Dhives Akuru
+  - translation_iso: zho
+    name: 島字母
 ---
 
 Dives Akuru (literally “island letters”) was used for writing the Maldivian language prior to the adoption of the Thaana script for this purpose.

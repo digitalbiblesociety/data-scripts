@@ -14,6 +14,26 @@ baseline: bottom
 ligatures: unspecified
 direction: ltr
 direction_notes: "LTR (left-to-right)"
+translations:
+  - translation_iso: ara
+    name: كتابة هيراطيقية
+  - translation_iso: deu
+    name: Hieratische Schrift
+  - translation_iso: fra
+    name: écriture hiératique
+  - translation_iso: hin
+    name: मिस्री हाइरेटिक लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ヒエラティック
+  - translation_iso: kor
+    name: 신관문자
+  - translation_iso: por
+    name: hierático
+  - translation_iso: spa
+    name: escritura hierática
+  - translation_iso: zho
+    name: 僧侣体
 ---
 
 Egyptian Hieratic was a writing system used for writing the Egyptian language. It developed alongside Hieroglyphic writing and was used for administrative and religious texts from approximately 3100 BC until 650 BC.

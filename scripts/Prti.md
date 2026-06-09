@@ -22,6 +22,30 @@ fonts:
     provider: "Google Fonts"
 languages:
   - xpr
+translations:
+  - translation_iso: ara
+    name: الفرثية المنقوشة
+  - translation_iso: deu
+    name: Inschriften-Parthisch
+    auto: true
+  - translation_iso: fra
+    name: parthe des inscriptions
+  - translation_iso: hin
+    name: शिलालेखीय पार्थियन लिपि
+    auto: true
+  - translation_iso: jpn
+    name: 碑文パルティア文字
+    auto: true
+  - translation_iso: kor
+    name: 비문 파르티아 문자
+    auto: true
+  - translation_iso: por
+    name: Parta inscricional
+    auto: true
+  - translation_iso: spa
+    name: parto inscripcional
+  - translation_iso: zho
+    name: 碑铭帕提亚文
 ---
 
 Inscriptional Parthian is one of three related ancient scripts, along with Inscriptional Pahlavi and Psalter Pahlavi, used for writing a number of Iranian and Indo-European languages. All three scripts developed from the Imperial Aramaic script.

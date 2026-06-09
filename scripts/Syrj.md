@@ -23,6 +23,32 @@ fonts:
   - name: "Noto Sans Syriac Western"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Syriac+Western"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: خط سرياني غربي
+  - translation_iso: deu
+    name: westsyrische Schrift
+    auto: true
+  - translation_iso: fra
+    name: écriture syriaque occidentale
+  - translation_iso: hin
+    name: पश्चिमी सीरियाई लिपि
+    auto: true
+  - translation_iso: jpn
+    name: 西方シリア文字
+    auto: true
+  - translation_iso: kor
+    name: 서부 시리아 문자
+    auto: true
+  - translation_iso: por
+    name: Alfabeto siríaco ocidental
+    auto: true
+  - translation_iso: spa
+    name: siríaco occidental
+    auto: true
+  - translation_iso: zho
+    name: 西叙利亚文
+    auto: true
 ---
 
 The Western dialect of the Syriac language is written in a variant of the Syriac script called Western Syriac, Serta, Maronite or, with pejorative connotations, Jacobite. It is one of two styles of Syriac writing which developed in the 6th century following a split in the Syrian church. Prior to this, the Syriac language had been written in the Estrangelo style, from which Western Syriac is derived.

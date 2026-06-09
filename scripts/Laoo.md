@@ -46,6 +46,25 @@ languages:
   - hnj
   - kjg
   - lao
+translations:
+  - translation_iso: ara
+    name: النصي لاو
+  - translation_iso: deu
+    name: laotische Schrift
+  - translation_iso: fra
+    name: écriture laotienne
+  - translation_iso: hin
+    name: लाओ लिपि
+  - translation_iso: jpn
+    name: ラーオ文字
+  - translation_iso: kor
+    name: 라오 문자
+  - translation_iso: por
+    name: Escrita laosiana
+  - translation_iso: spa
+    name: alfabeto laosiano
+  - translation_iso: zho
+    name: 寮文字
 ---
 
 The Lao script is used for writing the Lao language, and is also the official script of a number of minority languages in Laos. The Lao language is closely related to Thai; there is a considerable Lao-speaking population in Thailand who write their language with the Thai script. However, the Lao script underwent a number of reforms which caused significant divergence from the Thai script. When the communist Pathet Lao overthrew the Lao government in 1975, they implemented a final spelling reform which simplified and standardized the script.

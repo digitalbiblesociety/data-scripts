@@ -14,6 +14,31 @@ baseline: bottom
 ligatures: unspecified
 direction: ltr
 direction_notes: "LTR (left-to-right)"
+translations:
+  - translation_iso: ara
+    name: خط لوما
+    auto: true
+  - translation_iso: deu
+    name: Loma-Schrift
+    auto: true
+  - translation_iso: fra
+    name: écriture loma
+  - translation_iso: hin
+    name: लोमा लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ロマ文字
+  - translation_iso: kor
+    name: 로마 문자
+    auto: true
+  - translation_iso: por
+    name: Silabário loma
+    auto: true
+  - translation_iso: spa
+    name: loma
+  - translation_iso: zho
+    name: 洛玛文
+    auto: true
 ---
 
 The Loma script is a syllabary, like some of the other Mande scripts to which it is related (Kpelle, Mende and Vai) and is indigenous to Liberia. Widɔ Zɔbɔ is believed to have had a dream in which he accused God of consigning the Loma people to ignorance by depriving them of a writing system. God subsequently gave him the script on the condition that the Loma people would not forsake their traditions, nor teach any woman to read and write it. Learners were sworn to pass their knowledge on to others, which facilitated the spread of the script, and at one point it was popular for personal correspondence. It has since fallen out of use, in favour of the Latin script.

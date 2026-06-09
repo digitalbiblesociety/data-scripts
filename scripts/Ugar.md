@@ -29,6 +29,26 @@ screen_fonts:
     notes: "Wedge-form Ugaritic suits pixel rendering"
 languages:
   - uga
+translations:
+  - translation_iso: ara
+    name: أبجدية أوغاريتية
+  - translation_iso: deu
+    name: Ugaritische Schrift
+  - translation_iso: fra
+    name: alphabet ougaritique
+  - translation_iso: hin
+    name: उगारिटिक लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ウガリット文字
+  - translation_iso: kor
+    name: 우가리트 문자
+  - translation_iso: por
+    name: Alfabeto ugarítico
+  - translation_iso: spa
+    name: alfabeto ugarítico
+  - translation_iso: zho
+    name: 乌加里特字母
 ---
 
 The Ugaritic script was used from about 1500-1300 BC to write the Ugaritic language, spoken in modern-day Syria. It was also occasionally used for writing documents in the Hurrian language. Visually, the script resembled Cuneiform, with each letter written as one of a combination of short, linear wedges. However, the forms of the letters appear to have been freely invented; derivational relationships with other cuneiform letters have not been established. The script remained relatively stable in form throughout its use, with no significant changes.

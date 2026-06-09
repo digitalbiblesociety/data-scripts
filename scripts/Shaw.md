@@ -29,6 +29,27 @@ screen_fonts:
     notes: "Geometric Shavian letterforms survive low-DPI rendering"
 languages:
   - eng
+translations:
+  - translation_iso: ara
+    name: أبجدية شواني
+    auto: true
+  - translation_iso: deu
+    name: shavisches Alphabet
+  - translation_iso: fra
+    name: alphabet shavien
+  - translation_iso: hin
+    name: शा वर्णमाला
+  - translation_iso: jpn
+    name: ショー文字
+  - translation_iso: kor
+    name: 쇼 문자
+  - translation_iso: por
+    name: Alfabeto shaviano
+    auto: true
+  - translation_iso: spa
+    name: alfabeto shaviano
+  - translation_iso: zho
+    name: 萧伯纳字母
 ---
 
 The Shavian alphabet was created by Kingsley Read as the winning entry in a competition posthumously funded by the Irish playwright George Bernard Shaw. Shaw had become increasingly frustrated by the inconsistent rules of English spelling and provided in his will for a £500 prize to be given to the creator of a new, phonetic alphabet for writing the English language. Read’s creation was judged to be the best of over 450 entries.

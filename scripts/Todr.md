@@ -18,6 +18,31 @@ baseline: bottom
 ligatures: unspecified
 direction: ltr
 direction_notes: LTR (left-to-right)
+translations:
+  - translation_iso: ara
+    name: خط تودري
+    auto: true
+  - translation_iso: deu
+    name: Todhri-Alphabet
+  - translation_iso: fra
+    name: écriture de Todhri
+  - translation_iso: hin
+    name: तोधरी लिपि
+    auto: true
+  - translation_iso: jpn
+    name: トズリ文字
+    auto: true
+  - translation_iso: kor
+    name: 토드리 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita Todhri
+  - translation_iso: spa
+    name: alfabeto todhri
+    auto: true
+  - translation_iso: zho
+    name: 托德里字母
+    auto: true
 ---
 
 Todhri script is attributed to Theodor Haxhifilipi of Elbasan in central Albania, and was used to write the Albanian language.

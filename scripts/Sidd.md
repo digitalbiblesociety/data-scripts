@@ -20,6 +20,26 @@ fonts:
   - name: "Noto Sans Siddham"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Siddham"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: خط سيدهام
+    auto: true
+  - translation_iso: deu
+    name: Siddham
+  - translation_iso: fra
+    name: alphasyllabaire siddham
+  - translation_iso: hin
+    name: सिद्धम
+  - translation_iso: jpn
+    name: 梵字
+  - translation_iso: kor
+    name: 싯담 문자
+  - translation_iso: por
+    name: Escrita siddham
+  - translation_iso: spa
+    name: siddham
+  - translation_iso: zho
+    name: 悉曇文
 ---
 
 Siddham is an extinct Brahmic script which was used between 600-1200 AD for writing Sanskrit. The script originated in southern India but travelled along the silk road to China, Japan and Korea in the form of Buddhist tantra texts. An adaptation of the script is still used in some esoteric Buddhist schools in Japan, where it is called *Bonji*.

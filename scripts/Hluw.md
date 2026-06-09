@@ -23,6 +23,28 @@ fonts:
   - name: "Noto Sans Anatolian Hieroglyphs"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Anatolian+Hieroglyphs"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: هيروغليفية أناضولية
+    auto: true
+  - translation_iso: deu
+    name: luwische Hieroglyphen
+  - translation_iso: fra
+    name: hiéroglyphes anatoliens
+  - translation_iso: hin
+    name: अनातोलियाई चित्रलिपि
+    auto: true
+  - translation_iso: jpn
+    name: アナトリア・ヒエログリフ
+  - translation_iso: kor
+    name: 아나톨리아 상형문자
+    auto: true
+  - translation_iso: por
+    name: Hieróglifos da Anatólia
+  - translation_iso: spa
+    name: Jeroglíficos de Anatolia
+  - translation_iso: zho
+    name: 安納托利亞象形文字
 ---
 
 Anatolian Hieroglyphs were used for writing the Luwian language until the early 7th century. The script has also been called ‘Hittite Hieroglyphs’ as it was once thought that they had been used for writing the Hittite language; however we now know that was not the case.

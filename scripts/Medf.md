@@ -24,6 +24,33 @@ fonts:
     provider: "Google Fonts"
 languages:
   - dmf
+translations:
+  - translation_iso: ara
+    name: ميديفايدرين
+    auto: true
+  - translation_iso: deu
+    name: Medefaidrin-Schrift
+    auto: true
+  - translation_iso: fra
+    name: alphabet médéfaïdrine
+  - translation_iso: hin
+    name: मेडेफ़ाइड्रिन लिपि
+    auto: true
+  - translation_iso: jpn
+    name: メデファイドリン文字
+    auto: true
+  - translation_iso: kor
+    name: 메데파이드린 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita medefaidrin
+    auto: true
+  - translation_iso: spa
+    name: medefaidrin
+    auto: true
+  - translation_iso: zho
+    name: 梅德法伊德林文
+    auto: true
 ---
 
 Medefaidrin is a script created for the Medefaidrin language, an artificial language used by the Oberi Okaime church, an indigenous Christian church located in the Cross-River State of Nigeria. Presently, the religious community numbers 4000 members of whom up to 20 are fluent in the language. The script employs alphabetic cased forms similar to English, with special characters for the first-person pronoun and the conjunction or. A vigesimal numeral system is employed, with special contextual forms for 1, 2, and 3 when combined with other digits.

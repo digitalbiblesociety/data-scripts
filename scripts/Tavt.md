@@ -34,6 +34,30 @@ languages:
   - twh
   - tyr
   - tyt
+translations:
+  - translation_iso: ara
+    name: خط تاي فيت
+    auto: true
+  - translation_iso: deu
+    name: Tai-Viet-Schrift
+    auto: true
+  - translation_iso: fra
+    name: écriture taï viêt
+  - translation_iso: hin
+    name: ताई वियत लिपि
+    auto: true
+  - translation_iso: jpn
+    name: タイ・ヴィエト文字
+  - translation_iso: kor
+    name: 타이비엣 문자
+    auto: true
+  - translation_iso: por
+    name: Abugida tai-viet
+  - translation_iso: spa
+    name: tai viet
+    auto: true
+  - translation_iso: zho
+    name: 傣黯文
 ---
 
 The Tai Viet script is used for writing the Tai Dam, Tai Dón, Tai Daeng, Thai Song and Tày Tac languages spoken in Vietnam, Laos, China and Thailand. Speakers of these languages are also found in the United States, Australia and France. There is significant variation in the orthographic conventions of the Tai languages, as well as in their phonologies, which in turn impacts the orthography. However, a unified, standardized version of the script, with an agreed upon core set of characters, was developed at a UNESCO-sponsored workshop in 2006, and subsequently accepted for encoding in The Unicode Standard.

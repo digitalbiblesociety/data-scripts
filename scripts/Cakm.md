@@ -29,6 +29,28 @@ screen_fonts:
 languages:
   - ccp
   - tnv
+translations:
+  - translation_iso: ara
+    name: خط شاكما
+    auto: true
+  - translation_iso: deu
+    name: Chakma-Schrift
+  - translation_iso: fra
+    name: ojhapath
+  - translation_iso: hin
+    name: चकमा लिपि
+  - translation_iso: jpn
+    name: チャクマ文字
+  - translation_iso: kor
+    name: 차크마 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita chakma
+  - translation_iso: spa
+    name: chakma
+    auto: true
+  - translation_iso: zho
+    name: 查克马文
 ---
 
 The Chakma script (also called Ojhapath, Ojhopath, or Ajhapath) is used for writing the Chakma language spoken in the Chittagong Hill Tracts of Bangladesh and in the Seven Sister States of Northeastern India. There are slight variations in the forms of the letters used in the two countries. The script is related to Mon Khmer and Myanmar, and many of the letters closely resemble Myanmar letters. It is also being adapted and extended for writing Tanchangya, a related language spoken in Bangladesh.

@@ -33,6 +33,30 @@ languages:
   - stu
   - tdd
   - thi
+translations:
+  - translation_iso: ara
+    name: خط تاي لي
+    auto: true
+  - translation_iso: deu
+    name: Tai Le
+  - translation_iso: fra
+    name: taï-le
+  - translation_iso: hin
+    name: ताई ले लिपि
+    auto: true
+  - translation_iso: jpn
+    name: タイ・ナ文字
+  - translation_iso: kor
+    name: 타이 레 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita tai le
+    auto: true
+  - translation_iso: spa
+    name: alfabeto tai le
+    auto: true
+  - translation_iso: zho
+    name: 傣哪文
 ---
 
 The Tai Le script has been used for 700-800 years for writing the Tai Le language (also known as Tai Nüa, Dehong Dai, Tai Mau, Tai Kong, and Chinese Shan), one of the official languages of Dehong in China. The language is also spoken in Thailand, Myanmar and Laos. The script was derived from the Brahmi script, which spread from India with the introduction of Buddhism to Southeast Asia. The script has undergone a number of progressive changes since its inception. In 1954 it was decided that the script was unsuitable for writing the language - there were multiple symbols for representing the same sound, tone was not being accurately represented, and there was no standard for joining the letters in handwritten form. A new version of the script was proposed, and revised again in 1988, in order to resolve some of these problems.

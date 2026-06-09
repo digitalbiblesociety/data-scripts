@@ -18,6 +18,32 @@ baseline: bottom
 ligatures: unspecified
 direction: ltr
 direction_notes: LTR (left-to-right)
+translations:
+  - translation_iso: ara
+    name: وانتشو
+    auto: true
+  - translation_iso: deu
+    name: Wancho-Schrift
+    auto: true
+  - translation_iso: fra
+    name: wantcho
+  - translation_iso: hin
+    name: वांचो लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ワンチョー文字
+    auto: true
+  - translation_iso: kor
+    name: 완초 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita wancho
+    auto: true
+  - translation_iso: spa
+    name: alfabeto wancho
+    auto: true
+  - translation_iso: zho
+    name: 万秋文
 ---
 
 The Wancho script is used to write the Wancho language spoken in India.

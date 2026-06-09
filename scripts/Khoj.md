@@ -28,6 +28,26 @@ languages:
   - pan
   - skr
   - snd
+translations:
+  - translation_iso: ara
+    name: خوجكي
+  - translation_iso: deu
+    name: Khojki-Schrift
+  - translation_iso: fra
+    name: khojkî
+  - translation_iso: hin
+    name: खोजकी
+  - translation_iso: jpn
+    name: ホジャ文字
+  - translation_iso: kor
+    name: 코즈키 문자
+    auto: true
+  - translation_iso: por
+    name: Khojki
+  - translation_iso: spa
+    name: khojki
+  - translation_iso: zho
+    name: 可吉文
 ---
 
 Khojki is a Brahmi-derived abugida related to the Sharada script. It is used by the Khoja people - an ethnic group of largely Ismaili Shia Muslims - for recording religious literature in the Sindhi language. Khojki has been used since at least the 16th century, originally for manuscripts, but later in printed form also. The script has also been used to write other South Asian languages; however, in recent years its use has declined markedly.

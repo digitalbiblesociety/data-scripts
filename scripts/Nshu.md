@@ -25,6 +25,27 @@ fonts:
 languages:
   - hsn
   - zyg
+translations:
+  - translation_iso: ara
+    name: نوشو
+    auto: true
+  - translation_iso: deu
+    name: Nüshu
+  - translation_iso: fra
+    name: nüshu
+  - translation_iso: hin
+    name: नुशू लिपि
+    auto: true
+  - translation_iso: jpn
+    name: 女書
+  - translation_iso: kor
+    name: 여서문자
+  - translation_iso: por
+    name: Nushu
+  - translation_iso: spa
+    name: nü shu
+  - translation_iso: zho
+    name: 女书
 ---
 
 The Nüshu script was used during the late Imperial period (1550-1911) in the Jiangyong region of the Hunan province, China. The script is famous for being the only known writing system to have been invented and used exclusively by women. The word Nüshu literally means womens writing. It was used for writing the Yang Zhuang language. (This language is also called Dong or Tuhua; the latter is a perjorative Han term implying a degenerate form of some superior language.)

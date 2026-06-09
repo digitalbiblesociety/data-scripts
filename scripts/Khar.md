@@ -20,6 +20,26 @@ fonts:
   - name: "Noto Sans Kharoshthi"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Kharoshthi"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: خاروشتي
+    auto: true
+  - translation_iso: deu
+    name: Kharoshthi-Schrift
+  - translation_iso: fra
+    name: kharosthi
+  - translation_iso: hin
+    name: खरोष्ठी
+  - translation_iso: jpn
+    name: カローシュティー文字
+  - translation_iso: kor
+    name: 카로슈티 문자
+  - translation_iso: por
+    name: Kharosthi
+  - translation_iso: spa
+    name: karosti
+  - translation_iso: zho
+    name: 佉卢文
 ---
 
 Early writing in India is associated with three scripts; Indus (Harrapan), Brahmi and Kharoshthi. The Kharoshthi script descended from Aramaic and was used in what is now Northern Pakistan and Eastern Afghanistan during the 4th or 5th century BC. It was used for about 700 years for writing a group of vernacular middle Indo-Aryan dialects collectively termed Prakrit. There has been some evidence that local variants of Kharoshthi writing were used for even longer than this along the Silk Route, but these too later died out without leaving any descendants.

@@ -35,6 +35,25 @@ screen_fonts:
     notes: "Serif variant with clear stroke distinction at small sizes"
 languages:
   - chr
+translations:
+  - translation_iso: ara
+    name: مقاطع شيروكية
+  - translation_iso: deu
+    name: Cherokee-Silbenschrift
+  - translation_iso: fra
+    name: syllabaire cherokee
+  - translation_iso: hin
+    name: चेरौकी लिपि
+  - translation_iso: jpn
+    name: チェロキー文字
+  - translation_iso: kor
+    name: 체로키 문자
+  - translation_iso: por
+    name: Silabário cherokee
+  - translation_iso: spa
+    name: silabario cheroqui
+  - translation_iso: zho
+    name: 切羅基語音節字母
 ---
 
 The Cherokee script was created by a Cherokee man named Sequoyah (also known as George Guess or George Gist) who believed that the key to the colonialists success and power lay within their talking leaves, the written correspondence they used to exchange information and ideas. Although Sequoyah was illiterate, he noted the shapes of the letters in an English Bible and based the shapes of the Cherokee letters on them. For this reason, many of the letters resemble Latin letters and numbers, although there is no relationship between their sounds in English and in Cherokee. Sequoyah spent 12 years devising the Cherokee syllabary, and presented it formally in 1821. It achieved almost instant popularity and by 1824 most Cherokee were literate in the script.

@@ -17,6 +17,25 @@ baseline: centered
 ligatures: none
 direction: ltr
 direction_notes: vertical (LTR)
+translations:
+  - translation_iso: ara
+    name: كتابة المايا
+  - translation_iso: deu
+    name: Maya-Schrift
+  - translation_iso: fra
+    name: hiéroglyphes maya
+  - translation_iso: hin
+    name: माया लिपि
+  - translation_iso: jpn
+    name: マヤ文字
+  - translation_iso: kor
+    name: 마야 문자
+  - translation_iso: por
+    name: Escrita maia
+  - translation_iso: spa
+    name: escritura Maya
+  - translation_iso: zho
+    name: 玛雅象形文字
 ---
 
 Mayan Hieroglyphs are believed to have been used to write the Mesoamerican Mayan languages from the first century BC up until the Spanish conquest in the 1600s. It was used in Southern Mexico, Guatemala and Belize. The script is a logosyllabary; each symbol represented either a morpheme (a word or a meaningful part of a word), or a phonetic syllable. It is thought that the script was originally logographic, but that many of the symbols used for writing monosyllabic words ending in a vowel or a weak consonant came to represent the phonetic elements of those words independent of their meaning, and were later used in a phonetic way to represent units of sound as well as units of meaning. In terms of shape, the symbols comprise abstract forms, human heads - often faces in profile - and hands, and parts of animal bodies

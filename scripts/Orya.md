@@ -36,6 +36,26 @@ screen_fonts:
 languages:
   - ory
   - sat
+translations:
+  - translation_iso: ara
+    name: أوريا
+    auto: true
+  - translation_iso: deu
+    name: Oriya-Schrift
+  - translation_iso: fra
+    name: alphasyllabaire odia
+  - translation_iso: hin
+    name: ओड़िआ लिपि
+  - translation_iso: jpn
+    name: オリヤー文字
+  - translation_iso: kor
+    name: 오리야 문자
+  - translation_iso: por
+    name: oriá
+  - translation_iso: spa
+    name: oriya
+  - translation_iso: zho
+    name: 奥里亚文
 ---
 
 The Odia (formerly Oriya) script is used for writing the Odia language, the official language of the Indian state of Orissa, as well as a number of Dravidian and Munda minority languages spoken in that region. It is also used in Orissa for transcribing Sanskrit texts. The earliest inscriptions in the Odia language have been dated to 1051 AD, written in the Kalinga script from which modern Odia writing is derived.

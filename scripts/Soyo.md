@@ -22,6 +22,27 @@ fonts:
     provider: "Google Fonts"
 languages:
   - cmg
+translations:
+  - translation_iso: ara
+    name: خط سويومبو
+    auto: true
+  - translation_iso: deu
+    name: Sojombo-Schrift
+  - translation_iso: fra
+    name: écriture soyombo
+  - translation_iso: hin
+    name: सोयोंबो लिपि
+  - translation_iso: jpn
+    name: ソヨンボ文字
+  - translation_iso: kor
+    name: 소욤보 문자
+  - translation_iso: por
+    name: Escrita soyombo
+    auto: true
+  - translation_iso: spa
+    name: escritura soyombo
+  - translation_iso: zho
+    name: 索永布文字
 ---
 
 The Soyombo script was developed by the Mongolian monk and scholar Bogdo Zanabazar in 1686 to write Mongolian. According to legend, Zanabazar based the script on letter-like signs he saw in the sky one night. Other theories suggest that the shapes of the letters may have been based on the Ranjana script of Nepal.

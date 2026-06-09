@@ -17,6 +17,33 @@ baseline: bottom
 ligatures: unspecified
 direction: ltr
 direction_notes: LTR (left-to-right)
+translations:
+  - translation_iso: ara
+    name: خط تشيسوي
+    auto: true
+  - translation_iso: deu
+    name: Chisoi-Schrift
+    auto: true
+  - translation_iso: fra
+    name: alphasyllabaire chisoi
+  - translation_iso: hin
+    name: चिसोई लिपि
+    auto: true
+  - translation_iso: jpn
+    name: チソイ文字
+    auto: true
+  - translation_iso: kor
+    name: 치소이 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita chisoi
+    auto: true
+  - translation_iso: spa
+    name: alfabeto chisoi
+    auto: true
+  - translation_iso: zho
+    name: 奇索伊文
+    auto: true
 ---
 
 Chisoi is used in West Bengal, Odisha and Jharkhand for writing the Kurmali / Kudmali language.

@@ -15,6 +15,33 @@ baseline: bottom
 ligatures: required
 direction: ltr
 direction_notes: "LTR (left-to-right)"
+translations:
+  - translation_iso: ara
+    name: خط باغام
+    auto: true
+  - translation_iso: deu
+    name: Bagam-Schrift
+    auto: true
+  - translation_iso: fra
+    name: réservé à l’usage privé (34e)
+  - translation_iso: hin
+    name: बगाम लिपि
+    auto: true
+  - translation_iso: jpn
+    name: バガム文字
+    auto: true
+  - translation_iso: kor
+    name: 바감 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita bagam
+    auto: true
+  - translation_iso: spa
+    name: escritura bagam
+    auto: true
+  - translation_iso: zho
+    name: 巴加姆文字
+    auto: true
 ---
 
 The Bagam script was used for writing the Mengaka language of the Bagam (or Eghap) people in Western Cameroon. The script bears some similarity to the Bamum script, used in a neighbouring region, which has led to speculation that the two scripts developed concurrently from a common source, but did not borrow directly from each other. It was created by the Eghap King Pufong in the late C19th or early C20th, and used for private correspondence and record-keeping, although it is not believed to have ever enjoyed widespread use.

@@ -19,6 +19,30 @@ fonts:
   - name: "Noto Sans Ahom"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Ahom"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: خط أهوم
+    auto: true
+  - translation_iso: deu
+    name: Ahom-Schrift
+    auto: true
+  - translation_iso: fra
+    name: alphasyllabaire âhom
+  - translation_iso: hin
+    name: अहोम लिपि
+    auto: true
+  - translation_iso: jpn
+    name: アーホム文字
+  - translation_iso: kor
+    name: 아홈 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita ahom
+  - translation_iso: spa
+    name: escritura ahom
+    auto: true
+  - translation_iso: zho
+    name: 阿洪姆文
 ---
 
 The Ahom script was used by members of the Tai Ahom community in India for writing the Ahom language, an extinct member of the Tai-Kadai language family. Ahom has been written for at least 500 years, and possibly much longer. The Ahom script is derived from Old Mon, ultimately of Brahmi origin. The Ahom people descended from the Shan ethnic group of Myanmar but migrated to what is now Assam, India, in the 13th century, taking their language, script and cultural traditions with them. There they established the Ahom Kingdom, where Ahom was the official language until the absorption of the region by the British Empire in 1826. After this, the Assamese language and script were promoted and have now almost entirely replaced Ahom. The Ahom language is occasionally used in religious rituals, and there have been some recent revival efforts by the ethnic Ahom community in Assam; however, there were a number of irregularities in the script which have hampered efforts to decipher manuscripts or attain knowledge of the spoken language.

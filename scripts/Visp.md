@@ -14,6 +14,26 @@ baseline: bottom
 ligatures: unspecified
 direction: ltr
 direction_notes: "LTR (left-to-right)"
+translations:
+  - translation_iso: ara
+    name: كلام مرئي
+  - translation_iso: deu
+    name: Visible Speech
+  - translation_iso: fra
+    name: Visible Speech
+  - translation_iso: hin
+    name: विज़िबल स्पीच
+    auto: true
+  - translation_iso: jpn
+    name: 視話法
+  - translation_iso: kor
+    name: 시화법
+  - translation_iso: por
+    name: Visible Speech
+  - translation_iso: spa
+    name: Discurso Visible
+  - translation_iso: zho
+    name: 视话法
 ---
 
 Visible Speech (also called the Physiological Alphabet) was invented in the 1860s by Alexander Melville Bell. Bell studied the science of speech as a young man, and went on to teach elocution at the University of Edinburgh, and later taught deaf-mutes in Washington DC.

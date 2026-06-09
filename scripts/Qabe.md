@@ -14,6 +14,33 @@ baseline: centered
 ligatures: unspecified
 direction: ltr
 direction_notes: vertical (RTL) and horizontal (LTR)
+translations:
+  - translation_iso: ara
+    name: خط باي وين
+    auto: true
+  - translation_iso: deu
+    name: Bowen-Schrift
+    auto: true
+  - translation_iso: fra
+    name: réservé à l’usage privé (31e)
+  - translation_iso: hin
+    name: बोवेन लिपि
+    auto: true
+  - translation_iso: jpn
+    name: 老白文
+    auto: true
+  - translation_iso: kor
+    name: 백문
+    auto: true
+  - translation_iso: por
+    name: Silabário bowen
+    auto: true
+  - translation_iso: spa
+    name: escritura bowen
+    auto: true
+  - translation_iso: zho
+    name: 老白文
+    auto: true
 ---
 
 The Lao Baiwen script was used for writing the Bai languages spoken in China. There are three varieties of Bai, Jianchuan (Central), Dali (Southern), and Bijiang (Northern). It is not agreed upon whether these should be classified as dialects or as distinct languages. The ethnologue separates them into three distinct languages. A Bai script has been in use since around the 8th century, but this was never standardized. A Latin-based orthography has now largely replaced the traditional Lao Baiwen script. This is based on the Central Jianchuan Bai language, but also accommodates features of the other two Bai languages.

@@ -18,6 +18,27 @@ baseline: bottom
 ligatures: none
 direction: ltr
 direction_notes: "LTR (left-to-right)"
+translations:
+  - translation_iso: ara
+    name: رموز بليس
+  - translation_iso: deu
+    name: Bliss-Symbol
+  - translation_iso: fra
+    name: bliss
+  - translation_iso: hin
+    name: ब्लिस प्रतीक लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ブリスシンボル
+  - translation_iso: kor
+    name: 블리스심볼
+  - translation_iso: por
+    name: Semantografia
+  - translation_iso: spa
+    name: símbolos Bliss
+    auto: true
+  - translation_iso: zho
+    name: 布力辛博语
 ---
 
 Blissymbols was developed after the Second World War by Charles Bliss, to facilitate communication between speakers of different languages. It has also been used to help people with severe speech impediments to communicate without the need to speak, although Bliss did not approve of this usage. It is used in particular by people who struggle both to speak and to read or spell. The system consists of 4,000 symbols representing various abstract and concrete concepts. The symbols are not related in any way to the pronunciation of a word, so can be used in conjunction with any spoken language.

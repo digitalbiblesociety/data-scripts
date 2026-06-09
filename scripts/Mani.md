@@ -21,6 +21,26 @@ fonts:
   - name: "Noto Sans Manichaean"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Manichaean"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: الخط المانوي
+  - translation_iso: deu
+    name: Manichäische Schrift
+  - translation_iso: fra
+    name: abjad manichéen
+  - translation_iso: hin
+    name: मानिकेयन लिपि
+    auto: true
+  - translation_iso: jpn
+    name: マニ教文字
+  - translation_iso: kor
+    name: 마니 문자
+  - translation_iso: por
+    name: Escrita maniqueia
+  - translation_iso: spa
+    name: alfabeto maniqueo
+  - translation_iso: zho
+    name: 摩尼字母
 ---
 
 The Manichaean script was derived from the Estrangelo variant of the Syriac script. It was the vehicle employed for the spread of Manichaeanism, an Iranian Gnostic religion created by the Mesopotamian prophet Mani, between the 3rd and 14th centuries. It was Manis desire that his teachings could be made available to speakers of every known language, so the script was used for writing the Middle and Early Modern Persian, Parthian, Sogdian, Bactrian, Ughur and Tocharian languages.

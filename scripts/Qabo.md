@@ -14,6 +14,33 @@ baseline: unspecified
 ligatures: unspecified
 direction: ltr
 direction_notes: unspecified
+translations:
+  - translation_iso: ara
+    name: خط دونغبا الناشي
+    auto: true
+  - translation_iso: deu
+    name: Dongba-Schrift
+    auto: true
+  - translation_iso: fra
+    name: réservé à l’usage privé (41e)
+  - translation_iso: hin
+    name: नाशी डोंगबा लिपि
+    auto: true
+  - translation_iso: jpn
+    name: トンパ文字
+    auto: true
+  - translation_iso: kor
+    name: 동파 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita dongba
+    auto: true
+  - translation_iso: spa
+    name: escritura dongba
+    auto: true
+  - translation_iso: zho
+    name: 纳西东巴文
+    auto: true
 ---
 
 Naxi Dongba is a pictographic script used by the Naxi people of Yunnan Province in China. Its origin is a source of contention: some researchers believe it to have been invented in the 13th century, or possibly as early as the 7th century; others consider it more likely to have been invented as recently as the 18th century. In the Naxi language, the script is called *²ss ³dgyu, ²lv ³dgyu* ‘wood record, stone record’, testifying that the script was once carved on stone and wood. Originally it was used by priests of the Dongba religion to write scriptures, and was passed on down the generations from father to son. The Dongba religious corpus, comprising some one thousand ceremonies, is contained in Dongba script manuscripts. Today the script is still in use in the Lijiang region, not only to write scriptures but also to keep business records. It is also used for everyday communication by some members of the Naxi community and has been called “the only living pictograph in the world”.

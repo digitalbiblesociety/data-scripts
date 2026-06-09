@@ -60,6 +60,27 @@ languages:
   - udg
   - xub
   - yea
+translations:
+  - translation_iso: ara
+    name: مالايالام
+    auto: true
+  - translation_iso: deu
+    name: Malayalam-Schrift
+  - translation_iso: fra
+    name: alphasyllabaire malayâlam
+  - translation_iso: hin
+    name: मलयालम लिपि
+  - translation_iso: jpn
+    name: マラヤーラム文字
+  - translation_iso: kor
+    name: 말라얄람 문자
+  - translation_iso: por
+    name: Malaiala
+    auto: true
+  - translation_iso: spa
+    name: alfabeto malabar
+  - translation_iso: zho
+    name: 馬拉雅拉姆文
 ---
 
 The Malayalam script is used for writing the Malayalam language, the official language of the Indian state of Kerala, and a number of minority languages spoken in India. Until the 16th century Malayalam was written in the *vattezhuthu* script, a Brahmic script which developed alongside Grantha writing, from which the modern Malayalam script descended.

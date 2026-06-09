@@ -27,6 +27,25 @@ screen_fonts:
     notes: "Hieroglyphs need consistent outline weight; Noto provides this"
 languages:
   - egy
+translations:
+  - translation_iso: ara
+    name: هيروغليفية مصرية
+  - translation_iso: deu
+    name: Ägyptische Hieroglyphen
+  - translation_iso: fra
+    name: hiéroglyphes égyptiens
+  - translation_iso: hin
+    name: मिस्री चित्रलिपि
+  - translation_iso: jpn
+    name: ヒエログリフ
+  - translation_iso: kor
+    name: 신성문자
+  - translation_iso: por
+    name: hieróglifos egípcios
+  - translation_iso: spa
+    name: jeroglífico egipcio
+  - translation_iso: zho
+    name: 圣书体
 ---
 
 Egyptian hieroglyphics were used for writing the Egyptian language from about 3000 BC until 400 AD. Symbols resembling hieroglyphs had been used by artisans in the region since 4000 BC, but with no ascertainable linguistic content. The first hieroglyphs were used for making inscriptions on buildings and tombs. Later they came to be used to decorate jewelry, record events on papyrus and to put a royal or divine signature, called a *cartouche* on an item.

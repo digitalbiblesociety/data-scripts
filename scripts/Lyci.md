@@ -23,6 +23,28 @@ fonts:
     provider: "Google Fonts"
 languages:
   - xlc
+translations:
+  - translation_iso: ara
+    name: أبجدية ليقية
+    auto: true
+  - translation_iso: deu
+    name: lykische Schrift
+    auto: true
+  - translation_iso: fra
+    name: alphabet lycien
+  - translation_iso: hin
+    name: लिशियन लिपि
+    auto: true
+  - translation_iso: jpn
+    name: リュキア文字
+  - translation_iso: kor
+    name: 리키아 문자
+  - translation_iso: por
+    name: Alfabeto lício
+  - translation_iso: spa
+    name: alfabeto licio
+  - translation_iso: zho
+    name: 吕基亚字母
 ---
 
 The Lycian alphabet was used during the 5th to 3rd centuries BC for writing the Lycian language, an Indo-European language spoken in what is now Southern Turkey.

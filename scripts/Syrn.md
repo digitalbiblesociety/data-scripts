@@ -23,6 +23,31 @@ fonts:
   - name: "Noto Sans Syriac Eastern"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Syriac+Eastern"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: خط سرياني شرقي
+  - translation_iso: deu
+    name: ostsyrische Schrift
+  - translation_iso: fra
+    name: écriture syriaque orientale
+  - translation_iso: hin
+    name: पूर्वी सीरियाई लिपि
+    auto: true
+  - translation_iso: jpn
+    name: 東方シリア文字
+    auto: true
+  - translation_iso: kor
+    name: 동부 시리아 문자
+    auto: true
+  - translation_iso: por
+    name: Alfabeto siríaco oriental
+    auto: true
+  - translation_iso: spa
+    name: siríaco oriental
+    auto: true
+  - translation_iso: zho
+    name: 东叙利亚文
+    auto: true
 ---
 
 The Eastern Syriac script (also called Madnhaya, Swadaya, Assyrian, Chaldean, or Nestorian) is used for writing the East Syriac dialect, now extinct outside of the Syriac Church, and for the Eastern Neo-Aramaic languages Koy Sanjaq Surat, Senaya, and Hertevin. The script is closely related to the older Estrangelo style of Syriac writing, from which it is derived. Around the 6th century a schism in the Syrian church saw those in the West generally becoming Jacobite Christians and those in the East generally becoming Nestorian Christians. As the two groups diverged, so did their writing styles, until there were two distinct but related variants of the script.

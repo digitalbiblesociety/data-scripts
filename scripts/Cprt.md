@@ -27,6 +27,27 @@ screen_fonts:
     notes: "Best available hinted Cypriot for screen use"
 languages:
   - grc
+translations:
+  - translation_iso: ara
+    name: مقطعية قبرصية
+    auto: true
+  - translation_iso: deu
+    name: Kyprische Schrift
+  - translation_iso: fra
+    name: syllabaire chypriote
+  - translation_iso: hin
+    name: साइप्रियट लिपि
+    auto: true
+  - translation_iso: jpn
+    name: キュプロス音節文字
+  - translation_iso: kor
+    name: 키프로스 음절문자
+  - translation_iso: por
+    name: Silabário cipriota
+  - translation_iso: spa
+    name: silabario chipriota
+  - translation_iso: zho
+    name: 塞浦路斯音节文字
 ---
 
 The Cypriot script was used from approximately the 11th to the 4th centuries BC, for writing the Greek language in Cyprus. It descended from the Linear A script, and is closely related to the Linear B script, but has no visual or structural relationship to the Greek alphabet. The script was used primarily for record keeping, not for literary purposes.

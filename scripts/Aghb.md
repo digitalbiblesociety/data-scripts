@@ -19,6 +19,29 @@ fonts:
   - name: "Noto Sans Caucasian Albanian"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Caucasian+Albanian"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: أبجدية ألبانية قوقازية
+    auto: true
+  - translation_iso: deu
+    name: alwanische Schrift
+    auto: true
+  - translation_iso: fra
+    name: écriture albanienne
+  - translation_iso: hin
+    name: काकेशियाई अल्बानियाई लिपि
+    auto: true
+  - translation_iso: jpn
+    name: アルバニア文字
+  - translation_iso: kor
+    name: 캅카스 알바니아 문자
+    auto: true
+  - translation_iso: por
+    name: Alfabeto cáucaso-albanês
+  - translation_iso: spa
+    name: Alfabeto albanés caucásico
+  - translation_iso: zho
+    name: 高加索阿尔巴尼亚文
 ---
 
 The Caucasian Albanian script was used to write the language of Caucasian Albania (which is not the same as present-day European Albania). The Caucasian Albanian language was a dialect of Old Udi, which is closely related to the Eastern Samur branch of Lezgian.

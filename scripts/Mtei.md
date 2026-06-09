@@ -34,6 +34,28 @@ screen_fonts:
 languages:
   - mni
   - omp
+translations:
+  - translation_iso: ara
+    name: ميتي ماييك
+    auto: true
+  - translation_iso: deu
+    name: Meitei-Mayek
+    auto: true
+  - translation_iso: fra
+    name: meitei mayek
+  - translation_iso: hin
+    name: मेइतेइ मायेक लिपि
+  - translation_iso: jpn
+    name: メイテイ文字
+  - translation_iso: kor
+    name: 메이테이 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita meitei mayek
+  - translation_iso: spa
+    name: alfabeto meitei
+  - translation_iso: zho
+    name: 曼尼普尔文
 ---
 
 The Meetei Mayek script is used for writing the Meetei (also called Manipuri) language spoken by about 1,400,000 people in India, primarily the state of Manipur, Bangladesh, and Myanmar. The language has been largely written in the Bengali script since the 18th century, but Meetei Mayek writing has experienced a resurgence in the last hundred years. The origins of the script are controversial, most of the early documents having been destroyed in the 18th century. Some sources claim it has been used for almost 4,000 years, and others suggest it derived from the Bengali script as recently as the 17th century.

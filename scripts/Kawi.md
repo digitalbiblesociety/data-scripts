@@ -18,6 +18,27 @@ baseline: unspecified
 ligatures: unspecified
 direction: ltr
 direction_notes: LTR (left-to-right)
+translations:
+  - translation_iso: ara
+    name: نص كاوي
+  - translation_iso: deu
+    name: Kawi-Schrift
+    auto: true
+  - translation_iso: fra
+    name: écriture kawi
+  - translation_iso: hin
+    name: कवि लिपि
+  - translation_iso: jpn
+    name: カウィ文字
+  - translation_iso: kor
+    name: 카위 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita javanesa antiga
+  - translation_iso: spa
+    name: alfabeto kawi
+  - translation_iso: zho
+    name: 古卡维文
 ---
 
 The Kawi script descended from the Grantha script around the 8th century BC and was used across the islands of Borneo, Java, Bali, and Sumatra.

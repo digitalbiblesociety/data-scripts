@@ -18,6 +18,29 @@ baseline: bottom
 ligatures: unspecified
 direction: ltr
 direction_notes: LTR (left-to-right)
+translations:
+  - translation_iso: ara
+    name: أبجدية فيثكوكي
+    auto: true
+  - translation_iso: deu
+    name: Vithkuqi-Alphabet
+  - translation_iso: fra
+    name: alphabet vithkuqi
+  - translation_iso: hin
+    name: विथकुकी लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ビタクチェ文字
+    auto: true
+  - translation_iso: kor
+    name: 비트쿠치 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita Beitha Kukju
+  - translation_iso: spa
+    name: alfabeto Vithkuqi
+  - translation_iso: zho
+    name: 維斯庫奇文
 ---
 
 Büthakukye was an alphabetic script invented around 1840 for writing the Albanian language.

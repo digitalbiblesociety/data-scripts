@@ -25,6 +25,30 @@ languages:
   - kvr
   - ljp
   - rej
+translations:
+  - translation_iso: ara
+    name: خط ريجانغ
+    auto: true
+  - translation_iso: deu
+    name: Rejang-Schrift
+  - translation_iso: fra
+    name: écriture rejang
+  - translation_iso: hin
+    name: रेजांग लिपि
+    auto: true
+  - translation_iso: jpn
+    name: レジャン文字
+  - translation_iso: kor
+    name: 레장 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita rejang
+    auto: true
+  - translation_iso: spa
+    name: escritura rejang
+    auto: true
+  - translation_iso: zho
+    name: 勒姜字母
 ---
 
 The Rejang (also known as the Kaganga or Redjang) script is used to write the 5 Rejang dialects spoken collectively by about 200-250,000 people on the Indonesian island of Sumatra, and the Kerinci and Lampung languages of the same region. The script is thought to pre-date the introduction of Islam in the C12th to the area, although the earliest attested document has been dated to the mid C18th. It is traditionally written on bamboo, buffalo horn, bark or copper plates. An abugida of Brahmic derivation, the script comprises 23 consonant letters each with an inherent a vowel. Any of 12 diacritics can be used to modify the quality of the vowel. A further diacritic is used to mute the inherent vowel in a consonant-final syllable. The script is somewhat defective in that it does not allow for the representation of diphthongs, which occur frequently in spoken Rejang. Consonants likewise cannot form clusters.

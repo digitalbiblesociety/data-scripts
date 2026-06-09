@@ -22,6 +22,32 @@ fonts:
   - name: "Noto Sans Zanabazar Square"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Zanabazar+Square"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: خط زانابازار المربع
+    auto: true
+  - translation_iso: deu
+    name: Zanabazar-Quadratschrift
+    auto: true
+  - translation_iso: fra
+    name: écriture carrée zanabazar
+  - translation_iso: hin
+    name: ज़नाबाज़ार वर्गाकार लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ザナバザル方形文字
+    auto: true
+  - translation_iso: kor
+    name: 자나바자르 사각형 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita quadrada de Zanabazar
+    auto: true
+  - translation_iso: spa
+    name: escritura cuadrada de Zanabazar
+    auto: true
+  - translation_iso: zho
+    name: 札那巴札尔方形字母
 ---
 
 The Zanabazar Square script is also known as the Mongolian Square script. It is named after its creator, Zanabazar, the first spiritual leader of Tibetan Buddhism in Mongolia, who also developed the Soyombo script. The script has also been called the Mongolian Horizontal Script or Xawtaa Dorboljin. It was used for writing the Mongolian, Sanskrit and Tibetan languages. The Zanabazar Square script was inspired by the Tibetan script and has graphical similarities to Phags-pa and its variant forms.

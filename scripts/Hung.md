@@ -26,6 +26,26 @@ screen_fonts:
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Old+Hungarian"
     provider: "Google Fonts"
     notes: "Best available for Old Hungarian Runes at screen sizes"
+translations:
+  - translation_iso: ara
+    name: أبجدية روفاش
+  - translation_iso: deu
+    name: altungarische Schrift
+  - translation_iso: fra
+    name: runique hongrois
+  - translation_iso: hin
+    name: प्राचीन हंगेरियाई लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ロヴァーシュ文字
+  - translation_iso: kor
+    name: 로바쉬 문자
+  - translation_iso: por
+    name: runas húngaras
+  - translation_iso: spa
+    name: alfabeto húngaro antiguo
+  - translation_iso: zho
+    name: 古匈牙利字母
 ---
 
 The Old Hungarian script (in Hungarian *rovásírás*) is the earliest known writing system amongst the Uralic languages. As early as the 6th century, Chinese accounts noted the Hungarian custom of writing with incised marks on small wooden tablets. The script may be derived from Old Turkic writing.

@@ -15,6 +15,27 @@ baseline: bottom
 ligatures: optional
 direction: ltr
 direction_notes: "LTR (left-to-right)"
+translations:
+  - translation_iso: ara
+    name: تينغوار
+    auto: true
+  - translation_iso: deu
+    name: Tengwar
+  - translation_iso: fra
+    name: tengwar
+  - translation_iso: hin
+    name: तेंगवार लिपि
+    auto: true
+  - translation_iso: jpn
+    name: テングワール
+  - translation_iso: kor
+    name: 텡과르
+  - translation_iso: por
+    name: Tengwar
+  - translation_iso: spa
+    name: tengwar
+  - translation_iso: zho
+    name: 腾格瓦字母
 ---
 
 The Tengwar script was created by J.R.R. Tolkein in the 1920s or ‘30s, and popularized in his fictional novels such as The Lord of the Rings trilogy. The script is used for writing a number of the languages of Middle-earth, where the novels are set.

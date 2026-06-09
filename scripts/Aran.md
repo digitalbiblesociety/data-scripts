@@ -48,6 +48,25 @@ languages:
   - skr
   - som
   - urd
+translations:
+  - translation_iso: ara
+    name: نستعليق
+  - translation_iso: deu
+    name: Nastaʿlīq
+  - translation_iso: fra
+    name: nastaliq
+  - translation_iso: hin
+    name: नस्तालीक़
+  - translation_iso: jpn
+    name: ナスタアリーグ体
+  - translation_iso: kor
+    name: 나스탈리크체
+  - translation_iso: por
+    name: "Escrita nasta'liq"
+  - translation_iso: spa
+    name: nastaliq
+  - translation_iso: zho
+    name: 波斯体
 ---
 
 The Nastaliq variant of Arabic script is a cursive script, written horizontally but at a sloping angle where the longer the sequence of characters is in a calligraphically-connected cluster, the taller it becomes. It has short verticals and long horizontal strokes. Due to the slope and calligraphic style, placement of nuqtas (dots) on the base characters is forced to vary quite a bit among different letters and even different forms of the same letter. Words are separated by a space. 

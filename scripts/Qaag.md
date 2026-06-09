@@ -14,6 +14,33 @@ baseline: centered
 ligatures: unspecified
 direction: ltr
 direction_notes: other
+translations:
+  - translation_iso: ara
+    name: كتابة إرسو شابا التصويرية
+    auto: true
+  - translation_iso: deu
+    name: Ersu-Shaba-Bilderschrift
+    auto: true
+  - translation_iso: fra
+    name: réservé à l’usage privé (7e)
+  - translation_iso: hin
+    name: एर्सु शाबा चित्रलिपि
+    auto: true
+  - translation_iso: jpn
+    name: アルス・シャパ文字
+    auto: true
+  - translation_iso: kor
+    name: 얼수 샤바 그림문자
+    auto: true
+  - translation_iso: por
+    name: Escrita pictográfica ersu shaba
+    auto: true
+  - translation_iso: spa
+    name: escritura pictográfica ersu shaba
+    auto: true
+  - translation_iso: zho
+    name: 尔苏沙巴文
+    auto: true
 ---
 
 The Ersu language is a Sino-Tibetan language spoken by about 20,000 people in China, of whom approximately 500 are monolingual in the language. The language is largely unwritten; it is thought that only ten people are literate in the Ersu script, called Ersu Shaba Picture Writing. It is not known how long Ersu Shaba Picture Writing has been in use; some Ersu speakers estimate ten generations, others, several tens of generations. The script was originally used by religious specialists called *shaba* for divination and healing incantations.

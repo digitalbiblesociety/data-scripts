@@ -56,6 +56,27 @@ languages:
   - vmd
   - xub
   - yea
+translations:
+  - translation_iso: ara
+    name: كانادا
+    auto: true
+  - translation_iso: deu
+    name: Kannada-Schrift
+  - translation_iso: fra
+    name: écriture kannara
+  - translation_iso: hin
+    name: कन्नड लिपि
+  - translation_iso: jpn
+    name: カンナダ文字
+  - translation_iso: kor
+    name: 칸나다 문자
+  - translation_iso: por
+    name: Escrita canaresa
+    auto: true
+  - translation_iso: spa
+    name: alfabeto canarés
+  - translation_iso: zho
+    name: 卡纳达文
 ---
 
 The Kannada script is used for writing the Kannada language spoken by over 35 million people in southern India. It is also used for writing Konkani, a South Indian language with over 3 million speakers, Tulu, with almost 2 million speakers, and a number of south Indian minority languages including Badaga, Kudiya and Paniya. The script is closely related to Telugu writing; both languages were written using the Old Kanarese script until the 1500s when it diverged into two distinct varieties. The script was standardized in the 19th century under the influence of Christian mission organizations, who established printing presses for printing books in the Kannada language.

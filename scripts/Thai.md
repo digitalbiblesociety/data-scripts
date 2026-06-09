@@ -100,6 +100,25 @@ languages:
   - ugo
   - urk
   - yoy
+translations:
+  - translation_iso: ara
+    name: الخط التايلندي
+  - translation_iso: deu
+    name: Thailändische Schrift
+  - translation_iso: fra
+    name: alphasyllabaire thaï
+  - translation_iso: hin
+    name: थाई लिपि
+  - translation_iso: jpn
+    name: タイ文字
+  - translation_iso: kor
+    name: 타이 문자
+  - translation_iso: por
+    name: alfabeto tailandês
+  - translation_iso: spa
+    name: alfabeto tailandés
+  - translation_iso: zho
+    name: 泰文字
 ---
 
 The Thai script is used primarily for writing the Thai language, as well as Northern Thai, Northeastern Thai, Southern Thai, and Thai Song, which are separate languages. It is also used to write a number of minority languages in Thailand, Laos and China, as well as Pali, which is widely used in Buddhist temples and monasteries. Both the Thai language and script are closely related to Laotian. The script is of Indic origin, derived from Old Khmer.

@@ -22,6 +22,25 @@ fonts:
     provider: "Google Fonts"
 languages:
   - arc
+translations:
+  - translation_iso: ara
+    name: أبجدية أرامية
+  - translation_iso: deu
+    name: aramäische Schrift
+  - translation_iso: fra
+    name: alphabet araméen impérial
+  - translation_iso: hin
+    name: आरमेइक लिपि
+  - translation_iso: jpn
+    name: アラム文字
+  - translation_iso: kor
+    name: 아람 문자
+  - translation_iso: por
+    name: alfabeto aramaico
+  - translation_iso: spa
+    name: alfabeto arameo
+  - translation_iso: zho
+    name: 亞蘭字母
 ---
 
 The Aramaic script was used for writing the Aramaic language, which was the trade language of the Middle East from about 1000 BC to about 1000 AD. Aramaic writing is derived from the Phoenician script. Because the evolution from one to the other was a continuous process over about 2000 years it is difficult to divide it neatly into uniquely Phoenician and uniquely Aramaic blocks; however, it is generally agreed that a divergence into two distinct scripts was evident by about the 8th century BC. Both the Phoenician and Aramaic scripts were the antecedents of a large and geographically diverse family of writing systems. Many of the scripts used today for writing Indo-European languages are part of this family. Again, because the two scripts were so closely related it is not clear exactly which writings systems descended from each. Conventionally, the scripts used in Western Europe and the Mediterranean are called Phoenician-derived and those used in the Middle East and Central/South Asia are called Aramaic-derived.

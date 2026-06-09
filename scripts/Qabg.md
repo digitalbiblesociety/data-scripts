@@ -14,6 +14,33 @@ baseline: bottom
 ligatures: unspecified
 direction: ltr
 direction_notes: "LTR (left-to-right)"
+translations:
+  - translation_iso: ara
+    name: هيروغليفية ميكماك
+    auto: true
+  - translation_iso: deu
+    name: "Mi'kmaq-Hieroglyphen"
+    auto: true
+  - translation_iso: fra
+    name: réservé à l’usage privé (33e)
+  - translation_iso: hin
+    name: मिकमाक चित्रलिपि
+    auto: true
+  - translation_iso: jpn
+    name: ミクマク象形文字
+    auto: true
+  - translation_iso: kor
+    name: 미크맥 상형문자
+    auto: true
+  - translation_iso: por
+    name: Hieróglifos micmac
+    auto: true
+  - translation_iso: spa
+    name: jeroglíficos micmac
+    auto: true
+  - translation_iso: zho
+    name: 米克马克象形文字
+    auto: true
 ---
 
 Micmac (also Míkmaq, Mikmaq, or Mikmaw) is an Eastern Algonquin language spoken by about 9,000 people in Quebec, New Brunswick and Nova Scotia in Canada, and by about 300 in the United States. It is now written almost exclusively in the Latin script, but was previously written using Micmac hieroglyphics, also known as Kauder ideograms.

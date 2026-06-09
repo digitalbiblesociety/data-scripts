@@ -23,6 +23,32 @@ fonts:
   - name: "Noto Sans Syriac Eastern"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Syriac+Eastern"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: خط أسطرنجيلي
+  - translation_iso: deu
+    name: Estrangelo
+    auto: true
+  - translation_iso: fra
+    name: syriaque (variante estranghélo)
+  - translation_iso: hin
+    name: एस्त्रांगेला सीरियाई लिपि
+    auto: true
+  - translation_iso: jpn
+    name: シリア文字エストランゲロ書体
+    auto: true
+  - translation_iso: kor
+    name: 에스트랑겔로식 시리아 문자
+    auto: true
+  - translation_iso: por
+    name: Alfabeto siríaco estrangelo
+    auto: true
+  - translation_iso: spa
+    name: siríaco estrangelo
+    auto: true
+  - translation_iso: zho
+    name: 福音体叙利亚文
+    auto: true
 ---
 
 Estrangelo is the oldest form of the Syriac script. The earliest Syriac language inscriptions, dating from the 1st or 2nd century AD were written in a cursive Aramaic Palmyrene script. By the 5th century AD, when the oldest extant Syriac manuscript was written, this had developed into the more formalized Estrangelo script. Estrangelo is also the name for the classical Aramaic dialect of Edessa (now Sanliurfa, Turkey). This is the dialect which became the *lingua franca* of ancient Christianity and which developed into the modern Syriac language.

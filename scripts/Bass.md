@@ -21,6 +21,28 @@ fonts:
     provider: "Google Fonts"
 languages:
   - bsq
+translations:
+  - translation_iso: ara
+    name: خط باسا فاه
+    auto: true
+  - translation_iso: deu
+    name: Bassa-Schrift
+  - translation_iso: fra
+    name: alphabet bassa
+  - translation_iso: hin
+    name: बासा वाह लिपि
+    auto: true
+  - translation_iso: jpn
+    name: バサ文字
+  - translation_iso: kor
+    name: 바사바흐 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita bassa vah
+  - translation_iso: spa
+    name: Alfabeto vah
+  - translation_iso: zho
+    name: 巴萨哇文字
 ---
 
 The Bassa Vah script is used to write the Bassa language spoken in Liberia and Sierra Leone, and by Bassa speakers in Brazil and the Caribbean. The name originated from the Bassa word Vah, meaning to throw a sign; the script developed from the earlier Bassa communication system of signs made from chewed leaves or carved into trees and left in set locations where they would be found and interpreted. As this system developed, it was employed by the Bassa people to avoid slave traders, so was suppressed by colonial powers and became almost extinct.

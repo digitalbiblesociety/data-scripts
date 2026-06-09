@@ -18,6 +18,31 @@ baseline: bottom
 ligatures: unspecified
 direction: ltr
 direction_notes: LTR (left-to-right)
+translations:
+  - translation_iso: ara
+    name: خط توتو
+    auto: true
+  - translation_iso: deu
+    name: Toto
+  - translation_iso: fra
+    name: toto
+  - translation_iso: hin
+    name: टोटो लिपि
+    auto: true
+  - translation_iso: jpn
+    name: トト文字
+    auto: true
+  - translation_iso: kor
+    name: 토토 문자
+    auto: true
+  - translation_iso: por
+    name: Alfabeto toto
+  - translation_iso: spa
+    name: alfabeto toto
+    auto: true
+  - translation_iso: zho
+    name: 托托字母
+    auto: true
 ---
 
 The Toto (txo) language has a population of only 1500 living in a single jungle village in India near Bhutan.

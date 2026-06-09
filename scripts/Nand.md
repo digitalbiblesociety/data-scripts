@@ -18,6 +18,30 @@ baseline: unspecified
 ligatures: unspecified
 direction: ltr
 direction_notes: LTR (left-to-right)
+translations:
+  - translation_iso: ara
+    name: نانديناغاري
+    auto: true
+  - translation_iso: deu
+    name: Nandinagari
+    auto: true
+  - translation_iso: fra
+    name: nandinâgarî
+  - translation_iso: hin
+    name: नन्दिनगरी
+  - translation_iso: jpn
+    name: ナンディナーガリー文字
+  - translation_iso: kor
+    name: 난디나가리 문자
+    auto: true
+  - translation_iso: por
+    name: Nandinagari
+    auto: true
+  - translation_iso: spa
+    name: nandinagari
+    auto: true
+  - translation_iso: zho
+    name: 难提城文
 ---
 
 The Nandinagari script was used in South India between the 8th and 19th centuries for writing manuscripts and inscriptions relating to philosophy, science and the arts in the Sanskrit language.

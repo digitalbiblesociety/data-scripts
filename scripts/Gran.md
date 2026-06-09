@@ -24,6 +24,27 @@ fonts:
 languages:
   - oty
   - san
+translations:
+  - translation_iso: ara
+    name: خط غرانتا
+    auto: true
+  - translation_iso: deu
+    name: Grantha-Schrift
+  - translation_iso: fra
+    name: grantha
+  - translation_iso: hin
+    name: ग्रन्थ लिपि
+  - translation_iso: jpn
+    name: グランタ文字
+  - translation_iso: kor
+    name: 그란타 문자
+    auto: true
+  - translation_iso: por
+    name: Grantha
+  - translation_iso: spa
+    name: Escritura grantha
+  - translation_iso: zho
+    name: 古兰塔文
 ---
 
 The Grantha script was designed for writing sacred texts in the Sanskrit language. The script is thought to be based on the stone-age cave inscriptions from the Chera dynasty, and to have gone through three stages of development; Early, Middle and Modern. The only examples of Early or Middle Grantha are from odd words interspersed with Tamil in inscriptions. The earliest inscription written entirely in Grantha has been dated to 1383, and is written in the most modern form of the script.

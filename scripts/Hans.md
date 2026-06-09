@@ -51,6 +51,25 @@ languages:
   - wuu
   - yue
   - zha
+translations:
+  - translation_iso: ara
+    name: حروف صينية مبسطة
+  - translation_iso: deu
+    name: Kurzzeichen
+  - translation_iso: fra
+    name: sinogrammes simplifiés
+  - translation_iso: hin
+    name: सरलीकृत चीनी वर्ण
+  - translation_iso: jpn
+    name: 簡体字
+  - translation_iso: kor
+    name: 간체자
+  - translation_iso: por
+    name: caracteres chineses simplificados
+  - translation_iso: spa
+    name: caracteres chinos simplificados
+  - translation_iso: zho
+    name: 简化字
 ---
 
 Simplified Han, also called Simplified Chinese, is the official script of the Peoples Republic of China (PRC) and Singapore. It is used for writing the varieties of the Chinese language spoken in these place. There is some debate as to whether varieties of Chinese (many of which are mutually unintelligible) should be classified as separate languages or dialects of a single language. Speakers of Chinese tend to perceive them as dialects, but some linguists consider this identification to be inappropriate. Given the high level of internal variation in the spoken language, it is the written form which has provided a means for unifying Chinese culture, as the same characters are used for representing the same concepts across dialects/languages. There are two styles of Chinese characters; traditional and simplified. The traditional form has been used since the 5th century AD, and the simplified form is generally associated with the formation of the PRC in 1949, who introduced the script in an effort to increase literacy, although some non-standard simplified forms existed long before this time.

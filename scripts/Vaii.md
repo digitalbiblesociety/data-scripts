@@ -30,6 +30,26 @@ screen_fonts:
     notes: "Rounded Vai syllabary suits pixel rendering well"
 languages:
   - vai
+translations:
+  - translation_iso: ara
+    name: نظام الكتابة المقطعية للفاي
+  - translation_iso: deu
+    name: Vai-Schrift
+  - translation_iso: fra
+    name: syllabaire vaï
+  - translation_iso: hin
+    name: वाई लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ヴァイ文字
+  - translation_iso: kor
+    name: 바이 문자
+  - translation_iso: por
+    name: Silabário vai
+  - translation_iso: spa
+    name: Silabario vai
+  - translation_iso: zho
+    name: 瓦伊音節文字
 ---
 
 The Vai script was created by Mɔmɔlu Duwalu Bukɛlɛ in the 1830s to represent the Vai language spoken by about 104,000 in what is now Liberia, and about 15,000 in Sierra Leone. Tradition states that, while Bukɛlɛ was working as a messenger on a Portuguese ship, he became curious about the written messages he carried, which enabled the recipients to understand the captains wishes without hearing his spoken words. When he returned home, he had a dream in which a tall white man revealed a number of symbols which could be used to write the Vai language. Upon waking, he wrote these symbols down.

@@ -15,6 +15,31 @@ baseline: bottom
 ligatures: unspecified
 direction: ltr
 direction_notes: "LTR (left-to-right)"
+translations:
+  - translation_iso: ara
+    name: خط ليكي
+    auto: true
+  - translation_iso: deu
+    name: Leke-Schrift
+    auto: true
+  - translation_iso: fra
+    name: léké
+  - translation_iso: hin
+    name: लेके लिपि
+    auto: true
+  - translation_iso: jpn
+    name: レーケー文字
+  - translation_iso: kor
+    name: 레케 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita leke
+    auto: true
+  - translation_iso: spa
+    name: leke
+  - translation_iso: zho
+    name: 莱克文
+    auto: true
 ---
 
 The Leke are a messianic Buddhist sect established in 1860, who live in villages in Myanmar in the Megatha Forest complex, on either side of the border around Three Pagodas Pass, and in the Gwe Ka Baw (Zwe Kabin) area, near Pa’an. Their language, Eastern Pwo Karen, is spoken by 1,050,000 people in Myanmar and Thailand. It is normally written in the Myanmar or Thai scripts, but the Leke use their own script.

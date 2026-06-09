@@ -14,6 +14,29 @@ status: Fictional
 baseline: bottom
 direction: ltr
 direction_notes: "LTR (left-to-right)"
+translations:
+  - translation_iso: ara
+    name: كيرث
+    auto: true
+  - translation_iso: deu
+    name: Certar
+  - translation_iso: fra
+    name: cirth
+  - translation_iso: hin
+    name: किर्थ लिपि
+    auto: true
+  - translation_iso: jpn
+    name: キアス
+  - translation_iso: kor
+    name: 키르스 문자
+    auto: true
+  - translation_iso: por
+    name: Cirth
+    auto: true
+  - translation_iso: spa
+    name: cirth
+  - translation_iso: zho
+    name: 切斯文
 ---
 
 The Cirth script was created by J. R. R. Tolkien for writing the elvish and dwarvish languages spoken in the mythological world of Middle-earth. The shapes of the Cirth are based on the Futhark runes, and they are used in Middle-earth for writing inscriptions on wood and stone, in the same way that runes have been used in the real world.

@@ -120,6 +120,25 @@ languages:
   - yue
   - zsm
   - zul
+translations:
+  - translation_iso: ara
+    name: بريل
+  - translation_iso: deu
+    name: Brailleschrift
+  - translation_iso: fra
+    name: écriture braille
+  - translation_iso: hin
+    name: ब्रेल पद्धति
+  - translation_iso: jpn
+    name: 点字
+  - translation_iso: kor
+    name: 점자
+  - translation_iso: por
+    name: Braille
+  - translation_iso: spa
+    name: braille
+  - translation_iso: zho
+    name: 盲文
 ---
 
 The Braille script was created in 1821 by the Frenchman Louis Braille, who had become blind at age three. The system is based on a code called night writing, which had been developed by Charles Barbier to enable soldiers to communicate silently and without the need for a light. Barbier’s system used letters comprised of up to twelve raised dots, and proved too complex to be useful to the military.

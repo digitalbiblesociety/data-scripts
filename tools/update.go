@@ -36,15 +36,31 @@ type ghEntry struct {
 
 func main() {
 	var (
-		dir      = flag.String("dir", "scripts", "directory holding local <Code>.md files")
-		dryRun   = flag.Bool("dry-run", false, "list new scripts without writing")
-		only     = flag.String("only", "", "comma-separated codes to restrict to (e.g. 'Vith,Toto')")
-		validate = flag.Bool("validate", false, "validate frontmatter of all local files against schema (no network)")
+		dir          = flag.String("dir", "scripts", "directory holding local <Code>.md files")
+		dryRun       = flag.Bool("dry-run", false, "list new scripts without writing")
+		only         = flag.String("only", "", "comma-separated codes to restrict to (e.g. 'Vith,Toto')")
+		validate     = flag.Bool("validate", false, "validate frontmatter of all local files against schema (no network)")
+		translations = flag.Bool("translations", false, "populate translations[] from Wikidata labels")
+		force        = flag.Bool("force", false, "bypass the monthly on-disk Wikidata cache (-translations mode)")
+		missing      = flag.Bool("missing", false, "print JSON of translation targets still missing per script (no network)")
+		fill         = flag.String("fill", "", "merge LLM/MT translation proposals from a JSON file as auto: true entries")
 	)
 	flag.Parse()
 
 	if *validate {
 		os.Exit(runValidate(*dir))
+	}
+
+	if *missing {
+		os.Exit(runMissing(*dir))
+	}
+
+	if *fill != "" {
+		os.Exit(runFill(*dir, *fill, *only, *dryRun))
+	}
+
+	if *translations {
+		os.Exit(runTranslations(*dir, *only, *dryRun, *force))
 	}
 
 	client := &http.Client{Timeout: 30 * time.Second}
@@ -451,6 +467,7 @@ var canonicalOrder = []string{
 	"fonts",
 	"screen_fonts",
 	"languages",
+	"translations",
 }
 
 var (
@@ -588,7 +605,7 @@ func validateValue(e fmEntry) string {
 
 	// Sequences (fonts, screen_fonts) — we accept them if the key is allowed
 	// to be a sequence in the schema and the lines beneath looked list-ish.
-	if e.key == "fonts" || e.key == "screen_fonts" || e.key == "languages" {
+	if e.key == "fonts" || e.key == "screen_fonts" || e.key == "languages" || e.key == "translations" {
 		if e.value != "" {
 			return "must be a YAML sequence (no inline scalar)"
 		}

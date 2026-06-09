@@ -22,6 +22,27 @@ fonts:
   - name: "Noto Sans Elbasan"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Elbasan"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: أبجدية إلباسان
+    auto: true
+  - translation_iso: deu
+    name: Elbasan-Alphabet
+  - translation_iso: fra
+    name: elbasan
+  - translation_iso: hin
+    name: एल्बासान लिपि
+    auto: true
+  - translation_iso: jpn
+    name: エルバサン翻字
+  - translation_iso: kor
+    name: 엘바산 문자
+  - translation_iso: por
+    name: Escrita Elbasan
+  - translation_iso: spa
+    name: elbasanés
+  - translation_iso: zho
+    name: 艾尔巴桑字母
 ---
 
 The Elbasan script was created by Albanian Christians in the mid-18th century. It is known primarily from its use in the Elbasan Gospel Manuscript, the second-oldest manuscript in Albania.

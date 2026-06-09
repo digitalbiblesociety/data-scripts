@@ -33,6 +33,28 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/UnifrakturMaguntia"
     provider: "Google Fonts"
     notes: "Best-hinted freely available Fraktur; heavier strokes survive low-DPI"
+translations:
+  - translation_iso: ara
+    name: حرف فراكتور
+    auto: true
+  - translation_iso: deu
+    name: Fraktur
+  - translation_iso: fra
+    name: Fraktur
+  - translation_iso: hin
+    name: फ़्रैक्टुर लातिनी
+    auto: true
+  - translation_iso: jpn
+    name: フラクトゥール
+  - translation_iso: kor
+    name: 프락투어
+  - translation_iso: por
+    name: Fraktur
+    auto: true
+  - translation_iso: spa
+    name: Fraktur
+  - translation_iso: zho
+    name: Fraktur
 ---
 
 Fraktur writing is a Gothic variant of the Latin script, also called Blackletter. Although it is associated with the German language, it was used throughout Western Europe from the 12th until the 17th century, for writing Old English, Gaelic, Latin, and Scandinavian languages, and in Germany until the 20th century. Many American newspapers use Fraktur type in their mastheads to this day.

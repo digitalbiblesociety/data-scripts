@@ -21,6 +21,29 @@ fonts:
     provider: "Google Fonts"
 languages:
   - pal
+translations:
+  - translation_iso: ara
+    name: كتابة نقشية بهلوية
+  - translation_iso: deu
+    name: Inschriften-Pahlavi
+    auto: true
+  - translation_iso: fra
+    name: pehlevi des inscriptions
+  - translation_iso: hin
+    name: शिलालेखीय पहलवी लिपि
+    auto: true
+  - translation_iso: jpn
+    name: 碑文パフラヴィー文字
+  - translation_iso: kor
+    name: 비문 팔라비 문자
+    auto: true
+  - translation_iso: por
+    name: Pahlavi inscricional
+    auto: true
+  - translation_iso: spa
+    name: pahlavi inscripcional
+  - translation_iso: zho
+    name: 巴列维铭文
 ---
 
 Inscriptional Pahlavi is the earliest of the three forms of the Pahlavi script, used regularly as a monumental script from the 2nd century BC until the 5th century AD. Later forms of the script were called Psalter Pahlavi and Book Pahlavi. Psalter Pahlavi is so far attested in only two sources, so the bulk of our knowledge is related to the other two forms. The names of these, Inscriptional and Book Pahlavi are somewhat misleading; the Inscriptional form was used on monuments, coins, seals and amulets, as would be expected, but the Book form was used in manuscript texts as well as on stone monuments. The distinction then refers to whether the letters were connected (Book Pahlavi) or unconnected (Inscriptional Pahlavi) rather than to distinct uses of either form.

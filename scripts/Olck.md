@@ -29,6 +29,27 @@ screen_fonts:
     notes: "Distinct geometric forms readable even at 10px"
 languages:
   - sat
+translations:
+  - translation_iso: ara
+    name: كتابة أول تشيكي
+  - translation_iso: deu
+    name: Ol Chiki
+  - translation_iso: fra
+    name: alphabet santâl
+  - translation_iso: hin
+    name: ओलचिकी लिपि
+  - translation_iso: jpn
+    name: オル・チキ文字
+  - translation_iso: kor
+    name: 올치키 문자
+  - translation_iso: por
+    name: Ol Chiki
+    auto: true
+  - translation_iso: spa
+    name: alfabeto ol chiki
+    auto: true
+  - translation_iso: zho
+    name: 奥尔奇基字母
 ---
 
 The Ol Chiki script (also called Ol Cemet, Ol, or Santali) was created by Pandit Raghunath Murmu in the 1920s for writing the Santali language, which is spoken by just under 6 million people in India, Bangladesh and Nepal. The Santali language is also written in the Devanagari, Bengali, Oriya and Roman scripts, and most people who are literate in Ol Chiki are also literate in at least one of the others. For this reason, not all Santali speakers are agreed as to the necessity of a unique script for their language, but despite competition from surrounding scripts, Ol Chiki is becoming more widely accepted. 

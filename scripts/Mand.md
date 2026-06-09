@@ -29,6 +29,27 @@ screen_fonts:
     notes: "Best available hinted Mandaic for screen use"
 languages:
   - myz
+translations:
+  - translation_iso: ara
+    name: أبجدية مندائية
+  - translation_iso: deu
+    name: Mandäische Schrift
+  - translation_iso: fra
+    name: alphabet mandéen
+  - translation_iso: hin
+    name: मंदाइक लिपि
+    auto: true
+  - translation_iso: jpn
+    name: マンダ文字
+  - translation_iso: kor
+    name: 만다야 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita mandeia
+  - translation_iso: spa
+    name: Alfabeto mandeo
+  - translation_iso: zho
+    name: 曼达文字
 ---
 
 The Mandaic script is used for writing Mandaic, an Iraqi language spoken by about 5,500 people. It is also the script of Classical Mandaic, the liturgical language of the Mandaean religion. The script has been difficult to date, and its exact derivation is controversial, but many scholars believe it to be closely related with a number of scripts descended from Parthian, itself descended from Aramaic writing. Early examples of Mandaic writing reveal that the script has remained relatively unchanged since it began to be used.

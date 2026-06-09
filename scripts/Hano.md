@@ -28,6 +28,27 @@ screen_fonts:
     notes: "Best available for Hanunoo screen rendering"
 languages:
   - hnn
+translations:
+  - translation_iso: ara
+    name: كتابة هانونوؤو
+  - translation_iso: deu
+    name: "Hanunó'o"
+  - translation_iso: fra
+    name: hanunuo
+  - translation_iso: hin
+    name: हनुनू लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ハヌノー文字
+  - translation_iso: kor
+    name: 하누누 문자
+    auto: true
+  - translation_iso: por
+    name: "Escrita Hanunó'o"
+  - translation_iso: spa
+    name: alfabeto hanunuo
+  - translation_iso: zho
+    name: 哈努诺文
 ---
 
 The Hanunóo script is used by the Mangyan people in the mountains of Mindoro, South Philippines, to write the Hanunóo language. Perhaps due to its inaccessible location, it is one of the few indigenous Philippine scripts which has not been replaced by the Latin script. It is of Brahmic origin, descended through Old Kawi, although its history is difficult to trace in detail due to the perishable nature of bamboo, the surface on which it is traditionally inscribed. The script is an abugida, in which each of the 15 consonants has an inherent a vowel. The other two vowels in the inventory, i and u, are marked syllable-finally by a diacritic positioned above or below (or to the left or right of) the syllable, often forming a ligature. There are also three vowel characters representing syllable-initial a, i, or u. Hanunóo words are predominantly disyllabic, and tend to be in CVCV form, although CVC syllables are also possible. In the case of a CVC syllable, the final consonant is often not written, so the reader must determine from context the correct pronunciation. Letters are not ordered or learned in any particular sequence; the characters used to write ones own name are commonly acquired first.

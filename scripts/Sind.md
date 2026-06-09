@@ -22,6 +22,29 @@ fonts:
   - name: "Noto Sans Khudawadi"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Khudawadi"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: خط خوداوادي
+    auto: true
+  - translation_iso: deu
+    name: Khudawadi-Schrift
+    auto: true
+  - translation_iso: fra
+    name: khoudawadî
+  - translation_iso: hin
+    name: खुदाबादी लिपि
+  - translation_iso: jpn
+    name: フダーバーディー文字
+  - translation_iso: kor
+    name: 쿠다와디 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita khudawadi
+    auto: true
+  - translation_iso: spa
+    name: Alfabeto khudabadi
+  - translation_iso: zho
+    name: 库达瓦迪文
 ---
 
 The Khudawadi (also called Sindhi) script was used for writing the Indo-Aryan Sindhi language spoken by almost 20 million people in the Sindh province of Pakistan and in India. It is no longer used. 

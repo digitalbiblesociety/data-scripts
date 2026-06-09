@@ -17,6 +17,29 @@ baseline: bottom
 ligatures: unspecified
 direction: ltr
 direction_notes: LTR (left-to-right)
+translations:
+  - translation_iso: ara
+    name: أبجدية الزغاوة
+  - translation_iso: deu
+    name: Zaghawa-Schrift
+  - translation_iso: fra
+    name: béria erfé
+  - translation_iso: hin
+    name: बेरिया एर्फ़े लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ベリア・エルフェ文字
+    auto: true
+  - translation_iso: kor
+    name: 베리아 에르페 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita zaghawa
+  - translation_iso: spa
+    name: alfabeto beria erfe
+    auto: true
+  - translation_iso: zho
+    name: 札格哈瓦字母
 ---
 
 The Beria Erfe script, also known as Erfa, or Erfe, is used to write the Zaghawa language spoken by about 169,000 people in Chad and Sudan.

@@ -25,6 +25,28 @@ fonts:
 languages:
   - kas
   - san
+translations:
+  - translation_iso: ara
+    name: خط شارادا
+    auto: true
+  - translation_iso: deu
+    name: Sharada-Schrift
+    auto: true
+  - translation_iso: fra
+    name: charada
+  - translation_iso: hin
+    name: शारदा लिपि
+  - translation_iso: jpn
+    name: シャーラダー文字
+  - translation_iso: kor
+    name: 사라다 문자
+    auto: true
+  - translation_iso: por
+    name: Sharada
+  - translation_iso: spa
+    name: alfabeto sharada
+  - translation_iso: zho
+    name: 夏拉达文
 ---
 
 The Sharada script evolved from Gupta Brahmi in the 9th century AD. In its earlier forms it was widespread over the northwest parts of the Indian subcontinent and was the progenitor of the Gurmukhi script, but later it became restricted to Kashmir, where it was the principal means of writing until the 20th century.

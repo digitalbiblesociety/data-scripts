@@ -20,6 +20,26 @@ fonts:
   - name: "Noto Sans Nabataean"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Nabataean"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: أبجدية نبطية
+  - translation_iso: deu
+    name: Nabatäische Schrift
+  - translation_iso: fra
+    name: écriture nabatéenne
+  - translation_iso: hin
+    name: नबाती लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ナバテア文字
+  - translation_iso: kor
+    name: 나바테아 문자
+  - translation_iso: por
+    name: Escrita nabateia
+  - translation_iso: spa
+    name: alfabeto nabateo
+  - translation_iso: zho
+    name: 纳巴泰字母
 ---
 
 The Nabataean script was used from the 2nd century BC until the 4th or 5th century AD for writing the Nabataean language, a Northwest Semitic language closely related to Arabic. The script was developed from Aramaic writing, and was the immediate precursor of Arabic writing.

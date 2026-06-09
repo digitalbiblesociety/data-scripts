@@ -14,6 +14,33 @@ baseline: unspecified
 ligatures: unspecified
 direction: ltr
 direction_notes: "LTR (left-to-right)"
+translations:
+  - translation_iso: ara
+    name: خط إسكايا
+    auto: true
+  - translation_iso: deu
+    name: Eskaya-Schrift
+    auto: true
+  - translation_iso: fra
+    name: réservé à l’usage privé (44e)
+  - translation_iso: hin
+    name: एस्काया लिपि
+    auto: true
+  - translation_iso: jpn
+    name: エスカヤ文字
+    auto: true
+  - translation_iso: kor
+    name: 에스카야 문자
+    auto: true
+  - translation_iso: por
+    name: Silabário eskaya
+    auto: true
+  - translation_iso: spa
+    name: silabario eskaya
+    auto: true
+  - translation_iso: zho
+    name: 埃斯卡亚文
+    auto: true
 ---
 
 The Eskaya script is used for writing the Eskayan language, an artificial language associated with the Eskaya people of the Philippines. There is considerable controversy surrounding both the people and their language and script. Since coming to the attention of the wider world in the 1980s, neither has been extensively studied, and this lack of factual knowledge has led to speculation and numerous theories about their origins. These range from the supernatural to suggestions that the Eskaya are a cult or simply an impoverished tribe that concocted a “lost language” in order to attract government attention and funding. None of these theories has ever been proven.

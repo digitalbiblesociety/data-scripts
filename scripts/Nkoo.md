@@ -37,6 +37,25 @@ languages:
   - bam
   - man
   - nqo
+translations:
+  - translation_iso: ara
+    name: نكو
+  - translation_iso: deu
+    name: N’Ko
+  - translation_iso: fra
+    name: n’ko
+  - translation_iso: hin
+    name: "न 'को लिपी"
+  - translation_iso: jpn
+    name: ンコ文字
+  - translation_iso: kor
+    name: 응코 문자
+  - translation_iso: por
+    name: "alfabeto n'ko"
+  - translation_iso: spa
+    name: "alfabeto N'Ko"
+  - translation_iso: zho
+    name: 西非書面字母
 ---
 
 The Nko script was created in 1949 by Soloman Kante to write the Bambara language, one of the Manding languages spoken in Mali, in response to a newspaper article reflecting the colonial misconception that Africans were culturally inferior due to their lack of indigenous writing systems. The word Nko means \\\I say\\\" in all the Manding languages. Kante had travelled widely throughout West Africa

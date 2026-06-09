@@ -69,6 +69,25 @@ languages:
   - xdc
   - xpg
   - yej
+translations:
+  - translation_iso: ara
+    name: الأبجدية اليونانية
+  - translation_iso: deu
+    name: griechisches Alphabet
+  - translation_iso: fra
+    name: alphabet grec
+  - translation_iso: hin
+    name: यूनानी वर्णमाला
+  - translation_iso: jpn
+    name: ギリシア文字
+  - translation_iso: kor
+    name: 그리스 문자
+  - translation_iso: por
+    name: alfabeto grego
+  - translation_iso: spa
+    name: alfabeto griego
+  - translation_iso: zho
+    name: 希腊字母
 ---
 
 The Greek script was the first documented writing system to represent consonants and vowels with distinct symbols, making it the oldest true alphabet. It has been used since the 8th century BC for writing the Greek language, and select letters are also currently used in writing mathematic and scientific concepts such as π (pi) and Ω (Ohm). Some symbols have been incorporated into the International Phonetic Alphabet. The script has also been used for writing a number of minority languages, including Urum, Albanian Tosk, and Balkan Gagauz Turkish.

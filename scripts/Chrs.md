@@ -18,6 +18,33 @@ baseline: bottom
 ligatures: unspecified
 direction: rtl
 direction_notes: RTL (right-to-left)
+translations:
+  - translation_iso: ara
+    name: أبجدية خوارزمية
+    auto: true
+  - translation_iso: deu
+    name: choresmische Schrift
+    auto: true
+  - translation_iso: fra
+    name: chorasmien
+  - translation_iso: hin
+    name: ख़्वारेज़्मी लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ホラズム文字
+    auto: true
+  - translation_iso: kor
+    name: 호라즘 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita corásmia
+    auto: true
+  - translation_iso: spa
+    name: corasmio
+    auto: true
+  - translation_iso: zho
+    name: 花剌子模文
+    auto: true
 ---
 
 The Chorasmian script is an indigenous script that was derived from Imperial Aramaic.

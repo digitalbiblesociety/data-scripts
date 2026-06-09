@@ -22,6 +22,26 @@ fonts:
     provider: "Google Fonts"
 languages:
   - xsa
+translations:
+  - translation_iso: ara
+    name: خط المسند
+  - translation_iso: deu
+    name: Altsüdarabische Schrift
+  - translation_iso: fra
+    name: écriture sud-arabique
+  - translation_iso: hin
+    name: प्राचीन दक्षिण अरबी लिपि
+    auto: true
+  - translation_iso: jpn
+    name: 南アラビア文字
+  - translation_iso: kor
+    name: 남아랍 문자
+  - translation_iso: por
+    name: Alfabeto arábico meridional
+  - translation_iso: spa
+    name: abecedario árabe meridional
+  - translation_iso: zho
+    name: 南阿拉伯字母
 ---
 
 The Old South Arabian script (also called Musnad, Epigraphic South Arabian, or Sayhadic) was used for writing a group of closely related Semitic languages, all of which are now extinct. The script was used throughout the Arabian peninsula, particularly in modern-day Yemen, between the 6th and the 8th centuries AD, after which it was replaced by Arabic writing. It is the forerunner of the modern-day Ethiopic script.

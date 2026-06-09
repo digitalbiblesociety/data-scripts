@@ -41,6 +41,25 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/BIZ+UDGothic"
     provider: "Google Fonts"
     notes: "UD design specifically addresses hiragana legibility at low DPI"
+translations:
+  - translation_iso: ara
+    name: هيراغانا
+  - translation_iso: deu
+    name: Hiragana
+  - translation_iso: fra
+    name: hiragana
+  - translation_iso: hin
+    name: हिरागाना
+  - translation_iso: jpn
+    name: 平仮名
+  - translation_iso: kor
+    name: 히라가나
+  - translation_iso: por
+    name: hiragana
+  - translation_iso: spa
+    name: hiragana
+  - translation_iso: zho
+    name: 平假名
 ---
 
 The Hiragana script (sometimes called Kiragana) is one of the two Japanese syllabaries, along with Katakana. The script was derived from the cursive forms of Chinese characters around the 8th century; prior to this, Japanese was written entirely in Chinese (*kanji* letters. Hiragana was originally known as *onnade* womens hand as it was primarily used by women until the 10th century when it came to be widely used by both genders.

@@ -17,6 +17,28 @@ baseline: unspecified
 ligatures: unspecified
 direction: unspecified
 direction_notes: UNSPECIFIED
+translations:
+  - translation_iso: ara
+    name: الكتابة المسمارية البدائية
+  - translation_iso: deu
+    name: Proto-Keilschrift
+  - translation_iso: fra
+    name: "Débuts de l'écriture en Mésopotamie"
+  - translation_iso: hin
+    name: आद्य-कीलाक्षर लिपि
+    auto: true
+  - translation_iso: jpn
+    name: 原楔形文字
+  - translation_iso: kor
+    name: 원시 쐐기 문자
+    auto: true
+  - translation_iso: por
+    name: Proto-cuneiforme
+    auto: true
+  - translation_iso: spa
+    name: Protocuneiforme
+  - translation_iso: zho
+    name: 原始楔形文字
 ---
 
 Proto-Cuneiform emerged towards the end of the fourth millennium B.C.

@@ -46,6 +46,25 @@ languages:
   - pan
   - skr
   - snd
+translations:
+  - translation_iso: ara
+    name: أبجدية كرمكهية
+  - translation_iso: deu
+    name: Gurmukhi-Schrift
+  - translation_iso: fra
+    name: gourmoukhî
+  - translation_iso: hin
+    name: गुरमुखी लिपि
+  - translation_iso: jpn
+    name: グルムキー文字
+  - translation_iso: kor
+    name: 구르무키 문자
+  - translation_iso: por
+    name: Gurmukhi
+  - translation_iso: spa
+    name: alfabeto gurmukhi
+  - translation_iso: zho
+    name: 古木基文
 ---
 
 The Gurmukhi script is used primarily by followers of the Sikh religion in India to write the Punjabi language. Gurmukhi writing is historically derived from Brahmi, but its present form was developed in the 16th century by Guru Angad, successor to the founder of the Sikh religion, Guru Nanak. The word Gurmukhi means from the mouth of the guru. Muslims in the Pakistani Punjab write Punjabi in the Persian script; use of the Persian script for writing Punjabi is called *Shahmukhi*.

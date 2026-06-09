@@ -18,6 +18,28 @@ baseline: bottom
 ligatures: unspecified
 direction: rtl
 direction_notes: RTL (right-to-left)
+translations:
+  - translation_iso: ara
+    name: الخط الحنيفي
+  - translation_iso: deu
+    name: Hanifi-Rohingya-Schrift
+    auto: true
+  - translation_iso: fra
+    name: alphabet hanifi
+  - translation_iso: hin
+    name: हनीफ़ी लिपि
+  - translation_iso: jpn
+    name: ハニーフィー・ロヒンギャ文字
+  - translation_iso: kor
+    name: 하니피 로힝야 문자
+  - translation_iso: por
+    name: Escrita hanifi rohingya
+    auto: true
+  - translation_iso: spa
+    name: alfabeto hanifi rohinyá
+    auto: true
+  - translation_iso: zho
+    name: 哈乃斐羅興亞文字
 ---
 
 Hanifi Rohingya is one of four scripts used for writing the Rohingya language, spoken by about 1,500,000 people, mostly in Myanmar.

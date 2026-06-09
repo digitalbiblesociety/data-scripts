@@ -36,6 +36,25 @@ languages:
   - fia
   - onw
   - xnz
+translations:
+  - translation_iso: ara
+    name: الأبجدية القبطية
+  - translation_iso: deu
+    name: koptische Schrift
+  - translation_iso: fra
+    name: écriture copte
+  - translation_iso: hin
+    name: कॉप्टिक वर्णमाला
+  - translation_iso: jpn
+    name: コプト文字
+  - translation_iso: kor
+    name: 콥트 문자
+  - translation_iso: por
+    name: Alfabeto copta
+  - translation_iso: spa
+    name: alfabeto copto
+  - translation_iso: zho
+    name: 科普特字母
 ---
 
 The Coptic alphabet is closely derived from the Greek alphabet. It is used for writing the Coptic language, which was the latest descendant of the Egyptian language and is now the liturgical language of the Coptic church. Prior to the creation of the Coptic alphabet, Egyptian was written in the Greek alphabet; prior to that, in the Demotic script. By the 1st century, spoken Egyptian had become quite removed from Demotic writing. It was also around that time that the Christian religion began spreading from Greece to Egypt. Egyptian Christians wanted a visible symbol of their new faith, and in the 3rd century the Bible was translated into the Coptic language. This translation used the Greek alphabet supplemented by Demotic symbols for representing non-Greek sounds.

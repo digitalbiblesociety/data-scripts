@@ -29,6 +29,31 @@ screen_fonts:
     notes: "New Tai Lue forms benefit from Noto's calibration"
 languages:
   - khb
+translations:
+  - translation_iso: ara
+    name: خط تاي لو الجديد
+    auto: true
+  - translation_iso: deu
+    name: Neue Tai-Lü-Schrift
+    auto: true
+  - translation_iso: fra
+    name: nouveau taï-lue
+  - translation_iso: hin
+    name: नई ताई लू लिपि
+    auto: true
+  - translation_iso: jpn
+    name: 新タイ・ルー文字
+  - translation_iso: kor
+    name: 신 타이 루에 문자
+    auto: true
+  - translation_iso: por
+    name: Novo tai lue
+    auto: true
+  - translation_iso: spa
+    name: nuevo tai lue
+    auto: true
+  - translation_iso: zho
+    name: 西双版纳傣文
 ---
 
 The New Tai Lue script (also known as Xishuangbanna Dai) is an alphabet derived from Old Tai Lue, which is derived from the Lanna script. It was created in the 1950s and is used mainly by the Tai Lue (also called Water Dai) people in Southern China for writing the Lü (also called Tai Lue) language. The language is also spoken in Burma, Laos, Thailand and Vietnam where it is written with the Old Tai Lue script.

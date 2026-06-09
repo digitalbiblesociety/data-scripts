@@ -26,6 +26,27 @@ languages:
   - bho
   - mai
   - tdb
+translations:
+  - translation_iso: ara
+    name: كايثي
+    auto: true
+  - translation_iso: deu
+    name: Kaithi-Schrift
+  - translation_iso: fra
+    name: kaithî
+  - translation_iso: hin
+    name: कैथी
+  - translation_iso: jpn
+    name: カイティー文字
+  - translation_iso: kor
+    name: 카이티 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita Kaithi
+  - translation_iso: spa
+    name: Kaithi
+  - translation_iso: zho
+    name: 凯提文
 ---
 
 The Kaithi script has been used predominantly in the Indian states of Bihar and Uttar Pradesh (but also in other North Indian states and the Nepali terai) for writing a group of Indo-Aryan languages. It is often claimed to be a Bihari script despite its use and influence extending beyond the state of Bihar. Kaithi has been used for writing the Bhojpuri, Maghadi, Urdu, Awadhi, Maithili, and Bengali languages since the 16th century. Its use was generally discouraged under British rule in India, except in the state of Bihar, where it was officially sanctioned for use in government offices - hence the association with that state. In other areas it was used primarily by the *kayastha* caste, a Brahmin caste which consists largely of writers by trade. The script was widely used until the early 1900s, and there is some evidence that it is still used for personal correspondence in rural areas.

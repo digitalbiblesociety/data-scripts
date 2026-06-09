@@ -18,6 +18,27 @@ baseline: bottom
 ligatures: unspecified
 direction: rtl
 direction_notes: RTL (right-to-left)
+translations:
+  - translation_iso: ara
+    name: أبجدية صغدية
+  - translation_iso: deu
+    name: sogdische Schrift
+    auto: true
+  - translation_iso: fra
+    name: alphabet sogdien
+  - translation_iso: hin
+    name: सोग्दी लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ソグド文字
+  - translation_iso: kor
+    name: 소그드 문자
+  - translation_iso: por
+    name: Alfabeto sogdiano
+  - translation_iso: spa
+    name: Sogdiano
+  - translation_iso: zho
+    name: 粟特字母
 ---
 
 The Sogdian script was one of three scripts used for writing the Sogdian language, a middle Iranian language spoken in Sogdiana, a region in the Achaemenid Persian empire comprising parts of modern-day Uzbekistan, Tajikistan, Pakistan and China.

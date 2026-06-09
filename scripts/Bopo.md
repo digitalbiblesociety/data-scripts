@@ -34,6 +34,26 @@ languages:
   - hmq
   - nan
   - zho
+translations:
+  - translation_iso: ara
+    name: بوبوموفو
+  - translation_iso: deu
+    name: Zhuyin
+  - translation_iso: fra
+    name: bopomofo
+  - translation_iso: hin
+    name: बोपोमोफ़ो
+    auto: true
+  - translation_iso: jpn
+    name: 注音符号
+  - translation_iso: kor
+    name: 주음부호
+  - translation_iso: por
+    name: Bopomofo
+  - translation_iso: spa
+    name: Zhuyin
+  - translation_iso: zho
+    name: 注音符号
 ---
 
 Bopomofo is the colloquial name given to the Zhuyin Fuhao phonetic system for transcribing Chinese. The script is used particularly often by students of the Mandarin language. It was developed in 1913 by the Commission on the Unification of Pronunciation (讀音統一會) in China to extend the use of Mandarin. It is still used by many books, newspapers and journals in Taiwan, to annotate the Taiwanese pronunciation of Chinese Han characters or spell out Taiwanese words for which no character exists, but has been largely replaced by Pinyin romanization in mainland China. The script is also used as the primary script for writing some of Taiwans minority languages including Atayal, Taroko, Paiwan and Yami.

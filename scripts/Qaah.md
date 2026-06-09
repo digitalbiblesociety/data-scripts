@@ -18,6 +18,33 @@ baseline: centered
 ligatures: none
 direction: ltr
 direction_notes: vertical (LTR) and horizontal (LTR)
+translations:
+  - translation_iso: ara
+    name: تدوين إشكول-فاخمان للحركة
+    auto: true
+  - translation_iso: deu
+    name: Eshkol-Wachman-Bewegungsnotation
+    auto: true
+  - translation_iso: fra
+    name: réservé à l’usage privé (8e)
+  - translation_iso: hin
+    name: एश्कोल-वाखमान गति संकेतन
+    auto: true
+  - translation_iso: jpn
+    name: エシュコル・ワックマン記譜法
+    auto: true
+  - translation_iso: kor
+    name: 에슈콜-바흐만 동작 표기법
+    auto: true
+  - translation_iso: por
+    name: Notação de movimento Eshkol-Wachman
+    auto: true
+  - translation_iso: spa
+    name: notación de movimiento Eshkol-Wachman
+    auto: true
+  - translation_iso: zho
+    name: 艾希科尔-瓦赫曼动作记谱法
+    auto: true
 ---
 
 Eshkol-Wachman Movement Notation (EWMN) was developed by the choreographer Noa Eshkol (daughter of the third Israeli Prime Minister, Levi Eshkol) and the architect Abraham Wachman, in Israel in 1958. It is a notation system to describe body movements, particularly but not exclusively in the context of writing down dance scores.

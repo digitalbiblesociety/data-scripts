@@ -18,6 +18,30 @@ fonts:
   - name: "Noto Sans Khitan Small Script"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Khitan+Small+Script"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: خط خيتان الكبير
+    auto: true
+  - translation_iso: deu
+    name: Große Kitan-Schrift
+    auto: true
+  - translation_iso: fra
+    name: grande écriture khitan
+  - translation_iso: hin
+    name: खितान बड़ी लिपि
+    auto: true
+  - translation_iso: jpn
+    name: 契丹大字
+    auto: true
+  - translation_iso: kor
+    name: 거란 대자
+  - translation_iso: por
+    name: Escrita khitan grande
+    auto: true
+  - translation_iso: spa
+    name: escritura kitán grande
+  - translation_iso: zho
+    name: 契丹大字
 ---
 
 The Kitan (also called Liao) language, an extinct Mongolic language spoken in Northern China, was written using two mutually exclusive scripts, the Kitan Large script and the Kitan Small script. The Kitan Large script was created in 920 at the request of the Emperor Taizu. It was written in vertical columns using between 830-1000 characters. There is some debate as to whether the *Gu taishi mingshi ji* inscription, which has been lost, was genuine or not. The controversy surrounding this inscription calls into question the reliability of about 170 characters.

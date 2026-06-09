@@ -18,6 +18,33 @@ baseline: vertical
 ligatures: unspecified
 direction: vertical (rtl)
 direction_notes: VERTICAL (RTL)
+translations:
+  - translation_iso: ara
+    name: خط تاي يو
+    auto: true
+  - translation_iso: deu
+    name: Tai-Yo-Schrift
+    auto: true
+  - translation_iso: fra
+    name: taï yo
+  - translation_iso: hin
+    name: ताई यो लिपि
+    auto: true
+  - translation_iso: jpn
+    name: タイ・ヨー文字
+    auto: true
+  - translation_iso: kor
+    name: 타이 요 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita tai yo
+    auto: true
+  - translation_iso: spa
+    name: escritura tai yo
+    auto: true
+  - translation_iso: zho
+    name: 泰约文
+    auto: true
 ---
 
 The Tai Yo script is used to write the Tai Yo language (also called Yoy, Tai Do, Tay Muoi, Tay Quy Chau, or Tay-Jo) spoken in Laos, Thailand and Vietnam.

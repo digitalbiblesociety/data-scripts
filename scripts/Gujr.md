@@ -59,6 +59,26 @@ languages:
   - kxp
   - vas
   - vav
+translations:
+  - translation_iso: ara
+    name: أبجدية غوجاراتية
+    auto: true
+  - translation_iso: deu
+    name: Gujarati-Schrift
+  - translation_iso: fra
+    name: alphasyllabaire gujarati
+  - translation_iso: hin
+    name: गुजराती लिपि
+  - translation_iso: jpn
+    name: グジャラーティー文字
+  - translation_iso: kor
+    name: 구자라트 문자
+  - translation_iso: por
+    name: alfassilabário guzerate
+  - translation_iso: spa
+    name: Alfabeto guyarati
+  - translation_iso: zho
+    name: 古吉拉特文
 ---
 
 The Gujarati script is used for writing the Gujarati and Chodri languages, together spoken by almost 47 million people. It is also used alongside the Devanagari script for writing a number of languages used by the Bhil people, one of Indias largest indigenous groups. The script is related to Devanagari, with modifications to some of the letters, and without the headstroke which characterizes most of the Nagari scripts. The loss of the headstroke reflects the scripts origins in informal writing; until the mid-19th century it was used primarily for bookkeeping and personal correspondence, but since printing facilities have become widely available to Gujarati speakers the script is used in schools, for printing books and newspapers, in government offices and public signage, and is one of the official scripts of India.

@@ -31,6 +31,28 @@ screen_fonts:
     notes: "Best freely available screen-first Korean font"
 languages:
   - kor
+translations:
+  - translation_iso: ara
+    name: كوري
+    auto: true
+  - translation_iso: deu
+    name: Koreanisch gemischte Schrift
+  - translation_iso: fra
+    name: écriture mixte coréenne
+  - translation_iso: hin
+    name: कोरियाई लिपि
+    auto: true
+  - translation_iso: jpn
+    name: 漢字ハングル混じり文
+  - translation_iso: kor
+    name: 한글전용과 국한문혼용
+  - translation_iso: por
+    name: Escrita mista coreana
+  - translation_iso: spa
+    name: coreano
+    auto: true
+  - translation_iso: zho
+    name: 韩汉混用文
 ---
 
 The Korean language is often written using a combination of a language-specific script, called *Hangul*, and Chinese Han characters, called *hanja* in Korean. Hangul is a complete orthography; anything that can be said in Korean can be written in Hangul, but there are cultural and historical reasons for the use of hanja. The form of writing which combines both scripts is sometimes called Korean mixed script.

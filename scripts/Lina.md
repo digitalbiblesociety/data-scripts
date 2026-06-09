@@ -16,6 +16,25 @@ baseline: bottom
 ligatures: unspecified
 direction: ltr
 direction_notes: "LTR (left-to-right)"
+translations:
+  - translation_iso: ara
+    name: نظام خطي أ
+  - translation_iso: deu
+    name: Linearschrift A
+  - translation_iso: fra
+    name: linéaire A
+  - translation_iso: hin
+    name: रेखीय ए लिपि
+  - translation_iso: jpn
+    name: 線文字A
+  - translation_iso: kor
+    name: 선형문자 A
+  - translation_iso: por
+    name: linear A
+  - translation_iso: spa
+    name: lineal A
+  - translation_iso: zho
+    name: 线形文字A
 ---
 
 Linear A is an undeciphered syllabary used between 1700-1450 BC in ancient Crete, alongside Cretan Hieroglyphs. Linear A was the official script for the palaces and cults, and Cretan Hieroglyphs were used for seals. Cretan Hieroglyphs had been in use for some time before the development of Linear A, and it is thought that the Linear A symbols may have derived from the shapes of some of the hieroglyphs.

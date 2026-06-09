@@ -17,6 +17,28 @@ baseline: hanging
 ligatures: unspecified
 direction: ltr
 direction_notes: LTR (left-to-right)
+translations:
+  - translation_iso: ara
+    name: خط رانجانا
+    auto: true
+  - translation_iso: deu
+    name: Ranjana-Schrift
+    auto: true
+  - translation_iso: fra
+    name: ranjana
+  - translation_iso: hin
+    name: रंजना लिपि
+  - translation_iso: jpn
+    name: ランジャナー文字
+  - translation_iso: kor
+    name: 란자나 문자
+  - translation_iso: por
+    name: Escrita ranjana
+    auto: true
+  - translation_iso: spa
+    name: Alfabeto ranjana
+  - translation_iso: zho
+    name: 兰札文
 ---
 
 The Ranjana script is used for writing the Newari language of Nepal.

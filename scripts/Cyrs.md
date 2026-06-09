@@ -22,6 +22,26 @@ fonts:
   - name: "Junicode"
     url: "https://fonts.google.com/specimen/Junicode"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: أبجدية سيريلية مبكرة
+  - translation_iso: deu
+    name: altkyrillisches Alphabet
+  - translation_iso: fra
+    name: alphabet cyrillique archaïque
+  - translation_iso: hin
+    name: प्राचीन चर्च स्लावोनिक सिरिलिक लिपि
+    auto: true
+  - translation_iso: jpn
+    name: 初期キリル文字アルファベット
+  - translation_iso: kor
+    name: 초기 키릴 문자
+  - translation_iso: por
+    name: Alfabeto cirílico arcaico
+  - translation_iso: spa
+    name: alfabeto cirílico arcaico
+  - translation_iso: zho
+    name: 早期西里尔字母
 ---
 
 Old Church Slavonic (also called Old Bulgarian) was the earliest Slavic language to be written. it was first written in the Glagolitic script, and later in the early Cyrillic script. Cyrillic writing has undergone a number of changes since that time, so much so that the old and modern variants are considered by many to be two different but related scripts.

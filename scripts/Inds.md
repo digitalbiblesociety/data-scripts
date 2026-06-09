@@ -14,6 +14,25 @@ baseline: bottom
 ligatures: unspecified
 direction: rtl
 direction_notes: "RTL (right-to-left)"
+translations:
+  - translation_iso: ara
+    name: الكتابة السِّنْديَّة
+  - translation_iso: deu
+    name: Indus-Schrift
+  - translation_iso: fra
+    name: "écriture de l'Indus"
+  - translation_iso: hin
+    name: सिन्धु लिपि
+  - translation_iso: jpn
+    name: インダス文字
+  - translation_iso: kor
+    name: 인더스 문자
+  - translation_iso: por
+    name: Escritas do vale do Indo
+  - translation_iso: spa
+    name: escritura del Indo
+  - translation_iso: zho
+    name: 印度河文字
 ---
 
 The Indus script (also called the Harappan script) was used by the Harappan cultures living in the Indus valley between roughly 3000 - 1900 BC. Although the script was discovered in 1875 and there have been numerous attempts to decipher it, little is known about the configuration of the symbols. There are no remaining examples of the formative stages of the script, so it is not possible to trace a genetic affiliation to any other known script. Furthermore, the script died out in 1900 BC with the Indus Valley Civilization, leaving no descendents.

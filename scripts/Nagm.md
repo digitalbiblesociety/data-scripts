@@ -18,6 +18,31 @@ baseline: bottom
 ligatures: unspecified
 direction: ltr
 direction_notes: LTR (left-to-right)
+translations:
+  - translation_iso: ara
+    name: ناغ موندري
+    auto: true
+  - translation_iso: deu
+    name: Nag-Mundari-Schrift
+    auto: true
+  - translation_iso: fra
+    name: nag mundari
+  - translation_iso: hin
+    name: नाग मुंडारी लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ムンダリ・バニ文字
+  - translation_iso: kor
+    name: 나그 문다리 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita nag mundari
+    auto: true
+  - translation_iso: spa
+    name: nag mundari
+    auto: true
+  - translation_iso: zho
+    name: 蒙達里字母
 ---
 
 The Nag Mundari script has sometimes been called _Mundari Bani script_.

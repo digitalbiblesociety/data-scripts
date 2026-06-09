@@ -22,6 +22,28 @@ fonts:
     provider: "Google Fonts"
 languages:
   - men
+translations:
+  - translation_iso: ara
+    name: خط مندي
+  - translation_iso: deu
+    name: Mende-Schrift
+  - translation_iso: fra
+    name: mendé kikakui
+  - translation_iso: hin
+    name: मेंडे किकाकुई लिपि
+    auto: true
+  - translation_iso: jpn
+    name: メンデ文字
+  - translation_iso: kor
+    name: 멘데 키카쿠이 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita mende kikakui
+    auto: true
+  - translation_iso: spa
+    name: Silabario Ki-ka-ku
+  - translation_iso: zho
+    name: 门地奇卡奎文
 ---
 
 The Mende (also called Kikakui) script was devised by Mohammed Turay for writing the Sierra Leonean language, Mende, spoken by almost 1.5 million people. It was modified by one of Turays students, Kisimi Kamara, in 1921 to produce the form currently used. It is an abugida; each of the 195 symbols represents a consonant with an inherent vowel. Symbols are sometimes formed by adding diacritics to a basic consonant sign to indicate the quality of the vowel; more often, every legitimate consonant+vowel syllable is represented by a unique, underived sign. It is the only West African syllabary to be written from right to left, which is attributed to Kamaras Islamic heritage and familiarity with the Arabic script, also written from right to left. It is generally believed that the inventors also had some knowledge of the Vai script of Liberia, as the two scripts share significant similarities both in form and in origin.

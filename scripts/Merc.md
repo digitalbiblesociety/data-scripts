@@ -21,6 +21,33 @@ fonts:
   - name: "Noto Sans Meroitic Cursive"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Meroitic+Cursive"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: الكتابة المروية المخطوطة
+    auto: true
+  - translation_iso: deu
+    name: meroitische Kursivschrift
+    auto: true
+  - translation_iso: fra
+    name: cursif méroïtique
+  - translation_iso: hin
+    name: मेरोइटिक कर्सिव लिपि
+    auto: true
+  - translation_iso: jpn
+    name: メロエ文字草書体
+    auto: true
+  - translation_iso: kor
+    name: 메로에 필기체
+    auto: true
+  - translation_iso: por
+    name: Meroítico cursivo
+    auto: true
+  - translation_iso: spa
+    name: cursivo meroítico
+    auto: true
+  - translation_iso: zho
+    name: 麦罗埃文草书体
+    auto: true
 ---
 
 The Meroitic (also Meroïtic) script was created in the 3rd century BC in the ancient Kush (also called Meroë) civilization in modern-day Sudan, where it was used to write the Meroitic language. In the 6th century AD, with the arrival of Christianity to the area, the script was supplanted by Coptic.

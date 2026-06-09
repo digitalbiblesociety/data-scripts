@@ -18,6 +18,31 @@ baseline: bottom
 ligatures: unspecified
 direction: ltr
 direction_notes: LTR (left-to-right)
+translations:
+  - translation_iso: ara
+    name: نياكينغ بواتشوي همونغ
+    auto: true
+  - translation_iso: deu
+    name: Nyiakeng Puachue Hmong
+    auto: true
+  - translation_iso: fra
+    name: nyiakeng puachue hmong
+  - translation_iso: hin
+    name: नियाकेंग पुआचुए ह्मोंग लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ニアケン・プアチュ・フモン文字
+  - translation_iso: kor
+    name: 니아켕 푸아추에 몽 문자
+    auto: true
+  - translation_iso: por
+    name: Nyiakeng puachue hmong
+    auto: true
+  - translation_iso: spa
+    name: nyiakeng puachue hmong
+    auto: true
+  - translation_iso: zho
+    name: 尼亚坑普阿绰苗文
 ---
 
 The Nyiakeng Puachue Hmong script is is used for writing the White Hmong and Green Hmong languages.

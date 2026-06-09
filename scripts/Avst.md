@@ -22,6 +22,27 @@ fonts:
     provider: "Google Fonts"
 languages:
   - ave
+translations:
+  - translation_iso: ara
+    name: الألفبائية الأَوِستية
+  - translation_iso: deu
+    name: avestische Schrift
+  - translation_iso: fra
+    name: alphabet avestique
+  - translation_iso: hin
+    name: अवस्ताई लिपि
+    auto: true
+  - translation_iso: jpn
+    name: アヴェスター文字
+  - translation_iso: kor
+    name: 아베스타 문자
+  - translation_iso: por
+    name: Alfabeto avéstico
+    auto: true
+  - translation_iso: spa
+    name: Escritura avéstica
+  - translation_iso: zho
+    name: 阿维斯陀字母
 ---
 
 The Avestan script was used from the 5th to the 13th century AD for writing the Avestan language, an Eastern Iranian language which is now only known from its use as the language of Zoroastrian religious texts called *Avesta*, although it is thought that at one time it was probably a natural language in everyday use. There are no surviving examples of written Avestan prior to its use as a liturgical language, and it is thought that the Avestan script was created particularly for the purpose of writing religious texts. At that time, many of the Iranian languages were written in the Pahlavi script, but this contained a number of ambiguous symbols and did not represent vowels, so was unsuitable for representing a religious language, the pronunciation of which was important. The script was also used to write religious commentaries in the Middle Persian language; these are called *Pazend*.

@@ -19,6 +19,27 @@ fonts:
   - name: "Noto Sans Mahajani"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Mahajani"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: ماهاجاني
+    auto: true
+  - translation_iso: deu
+    name: Mahajani
+  - translation_iso: fra
+    name: mahâjanî
+  - translation_iso: hin
+    name: महाजनी लिपि
+  - translation_iso: jpn
+    name: マハージャニー文字
+  - translation_iso: kor
+    name: 마하자니 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita mahajani
+  - translation_iso: spa
+    name: mahajani
+  - translation_iso: zho
+    name: 马哈佳尼文
 ---
 
 The Mahajani script was a commercial script (महाजन mahajana is the Hindi word for ‘banker’) used across Northern India until the middle of the 20th century. It was used by speakers of a number of languages, including Hindi, Marwari and Punjabi, and was taught in special merchant- and business-focused schools alongside other skills required for conducting business.

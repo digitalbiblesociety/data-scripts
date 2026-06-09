@@ -40,6 +40,27 @@ languages:
   - lis
   - lpo
   - nxq
+translations:
+  - translation_iso: ara
+    name: أبجدية فريزر
+    auto: true
+  - translation_iso: deu
+    name: Fraser-Alphabet
+  - translation_iso: fra
+    name: écriture Fraser
+  - translation_iso: hin
+    name: लीसू लिपि
+    auto: true
+  - translation_iso: jpn
+    name: リス文字
+  - translation_iso: kor
+    name: 프레이저 문자
+  - translation_iso: por
+    name: Fraser (escrita)
+  - translation_iso: spa
+    name: alfabeto de Fraser
+  - translation_iso: zho
+    name: 老傈僳文
 ---
 
 The Lisu script (also known as the Old Lisu script or the Fraser script) was invented in 1915 by a Burmese preacher, Sara Ba Thaw, and modified by a British missionary, James Fraser, in the 1930s. It is based on the Latin script, combined with some Burmese orthographic conventions. The script was created in China to represent the Lisu language, however since that time many Lisu speakers have emigrated to Myanmar, Thailand and India, in which countries the script is also used.

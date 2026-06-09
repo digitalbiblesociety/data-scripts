@@ -41,6 +41,34 @@ languages:
   - kur
   - rmi
   - xcl
+translations:
+  - translation_iso: ara
+    name: أبجدية أرمنية
+    auto: true
+  - translation_iso: deu
+    name: armenisches Alphabet
+    auto: true
+  - translation_iso: fra
+    name: alphabet arménien
+    auto: true
+  - translation_iso: hin
+    name: आर्मीनियाई लिपि
+    auto: true
+  - translation_iso: jpn
+    name: アルメニア文字
+    auto: true
+  - translation_iso: kor
+    name: 아르메니아 문자
+    auto: true
+  - translation_iso: por
+    name: Alfabeto arménio
+    auto: true
+  - translation_iso: spa
+    name: alfabeto armenio
+    auto: true
+  - translation_iso: zho
+    name: 亚美尼亚字母
+    auto: true
 ---
 
 The Armenian alphabet was created around 405AD by Mesrop Mashtots. He reportedly studied a number of scripts, including Greek and Syriac, before having a dream in which he saw elements of these scripts integrated into one system. The Geez script has also been suggested as a possible influence. Armenia adopted Christianity in the early fourth century, but later began reverting to paganism. Mashtots believed that if the Bible could be written in Armenian the country would have the means to maintain a Christian faith and culture at a time when the Persian empire was attempting to assimilate the country. It also enabled Armenian educational institutions to be established, as well as a large body of early Armenian literature. The alphabet has been used in the country since its inception, with some modifications.

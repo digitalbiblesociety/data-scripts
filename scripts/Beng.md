@@ -86,6 +86,28 @@ languages:
   - unr
   - unx
   - usi
+translations:
+  - translation_iso: ara
+    name: أبجدية بنغالية
+    auto: true
+  - translation_iso: deu
+    name: Östliche Nagari-Schrift
+  - translation_iso: fra
+    name: écriture bengalo-assamaise
+  - translation_iso: hin
+    name: पूर्वी नागरी लिपि
+  - translation_iso: jpn
+    name: ベンガル・アッサム文字
+  - translation_iso: kor
+    name: 동부 나가리 문자
+  - translation_iso: por
+    name: Alfabeto bengali
+    auto: true
+  - translation_iso: spa
+    name: alfabeto bengalí
+    auto: true
+  - translation_iso: zho
+    name: 东部城文
 ---
 
 The Bengali (also called Bangla) script is used for writing the Bengali language, spoken by over 180,000,000 people mostly in Bangladesh and India. It is also used for a number of other Indian languages including Sylheti and, with one or two modifications, Assamese. It is a Brahmic script although its exact derivation is disputed. Bengali writing shares some similarities with the Dravidian-language scripts, particularly in the shapes of some vowel letters, but it is generally more similar to the Aryan-language scripts, in particular Devanagari.

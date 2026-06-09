@@ -278,6 +278,25 @@ languages:
   - xsr
   - ybh
   - ybi
+translations:
+  - translation_iso: ara
+    name: ديوناكري
+  - translation_iso: deu
+    name: Devanagari
+  - translation_iso: fra
+    name: devanagari
+  - translation_iso: hin
+    name: देवनागरी
+  - translation_iso: jpn
+    name: デーヴァナーガリー
+  - translation_iso: kor
+    name: 데바나가리 문자
+  - translation_iso: por
+    name: Devanágari
+  - translation_iso: spa
+    name: devanagari
+  - translation_iso: zho
+    name: 天城文
 ---
 
 Devanagari is a Northern Brahmic script related to many other South Asian scripts including Gujarati, Bengali, and Gurmukhi, and, more distantly, to a number of South-East Asian scripts including Thai, Balinese, and Baybayin. The script is used for over 120 spoken Indo-Aryan languages, including Hindi, Nepali, Marathi, Maithili, Awadhi, Newari and Bhojpuri. It is also used for writing Classical Sanskrit texts. Generally the orthography of the script reflects the pronunciation of the language.

@@ -29,6 +29,29 @@ languages:
   - eky
   - kvy
   - kyu
+translations:
+  - translation_iso: ara
+    name: كاياه لي
+    auto: true
+  - translation_iso: deu
+    name: Kayah Li
+  - translation_iso: fra
+    name: kayah li
+  - translation_iso: hin
+    name: कायाह ली लिपि
+    auto: true
+  - translation_iso: jpn
+    name: カヤー・リー文字
+  - translation_iso: kor
+    name: 카야 리 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita kayah li
+    auto: true
+  - translation_iso: spa
+    name: kayah li
+  - translation_iso: zho
+    name: 克耶里字母
 ---
 
 Kayah Li is used to write the Eastern and Western Kayah Li languages, spoken by 360,000 and 210,000 people respectively. These are Karen languages native to Myanmar but also spoken by significant refugee populations in Thailand. The script was created in 1962 by Htae Bu Phae. It bears noticeable similarities to the Myanmar script and to the Indic scripts. The Kayah Li languages can also be written using the Myanmar script.

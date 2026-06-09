@@ -14,6 +14,28 @@ baseline: bottom
 ligatures: unspecified
 direction: ltr
 direction_notes: "LTR (left-to-right)"
+translations:
+  - translation_iso: ara
+    name: خط كبيلي
+    auto: true
+  - translation_iso: deu
+    name: Kpelle-Schrift
+  - translation_iso: fra
+    name: syllabaire kpèllé
+  - translation_iso: hin
+    name: क्पेल्ले लिपि
+    auto: true
+  - translation_iso: jpn
+    name: クペレ文字
+  - translation_iso: kor
+    name: 크펠레 문자
+    auto: true
+  - translation_iso: por
+    name: Silabário kpelle
+  - translation_iso: spa
+    name: Silabario kpelle
+  - translation_iso: zho
+    name: 克佩列音节
 ---
 
 The Kpelle script was created by Chief Gbili, from the town of Sanoyie in Liberia, for writing the Kpelle language. It was used in the 1930s and early 1940s around Gbili’s local area for sending messages, keeping tax and store records, and recording legal debts, but by the late 1940s had been replaced by the Latin script.

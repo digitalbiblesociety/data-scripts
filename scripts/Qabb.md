@@ -22,6 +22,33 @@ fonts:
   - name: "Ranjana Unicode"
     url: "https://rabindranathtewari.files.wordpress.com/2017/11/ranjana-fonts.zip"
     provider: "Community"
+translations:
+  - translation_iso: ara
+    name: خط رانجانا
+    auto: true
+  - translation_iso: deu
+    name: Ranjana-Schrift
+    auto: true
+  - translation_iso: fra
+    name: réservé à l’usage privé (28e)
+  - translation_iso: hin
+    name: रञ्जना लिपि
+    auto: true
+  - translation_iso: jpn
+    name: ランジャナー文字
+    auto: true
+  - translation_iso: kor
+    name: 란자나 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita ranjana
+    auto: true
+  - translation_iso: spa
+    name: escritura ranjana
+    auto: true
+  - translation_iso: zho
+    name: 兰札文
+    auto: true
 ---
 
 The Ranjana script is used for writing the Newari language of Nepal. This language is also called Nepal-Bhasha, literally Nepal-Language, but it is not to be confused with Nepali. Similarly, the script is one of six subsumed under the name Nepal-Lipi, literally Nepal-Script, though it is not to be confused with Devanagari, which is the script used for writing Nepali. 

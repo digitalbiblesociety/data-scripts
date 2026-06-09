@@ -28,6 +28,29 @@ languages:
   - ron
   - spa
   - thp
+translations:
+  - translation_iso: ara
+    name: اختزال دوبلويان
+    auto: true
+  - translation_iso: deu
+    name: duployé-kurzschrift
+  - translation_iso: fra
+    name: sténographie Duployé
+  - translation_iso: hin
+    name: डुप्लोयान आशुलिपि
+    auto: true
+  - translation_iso: jpn
+    name: デュプロワエ式速記
+  - translation_iso: kor
+    name: 듀플로이안 문자
+    auto: true
+  - translation_iso: por
+    name: Taquigrafia Duployé
+    auto: true
+  - translation_iso: spa
+    name: estenografía duployeana
+  - translation_iso: zho
+    name: 杜普雷速记
 ---
 
 Duployan Shorthand (also called Sloan-Duployan Shorthand, or Duployan Stenography) was first created in 1860 by Emile Duployé, as a stenographic shorthand for rapidly writing French. It was also adapted for writing English, German, Spanish, and Romanian.

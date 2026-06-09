@@ -14,6 +14,31 @@ status: Historical
 baseline: bottom
 direction: rtl
 direction_notes: "RTL (right-to-left)"
+translations:
+  - translation_iso: ara
+    name: خط بهلوي الكتب
+    auto: true
+  - translation_iso: deu
+    name: Buch-Pahlavi
+  - translation_iso: fra
+    name: pehlevi des livres
+  - translation_iso: hin
+    name: पुस्तक पहलवी लिपि
+    auto: true
+  - translation_iso: jpn
+    name: 書物パフラヴィー文字
+    auto: true
+  - translation_iso: kor
+    name: 서적 팔라비 문자
+    auto: true
+  - translation_iso: por
+    name: Pahlavi de livro
+    auto: true
+  - translation_iso: spa
+    name: pahlavi cursivo o de libro
+  - translation_iso: zho
+    name: 书本巴列维文
+    auto: true
 ---
 
 Book Pahlavi is one of the three forms of Pahlavi writing, along with Inscriptional and Psalter Pahlavi. Psalter Pahlavi is so far attested in only two sources, so the bulk of our Pahlavi knowledge is related to the other two forms. The names of these, Inscriptional and Book Pahlavi are somewhat misleading; the Inscriptional form was used on monuments, coins, seals and amulets, as would be expected, but the Book form was used in manuscript texts as well as on stone monuments. The distinction then refers to whether the letters were connected (Book Pahlavi) or unconnected (Inscriptional Pahlavi) rather than to distinct uses of either form.

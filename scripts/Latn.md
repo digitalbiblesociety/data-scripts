@@ -61,6 +61,25 @@ screen_fonts:
     url: "https://fonts.google.com/specimen/Nunito+Sans"
     provider: "Google Fonts"
     notes: "Rounded terminals reduce edge-aliasing artefacts on low-DPI displays"
+translations:
+  - translation_iso: ara
+    name: كتابة لاتينية
+  - translation_iso: deu
+    name: lateinisches Schriftsystem
+  - translation_iso: fra
+    name: écriture latine
+  - translation_iso: hin
+    name: रोमन लिपि
+  - translation_iso: jpn
+    name: ラテン文字
+  - translation_iso: kor
+    name: 로마자
+  - translation_iso: por
+    name: alfabeto latino
+  - translation_iso: spa
+    name: alfabeto latino
+  - translation_iso: zho
+    name: 拉丁文字
 ---
 
 The Latin script (also called the Roman script) is the most widely used writing system in the world, being the script of the English language, spoken by over 300,000,000 people worldwide. It is also the script used for writing a number of Romance, Germanic, Baltic and non-Indo-European languages, as well as the International Phonetic Alphabet (IPA).

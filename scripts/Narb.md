@@ -20,6 +20,33 @@ fonts:
   - name: "Noto Sans Old North Arabian"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Old+North+Arabian"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: الخط العربي الشمالي القديم
+    auto: true
+  - translation_iso: deu
+    name: altnordarabische Schrift
+    auto: true
+  - translation_iso: fra
+    name: nord-arabique
+  - translation_iso: hin
+    name: प्राचीन उत्तरी अरबी लिपि
+    auto: true
+  - translation_iso: jpn
+    name: 古代北アラビア文字
+    auto: true
+  - translation_iso: kor
+    name: 고대 북아라비아 문자
+    auto: true
+  - translation_iso: por
+    name: Árabe setentrional antigo
+    auto: true
+  - translation_iso: spa
+    name: antiguo árabe del norte
+    auto: true
+  - translation_iso: zho
+    name: 古北阿拉伯字母
+    auto: true
 ---
 
 Old North Arabian (also called Ancient North Arabian) is a collective term for a group of scripts found in rock inscriptions written in pre-Islamic dialects in the western two-thirds of the Arabian peninsula. The inscriptions have been dated to between the 8th century BC and the 4th century AD. Many are formal inscriptions, but most are graffiti, written in an informal style.

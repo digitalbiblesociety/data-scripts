@@ -417,6 +417,25 @@ languages:
   - zne
   - zum
   - zza
+translations:
+  - translation_iso: ara
+    name: كتابة عربية
+  - translation_iso: deu
+    name: arabische Schrift
+  - translation_iso: fra
+    name: écriture arabe
+  - translation_iso: hin
+    name: अरबी लिपि
+  - translation_iso: jpn
+    name: アラビア系文字
+  - translation_iso: kor
+    name: 아랍계 문자
+  - translation_iso: por
+    name: sistema de escrita árabe
+  - translation_iso: spa
+    name: escritura árabe
+  - translation_iso: zho
+    name: 阿拉伯文字
 ---
 
 Arabic writing is the second most broadly-used script in the world, after the Latin alphabet. It descended from the Nabataean abjad, itself a descendant of the Phoenician script, and has been used since the 4th century for writing the Arabic language. Since the words of the Prophet Muhammed can only be written in Arabic, the Arabic script has traveled far and wide with the spread of Islam and came to be used for a number of languages throughout Asia, Africa and the Middle East. Many of these are non-Semitic languages, so employ very different sound systems from spoken Arabic, and as a result the script has had to be adapted and is used slightly differently by speakers of different languages. Many African languages use an Arabic-based transcription system called *Ajami*, which is different from the original Arabic script. Romance languages such as Mozarabic or Ladino are also sometimes written in a modified Arabic script, called *Aljamiado*.

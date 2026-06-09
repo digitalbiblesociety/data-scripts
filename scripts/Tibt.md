@@ -89,6 +89,25 @@ languages:
   - xkz
   - xsr
   - zau
+translations:
+  - translation_iso: ara
+    name: أبجدية تبتية
+  - translation_iso: deu
+    name: Tibetische Schrift
+  - translation_iso: fra
+    name: écriture tibétaine
+  - translation_iso: hin
+    name: तिब्बती लिपि
+  - translation_iso: jpn
+    name: チベット文字
+  - translation_iso: kor
+    name: 티베트 문자
+  - translation_iso: por
+    name: Alfabeto tibetano
+  - translation_iso: spa
+    name: alfabeto tibetano
+  - translation_iso: zho
+    name: 藏文
 ---
 
 The Tibetan script is used for writing the Tibetan, Dzongkha, Ladakhi and Sikkimese languages, spoken in Tibet, Bhutan, Nepal and India. It is also used for transcribing religious Sanskrit texts. The exact origin of the script is not clear; Tibetan Buddhism traditionally ascribes its creation to Minister Thon mi Sambhota in Northeast India, but Bon Po religious tradition cites Iranian or Central Asian origins. What is generally agreed upon is that it is ultimately derived from the Brahmi script, as evidenced by its syllabic structure, its use of diacritics to modify the vowel in a syllable, and its typically Brahmic canonical arrangement of the letters in phonological groups.

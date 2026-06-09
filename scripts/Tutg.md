@@ -18,6 +18,30 @@ baseline: hanging
 ligatures: unspecified
 direction: ltr
 direction_notes: LTR (left-to-right)
+translations:
+  - translation_iso: ara
+    name: خط تولو تيغالاري
+    auto: true
+  - translation_iso: deu
+    name: Tulu-Tigalari-Schrift
+    auto: true
+  - translation_iso: fra
+    name: écriture toulou-tigalari
+  - translation_iso: hin
+    name: तुलु-तिगलारी लिपि
+    auto: true
+  - translation_iso: jpn
+    name: トゥル文字
+  - translation_iso: kor
+    name: 툴루-티갈라리 문자
+    auto: true
+  - translation_iso: por
+    name: Escrita tulu
+  - translation_iso: spa
+    name: escritura tulu-tigalari
+    auto: true
+  - translation_iso: zho
+    name: 提加拉里文
 ---
 
 The Tulu-Tigalari script has been used since at least the 14th century (and, many scholars believe, much earlier than this) for writing the Tulu language.
