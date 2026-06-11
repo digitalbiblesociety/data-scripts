@@ -20,12 +20,18 @@ direction_notes: UNSPECIFIED
 translations:
   - translation_iso: ara
     name: الكتابة المسمارية البدائية
+  - translation_iso: ben
+    name: আদি কীলকলিপি
+    auto: true
   - translation_iso: deu
     name: Proto-Keilschrift
   - translation_iso: fra
     name: "Débuts de l'écriture en Mésopotamie"
   - translation_iso: hin
     name: आद्य-कीलाक्षर लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara proto-kuneiform
     auto: true
   - translation_iso: jpn
     name: 原楔形文字
@@ -34,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Proto-cuneiforme
+    auto: true
+  - translation_iso: rus
+    name: протоклинопись
     auto: true
   - translation_iso: spa
     name: Protocuneiforme

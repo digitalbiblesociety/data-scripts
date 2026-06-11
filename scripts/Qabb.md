@@ -26,6 +26,9 @@ translations:
   - translation_iso: ara
     name: خط رانجانا
     auto: true
+  - translation_iso: ben
+    name: রঞ্জনা লিপি
+    auto: true
   - translation_iso: deu
     name: Ranjana-Schrift
     auto: true
@@ -33,6 +36,9 @@ translations:
     name: réservé à l’usage privé (28e)
   - translation_iso: hin
     name: रञ्जना लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Ranjana
     auto: true
   - translation_iso: jpn
     name: ランジャナー文字
@@ -42,6 +48,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita ranjana
+    auto: true
+  - translation_iso: rus
+    name: ранджана
     auto: true
   - translation_iso: spa
     name: escritura ranjana

@@ -44,18 +44,24 @@ languages:
 translations:
   - translation_iso: ara
     name: حروف صينية تقليدية
+  - translation_iso: ben
+    name: প্রথাগত চীনা অক্ষর
   - translation_iso: deu
     name: Langzeichen
   - translation_iso: fra
     name: sinogrammes traditionnels
   - translation_iso: hin
     name: पारम्परिक चीनी वर्ण
+  - translation_iso: ind
+    name: Hanzi tradisional
   - translation_iso: jpn
     name: 繁体字
   - translation_iso: kor
     name: 정체자
   - translation_iso: por
     name: Chinês tradicional
+  - translation_iso: rus
+    name: традиционные китайские иероглифы
   - translation_iso: spa
     name: caracteres chinos tradicionales
   - translation_iso: zho

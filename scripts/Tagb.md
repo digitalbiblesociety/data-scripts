@@ -34,6 +34,9 @@ translations:
   - translation_iso: ara
     name: خط تاغبانوا
     auto: true
+  - translation_iso: ben
+    name: তাগবানওয়া লিপি
+    auto: true
   - translation_iso: deu
     name: Tagbanuwa-Schrift
   - translation_iso: fra
@@ -41,6 +44,8 @@ translations:
   - translation_iso: hin
     name: तगबनवा लिपि
     auto: true
+  - translation_iso: ind
+    name: Aksara Tagbanwa
   - translation_iso: jpn
     name: タグバンワ文字
   - translation_iso: kor
@@ -48,6 +53,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Tagbanwa
+  - translation_iso: rus
+    name: Тагбанва
   - translation_iso: spa
     name: escritura tagbanuá
   - translation_iso: zho

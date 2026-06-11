@@ -31,18 +31,25 @@ languages:
 translations:
   - translation_iso: ara
     name: نص باتاك
+  - translation_iso: ben
+    name: বাতাক লিপি
+    auto: true
   - translation_iso: deu
     name: Batak
   - translation_iso: fra
     name: écriture batak
   - translation_iso: hin
     name: बटक लिपि
+  - translation_iso: ind
+    name: Surat Batak
   - translation_iso: jpn
     name: バタク文字
   - translation_iso: kor
     name: 바탁 문자
   - translation_iso: por
     name: Escrita batak
+  - translation_iso: rus
+    name: Батакское письмо
   - translation_iso: spa
     name: alfabeto batak
   - translation_iso: zho

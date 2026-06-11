@@ -56,18 +56,24 @@ translations:
   - translation_iso: ara
     name: أبجدية خميرية
     auto: true
+  - translation_iso: ben
+    name: খমের লিপি
   - translation_iso: deu
     name: Khmer-Schrift
   - translation_iso: fra
     name: alphasyllabaire khmer
   - translation_iso: hin
     name: खमेर लिपि
+  - translation_iso: ind
+    name: Aksara Khmer
   - translation_iso: jpn
     name: クメール文字
   - translation_iso: kor
     name: 크메르 문자
   - translation_iso: por
     name: Alfabeto khmer
+  - translation_iso: rus
+    name: кхмерское письмо
   - translation_iso: spa
     name: alfabeto camboyano
   - translation_iso: zho

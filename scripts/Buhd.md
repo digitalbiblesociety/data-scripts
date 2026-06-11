@@ -33,12 +33,17 @@ translations:
   - translation_iso: ara
     name: كتابة بوهيد
     auto: true
+  - translation_iso: ben
+    name: বুহিদ লিপি
+    auto: true
   - translation_iso: deu
     name: Buid-Schrift
   - translation_iso: fra
     name: bouhide
   - translation_iso: hin
     name: बुहिद लिपि
+  - translation_iso: ind
+    name: Aksara Buhid
   - translation_iso: jpn
     name: ブーヒッド文字
   - translation_iso: kor
@@ -46,6 +51,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita Buhid
+  - translation_iso: rus
+    name: бухидское письмо
   - translation_iso: spa
     name: Buhid
   - translation_iso: zho

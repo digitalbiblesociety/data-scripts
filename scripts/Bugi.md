@@ -35,18 +35,25 @@ languages:
 translations:
   - translation_iso: ara
     name: خط لنتارا
+  - translation_iso: ben
+    name: লোন্তারা লিপি
+    auto: true
   - translation_iso: deu
     name: Lontara
   - translation_iso: fra
     name: écriture lontara
   - translation_iso: hin
     name: लोन्तारा लिपि
+  - translation_iso: ind
+    name: Aksara Lontara
   - translation_iso: jpn
     name: ロンタラ文字
   - translation_iso: kor
     name: 론타라 문자
   - translation_iso: por
     name: Lontara
+  - translation_iso: rus
+    name: Лонтара
   - translation_iso: spa
     name: alfabeto buginés
     auto: true

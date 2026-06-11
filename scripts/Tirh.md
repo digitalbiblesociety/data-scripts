@@ -26,12 +26,17 @@ translations:
   - translation_iso: ara
     name: خط تيرهوتا
     auto: true
+  - translation_iso: ben
+    name: তিরহুতা লিপি
   - translation_iso: deu
     name: Mithilakshar
   - translation_iso: fra
     name: tirhouta
   - translation_iso: hin
     name: मिथिलाक्षर
+  - translation_iso: ind
+    name: aksara Tirhuta
+    auto: true
   - translation_iso: jpn
     name: ティルフータ文字
   - translation_iso: kor
@@ -40,6 +45,8 @@ translations:
   - translation_iso: por
     name: Escrita tirhuta
     auto: true
+  - translation_iso: rus
+    name: Тирхута
   - translation_iso: spa
     name: tirhuta
   - translation_iso: zho

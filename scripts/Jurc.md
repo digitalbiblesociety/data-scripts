@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: خط جورتشن
     auto: true
+  - translation_iso: ben
+    name: জুরচেন লিপি
+    auto: true
   - translation_iso: deu
     name: Jurchen-Schrift
     auto: true
@@ -27,12 +30,16 @@ translations:
   - translation_iso: hin
     name: जुरचेन लिपि
     auto: true
+  - translation_iso: ind
+    name: Aksara Jurchen
   - translation_iso: jpn
     name: 女真文字
   - translation_iso: kor
     name: 여진 문자
   - translation_iso: por
     name: Escrita jurchén
+  - translation_iso: rus
+    name: чжурчжэньское письмо
   - translation_iso: spa
     name: escritura yurchen
   - translation_iso: zho

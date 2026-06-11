@@ -30,18 +30,24 @@ languages:
 translations:
   - translation_iso: ara
     name: كتابة مسمارية
+  - translation_iso: ben
+    name: কীলকাকার লিখন পদ্ধতি
   - translation_iso: deu
     name: Keilschrift
   - translation_iso: fra
     name: cunéiforme
   - translation_iso: hin
     name: अंकन
+  - translation_iso: ind
+    name: kuneiform
   - translation_iso: jpn
     name: 楔形文字
   - translation_iso: kor
     name: 쐐기 문자
   - translation_iso: por
     name: escrita cuneiforme
+  - translation_iso: rus
+    name: клинопись
   - translation_iso: spa
     name: escritura cuneiforme
   - translation_iso: zho

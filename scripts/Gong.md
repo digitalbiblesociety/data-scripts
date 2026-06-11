@@ -25,12 +25,18 @@ translations:
   - translation_iso: ara
     name: غونجالا غوندي
     auto: true
+  - translation_iso: ben
+    name: গুঞ্জালা গোন্ডি লিপি
+    auto: true
   - translation_iso: deu
     name: Gunjala Gondî
   - translation_iso: fra
     name: gondî de Gunjala
   - translation_iso: hin
     name: गुंजाला गोंडी लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Gunjala Gondi
     auto: true
   - translation_iso: jpn
     name: グンジャラ・ゴーンディー文字
@@ -39,6 +45,9 @@ translations:
     auto: true
   - translation_iso: por
     name: gunjala gondî
+  - translation_iso: rus
+    name: гунджала гонди
+    auto: true
   - translation_iso: spa
     name: Gunjala Gondi
   - translation_iso: zho

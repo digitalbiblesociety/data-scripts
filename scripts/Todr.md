@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: خط تودري
     auto: true
+  - translation_iso: ben
+    name: তোধরি লিপি
+    auto: true
   - translation_iso: deu
     name: Todhri-Alphabet
   - translation_iso: fra
     name: écriture de Todhri
   - translation_iso: hin
     name: तोधरी लिपि
+    auto: true
+  - translation_iso: ind
+    name: alfabet Todhri
     auto: true
   - translation_iso: jpn
     name: トズリ文字
@@ -37,6 +43,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita Todhri
+  - translation_iso: rus
+    name: эльбасанское письмо
   - translation_iso: spa
     name: alfabeto todhri
     auto: true

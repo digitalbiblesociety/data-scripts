@@ -31,6 +31,9 @@ languages:
 translations:
   - translation_iso: ara
     name: كتابة هانونوؤو
+  - translation_iso: ben
+    name: হানুনু লিপি
+    auto: true
   - translation_iso: deu
     name: "Hanunó'o"
   - translation_iso: fra
@@ -38,6 +41,8 @@ translations:
   - translation_iso: hin
     name: हनुनू लिपि
     auto: true
+  - translation_iso: ind
+    name: "Aksara Hanunó'o"
   - translation_iso: jpn
     name: ハヌノー文字
   - translation_iso: kor
@@ -45,6 +50,9 @@ translations:
     auto: true
   - translation_iso: por
     name: "Escrita Hanunó'o"
+  - translation_iso: rus
+    name: хануноо
+    auto: true
   - translation_iso: spa
     name: alfabeto hanunuo
   - translation_iso: zho

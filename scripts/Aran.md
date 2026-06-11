@@ -51,18 +51,24 @@ languages:
 translations:
   - translation_iso: ara
     name: نستعليق
+  - translation_iso: ben
+    name: নাস্তালিক লিপি
   - translation_iso: deu
     name: Nastaʿlīq
   - translation_iso: fra
     name: nastaliq
   - translation_iso: hin
     name: नस्तालीक़
+  - translation_iso: ind
+    name: Nastaliq
   - translation_iso: jpn
     name: ナスタアリーグ体
   - translation_iso: kor
     name: 나스탈리크체
   - translation_iso: por
     name: "Escrita nasta'liq"
+  - translation_iso: rus
+    name: Насталик
   - translation_iso: spa
     name: nastaliq
   - translation_iso: zho

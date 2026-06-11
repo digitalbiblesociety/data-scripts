@@ -33,6 +33,9 @@ languages:
 translations:
   - translation_iso: ara
     name: مسمارية فارسية قديمة
+  - translation_iso: ben
+    name: প্রাচীন ফার্সি লিপি
+    auto: true
   - translation_iso: deu
     name: Persische Keilschrift
   - translation_iso: fra
@@ -40,6 +43,8 @@ translations:
   - translation_iso: hin
     name: प्राचीन फ़ारसी लिपि
     auto: true
+  - translation_iso: ind
+    name: Aksara paku Persia Kuno
   - translation_iso: jpn
     name: 古代ペルシア楔形文字
   - translation_iso: kor
@@ -47,6 +52,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Antigo cuneiforme persa
+  - translation_iso: rus
+    name: Древнеперсидская клинопись
   - translation_iso: spa
     name: cuneiforme persa antiguo
   - translation_iso: zho

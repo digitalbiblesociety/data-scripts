@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خط أكها
     auto: true
+  - translation_iso: ben
+    name: অক্খা লিপি
+    auto: true
   - translation_iso: deu
     name: Akkha-Schrift
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: réservé à l’usage privé (38e)
   - translation_iso: hin
     name: अक्खा लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Akkha
     auto: true
   - translation_iso: jpn
     name: アッカ文字
@@ -34,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita akkha
+    auto: true
+  - translation_iso: rus
+    name: письмо аккха
     auto: true
   - translation_iso: spa
     name: escritura akkha

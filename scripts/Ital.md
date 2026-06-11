@@ -27,6 +27,8 @@ translations:
   - translation_iso: ara
     name: أبجدية إيطالية قديمة
     auto: true
+  - translation_iso: ben
+    name: পুরাতন ইটালিক লিপি
   - translation_iso: deu
     name: altitalisches Alphabet
   - translation_iso: fra
@@ -34,12 +36,16 @@ translations:
   - translation_iso: hin
     name: प्राचीन इटैलिक लिपि
     auto: true
+  - translation_iso: ind
+    name: Italik Kuno
   - translation_iso: jpn
     name: 古イタリア文字
   - translation_iso: kor
     name: 고대 이탈리아 문자
   - translation_iso: por
     name: Antigas escritas itálicas
+  - translation_iso: rus
+    name: древнеиталийские письменности
   - translation_iso: spa
     name: Itálico aperra
   - translation_iso: zho

@@ -17,6 +17,8 @@ direction_notes: boustrophedon
 translations:
   - translation_iso: ara
     name: رونغورونغو
+  - translation_iso: ben
+    name: রোঙ্গোরোঙ্গো
   - translation_iso: deu
     name: Rongorongo
   - translation_iso: fra
@@ -24,12 +26,16 @@ translations:
   - translation_iso: hin
     name: रोंगोरोंगो लिपि
     auto: true
+  - translation_iso: ind
+    name: Rongorongo
   - translation_iso: jpn
     name: ロンゴロンゴ
   - translation_iso: kor
     name: 롱고롱고 문자
   - translation_iso: por
     name: Rongorongo
+  - translation_iso: rus
+    name: ронго-ронго
   - translation_iso: spa
     name: Rongo rongo
   - translation_iso: zho

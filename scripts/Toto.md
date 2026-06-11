@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: خط توتو
     auto: true
+  - translation_iso: ben
+    name: টোটো লিপি
+    auto: true
   - translation_iso: deu
     name: Toto
   - translation_iso: fra
     name: toto
   - translation_iso: hin
     name: टोटो लिपि
+    auto: true
+  - translation_iso: ind
+    name: alfabet Toto
     auto: true
   - translation_iso: jpn
     name: トト文字
@@ -37,6 +43,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Alfabeto toto
+  - translation_iso: rus
+    name: тото
   - translation_iso: spa
     name: alfabeto toto
     auto: true

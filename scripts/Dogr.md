@@ -27,6 +27,8 @@ translations:
   - translation_iso: ara
     name: خط دوغرا
     auto: true
+  - translation_iso: ben
+    name: ডোগরি লিপি
   - translation_iso: deu
     name: Dogra-Schrift
     auto: true
@@ -34,6 +36,9 @@ translations:
     name: dogra
   - translation_iso: hin
     name: डोगरी लिपि
+  - translation_iso: ind
+    name: aksara Dogra
+    auto: true
   - translation_iso: jpn
     name: ドーグリー文字
   - translation_iso: kor
@@ -41,6 +46,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita dogra
+    auto: true
+  - translation_iso: rus
+    name: догра
     auto: true
   - translation_iso: spa
     name: alfabeto dogra

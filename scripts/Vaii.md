@@ -33,6 +33,9 @@ languages:
 translations:
   - translation_iso: ara
     name: نظام الكتابة المقطعية للفاي
+  - translation_iso: ben
+    name: ভাই লিপি
+    auto: true
   - translation_iso: deu
     name: Vai-Schrift
   - translation_iso: fra
@@ -40,12 +43,17 @@ translations:
   - translation_iso: hin
     name: वाई लिपि
     auto: true
+  - translation_iso: ind
+    name: aksara Vai
+    auto: true
   - translation_iso: jpn
     name: ヴァイ文字
   - translation_iso: kor
     name: 바이 문자
   - translation_iso: por
     name: Silabário vai
+  - translation_iso: rus
+    name: Ваи
   - translation_iso: spa
     name: Silabario vai
   - translation_iso: zho

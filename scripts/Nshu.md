@@ -29,6 +29,9 @@ translations:
   - translation_iso: ara
     name: نوشو
     auto: true
+  - translation_iso: ben
+    name: নুশু লিপি
+    auto: true
   - translation_iso: deu
     name: Nüshu
   - translation_iso: fra
@@ -36,12 +39,16 @@ translations:
   - translation_iso: hin
     name: नुशू लिपि
     auto: true
+  - translation_iso: ind
+    name: Nu Shu
   - translation_iso: jpn
     name: 女書
   - translation_iso: kor
     name: 여서문자
   - translation_iso: por
     name: Nushu
+  - translation_iso: rus
+    name: Нюйшу
   - translation_iso: spa
     name: nü shu
   - translation_iso: zho

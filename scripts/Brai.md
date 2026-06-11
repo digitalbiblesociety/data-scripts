@@ -123,18 +123,24 @@ languages:
 translations:
   - translation_iso: ara
     name: بريل
+  - translation_iso: ben
+    name: ব্রেইল পদ্ধতি
   - translation_iso: deu
     name: Brailleschrift
   - translation_iso: fra
     name: écriture braille
   - translation_iso: hin
     name: ब्रेल पद्धति
+  - translation_iso: ind
+    name: Braille
   - translation_iso: jpn
     name: 点字
   - translation_iso: kor
     name: 점자
   - translation_iso: por
     name: Braille
+  - translation_iso: rus
+    name: шрифт Брайля
   - translation_iso: spa
     name: braille
   - translation_iso: zho

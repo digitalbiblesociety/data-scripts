@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: خط تاي يو
     auto: true
+  - translation_iso: ben
+    name: তাই ইয়ো লিপি
+    auto: true
   - translation_iso: deu
     name: Tai-Yo-Schrift
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: réservé à l’usage privé (23e)
   - translation_iso: hin
     name: ताई यो लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Tai Yo
     auto: true
   - translation_iso: jpn
     name: タイ・ヨー文字
@@ -35,6 +41,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita tai yo
+    auto: true
+  - translation_iso: rus
+    name: письмо тай-йо
     auto: true
   - translation_iso: spa
     name: escritura tai yo

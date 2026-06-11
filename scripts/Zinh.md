@@ -8,6 +8,9 @@ translations:
   - translation_iso: ara
     name: موروث
     auto: true
+  - translation_iso: ben
+    name: উত্তরাধিকারসূত্রে প্রাপ্ত লিপির জন্য কোড
+    auto: true
   - translation_iso: deu
     name: Code für geerbte Schrift
     auto: true
@@ -15,6 +18,9 @@ translations:
     name: écriture héritée
   - translation_iso: hin
     name: विरासती लिपि के लिए कोड
+    auto: true
+  - translation_iso: ind
+    name: kode untuk aksara warisan
     auto: true
   - translation_iso: jpn
     name: 継承された文字体系
@@ -24,6 +30,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Código para escrita herdada
+    auto: true
+  - translation_iso: rus
+    name: код для унаследованной письменности
     auto: true
   - translation_iso: spa
     name: código para escritura heredada

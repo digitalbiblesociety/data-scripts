@@ -420,18 +420,24 @@ languages:
 translations:
   - translation_iso: ara
     name: كتابة عربية
+  - translation_iso: ben
+    name: আরবি লিপি
   - translation_iso: deu
     name: arabische Schrift
   - translation_iso: fra
     name: écriture arabe
   - translation_iso: hin
     name: अरबी लिपि
+  - translation_iso: ind
+    name: aksara Arab
   - translation_iso: jpn
     name: アラビア系文字
   - translation_iso: kor
     name: 아랍계 문자
   - translation_iso: por
     name: sistema de escrita árabe
+  - translation_iso: rus
+    name: арабское письмо
   - translation_iso: spa
     name: escritura árabe
   - translation_iso: zho

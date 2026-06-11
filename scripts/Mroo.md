@@ -33,6 +33,9 @@ translations:
   - translation_iso: ara
     name: مرو
     auto: true
+  - translation_iso: ben
+    name: ম্রো লিপি
+    auto: true
   - translation_iso: deu
     name: Mro-Schrift
     auto: true
@@ -40,6 +43,9 @@ translations:
     name: mro
   - translation_iso: hin
     name: म्रो लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Mro
     auto: true
   - translation_iso: jpn
     name: ムロ文字
@@ -49,6 +55,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita mro
+    auto: true
+  - translation_iso: rus
+    name: письмо мро
     auto: true
   - translation_iso: spa
     name: mro

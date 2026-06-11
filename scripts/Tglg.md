@@ -31,18 +31,25 @@ translations:
   - translation_iso: ara
     name: بايبايين
     auto: true
+  - translation_iso: ben
+    name: তাগালোগ লিপি
+    auto: true
   - translation_iso: deu
     name: Baybayin
   - translation_iso: fra
     name: Baybayin
   - translation_iso: hin
     name: बायबायिन लिपि
+  - translation_iso: ind
+    name: Aksara Baybayin
   - translation_iso: jpn
     name: バイバイン
   - translation_iso: kor
     name: 바이바이인
   - translation_iso: por
     name: Escrita baybayin
+  - translation_iso: rus
+    name: Байбайин
   - translation_iso: spa
     name: baybayin
   - translation_iso: zho

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: كيرات راي
     auto: true
+  - translation_iso: ben
+    name: কিরাত রাই লিপি
+    auto: true
   - translation_iso: deu
     name: Kirat-Rai-Schrift
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: kirat rai
   - translation_iso: hin
     name: किरात राई लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Kirat Rai
     auto: true
   - translation_iso: jpn
     name: キラート・ライ文字
@@ -38,6 +44,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita kirat rai
+    auto: true
+  - translation_iso: rus
+    name: письмо кират рай
     auto: true
   - translation_iso: spa
     name: kirat rai

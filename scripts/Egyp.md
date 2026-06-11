@@ -30,18 +30,24 @@ languages:
 translations:
   - translation_iso: ara
     name: هيروغليفية مصرية
+  - translation_iso: ben
+    name: মিশরীয় চিত্রলিপি
   - translation_iso: deu
     name: Ägyptische Hieroglyphen
   - translation_iso: fra
     name: hiéroglyphes égyptiens
   - translation_iso: hin
     name: मिस्री चित्रलिपि
+  - translation_iso: ind
+    name: hieroglif Mesir
   - translation_iso: jpn
     name: ヒエログリフ
   - translation_iso: kor
     name: 신성문자
   - translation_iso: por
     name: hieróglifos egípcios
+  - translation_iso: rus
+    name: египетское иероглифическое письмо
   - translation_iso: spa
     name: jeroglífico egipcio
   - translation_iso: zho

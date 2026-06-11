@@ -35,12 +35,16 @@ languages:
 translations:
   - translation_iso: ara
     name: الخط البالي
+  - translation_iso: ben
+    name: বালীয় লিপি
   - translation_iso: deu
     name: balinesische Schrift
   - translation_iso: fra
     name: écriture balinaise
   - translation_iso: hin
     name: बाली लिपि
+  - translation_iso: ind
+    name: Aksara Bali
   - translation_iso: jpn
     name: バリ文字
   - translation_iso: kor
@@ -48,6 +52,8 @@ translations:
   - translation_iso: por
     name: Escrita balinesa
     auto: true
+  - translation_iso: rus
+    name: балийское письмо
   - translation_iso: spa
     name: alfabeto balinés
   - translation_iso: zho

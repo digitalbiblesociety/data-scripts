@@ -61,18 +61,25 @@ languages:
 translations:
   - translation_iso: ara
     name: المقاطع اللفظية الأصلية الكندية
+  - translation_iso: ben
+    name: একীভূত কানাডীয় আদিবাসী অক্ষরলিপি
+    auto: true
   - translation_iso: deu
     name: Kanadische Silbenschrift
   - translation_iso: fra
     name: syllabaire autochtone canadien
   - translation_iso: hin
     name: कनाडा के ऐबोरजीनी लिपि
+  - translation_iso: ind
+    name: aksara aborigin Kanada
   - translation_iso: jpn
     name: カナダ先住民文字
   - translation_iso: kor
     name: 캐나다 원주민 음절문자
   - translation_iso: por
     name: silabários indígenas canadenses
+  - translation_iso: rus
+    name: канадское слоговое письмо
   - translation_iso: spa
     name: silabarios indígenas canadienses
   - translation_iso: zho

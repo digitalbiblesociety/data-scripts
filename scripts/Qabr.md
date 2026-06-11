@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خط إسكايا
     auto: true
+  - translation_iso: ben
+    name: এসকায়া লিপি
+    auto: true
   - translation_iso: deu
     name: Eskaya-Schrift
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: réservé à l’usage privé (44e)
   - translation_iso: hin
     name: एस्काया लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Eskaya
     auto: true
   - translation_iso: jpn
     name: エスカヤ文字
@@ -34,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Silabário eskaya
+    auto: true
+  - translation_iso: rus
+    name: письмо эскайя
     auto: true
   - translation_iso: spa
     name: silabario eskaya

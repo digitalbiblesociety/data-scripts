@@ -35,6 +35,9 @@ translations:
   - translation_iso: ara
     name: كوري
     auto: true
+  - translation_iso: ben
+    name: কোরীয় লিপি
+    auto: true
   - translation_iso: deu
     name: Koreanisch gemischte Schrift
   - translation_iso: fra
@@ -42,12 +45,17 @@ translations:
   - translation_iso: hin
     name: कोरियाई लिपि
     auto: true
+  - translation_iso: ind
+    name: Korea
+    auto: true
   - translation_iso: jpn
     name: 漢字ハングル混じり文
   - translation_iso: kor
     name: 한글전용과 국한문혼용
   - translation_iso: por
     name: Escrita mista coreana
+  - translation_iso: rus
+    name: Корейское смешанное письмо
   - translation_iso: spa
     name: coreano
     auto: true

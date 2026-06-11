@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خط لوما
     auto: true
+  - translation_iso: ben
+    name: লোমা লিপি
+    auto: true
   - translation_iso: deu
     name: Loma-Schrift
     auto: true
@@ -26,6 +29,9 @@ translations:
   - translation_iso: hin
     name: लोमा लिपि
     auto: true
+  - translation_iso: ind
+    name: aksara Loma
+    auto: true
   - translation_iso: jpn
     name: ロマ文字
   - translation_iso: kor
@@ -33,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Silabário loma
+    auto: true
+  - translation_iso: rus
+    name: письмо лома
     auto: true
   - translation_iso: spa
     name: loma

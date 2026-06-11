@@ -23,6 +23,8 @@ translations:
   - translation_iso: ara
     name: خط أهوم
     auto: true
+  - translation_iso: ben
+    name: আহোম লিপি
   - translation_iso: deu
     name: Ahom-Schrift
     auto: true
@@ -31,6 +33,9 @@ translations:
   - translation_iso: hin
     name: अहोम लिपि
     auto: true
+  - translation_iso: ind
+    name: aksara Ahom
+    auto: true
   - translation_iso: jpn
     name: アーホム文字
   - translation_iso: kor
@@ -38,6 +43,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita ahom
+  - translation_iso: rus
+    name: Ахом
   - translation_iso: spa
     name: escritura ahom
     auto: true

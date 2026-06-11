@@ -60,12 +60,16 @@ translations:
   - translation_iso: ara
     name: كانادا
     auto: true
+  - translation_iso: ben
+    name: কন্নড় লিপি
   - translation_iso: deu
     name: Kannada-Schrift
   - translation_iso: fra
     name: écriture kannara
   - translation_iso: hin
     name: कन्नड लिपि
+  - translation_iso: ind
+    name: Alfabet Kannada
   - translation_iso: jpn
     name: カンナダ文字
   - translation_iso: kor
@@ -73,6 +77,8 @@ translations:
   - translation_iso: por
     name: Escrita canaresa
     auto: true
+  - translation_iso: rus
+    name: каннада
   - translation_iso: spa
     name: alfabeto canarés
   - translation_iso: zho

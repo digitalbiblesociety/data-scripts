@@ -34,18 +34,25 @@ translations:
   - translation_iso: ara
     name: خط فاغسبا
     auto: true
+  - translation_iso: ben
+    name: ফাগস-পা লিপি
+    auto: true
   - translation_iso: deu
     name: Phagpa-Schrift
   - translation_iso: fra
     name: écriture phagspa
   - translation_iso: hin
     name: फाग्सपा लिपि
+  - translation_iso: ind
+    name: Aksara Phagspa
   - translation_iso: jpn
     name: パスパ文字
   - translation_iso: kor
     name: 파스파 문자
   - translation_iso: por
     name: "Escrita 'phags-pa"
+  - translation_iso: rus
+    name: монгольское квадратное письмо
   - translation_iso: spa
     name: "'phags-pa"
   - translation_iso: zho

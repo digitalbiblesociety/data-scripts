@@ -33,12 +33,18 @@ translations:
   - translation_iso: ara
     name: كاياه لي
     auto: true
+  - translation_iso: ben
+    name: কায়াহ লি লিপি
+    auto: true
   - translation_iso: deu
     name: Kayah Li
   - translation_iso: fra
     name: kayah li
   - translation_iso: hin
     name: कायाह ली लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Kayah Li
     auto: true
   - translation_iso: jpn
     name: カヤー・リー文字
@@ -48,6 +54,8 @@ translations:
   - translation_iso: por
     name: Escrita kayah li
     auto: true
+  - translation_iso: rus
+    name: Кая-ли
   - translation_iso: spa
     name: kayah li
   - translation_iso: zho

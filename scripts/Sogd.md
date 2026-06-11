@@ -21,6 +21,9 @@ direction_notes: RTL (right-to-left)
 translations:
   - translation_iso: ara
     name: أبجدية صغدية
+  - translation_iso: ben
+    name: সোগদীয় লিপি
+    auto: true
   - translation_iso: deu
     name: sogdische Schrift
     auto: true
@@ -29,12 +32,16 @@ translations:
   - translation_iso: hin
     name: सोग्दी लिपि
     auto: true
+  - translation_iso: ind
+    name: Aksara Sogdiana
   - translation_iso: jpn
     name: ソグド文字
   - translation_iso: kor
     name: 소그드 문자
   - translation_iso: por
     name: Alfabeto sogdiano
+  - translation_iso: rus
+    name: Согдийское письмо
   - translation_iso: spa
     name: Sogdiano
   - translation_iso: zho

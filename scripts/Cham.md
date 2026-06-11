@@ -33,12 +33,17 @@ translations:
   - translation_iso: ara
     name: خط تشام
     auto: true
+  - translation_iso: ben
+    name: চাম লিপি
+    auto: true
   - translation_iso: deu
     name: Cham-Schrift
   - translation_iso: fra
     name: cham
   - translation_iso: hin
     name: चाम लिपि
+  - translation_iso: ind
+    name: Aksara Cham
   - translation_iso: jpn
     name: チャム文字
   - translation_iso: kor
@@ -47,6 +52,8 @@ translations:
   - translation_iso: por
     name: Escrita cham
     auto: true
+  - translation_iso: rus
+    name: Чамская письменность
   - translation_iso: spa
     name: alfabeto cham
   - translation_iso: zho

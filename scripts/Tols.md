@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: خط تولونغ سيكي
     auto: true
+  - translation_iso: ben
+    name: তোলোং সিকি লিপি
+    auto: true
   - translation_iso: deu
     name: Tolong-Siki-Schrift
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tolong siki
   - translation_iso: hin
     name: तोलोङ सिकि
+  - translation_iso: ind
+    name: aksara Tolong Siki
+    auto: true
   - translation_iso: jpn
     name: トロン・シキ文字
     auto: true
@@ -36,6 +42,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita Tolong Siki
+  - translation_iso: rus
+    name: толонг-сики
   - translation_iso: spa
     name: tolong siki
     auto: true

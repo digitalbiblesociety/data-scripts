@@ -61,18 +61,24 @@ languages:
 translations:
   - translation_iso: ara
     name: مقاطع صينية
+  - translation_iso: ben
+    name: চীনা অক্ষর
   - translation_iso: deu
     name: Chinesische Schrift
   - translation_iso: fra
     name: sinogrammes
   - translation_iso: hin
     name: चीनी भावचित्र
+  - translation_iso: ind
+    name: karakter Han
   - translation_iso: jpn
     name: 漢字
   - translation_iso: kor
     name: 한자
   - translation_iso: por
     name: Caracteres chineses
+  - translation_iso: rus
+    name: китайское письмо
   - translation_iso: spa
     name: caracteres chinos
   - translation_iso: zho

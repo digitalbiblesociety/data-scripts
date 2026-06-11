@@ -31,12 +31,17 @@ translations:
   - translation_iso: ara
     name: سيلوتي ناغري
     auto: true
+  - translation_iso: ben
+    name: সিলেটি নাগরী
   - translation_iso: deu
     name: Sylheti Skript
   - translation_iso: fra
     name: sylotî nâgrî
   - translation_iso: hin
     name: सिलहटी लिपि
+  - translation_iso: ind
+    name: aksara Syloti Nagri
+    auto: true
   - translation_iso: jpn
     name: シロチ文字
   - translation_iso: kor
@@ -45,6 +50,8 @@ translations:
   - translation_iso: por
     name: Escrita syloti nagri
     auto: true
+  - translation_iso: rus
+    name: Силхетское нагари
   - translation_iso: spa
     name: syloti nagri
     auto: true

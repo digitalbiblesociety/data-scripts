@@ -26,6 +26,9 @@ translations:
   - translation_iso: ara
     name: أبجدية إلباسان
     auto: true
+  - translation_iso: ben
+    name: এলবাসান লিপি
+    auto: true
   - translation_iso: deu
     name: Elbasan-Alphabet
   - translation_iso: fra
@@ -33,12 +36,17 @@ translations:
   - translation_iso: hin
     name: एल्बासान लिपि
     auto: true
+  - translation_iso: ind
+    name: alfabet Elbasan
+    auto: true
   - translation_iso: jpn
     name: エルバサン翻字
   - translation_iso: kor
     name: 엘바산 문자
   - translation_iso: por
     name: Escrita Elbasan
+  - translation_iso: rus
+    name: Эльбасанское письмо
   - translation_iso: spa
     name: elbasanés
   - translation_iso: zho

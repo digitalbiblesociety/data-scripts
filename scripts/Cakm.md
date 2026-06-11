@@ -33,12 +33,17 @@ translations:
   - translation_iso: ara
     name: خط شاكما
     auto: true
+  - translation_iso: ben
+    name: চাকমা বর্ণমালা
   - translation_iso: deu
     name: Chakma-Schrift
   - translation_iso: fra
     name: ojhapath
   - translation_iso: hin
     name: चकमा लिपि
+  - translation_iso: ind
+    name: aksara Chakma
+    auto: true
   - translation_iso: jpn
     name: チャクマ文字
   - translation_iso: kor
@@ -46,6 +51,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita chakma
+  - translation_iso: rus
+    name: Чакма
   - translation_iso: spa
     name: chakma
     auto: true

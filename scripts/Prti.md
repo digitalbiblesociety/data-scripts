@@ -25,6 +25,9 @@ languages:
 translations:
   - translation_iso: ara
     name: الفرثية المنقوشة
+  - translation_iso: ben
+    name: শিলালেখীয় পার্থিয়ান লিপি
+    auto: true
   - translation_iso: deu
     name: Inschriften-Parthisch
     auto: true
@@ -33,6 +36,8 @@ translations:
   - translation_iso: hin
     name: शिलालेखीय पार्थियन लिपि
     auto: true
+  - translation_iso: ind
+    name: Abjad Partia Prasasti
   - translation_iso: jpn
     name: 碑文パルティア文字
     auto: true
@@ -41,6 +46,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Parta inscricional
+    auto: true
+  - translation_iso: rus
+    name: надписный парфянский
     auto: true
   - translation_iso: spa
     name: parto inscripcional

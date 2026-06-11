@@ -24,18 +24,24 @@ fonts:
 translations:
   - translation_iso: ara
     name: تدوين رياضي
+  - translation_iso: ben
+    name: গাণিতিক প্রতীক-চিহ্নাদি
   - translation_iso: deu
     name: mathematische Notation
   - translation_iso: fra
     name: notation mathématique
   - translation_iso: hin
     name: गणितीय संकेतन
+  - translation_iso: ind
+    name: notasi matematika
   - translation_iso: jpn
     name: 数学的表記
   - translation_iso: kor
     name: 수학 표기법
   - translation_iso: por
     name: notação matemática
+  - translation_iso: rus
+    name: математические обозначения
   - translation_iso: spa
     name: notación matemática
   - translation_iso: zho

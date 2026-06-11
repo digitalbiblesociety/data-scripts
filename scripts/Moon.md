@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: خط مون
     auto: true
+  - translation_iso: ben
+    name: মুন লিপি
+    auto: true
   - translation_iso: deu
     name: Moonalphabet
   - translation_iso: fra
     name: écriture Moon
   - translation_iso: hin
     name: मून लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Moon
     auto: true
   - translation_iso: jpn
     name: ムーン・タイプ
@@ -32,6 +38,8 @@ translations:
   - translation_iso: por
     name: Escrita Moon
     auto: true
+  - translation_iso: rus
+    name: Шрифт Муна
   - translation_iso: spa
     name: Escritura Moon
   - translation_iso: zho

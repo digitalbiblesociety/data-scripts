@@ -31,6 +31,8 @@ translations:
   - translation_iso: ara
     name: خط سورا سومبينغ
     auto: true
+  - translation_iso: ben
+    name: সোরঙ সোমপেঙ লিপি
   - translation_iso: deu
     name: Sora-Sompeng-Schrift
     auto: true
@@ -38,6 +40,9 @@ translations:
     name: alphabet sora sompeng
   - translation_iso: hin
     name: सोरा सोमपेंग लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Sora Sompeng
     auto: true
   - translation_iso: jpn
     name: ソーラン・サンペン文字
@@ -47,6 +52,8 @@ translations:
   - translation_iso: por
     name: Escrita sora sompeng
     auto: true
+  - translation_iso: rus
+    name: Соранг Сомпенг
   - translation_iso: spa
     name: sora sompeng
     auto: true

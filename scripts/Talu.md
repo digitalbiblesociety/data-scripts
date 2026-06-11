@@ -33,6 +33,9 @@ translations:
   - translation_iso: ara
     name: خط تاي لو الجديد
     auto: true
+  - translation_iso: ben
+    name: নতুন তাই লু লিপি
+    auto: true
   - translation_iso: deu
     name: Neue Tai-Lü-Schrift
     auto: true
@@ -40,6 +43,9 @@ translations:
     name: nouveau taï-lue
   - translation_iso: hin
     name: नई ताई लू लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Tai Lue Baru
     auto: true
   - translation_iso: jpn
     name: 新タイ・ルー文字
@@ -49,6 +55,8 @@ translations:
   - translation_iso: por
     name: Novo tai lue
     auto: true
+  - translation_iso: rus
+    name: Новое письмо лы
   - translation_iso: spa
     name: nuevo tai lue
     auto: true

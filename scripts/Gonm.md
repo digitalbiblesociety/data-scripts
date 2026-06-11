@@ -29,12 +29,18 @@ translations:
   - translation_iso: ara
     name: ماسارام غوندي
     auto: true
+  - translation_iso: ben
+    name: মাসারাম গোন্ডি লিপি
+    auto: true
   - translation_iso: deu
     name: Masaram Gondi
   - translation_iso: fra
     name: gondî de Masaram
   - translation_iso: hin
     name: गोंडी लेखन
+  - translation_iso: ind
+    name: aksara Masaram Gondi
+    auto: true
   - translation_iso: jpn
     name: マサラム・ゴーンディー文字
     auto: true
@@ -43,6 +49,9 @@ translations:
     auto: true
   - translation_iso: por
     name: masaram gondi
+  - translation_iso: rus
+    name: масарам гонди
+    auto: true
   - translation_iso: spa
     name: masaram gondi
     auto: true

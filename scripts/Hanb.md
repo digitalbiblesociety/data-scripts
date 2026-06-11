@@ -25,6 +25,9 @@ translations:
   - translation_iso: ara
     name: هان مع بوبوموفو
     auto: true
+  - translation_iso: ben
+    name: বোপোমোফোসহ হান
+    auto: true
   - translation_iso: deu
     name: Han mit Bopomofo
     auto: true
@@ -32,6 +35,9 @@ translations:
     name: han avec bopomofo
   - translation_iso: hin
     name: बोपोमोफ़ो सहित हान
+    auto: true
+  - translation_iso: ind
+    name: Han dengan Bopomofo
     auto: true
   - translation_iso: jpn
     name: 注音字母付き漢字
@@ -41,6 +47,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Han com bopomofo
+    auto: true
+  - translation_iso: rus
+    name: хань с чжуинем
     auto: true
   - translation_iso: spa
     name: han con bopomofo

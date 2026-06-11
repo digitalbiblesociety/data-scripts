@@ -24,6 +24,9 @@ translations:
   - translation_iso: ara
     name: الهيروغليفية المروية
     auto: true
+  - translation_iso: ben
+    name: মেরোইটিক চিত্রলিপি
+    auto: true
   - translation_iso: deu
     name: meroitische Hieroglyphen
     auto: true
@@ -31,6 +34,9 @@ translations:
     name: hiéroglyphes méroïtiques
   - translation_iso: hin
     name: मेरोइटिक चित्रलिपि
+    auto: true
+  - translation_iso: ind
+    name: hieroglif Meroitik
     auto: true
   - translation_iso: jpn
     name: メロエ文字
@@ -40,6 +46,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Hieróglifos meroíticos
+    auto: true
+  - translation_iso: rus
+    name: мероитские иероглифы
     auto: true
   - translation_iso: spa
     name: jeroglíficos meroíticos

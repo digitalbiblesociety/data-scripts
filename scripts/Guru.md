@@ -49,18 +49,24 @@ languages:
 translations:
   - translation_iso: ara
     name: أبجدية كرمكهية
+  - translation_iso: ben
+    name: গুরুমুখী লিপি
   - translation_iso: deu
     name: Gurmukhi-Schrift
   - translation_iso: fra
     name: gourmoukhî
   - translation_iso: hin
     name: गुरमुखी लिपि
+  - translation_iso: ind
+    name: Aksara Gurmukhī
   - translation_iso: jpn
     name: グルムキー文字
   - translation_iso: kor
     name: 구르무키 문자
   - translation_iso: por
     name: Gurmukhi
+  - translation_iso: rus
+    name: гурмукхи
   - translation_iso: spa
     name: alfabeto gurmukhi
   - translation_iso: zho

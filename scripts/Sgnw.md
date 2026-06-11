@@ -28,6 +28,9 @@ languages:
 translations:
   - translation_iso: ara
     name: كتابة الإشارة
+  - translation_iso: ben
+    name: সাইনরাইটিং
+    auto: true
   - translation_iso: deu
     name: SignWriting
   - translation_iso: fra
@@ -35,11 +38,16 @@ translations:
   - translation_iso: hin
     name: साइनराइटिंग
     auto: true
+  - translation_iso: ind
+    name: SignWriting
+    auto: true
   - translation_iso: jpn
     name: サットン手話表記法
   - translation_iso: kor
     name: 서턴 수화 표기법
   - translation_iso: por
+    name: SignWriting
+  - translation_iso: rus
     name: SignWriting
   - translation_iso: spa
     name: SignoEscritura

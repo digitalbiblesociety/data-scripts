@@ -23,6 +23,9 @@ translations:
   - translation_iso: ara
     name: ملتاني
     auto: true
+  - translation_iso: ben
+    name: মুলতানি লিপি
+    auto: true
   - translation_iso: deu
     name: Multani-Schrift
     auto: true
@@ -31,6 +34,9 @@ translations:
   - translation_iso: hin
     name: मुल्तानी लिपि
     auto: true
+  - translation_iso: ind
+    name: aksara Multani
+    auto: true
   - translation_iso: jpn
     name: ムルターニー文字
   - translation_iso: kor
@@ -38,6 +44,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita multani
+    auto: true
+  - translation_iso: rus
+    name: мултани
     auto: true
   - translation_iso: spa
     name: multani

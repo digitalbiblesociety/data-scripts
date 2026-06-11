@@ -22,6 +22,9 @@ fonts:
 translations:
   - translation_iso: ara
     name: الأبجدية التدمرية
+  - translation_iso: ben
+    name: পালমিরিন লিপি
+    auto: true
   - translation_iso: deu
     name: palmyrenische Schrift
     auto: true
@@ -30,6 +33,8 @@ translations:
   - translation_iso: hin
     name: पाल्मीरीन लिपि
     auto: true
+  - translation_iso: ind
+    name: Alfabet Tadmur
   - translation_iso: jpn
     name: パルミラ文字
   - translation_iso: kor
@@ -38,6 +43,8 @@ translations:
   - translation_iso: por
     name: Alfabeto palmireno
     auto: true
+  - translation_iso: rus
+    name: пальмирский алфавит
   - translation_iso: spa
     name: alfabeto de Palmira
   - translation_iso: zho

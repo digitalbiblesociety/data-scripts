@@ -224,18 +224,24 @@ languages:
 translations:
   - translation_iso: ara
     name: ألفبائية كيريلية
+  - translation_iso: ben
+    name: সিরিলীয় লিপি
   - translation_iso: deu
     name: kyrillisches Alphabet
   - translation_iso: fra
     name: écriture cyrillique
   - translation_iso: hin
     name: सीरिलिक वर्णमाला
+  - translation_iso: ind
+    name: aksara Kiril
   - translation_iso: jpn
     name: キリル文字
   - translation_iso: kor
     name: 키릴 문자
   - translation_iso: por
     name: Alfabeto cirílico
+  - translation_iso: rus
+    name: кириллица
   - translation_iso: spa
     name: alfabeto cirílico
   - translation_iso: zho

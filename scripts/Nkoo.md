@@ -40,18 +40,25 @@ languages:
 translations:
   - translation_iso: ara
     name: نكو
+  - translation_iso: ben
+    name: এন’কো লিপি
+    auto: true
   - translation_iso: deu
     name: N’Ko
   - translation_iso: fra
     name: n’ko
   - translation_iso: hin
     name: "न 'को लिपी"
+  - translation_iso: ind
+    name: "Aksara N'Ko"
   - translation_iso: jpn
     name: ンコ文字
   - translation_iso: kor
     name: 응코 문자
   - translation_iso: por
     name: "alfabeto n'ko"
+  - translation_iso: rus
+    name: нко
   - translation_iso: spa
     name: "alfabeto N'Ko"
   - translation_iso: zho

@@ -37,12 +37,18 @@ translations:
   - translation_iso: ara
     name: باهوه همونغ
     auto: true
+  - translation_iso: ben
+    name: পাহাও মোং লিপি
+    auto: true
   - translation_iso: deu
     name: Pahawh Hmong
   - translation_iso: fra
     name: pahawh hmong
   - translation_iso: hin
     name: पहाव ह्मोंग लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Pahawh Hmong
     auto: true
   - translation_iso: jpn
     name: パハウ・フモン文字
@@ -52,6 +58,8 @@ translations:
   - translation_iso: por
     name: Pahawh hmong
     auto: true
+  - translation_iso: rus
+    name: Пахау
   - translation_iso: spa
     name: Pahawh Hmong
   - translation_iso: zho

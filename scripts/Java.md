@@ -36,12 +36,17 @@ languages:
 translations:
   - translation_iso: ara
     name: ألفبائية جاوية
+  - translation_iso: ben
+    name: জাভানীয় লিপি
+    auto: true
   - translation_iso: deu
     name: javanische Schrift
   - translation_iso: fra
     name: alphabet javanais
   - translation_iso: hin
     name: जावाई लिपि
+  - translation_iso: ind
+    name: aksara Jawa
   - translation_iso: jpn
     name: ジャワ文字
   - translation_iso: kor
@@ -49,6 +54,8 @@ translations:
   - translation_iso: por
     name: Escrita javanesa
     auto: true
+  - translation_iso: rus
+    name: яванское письмо
   - translation_iso: spa
     name: alfabeto javanés
   - translation_iso: zho

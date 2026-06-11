@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ناشي غيبا
     auto: true
+  - translation_iso: ben
+    name: গেবা লিপি
   - translation_iso: deu
     name: Geba-Schrift
     auto: true
@@ -26,6 +28,9 @@ translations:
   - translation_iso: hin
     name: नाशी गेबा लिपि
     auto: true
+  - translation_iso: ind
+    name: aksara Naxi Geba
+    auto: true
   - translation_iso: jpn
     name: ゴバ文字
   - translation_iso: kor
@@ -33,6 +38,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita Geba
+  - translation_iso: rus
+    name: Геба
   - translation_iso: spa
     name: silabario geba
     auto: true

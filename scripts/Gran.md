@@ -28,12 +28,17 @@ translations:
   - translation_iso: ara
     name: خط غرانتا
     auto: true
+  - translation_iso: ben
+    name: গ্রন্থ লিপি
+    auto: true
   - translation_iso: deu
     name: Grantha-Schrift
   - translation_iso: fra
     name: grantha
   - translation_iso: hin
     name: ग्रन्थ लिपि
+  - translation_iso: ind
+    name: Grantha
   - translation_iso: jpn
     name: グランタ文字
   - translation_iso: kor
@@ -41,6 +46,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Grantha
+  - translation_iso: rus
+    name: Грантха
   - translation_iso: spa
     name: Escritura grantha
   - translation_iso: zho

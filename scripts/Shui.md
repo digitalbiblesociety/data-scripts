@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: خط شويشو
     auto: true
+  - translation_iso: ben
+    name: শুইশু লিপি
+    auto: true
   - translation_iso: deu
     name: Shui-Schrift
     auto: true
@@ -29,12 +32,18 @@ translations:
   - translation_iso: hin
     name: शुईशू लिपि
     auto: true
+  - translation_iso: ind
+    name: aksara Shui
+    auto: true
   - translation_iso: jpn
     name: 水書
   - translation_iso: kor
     name: 수 문자
   - translation_iso: por
     name: Shuishu
+    auto: true
+  - translation_iso: rus
+    name: шуйшу
     auto: true
   - translation_iso: spa
     name: escritura shui

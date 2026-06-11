@@ -24,18 +24,24 @@ translations:
   - translation_iso: ara
     name: خط سيدهام
     auto: true
+  - translation_iso: ben
+    name: সিদ্ধং লিপি
   - translation_iso: deu
     name: Siddham
   - translation_iso: fra
     name: alphasyllabaire siddham
   - translation_iso: hin
     name: सिद्धम
+  - translation_iso: ind
+    name: Aksara Siddhaṃ
   - translation_iso: jpn
     name: 梵字
   - translation_iso: kor
     name: 싯담 문자
   - translation_iso: por
     name: Escrita siddham
+  - translation_iso: rus
+    name: сиддхаматрика
   - translation_iso: spa
     name: siddham
   - translation_iso: zho

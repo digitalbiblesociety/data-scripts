@@ -38,12 +38,18 @@ translations:
   - translation_iso: ara
     name: تاي ثام
     auto: true
+  - translation_iso: ben
+    name: তাই থাম লিপি
+    auto: true
   - translation_iso: deu
     name: Lanna
   - translation_iso: fra
     name: écriture taï tham
   - translation_iso: hin
     name: धम्म लान्ना लिपि
+  - translation_iso: ind
+    name: aksara Tai Tham
+    auto: true
   - translation_iso: jpn
     name: ラーンナー文字
   - translation_iso: kor
@@ -52,6 +58,8 @@ translations:
   - translation_iso: por
     name: Escrita tai tham
     auto: true
+  - translation_iso: rus
+    name: Ланна
   - translation_iso: spa
     name: tai tham
     auto: true

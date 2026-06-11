@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: خط غورونغ خيما
     auto: true
+  - translation_iso: ben
+    name: গুরুং খেমা লিপি
+    auto: true
   - translation_iso: deu
     name: Gurung-Khema-Schrift
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: gouroung khema
   - translation_iso: hin
     name: गुरुंग खेमा लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Gurung Khema
     auto: true
   - translation_iso: jpn
     name: グルン・ケーマ文字
@@ -38,6 +44,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita gurung khema
+    auto: true
+  - translation_iso: rus
+    name: гурунг кхема
     auto: true
   - translation_iso: spa
     name: gurung khema

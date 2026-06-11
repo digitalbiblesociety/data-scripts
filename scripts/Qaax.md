@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غير مكتوب
     auto: true
+  - translation_iso: ben
+    name: অলিখিত
+    auto: true
   - translation_iso: deu
     name: Schriftlos
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: réservé à l’usage privé (24e)
   - translation_iso: hin
     name: अलिखित
+    auto: true
+  - translation_iso: ind
+    name: tidak tertulis
     auto: true
   - translation_iso: jpn
     name: 無文字
@@ -34,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Ágrafo
+    auto: true
+  - translation_iso: rus
+    name: бесписьменный
     auto: true
   - translation_iso: spa
     name: no escrito

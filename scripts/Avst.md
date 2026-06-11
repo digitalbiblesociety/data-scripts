@@ -25,6 +25,9 @@ languages:
 translations:
   - translation_iso: ara
     name: الألفبائية الأَوِستية
+  - translation_iso: ben
+    name: আবেস্তীয় লিপি
+    auto: true
   - translation_iso: deu
     name: avestische Schrift
   - translation_iso: fra
@@ -32,6 +35,8 @@ translations:
   - translation_iso: hin
     name: अवस्ताई लिपि
     auto: true
+  - translation_iso: ind
+    name: Alfabet Avesta
   - translation_iso: jpn
     name: アヴェスター文字
   - translation_iso: kor
@@ -39,6 +44,8 @@ translations:
   - translation_iso: por
     name: Alfabeto avéstico
     auto: true
+  - translation_iso: rus
+    name: авестийский алфавит
   - translation_iso: spa
     name: Escritura avéstica
   - translation_iso: zho

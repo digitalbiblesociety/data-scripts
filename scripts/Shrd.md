@@ -29,6 +29,8 @@ translations:
   - translation_iso: ara
     name: خط شارادا
     auto: true
+  - translation_iso: ben
+    name: শারদা লিপি
   - translation_iso: deu
     name: Sharada-Schrift
     auto: true
@@ -36,6 +38,8 @@ translations:
     name: charada
   - translation_iso: hin
     name: शारदा लिपि
+  - translation_iso: ind
+    name: Aksara Sarada
   - translation_iso: jpn
     name: シャーラダー文字
   - translation_iso: kor
@@ -43,6 +47,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Sharada
+  - translation_iso: rus
+    name: шарада
   - translation_iso: spa
     name: alfabeto sharada
   - translation_iso: zho

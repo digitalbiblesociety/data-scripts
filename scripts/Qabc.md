@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: خط نيوار
     auto: true
+  - translation_iso: ben
+    name: নেওয়ার লিপি
+    auto: true
   - translation_iso: deu
     name: Prachalit-Schrift
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: réservé à l’usage privé (29e)
   - translation_iso: hin
     name: प्रचलित नेपाल लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Newar
     auto: true
   - translation_iso: jpn
     name: プラチャリット文字
@@ -31,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita newar
+    auto: true
+  - translation_iso: rus
+    name: неварское письмо
     auto: true
   - translation_iso: spa
     name: escritura newar

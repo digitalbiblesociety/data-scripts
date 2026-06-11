@@ -24,6 +24,9 @@ translations:
   - translation_iso: ara
     name: خط تاكري
     auto: true
+  - translation_iso: ben
+    name: টাকরি লিপি
+    auto: true
   - translation_iso: deu
     name: Takri-Schrift
     auto: true
@@ -31,6 +34,8 @@ translations:
     name: écriture tâkrî
   - translation_iso: hin
     name: टाकरी
+  - translation_iso: ind
+    name: Aksara Takri
   - translation_iso: jpn
     name: タークリー文字
   - translation_iso: kor
@@ -38,6 +43,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita takri
+  - translation_iso: rus
+    name: Такри
   - translation_iso: spa
     name: alfabeto takri
   - translation_iso: zho

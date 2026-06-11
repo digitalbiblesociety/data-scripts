@@ -25,12 +25,17 @@ translations:
   - translation_iso: ara
     name: خط باسا فاه
     auto: true
+  - translation_iso: ben
+    name: বাস লিপি
   - translation_iso: deu
     name: Bassa-Schrift
   - translation_iso: fra
     name: alphabet bassa
   - translation_iso: hin
     name: बासा वाह लिपि
+    auto: true
+  - translation_iso: ind
+    name: alfabet Bassa Vah
     auto: true
   - translation_iso: jpn
     name: バサ文字
@@ -39,6 +44,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita bassa vah
+  - translation_iso: rus
+    name: Басса (письмо)
   - translation_iso: spa
     name: Alfabeto vah
   - translation_iso: zho

@@ -35,12 +35,17 @@ translations:
   - translation_iso: ara
     name: ليبتشا
     auto: true
+  - translation_iso: ben
+    name: লেপচা লিপি
+    auto: true
   - translation_iso: deu
     name: Lepcha-Schrift
   - translation_iso: fra
     name: lepcha
   - translation_iso: hin
     name: लेपचा लिपि
+  - translation_iso: ind
+    name: Aksara Lepcha
   - translation_iso: jpn
     name: レプチャ文字
   - translation_iso: kor
@@ -48,6 +53,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita lepcha
+  - translation_iso: rus
+    name: Лепча
   - translation_iso: spa
     name: lepcha
   - translation_iso: zho

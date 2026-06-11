@@ -33,12 +33,18 @@ translations:
   - translation_iso: ara
     name: أبجدية شواني
     auto: true
+  - translation_iso: ben
+    name: শ্যাভিয়ান বর্ণমালা
+    auto: true
   - translation_iso: deu
     name: shavisches Alphabet
   - translation_iso: fra
     name: alphabet shavien
   - translation_iso: hin
     name: शा वर्णमाला
+  - translation_iso: ind
+    name: alfabet Shavian
+    auto: true
   - translation_iso: jpn
     name: ショー文字
   - translation_iso: kor
@@ -46,6 +52,8 @@ translations:
   - translation_iso: por
     name: Alfabeto shaviano
     auto: true
+  - translation_iso: rus
+    name: алфавит Шоу
   - translation_iso: spa
     name: alfabeto shaviano
   - translation_iso: zho

@@ -38,6 +38,8 @@ translations:
   - translation_iso: ara
     name: ميتي ماييك
     auto: true
+  - translation_iso: ben
+    name: মেইতেই লিপি
   - translation_iso: deu
     name: Meitei-Mayek
     auto: true
@@ -45,6 +47,8 @@ translations:
     name: meitei mayek
   - translation_iso: hin
     name: मेइतेइ मायेक लिपि
+  - translation_iso: ind
+    name: Aksara Manipuri
   - translation_iso: jpn
     name: メイテイ文字
   - translation_iso: kor
@@ -52,6 +56,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita meitei mayek
+  - translation_iso: rus
+    name: Манипури
   - translation_iso: spa
     name: alfabeto meitei
   - translation_iso: zho

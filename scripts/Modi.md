@@ -27,12 +27,17 @@ translations:
   - translation_iso: ara
     name: مودي
     auto: true
+  - translation_iso: ben
+    name: মোডি লিপি
+    auto: true
   - translation_iso: deu
     name: Modi-Alphabet
   - translation_iso: fra
     name: modi
   - translation_iso: hin
     name: मोडी
+  - translation_iso: ind
+    name: Aksara Modi
   - translation_iso: jpn
     name: モーディー文字
   - translation_iso: kor
@@ -41,6 +46,8 @@ translations:
   - translation_iso: por
     name: Escrita modi
     auto: true
+  - translation_iso: rus
+    name: моди
   - translation_iso: spa
     name: alfabeto modi
     auto: true

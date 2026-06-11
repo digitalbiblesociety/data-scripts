@@ -39,18 +39,25 @@ languages:
 translations:
   - translation_iso: ara
     name: الأبجدية القبطية
+  - translation_iso: ben
+    name: কপ্টিক বর্ণমালা
+    auto: true
   - translation_iso: deu
     name: koptische Schrift
   - translation_iso: fra
     name: écriture copte
   - translation_iso: hin
     name: कॉप्टिक वर्णमाला
+  - translation_iso: ind
+    name: alfabet Koptik
   - translation_iso: jpn
     name: コプト文字
   - translation_iso: kor
     name: 콥트 문자
   - translation_iso: por
     name: Alfabeto copta
+  - translation_iso: rus
+    name: коптское письмо
   - translation_iso: spa
     name: alfabeto copto
   - translation_iso: zho

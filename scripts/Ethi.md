@@ -92,18 +92,25 @@ languages:
 translations:
   - translation_iso: ara
     name: حروف جعزية
+  - translation_iso: ben
+    name: ইথিওপীয় লিপি
+    auto: true
   - translation_iso: deu
     name: äthiopische Schrift
   - translation_iso: fra
     name: alphasyllabaire guèze
   - translation_iso: hin
     name: इथियोपियाई लिपि
+  - translation_iso: ind
+    name: "Aksara Ge'ez"
   - translation_iso: jpn
     name: ゲエズ文字
   - translation_iso: kor
     name: 그으즈 문자
   - translation_iso: por
     name: "Escrita ge'ez"
+  - translation_iso: rus
+    name: эфиопское письмо
   - translation_iso: spa
     name: alfabeto etíope
   - translation_iso: zho

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: خط حنيفي روهينغيا
     auto: true
+  - translation_iso: ben
+    name: হানিফি রোহিঙ্গা লিপি
+    auto: true
   - translation_iso: deu
     name: Hanifi-Rohingya-Schrift
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: réservé à l’usage privé (42e)
   - translation_iso: hin
     name: हनीफ़ी रोहिंग्या लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Hanifi Rohingya
     auto: true
   - translation_iso: jpn
     name: ハニフィ・ロヒンギャ文字
@@ -38,6 +44,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita hanifi rohingya
+    auto: true
+  - translation_iso: rus
+    name: письмо ханифи рохинджа
     auto: true
   - translation_iso: spa
     name: alfabeto hanifi rohinyá

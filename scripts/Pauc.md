@@ -26,6 +26,9 @@ translations:
   - translation_iso: ara
     name: باو تشين هاو
     auto: true
+  - translation_iso: ben
+    name: পাউ চিন হাউ লিপি
+    auto: true
   - translation_iso: deu
     name: Pau-Cin-Hau-Alphabet
     auto: true
@@ -34,6 +37,9 @@ translations:
   - translation_iso: hin
     name: पाउ चिन हाउ लिपि
     auto: true
+  - translation_iso: ind
+    name: alfabet Pau Cin Hau
+    auto: true
   - translation_iso: jpn
     name: パウ・チン・ハウ文字
   - translation_iso: kor
@@ -41,6 +47,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita Pau Cin Hau
+  - translation_iso: rus
+    name: алфавит Пау Чин Хау
+    auto: true
   - translation_iso: spa
     name: alfabeto pau cin hau
     auto: true

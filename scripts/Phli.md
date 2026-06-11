@@ -24,6 +24,9 @@ languages:
 translations:
   - translation_iso: ara
     name: كتابة نقشية بهلوية
+  - translation_iso: ben
+    name: শিলালেখীয় পাহলভি লিপি
+    auto: true
   - translation_iso: deu
     name: Inschriften-Pahlavi
     auto: true
@@ -32,6 +35,8 @@ translations:
   - translation_iso: hin
     name: शिलालेखीय पहलवी लिपि
     auto: true
+  - translation_iso: ind
+    name: abjad Pahlavi Prasasti
   - translation_iso: jpn
     name: 碑文パフラヴィー文字
   - translation_iso: kor
@@ -39,6 +44,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Pahlavi inscricional
+    auto: true
+  - translation_iso: rus
+    name: надписный пехлеви
     auto: true
   - translation_iso: spa
     name: pahlavi inscripcional

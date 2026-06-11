@@ -37,6 +37,9 @@ languages:
 translations:
   - translation_iso: ara
     name: بوبوموفو
+  - translation_iso: ben
+    name: বোপোমোফো
+    auto: true
   - translation_iso: deu
     name: Zhuyin
   - translation_iso: fra
@@ -44,12 +47,16 @@ translations:
   - translation_iso: hin
     name: बोपोमोफ़ो
     auto: true
+  - translation_iso: ind
+    name: Bopomofo
   - translation_iso: jpn
     name: 注音符号
   - translation_iso: kor
     name: 주음부호
   - translation_iso: por
     name: Bopomofo
+  - translation_iso: rus
+    name: чжуинь
   - translation_iso: spa
     name: Zhuyin
   - translation_iso: zho

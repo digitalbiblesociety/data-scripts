@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: خط سونوار
     auto: true
+  - translation_iso: ben
+    name: সুনুওয়ার বর্ণমালা
+    auto: true
   - translation_iso: deu
     name: Sunuwar-Schrift
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: sunwar
   - translation_iso: hin
     name: सुनुवार वर्णमाला
+  - translation_iso: ind
+    name: aksara Sunuwar
+    auto: true
   - translation_iso: jpn
     name: スヌワール文字
     auto: true
@@ -37,6 +43,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita sunuwar
+    auto: true
+  - translation_iso: rus
+    name: письмо сунувар
     auto: true
   - translation_iso: spa
     name: alfabeto sunuwar

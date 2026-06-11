@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هان تقليدي مع لاتيني
     auto: true
+  - translation_iso: ben
+    name: লাতিনসহ ঐতিহ্যবাহী হান
+    auto: true
   - translation_iso: deu
     name: Traditionelles Han mit Lateinisch
     auto: true
@@ -30,6 +33,9 @@ translations:
   - translation_iso: hin
     name: लातिनी सहित पारंपरिक हान
     auto: true
+  - translation_iso: ind
+    name: Han Tradisional dengan Latin
+    auto: true
   - translation_iso: jpn
     name: ラテン文字付き繁体字
     auto: true
@@ -38,6 +44,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Han tradicional com latim
+    auto: true
+  - translation_iso: rus
+    name: традиционная хань с латиницей
     auto: true
   - translation_iso: spa
     name: han tradicional con latino

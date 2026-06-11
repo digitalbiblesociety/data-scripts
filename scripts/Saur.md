@@ -32,6 +32,9 @@ translations:
   - translation_iso: ara
     name: سوراشترا
     auto: true
+  - translation_iso: ben
+    name: সৌরাষ্ট্র লিপি
+    auto: true
   - translation_iso: deu
     name: Saurashtra-Schrift
     auto: true
@@ -40,6 +43,8 @@ translations:
   - translation_iso: hin
     name: सौराष्ट्र लिपि
     auto: true
+  - translation_iso: ind
+    name: Aksara Saurashtra
   - translation_iso: jpn
     name: サウラーシュトラ文字
   - translation_iso: kor
@@ -48,6 +53,8 @@ translations:
   - translation_iso: por
     name: Escrita saurashtra
     auto: true
+  - translation_iso: rus
+    name: Саураштра
   - translation_iso: spa
     name: escritura saurashtra
     auto: true

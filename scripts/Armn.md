@@ -45,6 +45,9 @@ translations:
   - translation_iso: ara
     name: أبجدية أرمنية
     auto: true
+  - translation_iso: ben
+    name: আর্মেনীয় বর্ণমালা
+    auto: true
   - translation_iso: deu
     name: armenisches Alphabet
     auto: true
@@ -53,6 +56,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: आर्मीनियाई लिपि
+    auto: true
+  - translation_iso: ind
+    name: alfabet Armenia
     auto: true
   - translation_iso: jpn
     name: アルメニア文字
@@ -63,6 +69,8 @@ translations:
   - translation_iso: por
     name: Alfabeto arménio
     auto: true
+  - translation_iso: rus
+    name: армянское письмо
   - translation_iso: spa
     name: alfabeto armenio
     auto: true

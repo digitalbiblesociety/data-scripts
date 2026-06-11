@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: نانديناغاري
     auto: true
+  - translation_iso: ben
+    name: নন্দিনাগরী লিপি
+    auto: true
   - translation_iso: deu
     name: Nandinagari
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: nandinâgarî
   - translation_iso: hin
     name: नन्दिनगरी
+  - translation_iso: ind
+    name: aksara Nandinagari
+    auto: true
   - translation_iso: jpn
     name: ナンディナーガリー文字
   - translation_iso: kor
@@ -36,6 +42,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Nandinagari
+    auto: true
+  - translation_iso: rus
+    name: нандинагари
     auto: true
   - translation_iso: spa
     name: nandinagari

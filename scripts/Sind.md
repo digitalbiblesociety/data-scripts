@@ -26,6 +26,8 @@ translations:
   - translation_iso: ara
     name: خط خوداوادي
     auto: true
+  - translation_iso: ben
+    name: খোদাবাদি লিপি
   - translation_iso: deu
     name: Khudawadi-Schrift
     auto: true
@@ -33,6 +35,9 @@ translations:
     name: khoudawadî
   - translation_iso: hin
     name: खुदाबादी लिपि
+  - translation_iso: ind
+    name: aksara Khudawadi
+    auto: true
   - translation_iso: jpn
     name: フダーバーディー文字
   - translation_iso: kor
@@ -40,6 +45,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita khudawadi
+    auto: true
+  - translation_iso: rus
+    name: кхудавади
     auto: true
   - translation_iso: spa
     name: Alfabeto khudabadi

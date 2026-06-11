@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: خط تانغسا
     auto: true
+  - translation_iso: ben
+    name: তাংসা লিপি
+    auto: true
   - translation_iso: deu
     name: Tangsa-Schrift
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: tangsa
   - translation_iso: hin
     name: तांगसा लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Tangsa
     auto: true
   - translation_iso: jpn
     name: タンサ文字
@@ -38,6 +44,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita tangsa
+    auto: true
+  - translation_iso: rus
+    name: письмо тангса
     auto: true
   - translation_iso: spa
     name: alfabeto tangsa

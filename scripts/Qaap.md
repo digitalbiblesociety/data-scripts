@@ -24,6 +24,9 @@ translations:
   - translation_iso: ara
     name: أبجدية صغدية
     auto: true
+  - translation_iso: ben
+    name: সোগদীয় লিপি
+    auto: true
   - translation_iso: deu
     name: sogdische Schrift
     auto: true
@@ -31,6 +34,9 @@ translations:
     name: réservé à l’usage privé (16e)
   - translation_iso: hin
     name: सोग्दी लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Sogdia
     auto: true
   - translation_iso: jpn
     name: ソグド文字
@@ -40,6 +46,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Alfabeto sogdiano
+    auto: true
+  - translation_iso: rus
+    name: согдийское письмо
     auto: true
   - translation_iso: spa
     name: sogdiano

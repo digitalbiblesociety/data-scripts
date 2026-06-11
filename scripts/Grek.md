@@ -72,18 +72,24 @@ languages:
 translations:
   - translation_iso: ara
     name: الأبجدية اليونانية
+  - translation_iso: ben
+    name: গ্রিক লিপি
   - translation_iso: deu
     name: griechisches Alphabet
   - translation_iso: fra
     name: alphabet grec
   - translation_iso: hin
     name: यूनानी वर्णमाला
+  - translation_iso: ind
+    name: alfabet Yunani
   - translation_iso: jpn
     name: ギリシア文字
   - translation_iso: kor
     name: 그리스 문자
   - translation_iso: por
     name: alfabeto grego
+  - translation_iso: rus
+    name: греческий алфавит
   - translation_iso: spa
     name: alfabeto griego
   - translation_iso: zho

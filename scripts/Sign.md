@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة
     auto: true
+  - translation_iso: ben
+    name: ইশারা ভাষা
+    auto: true
   - translation_iso: deu
     name: Gebärdensprache
     auto: true
@@ -22,6 +25,9 @@ translations:
   - translation_iso: hin
     name: सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: bahasa isyarat
+    auto: true
   - translation_iso: jpn
     name: 手話
     auto: true
@@ -30,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua de sinais
+    auto: true
+  - translation_iso: rus
+    name: жестовый язык
     auto: true
   - translation_iso: spa
     name: lengua de señas

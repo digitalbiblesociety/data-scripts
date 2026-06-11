@@ -23,12 +23,18 @@ translations:
   - translation_iso: ara
     name: ماهاجاني
     auto: true
+  - translation_iso: ben
+    name: মহাজনী লিপি
+    auto: true
   - translation_iso: deu
     name: Mahajani
   - translation_iso: fra
     name: mahâjanî
   - translation_iso: hin
     name: महाजनी लिपि
+  - translation_iso: ind
+    name: aksara Mahajani
+    auto: true
   - translation_iso: jpn
     name: マハージャニー文字
   - translation_iso: kor
@@ -36,6 +42,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita mahajani
+  - translation_iso: rus
+    name: махаджани
   - translation_iso: spa
     name: mahajani
   - translation_iso: zho

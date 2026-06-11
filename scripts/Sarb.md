@@ -25,6 +25,9 @@ languages:
 translations:
   - translation_iso: ara
     name: خط المسند
+  - translation_iso: ben
+    name: প্রাচীন দক্ষিণ আরবীয় লিপি
+    auto: true
   - translation_iso: deu
     name: Altsüdarabische Schrift
   - translation_iso: fra
@@ -32,12 +35,16 @@ translations:
   - translation_iso: hin
     name: प्राचीन दक्षिण अरबी लिपि
     auto: true
+  - translation_iso: ind
+    name: Abjad Semenanjung Arab Selatan Kuno
   - translation_iso: jpn
     name: 南アラビア文字
   - translation_iso: kor
     name: 남아랍 문자
   - translation_iso: por
     name: Alfabeto arábico meridional
+  - translation_iso: rus
+    name: Южноаравийское письмо
   - translation_iso: spa
     name: abecedario árabe meridional
   - translation_iso: zho

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: خط وولياي
     auto: true
+  - translation_iso: ben
+    name: ওলেয়াই লিপি
+    auto: true
   - translation_iso: deu
     name: Woleai-Schrift
     auto: true
@@ -27,12 +30,18 @@ translations:
     name: woleai
   - translation_iso: hin
     name: वोलियन लिपि
+  - translation_iso: ind
+    name: aksara Woleai
+    auto: true
   - translation_iso: jpn
     name: ウォレアイ文字
   - translation_iso: kor
     name: 울레아이
   - translation_iso: por
     name: Silabário woleai
+    auto: true
+  - translation_iso: rus
+    name: письмо волеаи
     auto: true
   - translation_iso: spa
     name: silabario woleai

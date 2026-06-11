@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: خط خيتان الكبير
     auto: true
+  - translation_iso: ben
+    name: খিতান বৃহৎ লিপি
+    auto: true
   - translation_iso: deu
     name: Große Kitan-Schrift
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: grande écriture khitan
   - translation_iso: hin
     name: खितान बड़ी लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara besar Khitan
     auto: true
   - translation_iso: jpn
     name: 契丹大字
@@ -38,6 +44,8 @@ translations:
   - translation_iso: por
     name: Escrita khitan grande
     auto: true
+  - translation_iso: rus
+    name: большое киданьское письмо
   - translation_iso: spa
     name: escritura kitán grande
   - translation_iso: zho

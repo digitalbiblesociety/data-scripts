@@ -29,6 +29,9 @@ languages:
 translations:
   - translation_iso: ara
     name: كتابة عثمانية
+  - translation_iso: ben
+    name: ওসমানিয়া লিপি
+    auto: true
   - translation_iso: deu
     name: Osmaniya-Schrift
   - translation_iso: fra
@@ -36,12 +39,16 @@ translations:
   - translation_iso: hin
     name: उस्मानिया लिपि
     auto: true
+  - translation_iso: ind
+    name: Aksara Osmanya
   - translation_iso: jpn
     name: オスマニヤ文字
   - translation_iso: kor
     name: 오스마냐 문자
   - translation_iso: por
     name: Escrita osmanya
+  - translation_iso: rus
+    name: Сомалийское письмо
   - translation_iso: spa
     name: osmanya
   - translation_iso: zho

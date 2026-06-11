@@ -18,6 +18,9 @@
 //	fra  ← fr
 //	deu  ← de
 //	por  ← pt
+//	ben  ← bn
+//	rus  ← ru
+//	ind  ← id
 //
 // Adding more languages: append to `translationTargets`. The SPARQL filter
 // and per-row binding logic pick the rest up automatically.
@@ -76,6 +79,9 @@ var translationTargets = []translationTarget{
 	{Iso: "fra", Tags: []string{"fr"}},
 	{Iso: "deu", Tags: []string{"de"}},
 	{Iso: "por", Tags: []string{"pt"}},
+	{Iso: "ben", Tags: []string{"bn"}},
+	{Iso: "rus", Tags: []string{"ru"}},
+	{Iso: "ind", Tags: []string{"id"}},
 }
 
 func allWikidataLangTags() []string {

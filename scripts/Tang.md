@@ -25,6 +25,9 @@ translations:
   - translation_iso: ara
     name: خط تانغوت
     auto: true
+  - translation_iso: ben
+    name: তাঙ্গুত লিপি
+    auto: true
   - translation_iso: deu
     name: Xixia-Schrift
   - translation_iso: fra
@@ -32,6 +35,8 @@ translations:
   - translation_iso: hin
     name: तांगुत लिपि
     auto: true
+  - translation_iso: ind
+    name: Aksara Tangut
   - translation_iso: jpn
     name: 西夏文字
   - translation_iso: kor
@@ -39,6 +44,8 @@ translations:
   - translation_iso: por
     name: Escrita tangut
     auto: true
+  - translation_iso: rus
+    name: Тангутское письмо
   - translation_iso: spa
     name: Escritura tangut
   - translation_iso: zho

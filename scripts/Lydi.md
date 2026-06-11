@@ -26,6 +26,9 @@ translations:
   - translation_iso: ara
     name: أبجدية ليدية
     auto: true
+  - translation_iso: ben
+    name: লিডিয়ান লিপি
+    auto: true
   - translation_iso: deu
     name: Lydisches Alphabet
   - translation_iso: fra
@@ -33,6 +36,8 @@ translations:
   - translation_iso: hin
     name: लिडियन लिपि
     auto: true
+  - translation_iso: ind
+    name: Alfabet Lidia
   - translation_iso: jpn
     name: リュディア文字
   - translation_iso: kor
@@ -41,6 +46,8 @@ translations:
   - translation_iso: por
     name: Alfabeto lídio
     auto: true
+  - translation_iso: rus
+    name: лидийский алфавит
   - translation_iso: spa
     name: Alfabeto lidio
   - translation_iso: zho

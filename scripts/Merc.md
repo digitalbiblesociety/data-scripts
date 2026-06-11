@@ -25,6 +25,9 @@ translations:
   - translation_iso: ara
     name: الكتابة المروية المخطوطة
     auto: true
+  - translation_iso: ben
+    name: মেরোইটিক কার্সিভ লিপি
+    auto: true
   - translation_iso: deu
     name: meroitische Kursivschrift
     auto: true
@@ -32,6 +35,9 @@ translations:
     name: cursif méroïtique
   - translation_iso: hin
     name: मेरोइटिक कर्सिव लिपि
+    auto: true
+  - translation_iso: ind
+    name: kursif Meroitik
     auto: true
   - translation_iso: jpn
     name: メロエ文字草書体
@@ -41,6 +47,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Meroítico cursivo
+    auto: true
+  - translation_iso: rus
+    name: мероитское курсивное письмо
     auto: true
   - translation_iso: spa
     name: cursivo meroítico

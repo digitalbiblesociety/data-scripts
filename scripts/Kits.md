@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: خط خيتان الصغير
     auto: true
+  - translation_iso: ben
+    name: খিতান ক্ষুদ্র লিপি
+    auto: true
   - translation_iso: deu
     name: Kleine Kitan-Schrift
     auto: true
@@ -27,6 +30,9 @@ translations:
   - translation_iso: hin
     name: खितान छोटी लिपि
     auto: true
+  - translation_iso: ind
+    name: aksara kecil Khitan
+    auto: true
   - translation_iso: jpn
     name: 契丹小字
   - translation_iso: kor
@@ -34,6 +40,8 @@ translations:
   - translation_iso: por
     name: Escrita khitan pequena
     auto: true
+  - translation_iso: rus
+    name: малое киданьское письмо
   - translation_iso: spa
     name: Escritura kitán pequeña
   - translation_iso: zho

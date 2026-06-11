@@ -38,6 +38,9 @@ translations:
   - translation_iso: ara
     name: خط تاي فيت
     auto: true
+  - translation_iso: ben
+    name: তাই ভিয়েত লিপি
+    auto: true
   - translation_iso: deu
     name: Tai-Viet-Schrift
     auto: true
@@ -46,6 +49,9 @@ translations:
   - translation_iso: hin
     name: ताई वियत लिपि
     auto: true
+  - translation_iso: ind
+    name: aksara Tai Viet
+    auto: true
   - translation_iso: jpn
     name: タイ・ヴィエト文字
   - translation_iso: kor
@@ -53,6 +59,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Abugida tai-viet
+  - translation_iso: rus
+    name: тай-вьетское письмо
   - translation_iso: spa
     name: tai viet
     auto: true

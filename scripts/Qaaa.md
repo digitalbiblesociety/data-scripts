@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: محجوز للاستخدام الخاص
     auto: true
+  - translation_iso: ben
+    name: ব্যক্তিগত ব্যবহারের জন্য সংরক্ষিত (শুরু)
+    auto: true
   - translation_iso: deu
     name: "Reserviert für den Privatgebrauch: Anfang"
     auto: true
@@ -17,6 +20,9 @@ translations:
     name: réservé à l’usage privé (début)
   - translation_iso: hin
     name: निजी उपयोग के लिए आरक्षित
+    auto: true
+  - translation_iso: ind
+    name: dicadangkan untuk penggunaan pribadi (awal)
     auto: true
   - translation_iso: jpn
     name: 私用領域開始
@@ -26,6 +32,9 @@ translations:
     auto: true
   - translation_iso: por
     name: "Reservado para uso privado: início"
+    auto: true
+  - translation_iso: rus
+    name: зарезервировано для частного использования (начало)
     auto: true
   - translation_iso: spa
     name: reservado para uso privado, inicio

@@ -30,6 +30,8 @@ fonts:
 translations:
   - translation_iso: ara
     name: خط أدلم
+  - translation_iso: ben
+    name: আদলাম লিপি
   - translation_iso: deu
     name: Adlam (Schrift)
   - translation_iso: fra
@@ -37,12 +39,17 @@ translations:
   - translation_iso: hin
     name: ऐडलम लिपि
     auto: true
+  - translation_iso: ind
+    name: alfabet Adlam
+    auto: true
   - translation_iso: jpn
     name: アドラム文字
   - translation_iso: kor
     name: 아들람 문자
   - translation_iso: por
     name: Alfabeto Adlam
+  - translation_iso: rus
+    name: адлам
   - translation_iso: spa
     name: alfabeto adlam
   - translation_iso: zho

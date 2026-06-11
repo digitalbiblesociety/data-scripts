@@ -44,6 +44,9 @@ translations:
   - translation_iso: ara
     name: أبجدية فريزر
     auto: true
+  - translation_iso: ben
+    name: লিসু লিপি
+    auto: true
   - translation_iso: deu
     name: Fraser-Alphabet
   - translation_iso: fra
@@ -51,12 +54,17 @@ translations:
   - translation_iso: hin
     name: लीसू लिपि
     auto: true
+  - translation_iso: ind
+    name: alfabet Fraser
+    auto: true
   - translation_iso: jpn
     name: リス文字
   - translation_iso: kor
     name: 프레이저 문자
   - translation_iso: por
     name: Fraser (escrita)
+  - translation_iso: rus
+    name: Алфавит Фрейзера
   - translation_iso: spa
     name: alfabeto de Fraser
   - translation_iso: zho

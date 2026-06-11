@@ -40,18 +40,24 @@ translations:
   - translation_iso: ara
     name: أوريا
     auto: true
+  - translation_iso: ben
+    name: ওড়িয়া লিপি
   - translation_iso: deu
     name: Oriya-Schrift
   - translation_iso: fra
     name: alphasyllabaire odia
   - translation_iso: hin
     name: ओड़िआ लिपि
+  - translation_iso: ind
+    name: Aksara Oriya
   - translation_iso: jpn
     name: オリヤー文字
   - translation_iso: kor
     name: 오리야 문자
   - translation_iso: por
     name: oriá
+  - translation_iso: rus
+    name: ория
   - translation_iso: spa
     name: oriya
   - translation_iso: zho

@@ -90,12 +90,16 @@ translations:
   - translation_iso: ara
     name: أبجدية بنغالية
     auto: true
+  - translation_iso: ben
+    name: বাংলা-অসমীয়া লিপি
   - translation_iso: deu
     name: Östliche Nagari-Schrift
   - translation_iso: fra
     name: écriture bengalo-assamaise
   - translation_iso: hin
     name: पूर्वी नागरी लिपि
+  - translation_iso: ind
+    name: Aksara Nagari Timur
   - translation_iso: jpn
     name: ベンガル・アッサム文字
   - translation_iso: kor
@@ -103,6 +107,8 @@ translations:
   - translation_iso: por
     name: Alfabeto bengali
     auto: true
+  - translation_iso: rus
+    name: восточное нагари
   - translation_iso: spa
     name: alfabeto bengalí
     auto: true

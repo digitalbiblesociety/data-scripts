@@ -42,12 +42,18 @@ translations:
   - translation_iso: ara
     name: أبجدية بولارد
     auto: true
+  - translation_iso: ben
+    name: পোলার্ড লিপি
+    auto: true
   - translation_iso: deu
     name: Pollard-Schrift
   - translation_iso: fra
     name: miao
   - translation_iso: hin
     name: पॉलार्ड लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Pollard
     auto: true
   - translation_iso: jpn
     name: ポラード文字
@@ -56,6 +62,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita Pollard
+  - translation_iso: rus
+    name: письмо Полларда
   - translation_iso: spa
     name: Alfabeto de Pollard
   - translation_iso: zho

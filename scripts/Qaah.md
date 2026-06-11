@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: تدوين إشكول-فاخمان للحركة
     auto: true
+  - translation_iso: ben
+    name: এশকোল-ওয়াখমান গতি সংকেতলিপি
+    auto: true
   - translation_iso: deu
     name: Eshkol-Wachman-Bewegungsnotation
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: réservé à l’usage privé (8e)
   - translation_iso: hin
     name: एश्कोल-वाखमान गति संकेतन
+    auto: true
+  - translation_iso: ind
+    name: notasi gerakan Eshkol-Wachman
     auto: true
   - translation_iso: jpn
     name: エシュコル・ワックマン記譜法
@@ -38,6 +44,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Notação de movimento Eshkol-Wachman
+    auto: true
+  - translation_iso: rus
+    name: нотация движений Эшколь-Вахмана
     auto: true
   - translation_iso: spa
     name: notación de movimiento Eshkol-Wachman

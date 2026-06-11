@@ -34,12 +34,17 @@ translations:
   - translation_iso: ara
     name: ليمبو
     auto: true
+  - translation_iso: ben
+    name: লিম্বু লিপি
+    auto: true
   - translation_iso: deu
     name: Limbu-Schrift
   - translation_iso: fra
     name: écriture limbou
   - translation_iso: hin
     name: लिम्बू लिपि
+  - translation_iso: ind
+    name: Aksara Limbu
   - translation_iso: jpn
     name: リンブー文字
   - translation_iso: kor
@@ -47,6 +52,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita limbu
+  - translation_iso: rus
+    name: Лимбу
   - translation_iso: spa
     name: limbu
   - translation_iso: zho

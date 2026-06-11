@@ -23,6 +23,8 @@ translations:
   - translation_iso: ara
     name: أبجدية حضرية
     auto: true
+  - translation_iso: ben
+    name: হাত্রা লিপি
   - translation_iso: deu
     name: hatranische Schrift
     auto: true
@@ -31,6 +33,9 @@ translations:
   - translation_iso: hin
     name: हतरान लिपि
     auto: true
+  - translation_iso: ind
+    name: aksara Hatra
+    auto: true
   - translation_iso: jpn
     name: ハトラ文字
   - translation_iso: kor
@@ -38,6 +43,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita hatrena
+    auto: true
+  - translation_iso: rus
+    name: хатранское письмо
     auto: true
   - translation_iso: spa
     name: alfabeto hatreo

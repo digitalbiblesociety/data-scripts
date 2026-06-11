@@ -28,12 +28,18 @@ fonts:
 translations:
   - translation_iso: ara
     name: حرف غيلي
+  - translation_iso: ben
+    name: গেলিক লাতিন লিপি
+    auto: true
   - translation_iso: deu
     name: Irische Schrift
   - translation_iso: fra
     name: écriture gaélique
   - translation_iso: hin
     name: गेलिक लातिनी
+    auto: true
+  - translation_iso: ind
+    name: aksara Gaelik
     auto: true
   - translation_iso: jpn
     name: ゲール文字
@@ -42,6 +48,8 @@ translations:
   - translation_iso: por
     name: Escrita gaélica
     auto: true
+  - translation_iso: rus
+    name: Гэльский шрифт
   - translation_iso: spa
     name: caligrafía gaélica
   - translation_iso: zho

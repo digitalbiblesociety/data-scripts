@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خط باداغا
     auto: true
+  - translation_iso: ben
+    name: বাদাগা লিপি
+    auto: true
   - translation_iso: deu
     name: Badaga-Schrift
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: réservé à l’usage privé (43e)
   - translation_iso: hin
     name: बडगा लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Badaga
     auto: true
   - translation_iso: jpn
     name: バダガ文字
@@ -34,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita badaga
+    auto: true
+  - translation_iso: rus
+    name: письмо бадага
     auto: true
   - translation_iso: spa
     name: escritura badaga

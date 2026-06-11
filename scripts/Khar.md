@@ -24,18 +24,24 @@ translations:
   - translation_iso: ara
     name: خاروشتي
     auto: true
+  - translation_iso: ben
+    name: খরোষ্ঠী লিপি
   - translation_iso: deu
     name: Kharoshthi-Schrift
   - translation_iso: fra
     name: kharosthi
   - translation_iso: hin
     name: खरोष्ठी
+  - translation_iso: ind
+    name: Aksara Kharosthi
   - translation_iso: jpn
     name: カローシュティー文字
   - translation_iso: kor
     name: 카로슈티 문자
   - translation_iso: por
     name: Kharosthi
+  - translation_iso: rus
+    name: кхароштхи
   - translation_iso: spa
     name: karosti
   - translation_iso: zho

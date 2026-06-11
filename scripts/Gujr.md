@@ -63,18 +63,24 @@ translations:
   - translation_iso: ara
     name: أبجدية غوجاراتية
     auto: true
+  - translation_iso: ben
+    name: গুজরাটি লিপি
   - translation_iso: deu
     name: Gujarati-Schrift
   - translation_iso: fra
     name: alphasyllabaire gujarati
   - translation_iso: hin
     name: गुजराती लिपि
+  - translation_iso: ind
+    name: Aksara Gujarat
   - translation_iso: jpn
     name: グジャラーティー文字
   - translation_iso: kor
     name: 구자라트 문자
   - translation_iso: por
     name: alfassilabário guzerate
+  - translation_iso: rus
+    name: гуджарати
   - translation_iso: spa
     name: Alfabeto guyarati
   - translation_iso: zho

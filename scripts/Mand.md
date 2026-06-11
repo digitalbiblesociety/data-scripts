@@ -32,6 +32,9 @@ languages:
 translations:
   - translation_iso: ara
     name: أبجدية مندائية
+  - translation_iso: ben
+    name: মান্দাইক লিপি
+    auto: true
   - translation_iso: deu
     name: Mandäische Schrift
   - translation_iso: fra
@@ -39,6 +42,8 @@ translations:
   - translation_iso: hin
     name: मंदाइक लिपि
     auto: true
+  - translation_iso: ind
+    name: alfabet Manda
   - translation_iso: jpn
     name: マンダ文字
   - translation_iso: kor
@@ -46,6 +51,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita mandeia
+  - translation_iso: rus
+    name: Мандейское письмо
   - translation_iso: spa
     name: Alfabeto mandeo
   - translation_iso: zho

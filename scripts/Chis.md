@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: خط تشيسوي
     auto: true
+  - translation_iso: ben
+    name: চিসোই লিপি
+    auto: true
   - translation_iso: deu
     name: Chisoi-Schrift
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: alphasyllabaire chisoi
   - translation_iso: hin
     name: चिसोई लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Chisoi
     auto: true
   - translation_iso: jpn
     name: チソイ文字
@@ -37,6 +43,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita chisoi
+    auto: true
+  - translation_iso: rus
+    name: письмо чисои
     auto: true
   - translation_iso: spa
     name: alfabeto chisoi

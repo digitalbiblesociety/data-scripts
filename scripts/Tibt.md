@@ -92,18 +92,24 @@ languages:
 translations:
   - translation_iso: ara
     name: أبجدية تبتية
+  - translation_iso: ben
+    name: তিব্বতি লিপি
   - translation_iso: deu
     name: Tibetische Schrift
   - translation_iso: fra
     name: écriture tibétaine
   - translation_iso: hin
     name: तिब्बती लिपि
+  - translation_iso: ind
+    name: aksara Tibet
   - translation_iso: jpn
     name: チベット文字
   - translation_iso: kor
     name: 티베트 문자
   - translation_iso: por
     name: Alfabeto tibetano
+  - translation_iso: rus
+    name: тибетское письмо
   - translation_iso: spa
     name: alfabeto tibetano
   - translation_iso: zho

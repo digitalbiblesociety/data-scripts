@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: خط باغام
     auto: true
+  - translation_iso: ben
+    name: বাগাম লিপি
+    auto: true
   - translation_iso: deu
     name: Bagam-Schrift
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: réservé à l’usage privé (34e)
   - translation_iso: hin
     name: बगाम लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Bagam
     auto: true
   - translation_iso: jpn
     name: バガム文字
@@ -35,6 +41,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita bagam
+    auto: true
+  - translation_iso: rus
+    name: письмо багам
     auto: true
   - translation_iso: spa
     name: escritura bagam

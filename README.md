@@ -104,8 +104,8 @@ go run ./tools -translations -force        # bypass the monthly Wikidata cache
 Fills each script's `translations[]` array with localized names from
 Wikidata `rdfs:label`s (matched on `wdt:P506`, the ISO 15924 alpha-4 code),
 mirroring the flow used for language names in `data-languages`. Supported
-target languages: `ara`, `deu`, `fra`, `hin`, `jpn`, `kor`, `por`, `spa`,
-`zho` — to add more, append to `translationTargets` in
+target languages: `ara`, `ben`, `deu`, `fra`, `hin`, `ind`, `jpn`, `kor`,
+`por`, `rus`, `spa`, `zho` — to add more, append to `translationTargets` in
 `tools/translations.go`.
 
 Existing items are preserved verbatim (dedup key: `translation_iso`); only

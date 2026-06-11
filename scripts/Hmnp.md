@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: نياكينغ بواتشوي همونغ
     auto: true
+  - translation_iso: ben
+    name: নিয়াকেং পুয়াচুয়ে মোং লিপি
+    auto: true
   - translation_iso: deu
     name: Nyiakeng Puachue Hmong
     auto: true
@@ -30,6 +33,9 @@ translations:
   - translation_iso: hin
     name: नियाकेंग पुआचुए ह्मोंग लिपि
     auto: true
+  - translation_iso: ind
+    name: aksara Nyiakeng Puachue Hmong
+    auto: true
   - translation_iso: jpn
     name: ニアケン・プアチュ・フモン文字
   - translation_iso: kor
@@ -37,6 +43,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Nyiakeng puachue hmong
+    auto: true
+  - translation_iso: rus
+    name: ньякенг пуачуэ хмонг
     auto: true
   - translation_iso: spa
     name: nyiakeng puachue hmong

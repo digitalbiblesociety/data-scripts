@@ -27,6 +27,9 @@ translations:
   - translation_iso: ara
     name: أبجدية كارية
     auto: true
+  - translation_iso: ben
+    name: কারিয়ান লিপি
+    auto: true
   - translation_iso: deu
     name: karische Schrift
     auto: true
@@ -35,6 +38,8 @@ translations:
   - translation_iso: hin
     name: कारियाई लिपि
     auto: true
+  - translation_iso: ind
+    name: Alfabet Karia
   - translation_iso: jpn
     name: カリア文字
   - translation_iso: kor
@@ -42,6 +47,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Alfabeto cário
+    auto: true
+  - translation_iso: rus
+    name: карийское письмо
     auto: true
   - translation_iso: spa
     name: alfabeto cario

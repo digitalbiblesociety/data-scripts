@@ -24,6 +24,9 @@ translations:
   - translation_iso: ara
     name: الخط العربي الشمالي القديم
     auto: true
+  - translation_iso: ben
+    name: প্রাচীন উত্তর আরবীয় লিপি
+    auto: true
   - translation_iso: deu
     name: altnordarabische Schrift
     auto: true
@@ -31,6 +34,9 @@ translations:
     name: nord-arabique
   - translation_iso: hin
     name: प्राचीन उत्तरी अरबी लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Arab Utara Kuno
     auto: true
   - translation_iso: jpn
     name: 古代北アラビア文字
@@ -41,6 +47,8 @@ translations:
   - translation_iso: por
     name: Árabe setentrional antigo
     auto: true
+  - translation_iso: rus
+    name: североаравийское письмо
   - translation_iso: spa
     name: antiguo árabe del norte
     auto: true

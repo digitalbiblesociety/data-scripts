@@ -37,12 +37,18 @@ translations:
   - translation_iso: ara
     name: حرف فراكتور
     auto: true
+  - translation_iso: ben
+    name: ফ্রাক্টুর লাতিন লিপি
+    auto: true
   - translation_iso: deu
     name: Fraktur
   - translation_iso: fra
     name: Fraktur
   - translation_iso: hin
     name: फ़्रैक्टुर लातिनी
+    auto: true
+  - translation_iso: ind
+    name: Fraktur
     auto: true
   - translation_iso: jpn
     name: フラクトゥール
@@ -51,6 +57,8 @@ translations:
   - translation_iso: por
     name: Fraktur
     auto: true
+  - translation_iso: rus
+    name: Фрактура
   - translation_iso: spa
     name: Fraktur
   - translation_iso: zho

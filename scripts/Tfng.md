@@ -53,6 +53,9 @@ languages:
 translations:
   - translation_iso: ara
     name: تيفيناغ
+  - translation_iso: ben
+    name: তিফিনাগ লিপি
+    auto: true
   - translation_iso: deu
     name: Tifinagh-Schrift
   - translation_iso: fra
@@ -60,12 +63,16 @@ translations:
   - translation_iso: hin
     name: तिफिनाघ लिपि
     auto: true
+  - translation_iso: ind
+    name: abjad Tifinagh
   - translation_iso: jpn
     name: ティフィナグ文字
   - translation_iso: kor
     name: 티피나그 문자
   - translation_iso: por
     name: Alfabeto tifinagh
+  - translation_iso: rus
+    name: древнеливийское письмо
   - translation_iso: spa
     name: tifinag
   - translation_iso: zho

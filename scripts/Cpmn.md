@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مقطعية قبرصية مينوية
     auto: true
+  - translation_iso: ben
+    name: সাইপ্রো-মিনোয়ান লিপি
+    auto: true
   - translation_iso: deu
     name: Kypro-Minoische Schrift
   - translation_iso: fra
@@ -28,12 +31,16 @@ translations:
   - translation_iso: hin
     name: साइप्रो-मिनोअन लिपि
     auto: true
+  - translation_iso: ind
+    name: aksara Siprus-Minoa
   - translation_iso: jpn
     name: キュプロ・ミノア文字
   - translation_iso: kor
     name: 키프로스-미노스 음절문자
   - translation_iso: por
     name: Linear C
+  - translation_iso: rus
+    name: Кипро-минойское письмо
   - translation_iso: spa
     name: Silabario chipro-minoico
   - translation_iso: zho

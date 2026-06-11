@@ -17,6 +17,8 @@ direction_notes: "RTL (right-to-left)"
 translations:
   - translation_iso: ara
     name: ديموطيقية
+  - translation_iso: ben
+    name: ডেমোটিক লিপি
   - translation_iso: deu
     name: demotische Schrift
   - translation_iso: fra
@@ -24,12 +26,16 @@ translations:
   - translation_iso: hin
     name: मिस्री डेमोटिक लिपि
     auto: true
+  - translation_iso: ind
+    name: Demotik
   - translation_iso: jpn
     name: デモティック
   - translation_iso: kor
     name: 민중문자
   - translation_iso: por
     name: egípcio demótico
+  - translation_iso: rus
+    name: демотическое письмо
   - translation_iso: spa
     name: egipcio demótico
   - translation_iso: zho

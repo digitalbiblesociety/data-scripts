@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: ناغ موندري
     auto: true
+  - translation_iso: ben
+    name: নাগ মুন্ডারি লিপি
+    auto: true
   - translation_iso: deu
     name: Nag-Mundari-Schrift
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: nag mundari
   - translation_iso: hin
     name: नाग मुंडारी लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Nag Mundari
     auto: true
   - translation_iso: jpn
     name: ムンダリ・バニ文字
@@ -38,6 +44,8 @@ translations:
   - translation_iso: por
     name: Escrita nag mundari
     auto: true
+  - translation_iso: rus
+    name: алфавит Нага
   - translation_iso: spa
     name: nag mundari
     auto: true

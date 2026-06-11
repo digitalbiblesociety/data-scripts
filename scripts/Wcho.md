@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: وانتشو
     auto: true
+  - translation_iso: ben
+    name: ওয়াঞ্চো লিপি
   - translation_iso: deu
     name: Wancho-Schrift
     auto: true
@@ -29,6 +31,9 @@ translations:
     name: wantcho
   - translation_iso: hin
     name: वांचो लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Wancho
     auto: true
   - translation_iso: jpn
     name: ワンチョー文字
@@ -38,6 +43,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita wancho
+    auto: true
+  - translation_iso: rus
+    name: письмо ванчо
     auto: true
   - translation_iso: spa
     name: alfabeto wancho

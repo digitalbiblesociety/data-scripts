@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: أبجدية صغدية قديمة
     auto: true
+  - translation_iso: ben
+    name: প্রাচীন সোগদীয় লিপি
+    auto: true
   - translation_iso: deu
     name: altsogdische Schrift
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: vieux-sogdien
   - translation_iso: hin
     name: प्राचीन सोग्दी लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Sogdia Kuno
     auto: true
   - translation_iso: jpn
     name: 古代ソグド文字
@@ -38,6 +44,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Sogdiano antigo
+    auto: true
+  - translation_iso: rus
+    name: старосогдийское письмо
     auto: true
   - translation_iso: spa
     name: sogdiano antiguo

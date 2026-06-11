@@ -31,6 +31,9 @@ translations:
   - translation_iso: ara
     name: مقطعية قبرصية
     auto: true
+  - translation_iso: ben
+    name: সাইপ্রিয়ট লিপি
+    auto: true
   - translation_iso: deu
     name: Kyprische Schrift
   - translation_iso: fra
@@ -38,12 +41,16 @@ translations:
   - translation_iso: hin
     name: साइप्रियट लिपि
     auto: true
+  - translation_iso: ind
+    name: Aksara Siprus
   - translation_iso: jpn
     name: キュプロス音節文字
   - translation_iso: kor
     name: 키프로스 음절문자
   - translation_iso: por
     name: Silabário cipriota
+  - translation_iso: rus
+    name: Кипрское письмо
   - translation_iso: spa
     name: silabario chipriota
   - translation_iso: zho

@@ -103,18 +103,24 @@ languages:
 translations:
   - translation_iso: ara
     name: الخط التايلندي
+  - translation_iso: ben
+    name: থাই লিপি
   - translation_iso: deu
     name: Thailändische Schrift
   - translation_iso: fra
     name: alphasyllabaire thaï
   - translation_iso: hin
     name: थाई लिपि
+  - translation_iso: ind
+    name: aksara Thai
   - translation_iso: jpn
     name: タイ文字
   - translation_iso: kor
     name: 타이 문자
   - translation_iso: por
     name: alfabeto tailandês
+  - translation_iso: rus
+    name: тайское письмо
   - translation_iso: spa
     name: alfabeto tailandés
   - translation_iso: zho

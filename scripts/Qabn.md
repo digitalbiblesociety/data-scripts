@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تدوين هامنوسيس
     auto: true
+  - translation_iso: ben
+    name: হ্যামনোসিস সংকেতলিপি
+    auto: true
   - translation_iso: deu
     name: Hamburger Notationssystem
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: réservé à l’usage privé (40e)
   - translation_iso: hin
     name: हैमनोसिस संकेतन
+    auto: true
+  - translation_iso: ind
+    name: notasi HamNoSys
     auto: true
   - translation_iso: jpn
     name: ハムノシス
@@ -34,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Notação HamNoSys
+    auto: true
+  - translation_iso: rus
+    name: нотация HamNoSys
     auto: true
   - translation_iso: spa
     name: notación HamNoSys

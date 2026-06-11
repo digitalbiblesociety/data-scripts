@@ -40,18 +40,24 @@ languages:
 translations:
   - translation_iso: ara
     name: كاتاكانا
+  - translation_iso: ben
+    name: কাতাকানা
   - translation_iso: deu
     name: Katakana
   - translation_iso: fra
     name: katakana
   - translation_iso: hin
     name: काताकाना
+  - translation_iso: ind
+    name: katakana
   - translation_iso: jpn
     name: 片仮名
   - translation_iso: kor
     name: 가타카나
   - translation_iso: por
     name: katakana
+  - translation_iso: rus
+    name: катакана
   - translation_iso: spa
     name: katakana
   - translation_iso: zho

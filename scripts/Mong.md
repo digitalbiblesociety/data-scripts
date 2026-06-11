@@ -45,18 +45,25 @@ languages:
 translations:
   - translation_iso: ara
     name: كتابة مغولية
+  - translation_iso: ben
+    name: মঙ্গোলীয় লিপি
+    auto: true
   - translation_iso: deu
     name: mongolische Schrift
   - translation_iso: fra
     name: mongol bitchig
   - translation_iso: hin
     name: मंगोल लिपि
+  - translation_iso: ind
+    name: aksara Mongol
   - translation_iso: jpn
     name: モンゴル文字
   - translation_iso: kor
     name: 몽골 문자
   - translation_iso: por
     name: Escrita mongol tradicional
+  - translation_iso: rus
+    name: старомонгольское письмо
   - translation_iso: spa
     name: alfabeto mongol
   - translation_iso: zho

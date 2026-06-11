@@ -8,6 +8,9 @@ translations:
   - translation_iso: ara
     name: غير معروف
     auto: true
+  - translation_iso: ben
+    name: কোডবিহীন লিপির জন্য কোড
+    auto: true
   - translation_iso: deu
     name: Code für uncodierte Schrift
     auto: true
@@ -15,6 +18,9 @@ translations:
     name: écriture non codée
   - translation_iso: hin
     name: कोडरहित लिपि के लिए कोड
+    auto: true
+  - translation_iso: ind
+    name: kode untuk aksara tidak dikodekan
     auto: true
   - translation_iso: jpn
     name: コード化されていない文字体系
@@ -24,6 +30,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Código para escrita não codificada
+    auto: true
+  - translation_iso: rus
+    name: код для незакодированной письменности
     auto: true
   - translation_iso: spa
     name: código para escritura no codificada

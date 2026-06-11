@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خط باي وين
     auto: true
+  - translation_iso: ben
+    name: বোওয়েন লিপি
+    auto: true
   - translation_iso: deu
     name: Bowen-Schrift
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: réservé à l’usage privé (31e)
   - translation_iso: hin
     name: बोवेन लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Bowen
     auto: true
   - translation_iso: jpn
     name: 老白文
@@ -34,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Silabário bowen
+    auto: true
+  - translation_iso: rus
+    name: письмо бовэнь
     auto: true
   - translation_iso: spa
     name: escritura bowen

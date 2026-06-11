@@ -32,12 +32,18 @@ translations:
   - translation_iso: ara
     name: اختزال دوبلويان
     auto: true
+  - translation_iso: ben
+    name: ডুপ্লোয়ান সাঁটলিপি
+    auto: true
   - translation_iso: deu
     name: duployé-kurzschrift
   - translation_iso: fra
     name: sténographie Duployé
   - translation_iso: hin
     name: डुप्लोयान आशुलिपि
+    auto: true
+  - translation_iso: ind
+    name: stenografi Duployé
     auto: true
   - translation_iso: jpn
     name: デュプロワエ式速記
@@ -47,6 +53,8 @@ translations:
   - translation_iso: por
     name: Taquigrafia Duployé
     auto: true
+  - translation_iso: rus
+    name: Система Дюплойе
   - translation_iso: spa
     name: estenografía duployeana
   - translation_iso: zho

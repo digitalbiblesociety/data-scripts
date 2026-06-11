@@ -28,18 +28,24 @@ languages:
 translations:
   - translation_iso: ara
     name: أبجدية فينيقية
+  - translation_iso: ben
+    name: ফিনিশীয় লিপি
   - translation_iso: deu
     name: phönizische Schrift
   - translation_iso: fra
     name: écriture phénicienne
   - translation_iso: hin
     name: फ़ोनीशियाई वर्णमाला
+  - translation_iso: ind
+    name: Abjad Fenisia
   - translation_iso: jpn
     name: フェニキア文字
   - translation_iso: kor
     name: 페니키아 문자
   - translation_iso: por
     name: Alfabeto fenício
+  - translation_iso: rus
+    name: финикийское письмо
   - translation_iso: spa
     name: alfabeto fenicio
   - translation_iso: zho

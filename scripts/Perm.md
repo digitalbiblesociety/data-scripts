@@ -29,6 +29,9 @@ translations:
   - translation_iso: ara
     name: أبجدية بيرمية قديمة
     auto: true
+  - translation_iso: ben
+    name: প্রাচীন পার্মিক লিপি
+    auto: true
   - translation_iso: deu
     name: Altpermische Schrift
   - translation_iso: fra
@@ -36,6 +39,8 @@ translations:
   - translation_iso: hin
     name: प्राचीन पर्मिक लिपि
     auto: true
+  - translation_iso: ind
+    name: Alfabet Perm Kuno
   - translation_iso: jpn
     name: 古ペルム文字
   - translation_iso: kor
@@ -43,6 +48,8 @@ translations:
   - translation_iso: por
     name: Alfabeto pérmico antigo
     auto: true
+  - translation_iso: rus
+    name: древнепермское письмо
   - translation_iso: spa
     name: antiguo alfabeto pérmico
   - translation_iso: zho

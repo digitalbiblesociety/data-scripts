@@ -35,6 +35,9 @@ translations:
   - translation_iso: ara
     name: يي
     auto: true
+  - translation_iso: ben
+    name: ই লিপি
+    auto: true
   - translation_iso: deu
     name: Yi
   - translation_iso: fra
@@ -42,12 +45,16 @@ translations:
   - translation_iso: hin
     name: यी लिपि
     auto: true
+  - translation_iso: ind
+    name: Aksara Yi
   - translation_iso: jpn
     name: 彝文字
   - translation_iso: kor
     name: 이 문자
   - translation_iso: por
     name: Silabário Yi
+  - translation_iso: rus
+    name: письмо и
   - translation_iso: spa
     name: Caracteres yi
   - translation_iso: zho

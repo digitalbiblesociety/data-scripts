@@ -32,6 +32,8 @@ languages:
 translations:
   - translation_iso: ara
     name: أبجدية قوطية
+  - translation_iso: ben
+    name: গথিক বর্ণমালা
   - translation_iso: deu
     name: gotisches Alphabet
   - translation_iso: fra
@@ -39,12 +41,16 @@ translations:
   - translation_iso: hin
     name: गॉथिक लिपि
     auto: true
+  - translation_iso: ind
+    name: alfabet Gotik
   - translation_iso: jpn
     name: ゴート文字
   - translation_iso: kor
     name: 고트 문자
   - translation_iso: por
     name: alfabeto gótico
+  - translation_iso: rus
+    name: готское письмо
   - translation_iso: spa
     name: Alfabeto gótico
   - translation_iso: zho

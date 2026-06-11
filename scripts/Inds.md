@@ -17,18 +17,24 @@ direction_notes: "RTL (right-to-left)"
 translations:
   - translation_iso: ara
     name: الكتابة السِّنْديَّة
+  - translation_iso: ben
+    name: সিন্ধু লিপি
   - translation_iso: deu
     name: Indus-Schrift
   - translation_iso: fra
     name: "écriture de l'Indus"
   - translation_iso: hin
     name: सिन्धु लिपि
+  - translation_iso: ind
+    name: Aksara Harappa
   - translation_iso: jpn
     name: インダス文字
   - translation_iso: kor
     name: 인더스 문자
   - translation_iso: por
     name: Escritas do vale do Indo
+  - translation_iso: rus
+    name: письменность долины Инда
   - translation_iso: spa
     name: escritura del Indo
   - translation_iso: zho

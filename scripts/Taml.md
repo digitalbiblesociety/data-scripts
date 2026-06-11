@@ -61,18 +61,24 @@ languages:
 translations:
   - translation_iso: ara
     name: الخط التملي البراهمي
+  - translation_iso: ben
+    name: তামিল লিপি
   - translation_iso: deu
     name: tamilische Schrift
   - translation_iso: fra
     name: alphasyllabaire tamoul
   - translation_iso: hin
     name: तमिल लिपि
+  - translation_iso: ind
+    name: Aksara Tamil
   - translation_iso: jpn
     name: タミル文字
   - translation_iso: kor
     name: 타밀 문자
   - translation_iso: por
     name: Alfabeto tâmil
+  - translation_iso: rus
+    name: тамильское письмо
   - translation_iso: spa
     name: alfabeto tamil
   - translation_iso: zho

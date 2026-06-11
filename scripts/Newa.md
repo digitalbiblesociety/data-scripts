@@ -39,6 +39,8 @@ translations:
   - translation_iso: ara
     name: نيوا
     auto: true
+  - translation_iso: ben
+    name: প্রচলিত নেপাল লিপি
   - translation_iso: deu
     name: Newar-Schrift
     auto: true
@@ -46,6 +48,9 @@ translations:
     name: néwa
   - translation_iso: hin
     name: प्रचलित लिपि
+  - translation_iso: ind
+    name: aksara Newa
+    auto: true
   - translation_iso: jpn
     name: プラチャリット文字
   - translation_iso: kor
@@ -53,6 +58,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita newa
+    auto: true
+  - translation_iso: rus
+    name: неварское письмо
     auto: true
   - translation_iso: spa
     name: escritura newa

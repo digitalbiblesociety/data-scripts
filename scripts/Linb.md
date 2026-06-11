@@ -32,18 +32,25 @@ languages:
 translations:
   - translation_iso: ara
     name: نظام خطي ب
+  - translation_iso: ben
+    name: রৈখিক বি লিপি
+    auto: true
   - translation_iso: deu
     name: Linearschrift B
   - translation_iso: fra
     name: linéaire B
   - translation_iso: hin
     name: रेखीय बी लिपि
+  - translation_iso: ind
+    name: Linear B
   - translation_iso: jpn
     name: 線文字B
   - translation_iso: kor
     name: 선형문자 B
   - translation_iso: por
     name: Linear B
+  - translation_iso: rus
+    name: линейное письмо Б
   - translation_iso: spa
     name: lineal B
   - translation_iso: zho

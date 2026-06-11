@@ -35,18 +35,24 @@ screen_fonts:
 translations:
   - translation_iso: ara
     name: كانا
+  - translation_iso: ben
+    name: কানা
   - translation_iso: deu
     name: Kana
   - translation_iso: fra
     name: kana
   - translation_iso: hin
     name: काना
+  - translation_iso: ind
+    name: kana
   - translation_iso: jpn
     name: 仮名
   - translation_iso: kor
     name: 가나
   - translation_iso: por
     name: kana
+  - translation_iso: rus
+    name: кана
   - translation_iso: spa
     name: kana
   - translation_iso: zho

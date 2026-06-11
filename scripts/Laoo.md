@@ -49,18 +49,24 @@ languages:
 translations:
   - translation_iso: ara
     name: النصي لاو
+  - translation_iso: ben
+    name: লাও
   - translation_iso: deu
     name: laotische Schrift
   - translation_iso: fra
     name: écriture laotienne
   - translation_iso: hin
     name: लाओ लिपि
+  - translation_iso: ind
+    name: Aksara Lao
   - translation_iso: jpn
     name: ラーオ文字
   - translation_iso: kor
     name: 라오 문자
   - translation_iso: por
     name: Escrita laosiana
+  - translation_iso: rus
+    name: лаосское письмо
   - translation_iso: spa
     name: alfabeto laosiano
   - translation_iso: zho

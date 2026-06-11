@@ -29,6 +29,9 @@ translations:
   - translation_iso: ara
     name: خط ريجانغ
     auto: true
+  - translation_iso: ben
+    name: রেজাং লিপি
+    auto: true
   - translation_iso: deu
     name: Rejang-Schrift
   - translation_iso: fra
@@ -36,6 +39,8 @@ translations:
   - translation_iso: hin
     name: रेजांग लिपि
     auto: true
+  - translation_iso: ind
+    name: Aksara Rejang
   - translation_iso: jpn
     name: レジャン文字
   - translation_iso: kor
@@ -44,6 +49,8 @@ translations:
   - translation_iso: por
     name: Escrita rejang
     auto: true
+  - translation_iso: rus
+    name: Реджангское письмо
   - translation_iso: spa
     name: escritura rejang
     auto: true

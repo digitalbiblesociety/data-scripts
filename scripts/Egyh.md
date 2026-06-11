@@ -17,6 +17,8 @@ direction_notes: "LTR (left-to-right)"
 translations:
   - translation_iso: ara
     name: كتابة هيراطيقية
+  - translation_iso: ben
+    name: হায়রাটিক লিপি
   - translation_iso: deu
     name: Hieratische Schrift
   - translation_iso: fra
@@ -24,12 +26,16 @@ translations:
   - translation_iso: hin
     name: मिस्री हाइरेटिक लिपि
     auto: true
+  - translation_iso: ind
+    name: hieratik
   - translation_iso: jpn
     name: ヒエラティック
   - translation_iso: kor
     name: 신관문자
   - translation_iso: por
     name: hierático
+  - translation_iso: rus
+    name: иератическое письмо
   - translation_iso: spa
     name: escritura hierática
   - translation_iso: zho

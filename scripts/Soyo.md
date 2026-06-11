@@ -26,12 +26,17 @@ translations:
   - translation_iso: ara
     name: خط سويومبو
     auto: true
+  - translation_iso: ben
+    name: সোয়োম্বো লিপি
+    auto: true
   - translation_iso: deu
     name: Sojombo-Schrift
   - translation_iso: fra
     name: écriture soyombo
   - translation_iso: hin
     name: सोयोंबो लिपि
+  - translation_iso: ind
+    name: Aksara Soyombo
   - translation_iso: jpn
     name: ソヨンボ文字
   - translation_iso: kor
@@ -39,6 +44,8 @@ translations:
   - translation_iso: por
     name: Escrita soyombo
     auto: true
+  - translation_iso: rus
+    name: соёмбо
   - translation_iso: spa
     name: escritura soyombo
   - translation_iso: zho

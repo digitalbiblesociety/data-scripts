@@ -84,12 +84,16 @@ translations:
   - translation_iso: ara
     name: أبجدية بورمية
     auto: true
+  - translation_iso: ben
+    name: মোন-বর্মী লিপি
   - translation_iso: deu
     name: birmanische Schrift
   - translation_iso: fra
     name: écriture birmane
   - translation_iso: hin
     name: मोन-बर्मी लिपि
+  - translation_iso: ind
+    name: aksara Burma
   - translation_iso: jpn
     name: ビルマ文字
     auto: true
@@ -99,6 +103,8 @@ translations:
   - translation_iso: por
     name: Alfabeto birmanês
     auto: true
+  - translation_iso: rus
+    name: бирманское письмо
   - translation_iso: spa
     name: alfabeto miagmá
   - translation_iso: zho

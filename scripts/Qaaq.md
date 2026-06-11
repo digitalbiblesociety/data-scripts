@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تدوين ستوكي
     auto: true
+  - translation_iso: ben
+    name: স্টোকি সংকেতলিপি
+    auto: true
   - translation_iso: deu
     name: Stokoe-Notation
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: réservé à l’usage privé (17e)
   - translation_iso: hin
     name: स्टोकी संकेतन
+    auto: true
+  - translation_iso: ind
+    name: notasi Stokoe
     auto: true
   - translation_iso: jpn
     name: ストーキー表記法
@@ -36,6 +42,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Notação Stokoe
+    auto: true
+  - translation_iso: rus
+    name: нотация Стоуки
     auto: true
   - translation_iso: spa
     name: notación Stokoe

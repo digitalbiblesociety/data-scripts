@@ -17,6 +17,9 @@ direction_notes: "LTR (left-to-right)"
 translations:
   - translation_iso: ara
     name: كلام مرئي
+  - translation_iso: ben
+    name: ভিজিবল স্পিচ
+    auto: true
   - translation_iso: deu
     name: Visible Speech
   - translation_iso: fra
@@ -24,11 +27,16 @@ translations:
   - translation_iso: hin
     name: विज़िबल स्पीच
     auto: true
+  - translation_iso: ind
+    name: Visible Speech
+    auto: true
   - translation_iso: jpn
     name: 視話法
   - translation_iso: kor
     name: 시화법
   - translation_iso: por
+    name: Visible Speech
+  - translation_iso: rus
     name: Visible Speech
   - translation_iso: spa
     name: Discurso Visible

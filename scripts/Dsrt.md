@@ -31,6 +31,9 @@ translations:
   - translation_iso: ara
     name: أبجدية ديسيريت
     auto: true
+  - translation_iso: ben
+    name: ডেসেরেট লিপি
+    auto: true
   - translation_iso: deu
     name: Deseret-Alphabet
   - translation_iso: fra
@@ -38,12 +41,16 @@ translations:
   - translation_iso: hin
     name: डेसरेट लिपि
     auto: true
+  - translation_iso: ind
+    name: Alfabet Deseret
   - translation_iso: jpn
     name: ディザレット文字
   - translation_iso: kor
     name: 데저렛 문자
   - translation_iso: por
     name: Alfabeto Deseret
+  - translation_iso: rus
+    name: Дезеретский алфавит
   - translation_iso: spa
     name: alfabeto Deseret
   - translation_iso: zho

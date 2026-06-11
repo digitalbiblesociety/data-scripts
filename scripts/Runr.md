@@ -37,18 +37,25 @@ languages:
 translations:
   - translation_iso: ara
     name: أبجدية رونية
+  - translation_iso: ben
+    name: রুনিক লিপি
+    auto: true
   - translation_iso: deu
     name: Runeninschrift
   - translation_iso: fra
     name: écriture runique
   - translation_iso: hin
     name: रूनी लिपि
+  - translation_iso: ind
+    name: Alfabet Rune
   - translation_iso: jpn
     name: ルーン文字
   - translation_iso: kor
     name: 룬 문자
   - translation_iso: por
     name: runas
+  - translation_iso: rus
+    name: руны
   - translation_iso: spa
     name: alfabeto rúnico
   - translation_iso: zho

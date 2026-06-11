@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: خط ليكي
     auto: true
+  - translation_iso: ben
+    name: লেকে লিপি
+    auto: true
   - translation_iso: deu
     name: Leke-Schrift
     auto: true
@@ -27,6 +30,9 @@ translations:
   - translation_iso: hin
     name: लेके लिपि
     auto: true
+  - translation_iso: ind
+    name: aksara Leke
+    auto: true
   - translation_iso: jpn
     name: レーケー文字
   - translation_iso: kor
@@ -34,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita leke
+    auto: true
+  - translation_iso: rus
+    name: письмо леке
     auto: true
   - translation_iso: spa
     name: leke

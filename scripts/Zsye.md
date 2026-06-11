@@ -21,18 +21,24 @@ fonts:
 translations:
   - translation_iso: ara
     name: إيموجي
+  - translation_iso: ben
+    name: ইমোজি
   - translation_iso: deu
     name: Emoji
   - translation_iso: fra
     name: émoji
   - translation_iso: hin
     name: इमोजी
+  - translation_iso: ind
+    name: Emoji
   - translation_iso: jpn
     name: 絵文字
   - translation_iso: kor
     name: 에모지
   - translation_iso: por
     name: emoji
+  - translation_iso: rus
+    name: эмодзи
   - translation_iso: spa
     name: emoji
   - translation_iso: zho

@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: أبجدية إيليمائية
     auto: true
+  - translation_iso: ben
+    name: এলিমায়িক লিপি
   - translation_iso: deu
     name: elymäische Schrift
     auto: true
@@ -29,6 +31,9 @@ translations:
     name: élymaïque
   - translation_iso: hin
     name: एलिमाइक लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Elimais
     auto: true
   - translation_iso: jpn
     name: エリマイス文字
@@ -38,6 +43,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita elimaica
+    auto: true
+  - translation_iso: rus
+    name: элимайское письмо
     auto: true
   - translation_iso: spa
     name: elimaico

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: خط أفاكا
     auto: true
+  - translation_iso: ben
+    name: আফাকা লিপি
   - translation_iso: deu
     name: Afaka-Schrift
   - translation_iso: fra
@@ -25,12 +27,17 @@ translations:
   - translation_iso: hin
     name: अफाका लिपि
     auto: true
+  - translation_iso: ind
+    name: aksara Afaka
+    auto: true
   - translation_iso: jpn
     name: アファカ文字
   - translation_iso: kor
     name: 아파카 문자
   - translation_iso: por
     name: Escrita afaka
+  - translation_iso: rus
+    name: Афака
   - translation_iso: spa
     name: silabario afaka
     auto: true

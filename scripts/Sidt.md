@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أبجدية سيدية
     auto: true
+  - translation_iso: ben
+    name: সিদেতিক লিপি
+    auto: true
   - translation_iso: deu
     name: sidetische Schrift
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sidétique
   - translation_iso: hin
     name: सिदेतिक लिपि
+    auto: true
+  - translation_iso: ind
+    name: alfabet Sidetik
     auto: true
   - translation_iso: jpn
     name: シデ文字
@@ -38,6 +44,8 @@ translations:
   - translation_iso: por
     name: Alfabeto sidético
     auto: true
+  - translation_iso: rus
+    name: Сидетский алфавит
   - translation_iso: spa
     name: Alfabeto sidético
   - translation_iso: zho

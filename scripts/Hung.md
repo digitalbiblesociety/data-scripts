@@ -29,6 +29,9 @@ screen_fonts:
 translations:
   - translation_iso: ara
     name: أبجدية روفاش
+  - translation_iso: ben
+    name: প্রাচীন হাঙ্গেরীয় লিপি
+    auto: true
   - translation_iso: deu
     name: altungarische Schrift
   - translation_iso: fra
@@ -36,12 +39,16 @@ translations:
   - translation_iso: hin
     name: प्राचीन हंगेरियाई लिपि
     auto: true
+  - translation_iso: ind
+    name: Alfabet Hongaria Kuno
   - translation_iso: jpn
     name: ロヴァーシュ文字
   - translation_iso: kor
     name: 로바쉬 문자
   - translation_iso: por
     name: runas húngaras
+  - translation_iso: rus
+    name: венгерские руны
   - translation_iso: spa
     name: alfabeto húngaro antiguo
   - translation_iso: zho

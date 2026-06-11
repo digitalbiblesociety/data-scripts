@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: تدوين ساينفونت
     auto: true
+  - translation_iso: ben
+    name: সাইনফন্ট সংকেতলিপি
+    auto: true
   - translation_iso: deu
     name: SignFont-Notation
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: réservé à l’usage privé (15e)
   - translation_iso: hin
     name: साइनफ़ॉन्ट संकेतन
+    auto: true
+  - translation_iso: ind
+    name: notasi SignFont
     auto: true
   - translation_iso: jpn
     name: サインフォント
@@ -38,6 +44,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Notação SignFont
+    auto: true
+  - translation_iso: rus
+    name: нотация SignFont
     auto: true
   - translation_iso: spa
     name: notación SignFont

@@ -8,6 +8,9 @@ translations:
   - translation_iso: ara
     name: غير مكتوب
     auto: true
+  - translation_iso: ben
+    name: অলিখিত নথির জন্য কোড
+    auto: true
   - translation_iso: deu
     name: Code für ungeschriebene Dokumente
     auto: true
@@ -15,6 +18,9 @@ translations:
     name: document non écrit
   - translation_iso: hin
     name: अलिखित दस्तावेज़ों के लिए कोड
+    auto: true
+  - translation_iso: ind
+    name: kode untuk dokumen tidak tertulis
     auto: true
   - translation_iso: jpn
     name: 書記文献のない言語
@@ -24,6 +30,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Código para documentos não escritos
+    auto: true
+  - translation_iso: rus
+    name: код для бесписьменных документов
     auto: true
   - translation_iso: spa
     name: código para documentos no escritos

@@ -20,12 +20,18 @@ direction_notes: LTR (left-to-right)
 translations:
   - translation_iso: ara
     name: أبجدية الزغاوة
+  - translation_iso: ben
+    name: বেরিয়া এর্ফে লিপি
+    auto: true
   - translation_iso: deu
     name: Zaghawa-Schrift
   - translation_iso: fra
     name: béria erfé
   - translation_iso: hin
     name: बेरिया एर्फ़े लिपि
+    auto: true
+  - translation_iso: ind
+    name: alfabet Beria Erfe
     auto: true
   - translation_iso: jpn
     name: ベリア・エルフェ文字
@@ -35,6 +41,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita zaghawa
+  - translation_iso: rus
+    name: письмо бериа эрфе
+    auto: true
   - translation_iso: spa
     name: alfabeto beria erfe
     auto: true

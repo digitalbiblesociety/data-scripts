@@ -28,18 +28,24 @@ languages:
 translations:
   - translation_iso: ara
     name: خط براهمي
+  - translation_iso: ben
+    name: ব্রাহ্মী লিপি
   - translation_iso: deu
     name: Brahmi-Schrift
   - translation_iso: fra
     name: brahmi
   - translation_iso: hin
     name: ब्राह्मी लिपि
+  - translation_iso: ind
+    name: Aksara Brahmi
   - translation_iso: jpn
     name: ブラーフミー文字
   - translation_iso: kor
     name: 브라흐미 문자
   - translation_iso: por
     name: escrita brami
+  - translation_iso: rus
+    name: брахми
   - translation_iso: spa
     name: Brahmi
   - translation_iso: zho

@@ -54,18 +54,24 @@ languages:
 translations:
   - translation_iso: ara
     name: حروف صينية مبسطة
+  - translation_iso: ben
+    name: সরলীকৃত চীনা অক্ষর
   - translation_iso: deu
     name: Kurzzeichen
   - translation_iso: fra
     name: sinogrammes simplifiés
   - translation_iso: hin
     name: सरलीकृत चीनी वर्ण
+  - translation_iso: ind
+    name: hanzi sederhana
   - translation_iso: jpn
     name: 簡体字
   - translation_iso: kor
     name: 간체자
   - translation_iso: por
     name: caracteres chineses simplificados
+  - translation_iso: rus
+    name: упрощение иероглифов
   - translation_iso: spa
     name: caracteres chinos simplificados
   - translation_iso: zho

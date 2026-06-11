@@ -26,12 +26,18 @@ fonts:
 translations:
   - translation_iso: ara
     name: خط سرياني شرقي
+  - translation_iso: ben
+    name: পূর্ব সিরিয়াক লিপি
+    auto: true
   - translation_iso: deu
     name: ostsyrische Schrift
   - translation_iso: fra
     name: écriture syriaque orientale
   - translation_iso: hin
     name: पूर्वी सीरियाई लिपि
+    auto: true
+  - translation_iso: ind
+    name: abjad Suryani Timur
     auto: true
   - translation_iso: jpn
     name: 東方シリア文字
@@ -41,6 +47,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Alfabeto siríaco oriental
+    auto: true
+  - translation_iso: rus
+    name: восточносирийское письмо
     auto: true
   - translation_iso: spa
     name: siríaco oriental

@@ -37,12 +37,18 @@ translations:
   - translation_iso: ara
     name: خط تاي لي
     auto: true
+  - translation_iso: ben
+    name: তাই লে লিপি
+    auto: true
   - translation_iso: deu
     name: Tai Le
   - translation_iso: fra
     name: taï-le
   - translation_iso: hin
     name: ताई ले लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Tai Le
     auto: true
   - translation_iso: jpn
     name: タイ・ナ文字
@@ -52,6 +58,8 @@ translations:
   - translation_iso: por
     name: Escrita tai le
     auto: true
+  - translation_iso: rus
+    name: Лы
   - translation_iso: spa
     name: alfabeto tai le
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: ara
     name: خط بهايكسوكي
     auto: true
+  - translation_iso: ben
+    name: ভৈক্ষুকী লিপি
+    auto: true
   - translation_iso: deu
     name: Bhaiksuki-Schrift
     auto: true
@@ -30,6 +33,9 @@ translations:
     name: alphasyllabaire bhaïksukî
   - translation_iso: hin
     name: भैक्षुकी लिपि
+  - translation_iso: ind
+    name: aksara Bhaiksuki
+    auto: true
   - translation_iso: jpn
     name: バイクシュキ文字
   - translation_iso: kor
@@ -37,6 +43,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita bhaiksuki
+    auto: true
+  - translation_iso: rus
+    name: бхайкшуки
     auto: true
   - translation_iso: spa
     name: bhaiksuki

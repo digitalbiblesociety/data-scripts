@@ -51,6 +51,9 @@ translations:
   - translation_iso: ara
     name: أبجدية جورجية
     auto: true
+  - translation_iso: ben
+    name: জর্জীয় লিপি
+    auto: true
   - translation_iso: deu
     name: georgisches Alphabet
     auto: true
@@ -58,6 +61,9 @@ translations:
     name: écriture géorgienne moderne
   - translation_iso: hin
     name: जॉर्जियाई लिपि
+    auto: true
+  - translation_iso: ind
+    name: alfabet Georgia
     auto: true
   - translation_iso: jpn
     name: ジョージア文字
@@ -68,6 +74,8 @@ translations:
   - translation_iso: por
     name: Alfabeto georgiano
     auto: true
+  - translation_iso: rus
+    name: современное грузинское письмо
   - translation_iso: spa
     name: alfabeto georgiano
     auto: true

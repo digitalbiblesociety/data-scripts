@@ -28,6 +28,9 @@ translations:
   - translation_iso: ara
     name: ميديفايدرين
     auto: true
+  - translation_iso: ben
+    name: মেডেফাইড্রিন লিপি
+    auto: true
   - translation_iso: deu
     name: Medefaidrin-Schrift
     auto: true
@@ -35,6 +38,9 @@ translations:
     name: alphabet médéfaïdrine
   - translation_iso: hin
     name: मेडेफ़ाइड्रिन लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Medefaidrin
     auto: true
   - translation_iso: jpn
     name: メデファイドリン文字
@@ -45,6 +51,8 @@ translations:
   - translation_iso: por
     name: Escrita medefaidrin
     auto: true
+  - translation_iso: rus
+    name: Обэри-Окаимэ
   - translation_iso: spa
     name: medefaidrin
     auto: true

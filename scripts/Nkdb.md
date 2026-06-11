@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ناشي دونغبا
     auto: true
+  - translation_iso: ben
+    name: নাশি ডোংবা লিপি
+    auto: true
   - translation_iso: deu
     name: Dongba-Schrift
     auto: true
@@ -29,12 +32,17 @@ translations:
   - translation_iso: hin
     name: नाशी डोंगबा लिपि
     auto: true
+  - translation_iso: ind
+    name: aksara Naxi Dongba
+    auto: true
   - translation_iso: jpn
     name: トンパ文字
   - translation_iso: kor
     name: 동파 문자
   - translation_iso: por
     name: Escrita dongba
+  - translation_iso: rus
+    name: Дунба
   - translation_iso: spa
     name: escritura dongba
     auto: true

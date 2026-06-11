@@ -24,6 +24,9 @@ translations:
   - translation_iso: ara
     name: خط الزبور البهلوي
     auto: true
+  - translation_iso: ben
+    name: সাল্টার পাহলভি লিপি
+    auto: true
   - translation_iso: deu
     name: Psalter-Pahlavi
     auto: true
@@ -32,6 +35,8 @@ translations:
   - translation_iso: hin
     name: साल्टर पहलवी लिपि
     auto: true
+  - translation_iso: ind
+    name: abjad Pahlavi Mazmur
   - translation_iso: jpn
     name: パフラヴィ文字
   - translation_iso: kor
@@ -39,6 +44,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Pahlavi do saltério
+    auto: true
+  - translation_iso: rus
+    name: псалтырный пехлеви
     auto: true
   - translation_iso: spa
     name: pahlavi salterial

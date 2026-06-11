@@ -23,6 +23,8 @@ fonts:
 translations:
   - translation_iso: ara
     name: أبجدية نبطية
+  - translation_iso: ben
+    name: নবতীয় লিপি
   - translation_iso: deu
     name: Nabatäische Schrift
   - translation_iso: fra
@@ -30,12 +32,16 @@ translations:
   - translation_iso: hin
     name: नबाती लिपि
     auto: true
+  - translation_iso: ind
+    name: Abjad Nabath
   - translation_iso: jpn
     name: ナバテア文字
   - translation_iso: kor
     name: 나바테아 문자
   - translation_iso: por
     name: Escrita nabateia
+  - translation_iso: rus
+    name: набатейское письмо
   - translation_iso: spa
     name: alfabeto nabateo
   - translation_iso: zho

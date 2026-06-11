@@ -21,6 +21,9 @@ direction_notes: LTR (left-to-right)
 translations:
   - translation_iso: ara
     name: ديهفس أكورو
+  - translation_iso: ben
+    name: দিবেস আকুরু লিপি
+    auto: true
   - translation_iso: deu
     name: Dives Akuru
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dives akuru
   - translation_iso: hin
     name: दिवेस अकुरु
+  - translation_iso: ind
+    name: aksara Dives Akuru
+    auto: true
   - translation_iso: jpn
     name: ディヴェ文字
   - translation_iso: kor
@@ -35,6 +41,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita Dhives Akuru
+  - translation_iso: rus
+    name: дивес акуру
+    auto: true
   - translation_iso: spa
     name: Dhives Akuru
   - translation_iso: zho

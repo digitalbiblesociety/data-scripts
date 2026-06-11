@@ -25,6 +25,9 @@ fonts:
 translations:
   - translation_iso: ara
     name: أبجدية سيريلية مبكرة
+  - translation_iso: ben
+    name: প্রাচীন চার্চ স্লাভোনিক সিরিলীয় লিপি
+    auto: true
   - translation_iso: deu
     name: altkyrillisches Alphabet
   - translation_iso: fra
@@ -32,12 +35,16 @@ translations:
   - translation_iso: hin
     name: प्राचीन चर्च स्लावोनिक सिरिलिक लिपि
     auto: true
+  - translation_iso: ind
+    name: Alfabet Kiril awal
   - translation_iso: jpn
     name: 初期キリル文字アルファベット
   - translation_iso: kor
     name: 초기 키릴 문자
   - translation_iso: por
     name: Alfabeto cirílico arcaico
+  - translation_iso: rus
+    name: старославянская кириллица
   - translation_iso: spa
     name: alfabeto cirílico arcaico
   - translation_iso: zho

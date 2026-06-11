@@ -35,6 +35,9 @@ languages:
 translations:
   - translation_iso: ara
     name: تانة
+  - translation_iso: ben
+    name: থানা লিপি
+    auto: true
   - translation_iso: deu
     name: Thaana-Alphabet
   - translation_iso: fra
@@ -42,12 +45,16 @@ translations:
   - translation_iso: hin
     name: ताना लिपि
     auto: true
+  - translation_iso: ind
+    name: Thaana
   - translation_iso: jpn
     name: ターナ文字
   - translation_iso: kor
     name: 타나 문자
   - translation_iso: por
     name: Escrita Thaana
+  - translation_iso: rus
+    name: Тана
   - translation_iso: spa
     name: thaana
   - translation_iso: zho

@@ -23,6 +23,9 @@ translations:
   - translation_iso: ara
     name: أبجدية ألبانية قوقازية
     auto: true
+  - translation_iso: ben
+    name: ককেশীয় আলবেনীয় লিপি
+    auto: true
   - translation_iso: deu
     name: alwanische Schrift
     auto: true
@@ -31,6 +34,8 @@ translations:
   - translation_iso: hin
     name: काकेशियाई अल्बानियाई लिपि
     auto: true
+  - translation_iso: ind
+    name: Alfabet Albania Kaukasus
   - translation_iso: jpn
     name: アルバニア文字
   - translation_iso: kor
@@ -38,6 +43,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Alfabeto cáucaso-albanês
+  - translation_iso: rus
+    name: агванское письмо
   - translation_iso: spa
     name: Alfabeto albanés caucásico
   - translation_iso: zho

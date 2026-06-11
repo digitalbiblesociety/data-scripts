@@ -45,18 +45,24 @@ languages:
 translations:
   - translation_iso: ara
     name: هانغل
+  - translation_iso: ben
+    name: হান্গেউল
   - translation_iso: deu
     name: koreanisches Alphabet
   - translation_iso: fra
     name: hangeul
   - translation_iso: hin
     name: हंगुल
+  - translation_iso: ind
+    name: Hangeul
   - translation_iso: jpn
     name: ハングル
   - translation_iso: kor
     name: 한글
   - translation_iso: por
     name: Hangul
+  - translation_iso: rus
+    name: хангыль
   - translation_iso: spa
     name: hangul
   - translation_iso: zho

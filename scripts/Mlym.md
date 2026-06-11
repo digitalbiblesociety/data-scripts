@@ -64,12 +64,16 @@ translations:
   - translation_iso: ara
     name: مالايالام
     auto: true
+  - translation_iso: ben
+    name: মালয়ালম লিপি
   - translation_iso: deu
     name: Malayalam-Schrift
   - translation_iso: fra
     name: alphasyllabaire malayâlam
   - translation_iso: hin
     name: मलयालम लिपि
+  - translation_iso: ind
+    name: Aksara Malayalam
   - translation_iso: jpn
     name: マラヤーラム文字
   - translation_iso: kor
@@ -77,6 +81,8 @@ translations:
   - translation_iso: por
     name: Malaiala
     auto: true
+  - translation_iso: rus
+    name: малаялам
   - translation_iso: spa
     name: alfabeto malabar
   - translation_iso: zho

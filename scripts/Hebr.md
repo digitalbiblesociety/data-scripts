@@ -60,18 +60,24 @@ languages:
 translations:
   - translation_iso: ara
     name: كتابة عبرية
+  - translation_iso: ben
+    name: হিব্রু লিপি
   - translation_iso: deu
     name: hebräisches Alphabet
   - translation_iso: fra
     name: alphabet hébreu
   - translation_iso: hin
     name: इब्रानी लिपि
+  - translation_iso: ind
+    name: alfabet Ibrani
   - translation_iso: jpn
     name: ヘブライ文字
   - translation_iso: kor
     name: 히브리 문자
   - translation_iso: por
     name: alfabeto hebraico
+  - translation_iso: rus
+    name: еврейский алфавит
   - translation_iso: spa
     name: alfabeto hebreo
   - translation_iso: zho

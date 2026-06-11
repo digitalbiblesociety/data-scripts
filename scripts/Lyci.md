@@ -27,6 +27,9 @@ translations:
   - translation_iso: ara
     name: أبجدية ليقية
     auto: true
+  - translation_iso: ben
+    name: লিসিয়ান লিপি
+    auto: true
   - translation_iso: deu
     name: lykische Schrift
     auto: true
@@ -35,12 +38,16 @@ translations:
   - translation_iso: hin
     name: लिशियन लिपि
     auto: true
+  - translation_iso: ind
+    name: Alfabet Likia
   - translation_iso: jpn
     name: リュキア文字
   - translation_iso: kor
     name: 리키아 문자
   - translation_iso: por
     name: Alfabeto lício
+  - translation_iso: rus
+    name: Ликийский алфавит
   - translation_iso: spa
     name: alfabeto licio
   - translation_iso: zho

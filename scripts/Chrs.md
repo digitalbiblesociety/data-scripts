@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: أبجدية خوارزمية
     auto: true
+  - translation_iso: ben
+    name: খোয়ারিজমীয় লিপি
+    auto: true
   - translation_iso: deu
     name: choresmische Schrift
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: chorasmien
   - translation_iso: hin
     name: ख़्वारेज़्मी लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Khwarezmia
     auto: true
   - translation_iso: jpn
     name: ホラズム文字
@@ -38,6 +44,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita corásmia
+    auto: true
+  - translation_iso: rus
+    name: хорезмийское письмо
     auto: true
   - translation_iso: spa
     name: corasmio

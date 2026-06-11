@@ -21,6 +21,9 @@ direction_notes: RTL (right-to-left)
 translations:
   - translation_iso: ara
     name: خط كاراي
+  - translation_iso: ben
+    name: গারায় লিপি
+    auto: true
   - translation_iso: deu
     name: Garay-Schrift
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: garay
   - translation_iso: hin
     name: गाराय लिपि
+    auto: true
+  - translation_iso: ind
+    name: alfabet Garay
     auto: true
   - translation_iso: jpn
     name: ガライ文字
@@ -37,6 +43,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita garay
+    auto: true
+  - translation_iso: rus
+    name: гарай
     auto: true
   - translation_iso: spa
     name: Alfabeto garay

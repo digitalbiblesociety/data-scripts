@@ -19,12 +19,18 @@ translations:
   - translation_iso: ara
     name: خط ساراتي
     auto: true
+  - translation_iso: ben
+    name: সারাতি লিপি
+    auto: true
   - translation_iso: deu
     name: Sarati
   - translation_iso: fra
     name: sarati
   - translation_iso: hin
     name: सराती लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Sarati
     auto: true
   - translation_iso: jpn
     name: サラティ
@@ -34,6 +40,8 @@ translations:
   - translation_iso: por
     name: Sarati
     auto: true
+  - translation_iso: rus
+    name: Сарати
   - translation_iso: spa
     name: sarati
   - translation_iso: zho

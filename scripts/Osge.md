@@ -32,12 +32,18 @@ translations:
   - translation_iso: ara
     name: أوسيج
     auto: true
+  - translation_iso: ben
+    name: ওসেজ লিপি
+    auto: true
   - translation_iso: deu
     name: Osage-Alphabet
   - translation_iso: fra
     name: osage
   - translation_iso: hin
     name: ओसेज लिपि
+    auto: true
+  - translation_iso: ind
+    name: alfabet Osage
     auto: true
   - translation_iso: jpn
     name: オセージ文字
@@ -47,6 +53,8 @@ translations:
   - translation_iso: por
     name: Alfabeto osage
     auto: true
+  - translation_iso: rus
+    name: Осейдж (письмо)
   - translation_iso: spa
     name: alfabeto osago
   - translation_iso: zho

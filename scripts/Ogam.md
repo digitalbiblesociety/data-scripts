@@ -33,6 +33,9 @@ languages:
 translations:
   - translation_iso: ara
     name: أوجهام
+  - translation_iso: ben
+    name: ওগাম লিপি
+    auto: true
   - translation_iso: deu
     name: Ogham
   - translation_iso: fra
@@ -40,12 +43,17 @@ translations:
   - translation_iso: hin
     name: ओगम लिपि
     auto: true
+  - translation_iso: ind
+    name: aksara Ogham
+    auto: true
   - translation_iso: jpn
     name: オガム文字
   - translation_iso: kor
     name: 오검 문자
   - translation_iso: por
     name: ogham
+  - translation_iso: rus
+    name: огамическое письмо
   - translation_iso: spa
     name: ogámico
   - translation_iso: zho

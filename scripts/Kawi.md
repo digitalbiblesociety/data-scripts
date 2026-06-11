@@ -21,6 +21,9 @@ direction_notes: LTR (left-to-right)
 translations:
   - translation_iso: ara
     name: نص كاوي
+  - translation_iso: ben
+    name: কাবি লিপি
+    auto: true
   - translation_iso: deu
     name: Kawi-Schrift
     auto: true
@@ -28,6 +31,8 @@ translations:
     name: écriture kawi
   - translation_iso: hin
     name: कवि लिपि
+  - translation_iso: ind
+    name: Aksara Kawi
   - translation_iso: jpn
     name: カウィ文字
   - translation_iso: kor
@@ -35,6 +40,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita javanesa antiga
+  - translation_iso: rus
+    name: кави
   - translation_iso: spa
     name: alfabeto kawi
   - translation_iso: zho

@@ -55,6 +55,8 @@ languages:
 translations:
   - translation_iso: ara
     name: أبجدية سريانية
+  - translation_iso: ben
+    name: সিরীয় বর্ণমালা
   - translation_iso: deu
     name: syrisches Alphabet
   - translation_iso: fra
@@ -62,12 +64,16 @@ translations:
   - translation_iso: hin
     name: सीरियाई लिपि
     auto: true
+  - translation_iso: ind
+    name: Abjad Suryani
   - translation_iso: jpn
     name: シリア文字
   - translation_iso: kor
     name: 시리아 문자
   - translation_iso: por
     name: Alfabeto siríaco
+  - translation_iso: rus
+    name: сирийское письмо
   - translation_iso: spa
     name: alfabeto siríaco
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كلينغون
     auto: true
+  - translation_iso: ben
+    name: ক্লিংগন লিপি
+    auto: true
   - translation_iso: deu
     name: klingonische Schrift
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: pIqaD
   - translation_iso: hin
     name: क्लिंगन लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Klingon
     auto: true
   - translation_iso: jpn
     name: クリンゴン文字
@@ -35,6 +41,8 @@ translations:
   - translation_iso: por
     name: Klingon
     auto: true
+  - translation_iso: rus
+    name: пикад
   - translation_iso: spa
     name: klingon
     auto: true

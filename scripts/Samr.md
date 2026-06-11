@@ -33,6 +33,9 @@ languages:
 translations:
   - translation_iso: ara
     name: أبجدية سامرية
+  - translation_iso: ben
+    name: শমরীয় লিপি
+    auto: true
   - translation_iso: deu
     name: Samaritanische Schrift
   - translation_iso: fra
@@ -40,12 +43,16 @@ translations:
   - translation_iso: hin
     name: सामरी लिपि
     auto: true
+  - translation_iso: ind
+    name: Abjad Samaria
   - translation_iso: jpn
     name: サマリア文字
   - translation_iso: kor
     name: 사마리아 문자
   - translation_iso: por
     name: Alfabeto samaritano
+  - translation_iso: rus
+    name: Самаритянское письмо
   - translation_iso: spa
     name: alfabeto samaritano
   - translation_iso: zho

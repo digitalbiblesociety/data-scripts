@@ -25,6 +25,9 @@ fonts:
 translations:
   - translation_iso: ara
     name: نص ماكاسار
+  - translation_iso: ben
+    name: মাকাসার লিপি
+    auto: true
   - translation_iso: deu
     name: Makasar-Schrift
     auto: true
@@ -33,6 +36,8 @@ translations:
   - translation_iso: hin
     name: मकासर लिपि
     auto: true
+  - translation_iso: ind
+    name: Aksara Makassar
   - translation_iso: jpn
     name: マカサル文字
   - translation_iso: kor
@@ -40,6 +45,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita makasar
+    auto: true
+  - translation_iso: rus
+    name: макасарское письмо
     auto: true
   - translation_iso: spa
     name: makasar

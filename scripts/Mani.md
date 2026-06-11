@@ -24,6 +24,9 @@ fonts:
 translations:
   - translation_iso: ara
     name: الخط المانوي
+  - translation_iso: ben
+    name: মানিকীয় লিপি
+    auto: true
   - translation_iso: deu
     name: Manichäische Schrift
   - translation_iso: fra
@@ -31,12 +34,16 @@ translations:
   - translation_iso: hin
     name: मानिकेयन लिपि
     auto: true
+  - translation_iso: ind
+    name: abjad Mani
   - translation_iso: jpn
     name: マニ教文字
   - translation_iso: kor
     name: 마니 문자
   - translation_iso: por
     name: Escrita maniqueia
+  - translation_iso: rus
+    name: манихейское письмо
   - translation_iso: spa
     name: alfabeto maniqueo
   - translation_iso: zho

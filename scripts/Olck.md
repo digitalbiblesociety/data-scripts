@@ -32,12 +32,17 @@ languages:
 translations:
   - translation_iso: ara
     name: كتابة أول تشيكي
+  - translation_iso: ben
+    name: অলচিকি লিপি
   - translation_iso: deu
     name: Ol Chiki
   - translation_iso: fra
     name: alphabet santâl
   - translation_iso: hin
     name: ओलचिकी लिपि
+  - translation_iso: ind
+    name: aksara Ol Chiki
+    auto: true
   - translation_iso: jpn
     name: オル・チキ文字
   - translation_iso: kor
@@ -45,6 +50,8 @@ translations:
   - translation_iso: por
     name: Ol Chiki
     auto: true
+  - translation_iso: rus
+    name: Ол-чики
   - translation_iso: spa
     name: alfabeto ol chiki
     auto: true

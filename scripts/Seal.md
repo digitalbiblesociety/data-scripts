@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: خط الختم الصغير
     auto: true
+  - translation_iso: ben
+    name: ক্ষুদ্র সিলমোহর লিপি
+    auto: true
   - translation_iso: deu
     name: Kleine Siegelschrift
     auto: true
@@ -29,12 +32,17 @@ translations:
   - translation_iso: hin
     name: लघु मुद्रा लिपि
     auto: true
+  - translation_iso: ind
+    name: aksara segel kecil
+    auto: true
   - translation_iso: jpn
     name: 小篆
   - translation_iso: kor
     name: 소전
   - translation_iso: por
     name: xiaozhuan
+  - translation_iso: rus
+    name: Сяочжуань
   - translation_iso: spa
     name: Escritura de sello pequeño
   - translation_iso: zho

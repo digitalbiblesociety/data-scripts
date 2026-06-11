@@ -44,18 +44,24 @@ screen_fonts:
 translations:
   - translation_iso: ara
     name: هيراغانا
+  - translation_iso: ben
+    name: হিরাগানা
   - translation_iso: deu
     name: Hiragana
   - translation_iso: fra
     name: hiragana
   - translation_iso: hin
     name: हिरागाना
+  - translation_iso: ind
+    name: hiragana
   - translation_iso: jpn
     name: 平仮名
   - translation_iso: kor
     name: 히라가나
   - translation_iso: por
     name: hiragana
+  - translation_iso: rus
+    name: хирагана
   - translation_iso: spa
     name: hiragana
   - translation_iso: zho

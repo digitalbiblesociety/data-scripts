@@ -26,6 +26,9 @@ translations:
   - translation_iso: ara
     name: خط زانابازار المربع
     auto: true
+  - translation_iso: ben
+    name: জানাবাজার বর্গাকার লিপি
+    auto: true
   - translation_iso: deu
     name: Zanabazar-Quadratschrift
     auto: true
@@ -33,6 +36,9 @@ translations:
     name: écriture carrée zanabazar
   - translation_iso: hin
     name: ज़नाबाज़ार वर्गाकार लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara persegi Zanabazar
     auto: true
   - translation_iso: jpn
     name: ザナバザル方形文字
@@ -43,6 +49,8 @@ translations:
   - translation_iso: por
     name: Escrita quadrada de Zanabazar
     auto: true
+  - translation_iso: rus
+    name: монгольское горизонтально-квадратное письмо
   - translation_iso: spa
     name: escritura cuadrada de Zanabazar
     auto: true

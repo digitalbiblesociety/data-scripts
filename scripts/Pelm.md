@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: العيلامية البدائية
     auto: true
+  - translation_iso: ben
+    name: আদি এলামীয় লিপি
+    auto: true
   - translation_iso: deu
     name: protoelamische Schrift
     auto: true
@@ -29,6 +32,8 @@ translations:
   - translation_iso: hin
     name: आद्य-एलामी लिपि
     auto: true
+  - translation_iso: ind
+    name: Proto-Elam
   - translation_iso: jpn
     name: 原エラム文字
     auto: true
@@ -38,6 +43,8 @@ translations:
   - translation_iso: por
     name: Proto-elamita
     auto: true
+  - translation_iso: rus
+    name: Протоэламское письмо
   - translation_iso: spa
     name: escritura protoelamita
   - translation_iso: zho

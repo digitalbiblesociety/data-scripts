@@ -30,12 +30,16 @@ translations:
   - translation_iso: ara
     name: كايثي
     auto: true
+  - translation_iso: ben
+    name: কৈথী লিপি
   - translation_iso: deu
     name: Kaithi-Schrift
   - translation_iso: fra
     name: kaithî
   - translation_iso: hin
     name: कैथी
+  - translation_iso: ind
+    name: Kaithi
   - translation_iso: jpn
     name: カイティー文字
   - translation_iso: kor
@@ -43,6 +47,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita Kaithi
+  - translation_iso: rus
+    name: Кайтхи
   - translation_iso: spa
     name: Kaithi
   - translation_iso: zho

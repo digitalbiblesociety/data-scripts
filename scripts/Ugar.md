@@ -32,6 +32,9 @@ languages:
 translations:
   - translation_iso: ara
     name: أبجدية أوغاريتية
+  - translation_iso: ben
+    name: উগারিটিক লিপি
+    auto: true
   - translation_iso: deu
     name: Ugaritische Schrift
   - translation_iso: fra
@@ -39,12 +42,16 @@ translations:
   - translation_iso: hin
     name: उगारिटिक लिपि
     auto: true
+  - translation_iso: ind
+    name: Abjad Ugarit
   - translation_iso: jpn
     name: ウガリット文字
   - translation_iso: kor
     name: 우가리트 문자
   - translation_iso: por
     name: Alfabeto ugarítico
+  - translation_iso: rus
+    name: Угаритское письмо
   - translation_iso: spa
     name: alfabeto ugarítico
   - translation_iso: zho

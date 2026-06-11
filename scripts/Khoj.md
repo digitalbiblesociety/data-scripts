@@ -31,12 +31,18 @@ languages:
 translations:
   - translation_iso: ara
     name: خوجكي
+  - translation_iso: ben
+    name: খোজকি লিপি
+    auto: true
   - translation_iso: deu
     name: Khojki-Schrift
   - translation_iso: fra
     name: khojkî
   - translation_iso: hin
     name: खोजकी
+  - translation_iso: ind
+    name: aksara Khojki
+    auto: true
   - translation_iso: jpn
     name: ホジャ文字
   - translation_iso: kor
@@ -44,6 +50,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Khojki
+  - translation_iso: rus
+    name: ходжки
+    auto: true
   - translation_iso: spa
     name: khojki
   - translation_iso: zho

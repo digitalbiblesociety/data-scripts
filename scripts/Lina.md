@@ -19,18 +19,25 @@ direction_notes: "LTR (left-to-right)"
 translations:
   - translation_iso: ara
     name: نظام خطي أ
+  - translation_iso: ben
+    name: রৈখিক এ লিপি
+    auto: true
   - translation_iso: deu
     name: Linearschrift A
   - translation_iso: fra
     name: linéaire A
   - translation_iso: hin
     name: रेखीय ए लिपि
+  - translation_iso: ind
+    name: Linear A
   - translation_iso: jpn
     name: 線文字A
   - translation_iso: kor
     name: 선형문자 A
   - translation_iso: por
     name: linear A
+  - translation_iso: rus
+    name: линейное письмо А
   - translation_iso: spa
     name: lineal A
   - translation_iso: zho

@@ -27,12 +27,18 @@ translations:
   - translation_iso: ara
     name: خوتسوري
     auto: true
+  - translation_iso: ben
+    name: খুতসুরি লিপি
+    auto: true
   - translation_iso: deu
     name: Chutsuri
   - translation_iso: fra
     name: khoutsouri
   - translation_iso: hin
     name: खुत्सुरी लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Khutsuri
     auto: true
   - translation_iso: jpn
     name: フツリ文字
@@ -43,6 +49,8 @@ translations:
   - translation_iso: por
     name: Khutsuri
     auto: true
+  - translation_iso: rus
+    name: Хуцури
   - translation_iso: spa
     name: khutsuri
     auto: true

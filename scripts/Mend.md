@@ -25,12 +25,17 @@ languages:
 translations:
   - translation_iso: ara
     name: خط مندي
+  - translation_iso: ben
+    name: মেণ্ডে কিকাকুই লিপি
   - translation_iso: deu
     name: Mende-Schrift
   - translation_iso: fra
     name: mendé kikakui
   - translation_iso: hin
     name: मेंडे किकाकुई लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Mende Kikakui
     auto: true
   - translation_iso: jpn
     name: メンデ文字
@@ -40,6 +45,8 @@ translations:
   - translation_iso: por
     name: Escrita mende kikakui
     auto: true
+  - translation_iso: rus
+    name: Кикакуи
   - translation_iso: spa
     name: Silabario Ki-ka-ku
   - translation_iso: zho

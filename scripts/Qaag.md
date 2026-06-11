@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كتابة إرسو شابا التصويرية
     auto: true
+  - translation_iso: ben
+    name: এরসু শাবা চিত্রলিপি
+    auto: true
   - translation_iso: deu
     name: Ersu-Shaba-Bilderschrift
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: réservé à l’usage privé (7e)
   - translation_iso: hin
     name: एर्सु शाबा चित्रलिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara piktografis Ersu Shaba
     auto: true
   - translation_iso: jpn
     name: アルス・シャパ文字
@@ -34,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita pictográfica ersu shaba
+    auto: true
+  - translation_iso: rus
+    name: пиктографическое письмо эрсу шаба
     auto: true
   - translation_iso: spa
     name: escritura pictográfica ersu shaba

@@ -46,18 +46,24 @@ languages:
 translations:
   - translation_iso: ara
     name: نظام كتابة ياباني
+  - translation_iso: ben
+    name: জাপানি লিখন পদ্ধতি
   - translation_iso: deu
     name: japanische Schrift
   - translation_iso: fra
     name: "système d'écriture du japonais"
   - translation_iso: hin
     name: जापानी लेखन पद्धति
+  - translation_iso: ind
+    name: Sistem penulisan bahasa Jepang
   - translation_iso: jpn
     name: 日本語の表記体系
   - translation_iso: kor
     name: 일본어 표기 체계
   - translation_iso: por
     name: escrita japonesa
+  - translation_iso: rus
+    name: японское письмо
   - translation_iso: spa
     name: escritura japonesa
   - translation_iso: zho

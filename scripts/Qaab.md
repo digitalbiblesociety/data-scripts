@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خط بالتي أ
     auto: true
+  - translation_iso: ben
+    name: বাল্তি-এ লিপি
+    auto: true
   - translation_iso: deu
     name: Balti-A-Schrift
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: réservé à l’usage privé (2e)
   - translation_iso: hin
     name: बल्ती-ए लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Balti-A
     auto: true
   - translation_iso: jpn
     name: バルティ文字A
@@ -34,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita balti-A
+    auto: true
+  - translation_iso: rus
+    name: письмо балти-А
     auto: true
   - translation_iso: spa
     name: escritura balti A

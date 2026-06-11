@@ -281,18 +281,24 @@ languages:
 translations:
   - translation_iso: ara
     name: ديوناكري
+  - translation_iso: ben
+    name: দেবনাগরী লিপি
   - translation_iso: deu
     name: Devanagari
   - translation_iso: fra
     name: devanagari
   - translation_iso: hin
     name: देवनागरी
+  - translation_iso: ind
+    name: Dewanagari
   - translation_iso: jpn
     name: デーヴァナーガリー
   - translation_iso: kor
     name: 데바나가리 문자
   - translation_iso: por
     name: Devanágari
+  - translation_iso: rus
+    name: деванагари
   - translation_iso: spa
     name: devanagari
   - translation_iso: zho

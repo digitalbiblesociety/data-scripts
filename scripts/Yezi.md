@@ -21,6 +21,9 @@ direction_notes: RTL (right-to-left)
 translations:
   - translation_iso: ara
     name: كتابة يزيدية
+  - translation_iso: ben
+    name: ইয়েজিদি লিপি
+    auto: true
   - translation_iso: deu
     name: jesidische Schrift
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: alphabet yézidi
   - translation_iso: hin
     name: येज़िदी लिपि
+    auto: true
+  - translation_iso: ind
+    name: alfabet Yezidi
     auto: true
   - translation_iso: jpn
     name: ヤズィーディー文字
@@ -37,6 +43,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita Iezidi
+  - translation_iso: rus
+    name: Езидское письмо
   - translation_iso: spa
     name: alfabeto yezidí
     auto: true

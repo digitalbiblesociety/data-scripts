@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: خط سافارا
     auto: true
+  - translation_iso: ben
+    name: সবরা লিপি
+    auto: true
   - translation_iso: deu
     name: Savara-Schrift
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: réservé à l’usage privé (19e)
   - translation_iso: hin
     name: सवरा लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Savara
     auto: true
   - translation_iso: jpn
     name: サヴァラ文字
@@ -31,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita savara
+    auto: true
+  - translation_iso: rus
+    name: письмо савара
     auto: true
   - translation_iso: spa
     name: escritura savara

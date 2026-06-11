@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خط بهلوي الكتب
     auto: true
+  - translation_iso: ben
+    name: পুস্তক পাহলভি লিপি
+    auto: true
   - translation_iso: deu
     name: Buch-Pahlavi
   - translation_iso: fra
@@ -25,6 +28,8 @@ translations:
   - translation_iso: hin
     name: पुस्तक पहलवी लिपि
     auto: true
+  - translation_iso: ind
+    name: abjad Pahlavi Kitab
   - translation_iso: jpn
     name: 書物パフラヴィー文字
     auto: true
@@ -33,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Pahlavi de livro
+    auto: true
+  - translation_iso: rus
+    name: книжный пехлеви
     auto: true
   - translation_iso: spa
     name: pahlavi cursivo o de libro

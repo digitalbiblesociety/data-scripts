@@ -46,18 +46,24 @@ translations:
   - translation_iso: ara
     name: أبجدية سنهالية
     auto: true
+  - translation_iso: ben
+    name: সিংহলি লিপি
   - translation_iso: deu
     name: singhalesische Schrift
   - translation_iso: fra
     name: écriture singhalaise
   - translation_iso: hin
     name: सिंहल लिपि
+  - translation_iso: ind
+    name: Aksara Sinhala
   - translation_iso: jpn
     name: シンハラ文字
   - translation_iso: kor
     name: 싱할라 문자
   - translation_iso: por
     name: Escrita cingalesa
+  - translation_iso: rus
+    name: сингальское письмо
   - translation_iso: spa
     name: alfabeto cingalés
   - translation_iso: zho

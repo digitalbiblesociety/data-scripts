@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: أبجدية الزغاوة
     auto: true
+  - translation_iso: ben
+    name: বেরিয়া লিপি
+    auto: true
   - translation_iso: deu
     name: Zaghawa-Schrift
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: réservé à l’usage privé (26e)
   - translation_iso: hin
     name: बेरिया लिपि
+    auto: true
+  - translation_iso: ind
+    name: alfabet Beria
     auto: true
   - translation_iso: jpn
     name: ベリア文字
@@ -35,6 +41,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita zaghawa
+    auto: true
+  - translation_iso: rus
+    name: алфавит берия
     auto: true
   - translation_iso: spa
     name: alfabeto beria

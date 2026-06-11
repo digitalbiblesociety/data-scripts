@@ -20,18 +20,24 @@ direction_notes: vertical (LTR)
 translations:
   - translation_iso: ara
     name: كتابة المايا
+  - translation_iso: ben
+    name: মায়া লিপি
   - translation_iso: deu
     name: Maya-Schrift
   - translation_iso: fra
     name: hiéroglyphes maya
   - translation_iso: hin
     name: माया लिपि
+  - translation_iso: ind
+    name: Aksara Maya
   - translation_iso: jpn
     name: マヤ文字
   - translation_iso: kor
     name: 마야 문자
   - translation_iso: por
     name: Escrita maia
+  - translation_iso: rus
+    name: письмо майя
   - translation_iso: spa
     name: escritura Maya
   - translation_iso: zho

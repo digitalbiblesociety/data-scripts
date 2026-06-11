@@ -35,12 +35,17 @@ translations:
   - translation_iso: ara
     name: خط سوندي
     auto: true
+  - translation_iso: ben
+    name: সুন্দানি লিপি
+    auto: true
   - translation_iso: deu
     name: Aksara Sunda
   - translation_iso: fra
     name: écriture soundanaise
   - translation_iso: hin
     name: सुन्द लिपि
+  - translation_iso: ind
+    name: Aksara Sunda Baku
   - translation_iso: jpn
     name: スンダ文字
   - translation_iso: kor
@@ -48,6 +53,8 @@ translations:
   - translation_iso: por
     name: Escrita sundanesa
     auto: true
+  - translation_iso: rus
+    name: Сунданское письмо
   - translation_iso: spa
     name: alfabeto sundanés
   - translation_iso: zho

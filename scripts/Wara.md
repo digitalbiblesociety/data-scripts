@@ -33,6 +33,9 @@ translations:
   - translation_iso: ara
     name: وارانج سيتي
     auto: true
+  - translation_iso: ben
+    name: ওয়ারাং চিতি লিপি
+    auto: true
   - translation_iso: deu
     name: Varang Kshiti
     auto: true
@@ -40,6 +43,9 @@ translations:
     name: warang citi
   - translation_iso: hin
     name: वारंग क्षिति
+  - translation_iso: ind
+    name: aksara Warang Citi
+    auto: true
   - translation_iso: jpn
     name: ワラン・チティ文字
   - translation_iso: kor
@@ -48,6 +54,8 @@ translations:
   - translation_iso: por
     name: Escrita varang kshiti
     auto: true
+  - translation_iso: rus
+    name: Варанг-кшити
   - translation_iso: spa
     name: varang kshiti
     auto: true

@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: أول أونال
     auto: true
+  - translation_iso: ben
+    name: ওল ওনাল
   - translation_iso: deu
     name: Ol-Onal-Schrift
     auto: true
@@ -29,6 +31,9 @@ translations:
     name: ol onal
   - translation_iso: hin
     name: अल अनल लिपि
+  - translation_iso: ind
+    name: aksara Ol Onal
+    auto: true
   - translation_iso: jpn
     name: オル・オナル文字
     auto: true
@@ -38,6 +43,8 @@ translations:
   - translation_iso: por
     name: Escrita ol onal
     auto: true
+  - translation_iso: rus
+    name: ол онал
   - translation_iso: spa
     name: alfabeto ol onal
     auto: true

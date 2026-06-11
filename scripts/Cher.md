@@ -38,18 +38,25 @@ languages:
 translations:
   - translation_iso: ara
     name: مقاطع شيروكية
+  - translation_iso: ben
+    name: চেরোকি লিপি
+    auto: true
   - translation_iso: deu
     name: Cherokee-Silbenschrift
   - translation_iso: fra
     name: syllabaire cherokee
   - translation_iso: hin
     name: चेरौकी लिपि
+  - translation_iso: ind
+    name: Aksara Cherokee
   - translation_iso: jpn
     name: チェロキー文字
   - translation_iso: kor
     name: 체로키 문자
   - translation_iso: por
     name: Silabário cherokee
+  - translation_iso: rus
+    name: письмо чероки
   - translation_iso: spa
     name: silabario cheroqui
   - translation_iso: zho

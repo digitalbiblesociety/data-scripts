@@ -26,6 +26,9 @@ fonts:
 translations:
   - translation_iso: ara
     name: خط أسطرنجيلي
+  - translation_iso: ben
+    name: এস্ত্রাঙ্গেলা সিরিয়াক লিপি
+    auto: true
   - translation_iso: deu
     name: Estrangelo
     auto: true
@@ -33,6 +36,9 @@ translations:
     name: syriaque (variante estranghélo)
   - translation_iso: hin
     name: एस्त्रांगेला सीरियाई लिपि
+    auto: true
+  - translation_iso: ind
+    name: abjad Suryani Estrangelo
     auto: true
   - translation_iso: jpn
     name: シリア文字エストランゲロ書体
@@ -42,6 +48,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Alfabeto siríaco estrangelo
+    auto: true
+  - translation_iso: rus
+    name: сирийское письмо (эстрангело)
     auto: true
   - translation_iso: spa
     name: siríaco estrangelo

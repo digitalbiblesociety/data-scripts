@@ -25,6 +25,9 @@ translations:
   - translation_iso: ara
     name: مارتشن
     auto: true
+  - translation_iso: ben
+    name: মারচেন লিপি
+    auto: true
   - translation_iso: deu
     name: Marchen-Schrift
     auto: true
@@ -33,6 +36,8 @@ translations:
   - translation_iso: hin
     name: मारचेन लिपि
     auto: true
+  - translation_iso: ind
+    name: Aksara Marchen
   - translation_iso: jpn
     name: マルチェン文字
     auto: true
@@ -41,6 +46,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita marchen
+    auto: true
+  - translation_iso: rus
+    name: марчен
     auto: true
   - translation_iso: spa
     name: marchen

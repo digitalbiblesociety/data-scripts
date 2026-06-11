@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خط دوتا
     auto: true
+  - translation_iso: ben
+    name: দুওতা লিপি
+    auto: true
   - translation_iso: deu
     name: Duota-Schrift
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: réservé à l’usage privé (6e)
   - translation_iso: hin
     name: दुओता लिपि
+    auto: true
+  - translation_iso: ind
+    name: aksara Duota
     auto: true
   - translation_iso: jpn
     name: ドゥオタ文字
@@ -34,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita duota
+    auto: true
+  - translation_iso: rus
+    name: письмо дуота
     auto: true
   - translation_iso: spa
     name: escritura duota

@@ -8,6 +8,9 @@ translations:
   - translation_iso: ara
     name: عام
     auto: true
+  - translation_iso: ben
+    name: অনির্ধারিত লিপির জন্য কোড
+    auto: true
   - translation_iso: deu
     name: Code für unbestimmte Schrift
     auto: true
@@ -15,6 +18,9 @@ translations:
     name: écriture indéterminée
   - translation_iso: hin
     name: अनिर्धारित लिपि के लिए कोड
+    auto: true
+  - translation_iso: ind
+    name: kode untuk aksara tidak ditentukan
     auto: true
   - translation_iso: jpn
     name: 未確定の文字体系
@@ -24,6 +30,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Código para escrita indeterminada
+    auto: true
+  - translation_iso: rus
+    name: код для неопределённой письменности
     auto: true
   - translation_iso: spa
     name: código para escritura indeterminada

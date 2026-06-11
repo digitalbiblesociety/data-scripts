@@ -70,18 +70,24 @@ translations:
   - translation_iso: ara
     name: أبجدية تيلوغو
     auto: true
+  - translation_iso: ben
+    name: তেলুগু লিপি
   - translation_iso: deu
     name: Telugu-Schrift
   - translation_iso: fra
     name: alphasyllabaire télougou
   - translation_iso: hin
     name: तेलुगू लिपि
+  - translation_iso: ind
+    name: Aksara Telugu
   - translation_iso: jpn
     name: テルグ文字
   - translation_iso: kor
     name: 텔루구 문자
   - translation_iso: por
     name: telugu
+  - translation_iso: rus
+    name: телугу
   - translation_iso: spa
     name: alfabeto télugu
   - translation_iso: zho

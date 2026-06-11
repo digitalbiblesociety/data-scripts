@@ -26,6 +26,9 @@ translations:
   - translation_iso: ara
     name: خط باموم
     auto: true
+  - translation_iso: ben
+    name: বামুম লিপি
+    auto: true
   - translation_iso: deu
     name: Bamun-Schrift
   - translation_iso: fra
@@ -33,12 +36,17 @@ translations:
   - translation_iso: hin
     name: बामुम लिपि
     auto: true
+  - translation_iso: ind
+    name: aksara Bamum
+    auto: true
   - translation_iso: jpn
     name: バムン文字
   - translation_iso: kor
     name: 바뭄 문자
   - translation_iso: por
     name: Silabário bamum
+  - translation_iso: rus
+    name: Бамум (письменность)
   - translation_iso: spa
     name: escritura Shümom
   - translation_iso: zho

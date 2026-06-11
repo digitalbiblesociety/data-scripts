@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هيروغليفية ميكماك
     auto: true
+  - translation_iso: ben
+    name: মিকমাক চিত্রলিপি
+    auto: true
   - translation_iso: deu
     name: "Mi'kmaq-Hieroglyphen"
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: réservé à l’usage privé (33e)
   - translation_iso: hin
     name: मिकमाक चित्रलिपि
+    auto: true
+  - translation_iso: ind
+    name: "hieroglif Mi'kmaq"
     auto: true
   - translation_iso: jpn
     name: ミクマク象形文字
@@ -34,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Hieróglifos micmac
+    auto: true
+  - translation_iso: rus
+    name: микмакское иероглифическое письмо
     auto: true
   - translation_iso: spa
     name: jeroglíficos micmac

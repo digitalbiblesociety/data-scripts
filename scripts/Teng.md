@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: تينغوار
     auto: true
+  - translation_iso: ben
+    name: তেংওয়ার লিপি
+    auto: true
   - translation_iso: deu
     name: Tengwar
   - translation_iso: fra
@@ -26,12 +29,17 @@ translations:
   - translation_iso: hin
     name: तेंगवार लिपि
     auto: true
+  - translation_iso: ind
+    name: Tengwar
+    auto: true
   - translation_iso: jpn
     name: テングワール
   - translation_iso: kor
     name: 텡과르
   - translation_iso: por
     name: Tengwar
+  - translation_iso: rus
+    name: тенгвар
   - translation_iso: spa
     name: tengwar
   - translation_iso: zho

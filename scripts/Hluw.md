@@ -27,6 +27,9 @@ translations:
   - translation_iso: ara
     name: هيروغليفية أناضولية
     auto: true
+  - translation_iso: ben
+    name: আনাতোলীয় চিত্রলিপি
+    auto: true
   - translation_iso: deu
     name: luwische Hieroglyphen
   - translation_iso: fra
@@ -34,6 +37,8 @@ translations:
   - translation_iso: hin
     name: अनातोलियाई चित्रलिपि
     auto: true
+  - translation_iso: ind
+    name: Hieroglif Anatolia
   - translation_iso: jpn
     name: アナトリア・ヒエログリフ
   - translation_iso: kor
@@ -41,6 +46,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Hieróglifos da Anatólia
+  - translation_iso: rus
+    name: Лувийские иероглифы
   - translation_iso: spa
     name: Jeroglíficos de Anatolia
   - translation_iso: zho

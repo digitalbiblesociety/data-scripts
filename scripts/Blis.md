@@ -21,6 +21,9 @@ direction_notes: "LTR (left-to-right)"
 translations:
   - translation_iso: ara
     name: رموز بليس
+  - translation_iso: ben
+    name: ব্লিস প্রতীক লিপি
+    auto: true
   - translation_iso: deu
     name: Bliss-Symbol
   - translation_iso: fra
@@ -28,12 +31,17 @@ translations:
   - translation_iso: hin
     name: ब्लिस प्रतीक लिपि
     auto: true
+  - translation_iso: ind
+    name: simbol Bliss
+    auto: true
   - translation_iso: jpn
     name: ブリスシンボル
   - translation_iso: kor
     name: 블리스심볼
   - translation_iso: por
     name: Semantografia
+  - translation_iso: rus
+    name: Блиссимволика
   - translation_iso: spa
     name: símbolos Bliss
     auto: true

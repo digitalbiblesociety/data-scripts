@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: أبجدية فيثكوكي
     auto: true
+  - translation_iso: ben
+    name: ভিথকুকি লিপি
+    auto: true
   - translation_iso: deu
     name: Vithkuqi-Alphabet
   - translation_iso: fra
     name: alphabet vithkuqi
   - translation_iso: hin
     name: विथकुकी लिपि
+    auto: true
+  - translation_iso: ind
+    name: alfabet Vithkuqi
     auto: true
   - translation_iso: jpn
     name: ビタクチェ文字
@@ -37,6 +43,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita Beitha Kukju
+  - translation_iso: rus
+    name: Алфавит Бютакукье
   - translation_iso: spa
     name: alfabeto Vithkuqi
   - translation_iso: zho

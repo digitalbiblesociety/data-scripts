@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: كيرث
     auto: true
+  - translation_iso: ben
+    name: কির্থ লিপি
+    auto: true
   - translation_iso: deu
     name: Certar
   - translation_iso: fra
     name: cirth
   - translation_iso: hin
     name: किर्थ लिपि
+    auto: true
+  - translation_iso: ind
+    name: Cirth
     auto: true
   - translation_iso: jpn
     name: キアス
@@ -33,6 +39,8 @@ translations:
   - translation_iso: por
     name: Cirth
     auto: true
+  - translation_iso: rus
+    name: Кирт
   - translation_iso: spa
     name: cirth
   - translation_iso: zho

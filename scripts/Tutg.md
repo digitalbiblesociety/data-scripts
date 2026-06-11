@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: خط تولو تيغالاري
     auto: true
+  - translation_iso: ben
+    name: টিগালারি লিপি
   - translation_iso: deu
     name: Tulu-Tigalari-Schrift
     auto: true
@@ -30,6 +32,9 @@ translations:
   - translation_iso: hin
     name: तुलु-तिगलारी लिपि
     auto: true
+  - translation_iso: ind
+    name: aksara Tulu-Tigalari
+    auto: true
   - translation_iso: jpn
     name: トゥル文字
   - translation_iso: kor
@@ -37,6 +42,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Escrita tulu
+  - translation_iso: rus
+    name: тулу
   - translation_iso: spa
     name: escritura tulu-tigalari
     auto: true

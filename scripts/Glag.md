@@ -34,6 +34,9 @@ languages:
 translations:
   - translation_iso: ara
     name: أبجدية غلاغوليتسية
+  - translation_iso: ben
+    name: গ্লাগোলিটিক লিপি
+    auto: true
   - translation_iso: deu
     name: glagolitische Schrift
   - translation_iso: fra
@@ -41,12 +44,16 @@ translations:
   - translation_iso: hin
     name: ग्लागोलितिक लिपि
     auto: true
+  - translation_iso: ind
+    name: alfabet glagolitik
   - translation_iso: jpn
     name: グラゴル文字
   - translation_iso: kor
     name: 글라골 문자
   - translation_iso: por
     name: alfabeto glagolítico
+  - translation_iso: rus
+    name: глаголица
   - translation_iso: spa
     name: alfabeto glagolítico
   - translation_iso: zho

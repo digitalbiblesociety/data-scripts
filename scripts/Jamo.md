@@ -25,12 +25,18 @@ translations:
   - translation_iso: ara
     name: جامو
     auto: true
+  - translation_iso: ben
+    name: জামো
+    auto: true
   - translation_iso: deu
     name: Jamo
   - translation_iso: fra
     name: jamo
   - translation_iso: hin
     name: जामो
+    auto: true
+  - translation_iso: ind
+    name: Jamo
     auto: true
   - translation_iso: jpn
     name: ハングルの字母
@@ -39,6 +45,8 @@ translations:
   - translation_iso: por
     name: Jamo
     auto: true
+  - translation_iso: rus
+    name: символ хангыля
   - translation_iso: spa
     name: jamo
   - translation_iso: zho

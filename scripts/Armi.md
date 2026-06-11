@@ -25,18 +25,24 @@ languages:
 translations:
   - translation_iso: ara
     name: أبجدية أرامية
+  - translation_iso: ben
+    name: আরামীয় লিপি
   - translation_iso: deu
     name: aramäische Schrift
   - translation_iso: fra
     name: alphabet araméen impérial
   - translation_iso: hin
     name: आरमेइक लिपि
+  - translation_iso: ind
+    name: Abjad Aram
   - translation_iso: jpn
     name: アラム文字
   - translation_iso: kor
     name: 아람 문자
   - translation_iso: por
     name: alfabeto aramaico
+  - translation_iso: rus
+    name: арамейское письмо
   - translation_iso: spa
     name: alfabeto arameo
   - translation_iso: zho

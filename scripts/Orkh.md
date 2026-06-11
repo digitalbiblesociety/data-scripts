@@ -31,18 +31,25 @@ languages:
 translations:
   - translation_iso: ara
     name: أبجدية تركية قديمة
+  - translation_iso: ben
+    name: প্রাচীন তুর্কি লিপি
+    auto: true
   - translation_iso: deu
     name: Orchon-Runen
   - translation_iso: fra
     name: écriture vieux-turque
   - translation_iso: hin
     name: पुरानी तुर्की लिपि
+  - translation_iso: ind
+    name: alfabet Turk Kuno
   - translation_iso: jpn
     name: 突厥文字
   - translation_iso: kor
     name: 돌궐 문자
   - translation_iso: por
     name: Alfabeto de Orkhon
+  - translation_iso: rus
+    name: древнетюркское письмо
   - translation_iso: spa
     name: antiguo alfabeto turco
   - translation_iso: zho

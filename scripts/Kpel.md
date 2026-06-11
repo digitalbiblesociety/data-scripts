@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: خط كبيلي
     auto: true
+  - translation_iso: ben
+    name: কেপেলে লিপি
   - translation_iso: deu
     name: Kpelle-Schrift
   - translation_iso: fra
@@ -25,6 +27,8 @@ translations:
   - translation_iso: hin
     name: क्पेल्ले लिपि
     auto: true
+  - translation_iso: ind
+    name: Aksara silabis Kpelle
   - translation_iso: jpn
     name: クペレ文字
   - translation_iso: kor
@@ -32,6 +36,8 @@ translations:
     auto: true
   - translation_iso: por
     name: Silabário kpelle
+  - translation_iso: rus
+    name: Кпелле
   - translation_iso: spa
     name: Silabario kpelle
   - translation_iso: zho

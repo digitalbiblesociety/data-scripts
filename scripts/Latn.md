@@ -64,18 +64,24 @@ screen_fonts:
 translations:
   - translation_iso: ara
     name: كتابة لاتينية
+  - translation_iso: ben
+    name: লাতিন লিপি
   - translation_iso: deu
     name: lateinisches Schriftsystem
   - translation_iso: fra
     name: écriture latine
   - translation_iso: hin
     name: रोमन लिपि
+  - translation_iso: ind
+    name: aksara Latin
   - translation_iso: jpn
     name: ラテン文字
   - translation_iso: kor
     name: 로마자
   - translation_iso: por
     name: alfabeto latino
+  - translation_iso: rus
+    name: латиница
   - translation_iso: spa
     name: alfabeto latino
   - translation_iso: zho
