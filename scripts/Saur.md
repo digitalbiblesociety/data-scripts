@@ -58,6 +58,12 @@ translations:
   - translation_iso: spa
     name: escritura saurashtra
     auto: true
+  - translation_iso: swa
+    name: Saurashtra
+    auto: true
+  - translation_iso: urd
+    name: سوراشٹرا رسم الخط
+    auto: true
   - translation_iso: zho
     name: 索拉什特拉文
 ---

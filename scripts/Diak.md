@@ -46,6 +46,12 @@ translations:
     auto: true
   - translation_iso: spa
     name: Dhives Akuru
+  - translation_iso: swa
+    name: Dives Akuru
+    auto: true
+  - translation_iso: urd
+    name: ڈائیوس اکورو رسم الخط
+    auto: true
   - translation_iso: zho
     name: 島字母
 ---

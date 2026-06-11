@@ -49,6 +49,12 @@ translations:
     name: Эльбасанское письмо
   - translation_iso: spa
     name: elbasanés
+  - translation_iso: swa
+    name: Elbasan
+    auto: true
+  - translation_iso: urd
+    name: ایلباسان رسم الخط
+    auto: true
   - translation_iso: zho
     name: 艾尔巴桑字母
 ---

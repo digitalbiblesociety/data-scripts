@@ -53,6 +53,12 @@ translations:
     name: линейное письмо Б
   - translation_iso: spa
     name: lineal B
+  - translation_iso: swa
+    name: Linear B
+    auto: true
+  - translation_iso: urd
+    name: لکیری بی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 线形文字B
 ---

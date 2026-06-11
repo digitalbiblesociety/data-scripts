@@ -57,6 +57,12 @@ translations:
   - translation_iso: spa
     name: sora sompeng
     auto: true
+  - translation_iso: swa
+    name: Sora Sompeng
+    auto: true
+  - translation_iso: urd
+    name: سورا سومپینگ رسم الخط
+    auto: true
   - translation_iso: zho
     name: 索拉桑朋文
 ---

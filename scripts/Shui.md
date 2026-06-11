@@ -48,6 +48,12 @@ translations:
   - translation_iso: spa
     name: escritura shui
     auto: true
+  - translation_iso: swa
+    name: Shuishu
+    auto: true
+  - translation_iso: urd
+    name: شوئی شو رسم الخط
+    auto: true
   - translation_iso: zho
     name: 水书
 ---

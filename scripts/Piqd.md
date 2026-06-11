@@ -46,6 +46,12 @@ translations:
   - translation_iso: spa
     name: klingon
     auto: true
+  - translation_iso: swa
+    name: Kiklingoni (pIqaD)
+    auto: true
+  - translation_iso: urd
+    name: کلنگن (پقد) رسم الخط
+    auto: true
   - translation_iso: zho
     name: 克林贡文
     auto: true

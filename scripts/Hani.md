@@ -81,6 +81,10 @@ translations:
     name: китайское письмо
   - translation_iso: spa
     name: caracteres chinos
+  - translation_iso: swa
+    name: Mwandiko wa Kichina
+  - translation_iso: urd
+    name: چینی رسم الخط
   - translation_iso: zho
     name: 汉字
 ---

@@ -40,6 +40,12 @@ translations:
     name: линейное письмо А
   - translation_iso: spa
     name: lineal A
+  - translation_iso: swa
+    name: Linear A
+    auto: true
+  - translation_iso: urd
+    name: لکیری اے رسم الخط
+    auto: true
   - translation_iso: zho
     name: 线形文字A
 ---

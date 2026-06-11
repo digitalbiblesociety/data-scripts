@@ -50,6 +50,12 @@ translations:
     name: Грантха
   - translation_iso: spa
     name: Escritura grantha
+  - translation_iso: swa
+    name: Grantha
+    auto: true
+  - translation_iso: urd
+    name: گرنتھ رسم الخط
+    auto: true
   - translation_iso: zho
     name: 古兰塔文
 ---

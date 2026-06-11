@@ -84,6 +84,10 @@ translations:
     name: латиница
   - translation_iso: spa
     name: alfabeto latino
+  - translation_iso: swa
+    name: alfabeti ya Kilatini
+  - translation_iso: urd
+    name: لاطینی حروفِ تہجی
   - translation_iso: zho
     name: 拉丁文字
 ---

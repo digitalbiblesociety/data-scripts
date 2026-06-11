@@ -46,6 +46,12 @@ translations:
     name: махаджани
   - translation_iso: spa
     name: mahajani
+  - translation_iso: swa
+    name: Mahajani
+    auto: true
+  - translation_iso: urd
+    name: مہاجنی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 马哈佳尼文
 ---

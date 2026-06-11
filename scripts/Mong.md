@@ -66,6 +66,10 @@ translations:
     name: старомонгольское письмо
   - translation_iso: spa
     name: alfabeto mongol
+  - translation_iso: swa
+    name: Alfabeti ya Kimongoli
+  - translation_iso: urd
+    name: منگولیائی رسم الخط
   - translation_iso: zho
     name: 传统蒙古文
 ---

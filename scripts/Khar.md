@@ -44,6 +44,11 @@ translations:
     name: кхароштхи
   - translation_iso: spa
     name: karosti
+  - translation_iso: swa
+    name: Kharoshthi
+    auto: true
+  - translation_iso: urd
+    name: کھروشٹھی
   - translation_iso: zho
     name: 佉卢文
 ---

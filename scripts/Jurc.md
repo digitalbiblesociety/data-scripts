@@ -42,6 +42,12 @@ translations:
     name: чжурчжэньское письмо
   - translation_iso: spa
     name: escritura yurchen
+  - translation_iso: swa
+    name: hati ya Kijurchen
+    auto: true
+  - translation_iso: urd
+    name: جرچن رسم الخط
+    auto: true
   - translation_iso: zho
     name: 女真文
 ---

@@ -60,6 +60,12 @@ translations:
     name: коптское письмо
   - translation_iso: spa
     name: alfabeto copto
+  - translation_iso: swa
+    name: hati ya Kikoptiki
+    auto: true
+  - translation_iso: urd
+    name: قبطی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 科普特字母
 ---

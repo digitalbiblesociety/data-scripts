@@ -44,6 +44,12 @@ translations:
     name: Ранджана
   - translation_iso: spa
     name: Alfabeto ranjana
+  - translation_iso: swa
+    name: Ranjana
+    auto: true
+  - translation_iso: urd
+    name: رنجنا رسم الخط
+    auto: true
   - translation_iso: zho
     name: 兰札文
 ---

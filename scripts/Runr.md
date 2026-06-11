@@ -58,6 +58,11 @@ translations:
     name: руны
   - translation_iso: spa
     name: alfabeto rúnico
+  - translation_iso: swa
+    name: hati ya runi
+    auto: true
+  - translation_iso: urd
+    name: رونی حروف تہجی
   - translation_iso: zho
     name: 盧恩字母
 ---

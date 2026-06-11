@@ -50,6 +50,12 @@ translations:
     name: лидийский алфавит
   - translation_iso: spa
     name: Alfabeto lidio
+  - translation_iso: swa
+    name: hati ya Kilydia
+    auto: true
+  - translation_iso: urd
+    name: لیدیائی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 吕底亚字母
 ---

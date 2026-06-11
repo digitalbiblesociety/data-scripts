@@ -55,6 +55,12 @@ translations:
     auto: true
   - translation_iso: spa
     name: khojki
+  - translation_iso: swa
+    name: Khojki
+    auto: true
+  - translation_iso: urd
+    name: خوجکی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 可吉文
 ---

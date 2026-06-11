@@ -53,6 +53,12 @@ translations:
   - translation_iso: spa
     name: alfabeto pau cin hau
     auto: true
+  - translation_iso: swa
+    name: Pau Cin Hau
+    auto: true
+  - translation_iso: urd
+    name: پاؤ چن ہاو رسم الخط
+    auto: true
   - translation_iso: zho
     name: 包钦豪文
 ---

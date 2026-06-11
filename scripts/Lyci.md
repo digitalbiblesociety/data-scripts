@@ -50,6 +50,12 @@ translations:
     name: Ликийский алфавит
   - translation_iso: spa
     name: alfabeto licio
+  - translation_iso: swa
+    name: hati ya Kilykia
+    auto: true
+  - translation_iso: urd
+    name: لیشیائی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 吕基亚字母
 ---

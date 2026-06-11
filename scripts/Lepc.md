@@ -57,6 +57,12 @@ translations:
     name: Лепча
   - translation_iso: spa
     name: lepcha
+  - translation_iso: swa
+    name: Lepcha
+    auto: true
+  - translation_iso: urd
+    name: لیپچا رسم الخط
+    auto: true
   - translation_iso: zho
     name: 雷布查字母
 ---

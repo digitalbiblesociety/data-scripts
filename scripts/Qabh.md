@@ -48,6 +48,12 @@ translations:
   - translation_iso: spa
     name: escritura bagam
     auto: true
+  - translation_iso: swa
+    name: Bagam (Eghap)
+    auto: true
+  - translation_iso: urd
+    name: باگام (ایگھپ) رسم الخط
+    auto: true
   - translation_iso: zho
     name: 巴加姆文字
     auto: true

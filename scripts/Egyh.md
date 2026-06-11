@@ -38,6 +38,11 @@ translations:
     name: иератическое письмо
   - translation_iso: spa
     name: escritura hierática
+  - translation_iso: swa
+    name: hati ya Kimisri ya kihieratiki
+    auto: true
+  - translation_iso: urd
+    name: ہیراطیقی
   - translation_iso: zho
     name: 僧侣体
 ---

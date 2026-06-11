@@ -65,6 +65,10 @@ translations:
     name: хангыль
   - translation_iso: spa
     name: hangul
+  - translation_iso: swa
+    name: Hangul
+  - translation_iso: urd
+    name: ہنگل رسمِ خط
   - translation_iso: zho
     name: 諺文
 ---

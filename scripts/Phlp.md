@@ -50,6 +50,12 @@ translations:
     auto: true
   - translation_iso: spa
     name: pahlavi salterial
+  - translation_iso: swa
+    name: hati ya Kipahlavi cha zaburi
+    auto: true
+  - translation_iso: urd
+    name: زبوری پہلوی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 诗篇巴列维文
 ---

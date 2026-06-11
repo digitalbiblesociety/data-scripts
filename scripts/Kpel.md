@@ -40,6 +40,12 @@ translations:
     name: Кпелле
   - translation_iso: spa
     name: Silabario kpelle
+  - translation_iso: swa
+    name: Kpelle
+    auto: true
+  - translation_iso: urd
+    name: کپیلے رسم الخط
+    auto: true
   - translation_iso: zho
     name: 克佩列音节
 ---

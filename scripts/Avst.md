@@ -48,6 +48,12 @@ translations:
     name: авестийский алфавит
   - translation_iso: spa
     name: Escritura avéstica
+  - translation_iso: swa
+    name: hati ya Kiavesta
+    auto: true
+  - translation_iso: urd
+    name: اوستائی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 阿维斯陀字母
 ---

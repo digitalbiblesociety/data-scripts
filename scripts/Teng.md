@@ -42,6 +42,12 @@ translations:
     name: тенгвар
   - translation_iso: spa
     name: tengwar
+  - translation_iso: swa
+    name: Tengwar
+    auto: true
+  - translation_iso: urd
+    name: تینگوار رسم الخط
+    auto: true
   - translation_iso: zho
     name: 腾格瓦字母
 ---

@@ -41,6 +41,12 @@ translations:
   - translation_iso: spa
     name: silabario afaka
     auto: true
+  - translation_iso: swa
+    name: Afaka
+    auto: true
+  - translation_iso: urd
+    name: افاکا رسم الخط
+    auto: true
   - translation_iso: zho
     name: 阿法卡音节文字
     auto: true

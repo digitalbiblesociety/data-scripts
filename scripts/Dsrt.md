@@ -53,6 +53,12 @@ translations:
     name: Дезеретский алфавит
   - translation_iso: spa
     name: alfabeto Deseret
+  - translation_iso: swa
+    name: Deseret
+    auto: true
+  - translation_iso: urd
+    name: ڈیزرٹ رسم الخط
+    auto: true
   - translation_iso: zho
     name: 德赛莱特字母
 ---

@@ -42,6 +42,12 @@ translations:
     name: Шрифт Муна
   - translation_iso: spa
     name: Escritura Moon
+  - translation_iso: swa
+    name: hati ya Moon
+    auto: true
+  - translation_iso: urd
+    name: مون رسم الخط
+    auto: true
   - translation_iso: zho
     name: 穆恩字母
 ---

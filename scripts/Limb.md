@@ -56,6 +56,12 @@ translations:
     name: Лимбу
   - translation_iso: spa
     name: limbu
+  - translation_iso: swa
+    name: Limbu
+    auto: true
+  - translation_iso: urd
+    name: لمبو رسم الخط
+    auto: true
   - translation_iso: zho
     name: 林布文
 ---

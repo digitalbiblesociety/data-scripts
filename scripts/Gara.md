@@ -49,6 +49,12 @@ translations:
     auto: true
   - translation_iso: spa
     name: Alfabeto garay
+  - translation_iso: swa
+    name: Garay
+    auto: true
+  - translation_iso: urd
+    name: گاری رسم الخط
+    auto: true
   - translation_iso: zho
     name: 噶莱字母
 ---

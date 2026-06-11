@@ -55,6 +55,12 @@ translations:
     name: Самаритянское письмо
   - translation_iso: spa
     name: alfabeto samaritano
+  - translation_iso: swa
+    name: hati ya Kisamaria
+    auto: true
+  - translation_iso: urd
+    name: سامری رسم الخط
+    auto: true
   - translation_iso: zho
     name: 撒玛利亚字母
 ---

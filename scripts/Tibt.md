@@ -112,6 +112,11 @@ translations:
     name: тибетское письмо
   - translation_iso: spa
     name: alfabeto tibetano
+  - translation_iso: swa
+    name: hati ya Kitibeti
+    auto: true
+  - translation_iso: urd
+    name: تبتی حروف تہجی
   - translation_iso: zho
     name: 藏文
 ---

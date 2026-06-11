@@ -52,6 +52,12 @@ translations:
     name: древнетюркское письмо
   - translation_iso: spa
     name: antiguo alfabeto turco
+  - translation_iso: swa
+    name: hati ya Kituruki cha Kale (Orkhon)
+    auto: true
+  - translation_iso: urd
+    name: قدیم ترکی (اورخون) رسم الخط
+    auto: true
   - translation_iso: zho
     name: 古突厥文
 ---

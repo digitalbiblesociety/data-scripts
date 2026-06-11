@@ -45,6 +45,12 @@ translations:
   - translation_iso: spa
     name: símbolos Bliss
     auto: true
+  - translation_iso: swa
+    name: Blissymbols
+    auto: true
+  - translation_iso: urd
+    name: بلِس علامات
+    auto: true
   - translation_iso: zho
     name: 布力辛博语
 ---

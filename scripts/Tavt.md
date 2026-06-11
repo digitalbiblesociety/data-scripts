@@ -64,6 +64,12 @@ translations:
   - translation_iso: spa
     name: tai viet
     auto: true
+  - translation_iso: swa
+    name: Tai Viet
+    auto: true
+  - translation_iso: urd
+    name: تائی ویت رسم الخط
+    auto: true
   - translation_iso: zho
     name: 傣黯文
 ---

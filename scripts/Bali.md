@@ -56,6 +56,12 @@ translations:
     name: балийское письмо
   - translation_iso: spa
     name: alfabeto balinés
+  - translation_iso: swa
+    name: hati ya Kibali
+    auto: true
+  - translation_iso: urd
+    name: بالیائی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 巴厘字母
 ---

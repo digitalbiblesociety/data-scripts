@@ -49,6 +49,12 @@ translations:
   - translation_iso: spa
     name: nag mundari
     auto: true
+  - translation_iso: swa
+    name: Nag Mundari
+    auto: true
+  - translation_iso: urd
+    name: ناگ منڈاری رسم الخط
+    auto: true
   - translation_iso: zho
     name: 蒙達里字母
 ---

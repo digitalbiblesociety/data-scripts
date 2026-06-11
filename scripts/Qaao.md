@@ -51,6 +51,12 @@ translations:
   - translation_iso: spa
     name: notación SignFont
     auto: true
+  - translation_iso: swa
+    name: nukuu ya SignFont
+    auto: true
+  - translation_iso: urd
+    name: سائن فونٹ نوٹیشن
+    auto: true
   - translation_iso: zho
     name: 赛恩方特手语符号
     auto: true

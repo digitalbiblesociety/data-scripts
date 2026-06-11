@@ -66,6 +66,12 @@ translations:
     name: письмо Полларда
   - translation_iso: spa
     name: Alfabeto de Pollard
+  - translation_iso: swa
+    name: Miao (Pollard)
+    auto: true
+  - translation_iso: urd
+    name: میاؤ (پولارڈ) رسم الخط
+    auto: true
   - translation_iso: zho
     name: 柏格理苗文
 ---

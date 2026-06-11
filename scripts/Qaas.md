@@ -44,6 +44,12 @@ translations:
   - translation_iso: spa
     name: escritura savara
     auto: true
+  - translation_iso: swa
+    name: Savara
+    auto: true
+  - translation_iso: urd
+    name: ساوارا رسم الخط
+    auto: true
   - translation_iso: zho
     name: 萨瓦拉文
     auto: true

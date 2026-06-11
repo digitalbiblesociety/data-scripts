@@ -51,6 +51,12 @@ translations:
   - translation_iso: spa
     name: alfabeto modi
     auto: true
+  - translation_iso: swa
+    name: Modi
+    auto: true
+  - translation_iso: urd
+    name: موڈی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 莫迪文
 ---

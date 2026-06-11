@@ -56,6 +56,12 @@ translations:
     name: Ваи
   - translation_iso: spa
     name: Silabario vai
+  - translation_iso: swa
+    name: Vai
+    auto: true
+  - translation_iso: urd
+    name: وائی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 瓦伊音節文字
 ---

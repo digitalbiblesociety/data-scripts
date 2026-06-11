@@ -48,6 +48,12 @@ translations:
   - translation_iso: spa
     name: alfabeto todhri
     auto: true
+  - translation_iso: swa
+    name: Todhri
+    auto: true
+  - translation_iso: urd
+    name: توذری رسم الخط
+    auto: true
   - translation_iso: zho
     name: 托德里字母
     auto: true

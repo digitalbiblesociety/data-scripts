@@ -53,6 +53,12 @@ translations:
   - translation_iso: spa
     name: jeroglíficos meroíticos
     auto: true
+  - translation_iso: swa
+    name: hieroglifi za Kimeroe
+    auto: true
+  - translation_iso: urd
+    name: میروٹک ہیروغلیفی
+    auto: true
   - translation_iso: zho
     name: 麦罗埃文圣书体
     auto: true

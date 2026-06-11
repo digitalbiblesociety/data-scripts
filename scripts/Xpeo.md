@@ -56,6 +56,12 @@ translations:
     name: Древнеперсидская клинопись
   - translation_iso: spa
     name: cuneiforme persa antiguo
+  - translation_iso: swa
+    name: hati ya Kiajemi cha Kale
+    auto: true
+  - translation_iso: urd
+    name: قدیم فارسی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 古波斯楔形文字
 ---

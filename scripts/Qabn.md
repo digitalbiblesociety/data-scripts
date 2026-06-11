@@ -47,6 +47,12 @@ translations:
   - translation_iso: spa
     name: notación HamNoSys
     auto: true
+  - translation_iso: swa
+    name: nukuu ya HamNoSys
+    auto: true
+  - translation_iso: urd
+    name: ہام نو سیس نوٹیشن
+    auto: true
   - translation_iso: zho
     name: 汉堡手语标记法
     auto: true

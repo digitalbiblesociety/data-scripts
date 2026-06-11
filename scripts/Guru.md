@@ -69,6 +69,11 @@ translations:
     name: гурмукхи
   - translation_iso: spa
     name: alfabeto gurmukhi
+  - translation_iso: swa
+    name: Gurmukhi
+    auto: true
+  - translation_iso: urd
+    name: گرمکھی
   - translation_iso: zho
     name: 古木基文
 ---

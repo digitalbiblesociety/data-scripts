@@ -76,6 +76,12 @@ translations:
     name: кхмерское письмо
   - translation_iso: spa
     name: alfabeto camboyano
+  - translation_iso: swa
+    name: hati ya Kikhmer
+    auto: true
+  - translation_iso: urd
+    name: خمیری رسم الخط
+    auto: true
   - translation_iso: zho
     name: 高棉文
 ---

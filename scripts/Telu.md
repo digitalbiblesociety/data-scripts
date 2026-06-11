@@ -90,6 +90,12 @@ translations:
     name: телугу
   - translation_iso: spa
     name: alfabeto télugu
+  - translation_iso: swa
+    name: hati ya Kitelugu
+    auto: true
+  - translation_iso: urd
+    name: تیلگو رسم الخط
+    auto: true
   - translation_iso: zho
     name: 泰卢固文
 ---

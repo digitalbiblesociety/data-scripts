@@ -62,6 +62,12 @@ translations:
   - translation_iso: spa
     name: mro
     auto: true
+  - translation_iso: swa
+    name: Mro
+    auto: true
+  - translation_iso: urd
+    name: مرو رسم الخط
+    auto: true
   - translation_iso: zho
     name: 默禄文
     auto: true

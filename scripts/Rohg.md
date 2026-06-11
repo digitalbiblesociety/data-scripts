@@ -44,6 +44,11 @@ translations:
   - translation_iso: spa
     name: alfabeto hanifi rohinyá
     auto: true
+  - translation_iso: swa
+    name: Hanifi Rohingya
+    auto: true
+  - translation_iso: urd
+    name: حنیفی روہنگیا رسم الخط
   - translation_iso: zho
     name: 哈乃斐羅興亞文字
 ---

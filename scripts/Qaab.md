@@ -47,6 +47,12 @@ translations:
   - translation_iso: spa
     name: escritura balti A
     auto: true
+  - translation_iso: swa
+    name: Balti-A
+    auto: true
+  - translation_iso: urd
+    name: بالٹی-اے رسم الخط
+    auto: true
   - translation_iso: zho
     name: 甲种巴尔蒂文
     auto: true

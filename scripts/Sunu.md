@@ -50,6 +50,12 @@ translations:
   - translation_iso: spa
     name: alfabeto sunuwar
     auto: true
+  - translation_iso: swa
+    name: Sunuwar
+    auto: true
+  - translation_iso: urd
+    name: سنوار رسم الخط
+    auto: true
   - translation_iso: zho
     name: 苏努瓦尔文
     auto: true

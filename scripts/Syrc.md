@@ -76,6 +76,11 @@ translations:
     name: сирийское письмо
   - translation_iso: spa
     name: alfabeto siríaco
+  - translation_iso: swa
+    name: hati ya Kisiria
+    auto: true
+  - translation_iso: urd
+    name: سریانی حروف تہجی
   - translation_iso: zho
     name: 敘利亞字母
 ---

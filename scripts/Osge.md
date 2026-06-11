@@ -57,6 +57,12 @@ translations:
     name: Осейдж (письмо)
   - translation_iso: spa
     name: alfabeto osago
+  - translation_iso: swa
+    name: Osage
+    auto: true
+  - translation_iso: urd
+    name: اوسیج رسم الخط
+    auto: true
   - translation_iso: zho
     name: 欧塞奇字母
 ---

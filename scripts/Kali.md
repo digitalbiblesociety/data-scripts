@@ -58,6 +58,12 @@ translations:
     name: Кая-ли
   - translation_iso: spa
     name: kayah li
+  - translation_iso: swa
+    name: Kayah Li
+    auto: true
+  - translation_iso: urd
+    name: کایاہ لی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 克耶里字母
 ---

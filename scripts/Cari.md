@@ -53,6 +53,12 @@ translations:
     auto: true
   - translation_iso: spa
     name: alfabeto cario
+  - translation_iso: swa
+    name: hati ya Kikaria
+    auto: true
+  - translation_iso: urd
+    name: کاریائی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 卡利亚字母
 ---

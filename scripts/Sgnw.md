@@ -51,6 +51,12 @@ translations:
     name: SignWriting
   - translation_iso: spa
     name: SignoEscritura
+  - translation_iso: swa
+    name: SignWriting
+    auto: true
+  - translation_iso: urd
+    name: سائن رائٹنگ
+    auto: true
   - translation_iso: zho
     name: 书写符号
 ---

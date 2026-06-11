@@ -52,6 +52,12 @@ translations:
     name: Байбайин
   - translation_iso: spa
     name: baybayin
+  - translation_iso: swa
+    name: Kitagalogi (Baybayin)
+    auto: true
+  - translation_iso: urd
+    name: تگالوگ (بے بائن) رسم الخط
+    auto: true
   - translation_iso: zho
     name: 贝贝因字母
 ---

@@ -49,6 +49,12 @@ translations:
   - translation_iso: spa
     name: notación Stokoe
     auto: true
+  - translation_iso: swa
+    name: nukuu ya Stokoe
+    auto: true
+  - translation_iso: urd
+    name: اسٹوکو نوٹیشن
+    auto: true
   - translation_iso: zho
     name: 斯多基符号
     auto: true

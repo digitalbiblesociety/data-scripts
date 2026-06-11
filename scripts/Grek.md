@@ -92,6 +92,10 @@ translations:
     name: греческий алфавит
   - translation_iso: spa
     name: alfabeto griego
+  - translation_iso: swa
+    name: Alfabeti ya Kigiriki
+  - translation_iso: urd
+    name: یونانی حروف تہجی
   - translation_iso: zho
     name: 希腊字母
 ---

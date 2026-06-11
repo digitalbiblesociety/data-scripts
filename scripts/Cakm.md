@@ -56,6 +56,12 @@ translations:
   - translation_iso: spa
     name: chakma
     auto: true
+  - translation_iso: swa
+    name: Chakma
+    auto: true
+  - translation_iso: urd
+    name: چکما رسم الخط
+    auto: true
   - translation_iso: zho
     name: 查克马文
 ---

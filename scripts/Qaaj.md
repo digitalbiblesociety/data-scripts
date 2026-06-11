@@ -47,6 +47,12 @@ translations:
   - translation_iso: spa
     name: escritura landa
     auto: true
+  - translation_iso: swa
+    name: Lahnda (Landa)
+    auto: true
+  - translation_iso: urd
+    name: لہندا (لنڈا) رسم الخط
+    auto: true
   - translation_iso: zho
     name: 兰达文
     auto: true

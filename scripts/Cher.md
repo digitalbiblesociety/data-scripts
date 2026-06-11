@@ -59,6 +59,12 @@ translations:
     name: письмо чероки
   - translation_iso: spa
     name: silabario cheroqui
+  - translation_iso: swa
+    name: hati ya Kicherokee
+    auto: true
+  - translation_iso: urd
+    name: چیروکی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 切羅基語音節字母
 ---

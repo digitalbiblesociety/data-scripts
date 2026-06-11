@@ -59,6 +59,12 @@ translations:
   - translation_iso: spa
     name: varang kshiti
     auto: true
+  - translation_iso: swa
+    name: Warang Citi
+    auto: true
+  - translation_iso: urd
+    name: وارنگ چتی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 瓦兰齐地文
 ---

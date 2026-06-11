@@ -45,6 +45,11 @@ translations:
     name: арамейское письмо
   - translation_iso: spa
     name: alfabeto arameo
+  - translation_iso: swa
+    name: hati ya Kiaramu ya Kifalme
+    auto: true
+  - translation_iso: urd
+    name: آرامی حروف تہجی
   - translation_iso: zho
     name: 亞蘭字母
 ---

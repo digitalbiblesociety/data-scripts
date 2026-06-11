@@ -47,6 +47,12 @@ translations:
   - translation_iso: spa
     name: escritura duota
     auto: true
+  - translation_iso: swa
+    name: Duota
+    auto: true
+  - translation_iso: urd
+    name: ڈووٹا رسم الخط
+    auto: true
   - translation_iso: zho
     name: 多塔文
     auto: true

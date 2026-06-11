@@ -79,6 +79,12 @@ translations:
   - translation_iso: spa
     name: alfabeto georgiano
     auto: true
+  - translation_iso: swa
+    name: hati ya Kijojia (Mkhedruli)
+    auto: true
+  - translation_iso: urd
+    name: جارجیائی (مخیدرولی) رسم الخط
+    auto: true
   - translation_iso: zho
     name: 格鲁吉亚字母
     auto: true

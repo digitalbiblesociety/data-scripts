@@ -47,6 +47,12 @@ translations:
   - translation_iso: spa
     name: silabario eskaya
     auto: true
+  - translation_iso: swa
+    name: Eskaya
+    auto: true
+  - translation_iso: urd
+    name: ایسکایا رسم الخط
+    auto: true
   - translation_iso: zho
     name: 埃斯卡亚文
     auto: true

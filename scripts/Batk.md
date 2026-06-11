@@ -52,6 +52,12 @@ translations:
     name: Батакское письмо
   - translation_iso: spa
     name: alfabeto batak
+  - translation_iso: swa
+    name: hati ya Kibatak
+    auto: true
+  - translation_iso: urd
+    name: باتک رسم الخط
+    auto: true
   - translation_iso: zho
     name: 巴塔克文
 ---

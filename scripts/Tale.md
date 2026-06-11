@@ -63,6 +63,12 @@ translations:
   - translation_iso: spa
     name: alfabeto tai le
     auto: true
+  - translation_iso: swa
+    name: Tai Le
+    auto: true
+  - translation_iso: urd
+    name: تائی لے رسم الخط
+    auto: true
   - translation_iso: zho
     name: 傣哪文
 ---

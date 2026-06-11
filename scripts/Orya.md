@@ -60,6 +60,12 @@ translations:
     name: ория
   - translation_iso: spa
     name: oriya
+  - translation_iso: swa
+    name: hati ya Kioriya
+    auto: true
+  - translation_iso: urd
+    name: اوڑیہ رسم الخط
+    auto: true
   - translation_iso: zho
     name: 奥里亚文
 ---

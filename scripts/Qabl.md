@@ -47,6 +47,12 @@ translations:
   - translation_iso: spa
     name: escritura akkha
     auto: true
+  - translation_iso: swa
+    name: Akkha
+    auto: true
+  - translation_iso: urd
+    name: اکھا رسم الخط
+    auto: true
   - translation_iso: zho
     name: 阿卡文
     auto: true

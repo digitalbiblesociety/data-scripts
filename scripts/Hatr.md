@@ -49,6 +49,12 @@ translations:
     auto: true
   - translation_iso: spa
     name: alfabeto hatreo
+  - translation_iso: swa
+    name: hati ya Kihatra
+    auto: true
+  - translation_iso: urd
+    name: ہترا رسم الخط
+    auto: true
   - translation_iso: zho
     name: 哈特兰文
 ---

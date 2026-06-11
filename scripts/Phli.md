@@ -50,6 +50,12 @@ translations:
     auto: true
   - translation_iso: spa
     name: pahlavi inscripcional
+  - translation_iso: swa
+    name: hati ya Kipahlavi cha maandishi
+    auto: true
+  - translation_iso: urd
+    name: کتبہ جاتی پہلوی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 巴列维铭文
 ---

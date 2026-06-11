@@ -44,6 +44,11 @@ translations:
     name: набатейское письмо
   - translation_iso: spa
     name: alfabeto nabateo
+  - translation_iso: swa
+    name: hati ya Kinabatea
+    auto: true
+  - translation_iso: urd
+    name: نبطی حروف تہجی
   - translation_iso: zho
     name: 纳巴泰字母
 ---

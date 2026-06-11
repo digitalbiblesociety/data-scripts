@@ -51,6 +51,12 @@ translations:
     name: Нюйшу
   - translation_iso: spa
     name: nü shu
+  - translation_iso: swa
+    name: Nüshu
+    auto: true
+  - translation_iso: urd
+    name: نیوشو رسم الخط
+    auto: true
   - translation_iso: zho
     name: 女书
 ---

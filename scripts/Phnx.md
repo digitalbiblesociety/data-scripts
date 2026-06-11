@@ -48,6 +48,11 @@ translations:
     name: финикийское письмо
   - translation_iso: spa
     name: alfabeto fenicio
+  - translation_iso: swa
+    name: hati ya Kifoinike
+    auto: true
+  - translation_iso: urd
+    name: فونیقی حروف تہجی
   - translation_iso: zho
     name: 腓尼基字母
 ---

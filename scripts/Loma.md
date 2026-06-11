@@ -45,6 +45,12 @@ translations:
     auto: true
   - translation_iso: spa
     name: loma
+  - translation_iso: swa
+    name: Loma
+    auto: true
+  - translation_iso: urd
+    name: لوما رسم الخط
+    auto: true
   - translation_iso: zho
     name: 洛玛文
     auto: true

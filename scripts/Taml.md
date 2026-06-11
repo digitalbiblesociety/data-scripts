@@ -81,6 +81,12 @@ translations:
     name: тамильское письмо
   - translation_iso: spa
     name: alfabeto tamil
+  - translation_iso: swa
+    name: hati ya Kitamil
+    auto: true
+  - translation_iso: urd
+    name: تامل رسم الخط
+    auto: true
   - translation_iso: zho
     name: 泰米爾文
 ---

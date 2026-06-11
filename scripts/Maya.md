@@ -40,6 +40,12 @@ translations:
     name: письмо майя
   - translation_iso: spa
     name: escritura Maya
+  - translation_iso: swa
+    name: hieroglifi za Kimaya
+    auto: true
+  - translation_iso: urd
+    name: مایا ہیروغلیفی
+    auto: true
   - translation_iso: zho
     name: 玛雅象形文字
 ---

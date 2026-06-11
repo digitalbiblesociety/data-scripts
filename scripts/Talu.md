@@ -60,6 +60,12 @@ translations:
   - translation_iso: spa
     name: nuevo tai lue
     auto: true
+  - translation_iso: swa
+    name: Tai Lue Mpya
+    auto: true
+  - translation_iso: urd
+    name: نیا تائی لو رسم الخط
+    auto: true
   - translation_iso: zho
     name: 西双版纳傣文
 ---

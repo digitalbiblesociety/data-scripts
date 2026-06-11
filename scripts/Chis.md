@@ -50,6 +50,12 @@ translations:
   - translation_iso: spa
     name: alfabeto chisoi
     auto: true
+  - translation_iso: swa
+    name: Chisoi
+    auto: true
+  - translation_iso: urd
+    name: چیسوئی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 奇索伊文
     auto: true

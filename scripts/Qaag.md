@@ -47,6 +47,12 @@ translations:
   - translation_iso: spa
     name: escritura pictográfica ersu shaba
     auto: true
+  - translation_iso: swa
+    name: uandishi wa picha wa Ersu Shaba
+    auto: true
+  - translation_iso: urd
+    name: ایرسو شابا تصویری تحریر
+    auto: true
   - translation_iso: zho
     name: 尔苏沙巴文
     auto: true

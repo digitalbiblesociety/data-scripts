@@ -113,6 +113,11 @@ translations:
     name: эфиопское письмо
   - translation_iso: spa
     name: alfabeto etíope
+  - translation_iso: swa
+    name: hati ya Kiethiopia (Geez)
+    auto: true
+  - translation_iso: urd
+    name: گعز رسم الخط
   - translation_iso: zho
     name: 格厄茲字母
 ---

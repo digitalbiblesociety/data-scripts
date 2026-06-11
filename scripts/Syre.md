@@ -55,6 +55,12 @@ translations:
   - translation_iso: spa
     name: siríaco estrangelo
     auto: true
+  - translation_iso: swa
+    name: hati ya Kisiria (Estrangelo)
+    auto: true
+  - translation_iso: urd
+    name: سریانی (ایسٹرینجلو) رسم الخط
+    auto: true
   - translation_iso: zho
     name: 福音体叙利亚文
     auto: true

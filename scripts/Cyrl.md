@@ -244,6 +244,10 @@ translations:
     name: кириллица
   - translation_iso: spa
     name: alfabeto cirílico
+  - translation_iso: swa
+    name: kikyrili
+  - translation_iso: urd
+    name: سیریلیک رسمِ خط
   - translation_iso: zho
     name: 西里尔字母
 ---

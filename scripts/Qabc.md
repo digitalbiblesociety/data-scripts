@@ -44,6 +44,12 @@ translations:
   - translation_iso: spa
     name: escritura newar
     auto: true
+  - translation_iso: swa
+    name: Newar (Prachalit Nepal)
+    auto: true
+  - translation_iso: urd
+    name: نیوار (پرچلت نیپال) رسم الخط
+    auto: true
   - translation_iso: zho
     name: 尼瓦尔文
     auto: true

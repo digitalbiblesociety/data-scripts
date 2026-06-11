@@ -55,6 +55,11 @@ translations:
     name: кана
   - translation_iso: spa
     name: kana
+  - translation_iso: swa
+    name: silabari za Kijapani
+    auto: true
+  - translation_iso: urd
+    name: کانا
   - translation_iso: zho
     name: 假名
 ---

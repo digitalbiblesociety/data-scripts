@@ -51,6 +51,12 @@ translations:
   - translation_iso: spa
     name: kirat rai
     auto: true
+  - translation_iso: swa
+    name: Kirat Rai
+    auto: true
+  - translation_iso: urd
+    name: کرات رائے رسم الخط
+    auto: true
   - translation_iso: zho
     name: 基拉特拉伊文
     auto: true

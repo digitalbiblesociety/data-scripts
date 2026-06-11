@@ -54,6 +54,12 @@ translations:
   - translation_iso: spa
     name: escritura tulu-tigalari
     auto: true
+  - translation_iso: swa
+    name: Tulu (Tigalari)
+    auto: true
+  - translation_iso: urd
+    name: تولو (تگالاری) رسم الخط
+    auto: true
   - translation_iso: zho
     name: 图卢-蒂加拉里文
     auto: true

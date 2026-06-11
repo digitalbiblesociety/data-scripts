@@ -64,6 +64,11 @@ translations:
     name: традиционные китайские иероглифы
   - translation_iso: spa
     name: caracteres chinos tradicionales
+  - translation_iso: swa
+    name: Han (umbo la jadi)
+    auto: true
+  - translation_iso: urd
+    name: روایتی چینی حروف
   - translation_iso: zho
     name: 繁体字
 ---

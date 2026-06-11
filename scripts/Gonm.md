@@ -55,6 +55,12 @@ translations:
   - translation_iso: spa
     name: masaram gondi
     auto: true
+  - translation_iso: swa
+    name: Masaram Gondi
+    auto: true
+  - translation_iso: urd
+    name: ماسارام گونڈی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 马萨拉姆共地文字
 ---

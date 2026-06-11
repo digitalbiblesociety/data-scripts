@@ -48,6 +48,12 @@ translations:
     name: большое киданьское письмо
   - translation_iso: spa
     name: escritura kitán grande
+  - translation_iso: swa
+    name: hati kubwa ya Kikhitan
+    auto: true
+  - translation_iso: urd
+    name: ختنی بڑا رسم الخط
+    auto: true
   - translation_iso: zho
     name: 契丹大字
 ---

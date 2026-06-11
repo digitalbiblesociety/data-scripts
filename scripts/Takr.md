@@ -47,6 +47,11 @@ translations:
     name: Такри
   - translation_iso: spa
     name: alfabeto takri
+  - translation_iso: swa
+    name: Takri
+    auto: true
+  - translation_iso: urd
+    name: ٹاکری
   - translation_iso: zho
     name: 塔克里字母
 ---

@@ -57,6 +57,11 @@ translations:
     name: Сунданское письмо
   - translation_iso: spa
     name: alfabeto sundanés
+  - translation_iso: swa
+    name: hati ya Kisunda
+    auto: true
+  - translation_iso: urd
+    name: سوندائی رسم الخط
   - translation_iso: zho
     name: 巽他字母
 ---

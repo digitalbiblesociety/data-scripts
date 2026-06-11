@@ -40,6 +40,11 @@ translations:
     name: протосинайская письменность
   - translation_iso: spa
     name: escritura protosinaítica
+  - translation_iso: swa
+    name: Proto-Sinai
+    auto: true
+  - translation_iso: urd
+    name: اصل-سینائی رسم الخط
   - translation_iso: zho
     name: 青铜中期文化时期字母
 ---

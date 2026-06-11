@@ -38,6 +38,12 @@ translations:
     name: ронго-ронго
   - translation_iso: spa
     name: Rongo rongo
+  - translation_iso: swa
+    name: Rongorongo
+    auto: true
+  - translation_iso: urd
+    name: رونگورونگو رسم الخط
+    auto: true
   - translation_iso: zho
     name: 朗格朗格
 ---

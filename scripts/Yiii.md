@@ -57,6 +57,12 @@ translations:
     name: письмо и
   - translation_iso: spa
     name: Caracteres yi
+  - translation_iso: swa
+    name: hati ya Kiyi
+    auto: true
+  - translation_iso: urd
+    name: یی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 彝文
 ---

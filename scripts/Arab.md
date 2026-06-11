@@ -440,6 +440,11 @@ translations:
     name: арабское письмо
   - translation_iso: spa
     name: escritura árabe
+  - translation_iso: swa
+    name: hati ya Kiarabu
+    auto: true
+  - translation_iso: urd
+    name: عربی رسم الخط
   - translation_iso: zho
     name: 阿拉伯文字
 ---

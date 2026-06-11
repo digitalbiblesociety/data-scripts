@@ -53,6 +53,12 @@ translations:
   - translation_iso: spa
     name: sogdiano
     auto: true
+  - translation_iso: swa
+    name: Kisogdi
+    auto: true
+  - translation_iso: urd
+    name: سغدی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 粟特文
     auto: true

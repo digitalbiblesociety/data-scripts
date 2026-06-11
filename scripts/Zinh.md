@@ -37,6 +37,12 @@ translations:
   - translation_iso: spa
     name: código para escritura heredada
     auto: true
+  - translation_iso: swa
+    name: msimbo wa hati iliyorithiwa
+    auto: true
+  - translation_iso: urd
+    name: موروثی رسم الخط کا کوڈ
+    auto: true
   - translation_iso: zho
     name: 继承文字
     auto: true

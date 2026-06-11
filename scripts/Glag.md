@@ -56,6 +56,12 @@ translations:
     name: глаголица
   - translation_iso: spa
     name: alfabeto glagolítico
+  - translation_iso: swa
+    name: Glagolitiki
+    auto: true
+  - translation_iso: urd
+    name: گلاگولیتی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 格拉哥里字母
 ---

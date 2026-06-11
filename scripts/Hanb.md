@@ -54,6 +54,12 @@ translations:
   - translation_iso: spa
     name: han con bopomofo
     auto: true
+  - translation_iso: swa
+    name: Han na Bopomofo
+    auto: true
+  - translation_iso: urd
+    name: ہان مع بوپوموفو
+    auto: true
   - translation_iso: zho
     name: 带注音符号的汉字
     auto: true

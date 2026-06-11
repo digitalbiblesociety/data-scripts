@@ -56,6 +56,12 @@ translations:
     name: огамическое письмо
   - translation_iso: spa
     name: ogámico
+  - translation_iso: swa
+    name: Ogham
+    auto: true
+  - translation_iso: urd
+    name: اوگم رسم الخط
+    auto: true
   - translation_iso: zho
     name: 欧甘字母
 ---

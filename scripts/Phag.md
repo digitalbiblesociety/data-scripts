@@ -55,6 +55,12 @@ translations:
     name: монгольское квадратное письмо
   - translation_iso: spa
     name: "'phags-pa"
+  - translation_iso: swa
+    name: Phags-pa
+    auto: true
+  - translation_iso: urd
+    name: پھاگس-پا رسم الخط
+    auto: true
   - translation_iso: zho
     name: 八思巴文
 ---

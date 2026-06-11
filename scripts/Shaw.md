@@ -56,6 +56,12 @@ translations:
     name: алфавит Шоу
   - translation_iso: spa
     name: alfabeto shaviano
+  - translation_iso: swa
+    name: Shavian
+    auto: true
+  - translation_iso: urd
+    name: شاوی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 萧伯纳字母
 ---

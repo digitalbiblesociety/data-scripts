@@ -46,6 +46,12 @@ translations:
     auto: true
   - translation_iso: spa
     name: leke
+  - translation_iso: swa
+    name: Leke
+    auto: true
+  - translation_iso: urd
+    name: لیکے رسم الخط
+    auto: true
   - translation_iso: zho
     name: 莱克文
     auto: true

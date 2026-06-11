@@ -53,6 +53,12 @@ translations:
     name: Кипрское письмо
   - translation_iso: spa
     name: silabario chipriota
+  - translation_iso: swa
+    name: hati ya Kikipro
+    auto: true
+  - translation_iso: urd
+    name: قبرصی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 塞浦路斯音节文字
 ---

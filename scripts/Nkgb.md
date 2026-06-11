@@ -43,6 +43,12 @@ translations:
   - translation_iso: spa
     name: silabario geba
     auto: true
+  - translation_iso: swa
+    name: Naxi Geba
+    auto: true
+  - translation_iso: urd
+    name: ناشی گیبا رسم الخط
+    auto: true
   - translation_iso: zho
     name: 哥巴文
 ---

@@ -49,6 +49,12 @@ translations:
     name: Бамум (письменность)
   - translation_iso: spa
     name: escritura Shümom
+  - translation_iso: swa
+    name: Bamum
+    auto: true
+  - translation_iso: urd
+    name: بامم رسم الخط
+    auto: true
   - translation_iso: zho
     name: 巴姆穆文字
 ---

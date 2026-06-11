@@ -55,6 +55,12 @@ translations:
     auto: true
   - translation_iso: spa
     name: alfabeto hanunuo
+  - translation_iso: swa
+    name: Hanunoo
+    auto: true
+  - translation_iso: urd
+    name: ہانونو رسم الخط
+    auto: true
   - translation_iso: zho
     name: 哈努诺文
 ---

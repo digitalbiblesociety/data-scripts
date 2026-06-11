@@ -44,6 +44,12 @@ translations:
     name: кави
   - translation_iso: spa
     name: alfabeto kawi
+  - translation_iso: swa
+    name: Kawi
+    auto: true
+  - translation_iso: urd
+    name: کاوی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 古卡维文
 ---

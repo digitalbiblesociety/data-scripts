@@ -51,6 +51,11 @@ translations:
     auto: true
   - translation_iso: spa
     name: Alfabeto khudabadi
+  - translation_iso: swa
+    name: Khudawadi
+    auto: true
+  - translation_iso: urd
+    name: خدا آبادی رسم الخط
   - translation_iso: zho
     name: 库达瓦迪文
 ---

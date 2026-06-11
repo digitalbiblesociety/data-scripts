@@ -54,6 +54,12 @@ translations:
   - translation_iso: spa
     name: escritura rejang
     auto: true
+  - translation_iso: swa
+    name: Rejang
+    auto: true
+  - translation_iso: urd
+    name: ریجانگ رسم الخط
+    auto: true
   - translation_iso: zho
     name: 勒姜字母
 ---

@@ -50,6 +50,12 @@ translations:
   - translation_iso: spa
     name: nyiakeng puachue hmong
     auto: true
+  - translation_iso: swa
+    name: Nyiakeng Puachue Hmong
+    auto: true
+  - translation_iso: urd
+    name: نیاکینگ پواچو مونگ رسم الخط
+    auto: true
   - translation_iso: zho
     name: 尼亚坑普阿绰苗文
 ---

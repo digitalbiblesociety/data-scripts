@@ -38,6 +38,11 @@ translations:
     name: демотическое письмо
   - translation_iso: spa
     name: egipcio demótico
+  - translation_iso: swa
+    name: hati ya Kimisri ya kidemotiki
+    auto: true
+  - translation_iso: urd
+    name: دیموطیقی (مصری)
   - translation_iso: zho
     name: 世俗体
 ---

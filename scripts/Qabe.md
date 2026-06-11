@@ -47,6 +47,12 @@ translations:
   - translation_iso: spa
     name: escritura bowen
     auto: true
+  - translation_iso: swa
+    name: Bowen (Lao Baiwen)
+    auto: true
+  - translation_iso: urd
+    name: بوون (لاؤ بائیوین) رسم الخط
+    auto: true
   - translation_iso: zho
     name: 老白文
     auto: true

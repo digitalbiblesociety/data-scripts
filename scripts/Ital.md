@@ -48,6 +48,12 @@ translations:
     name: древнеиталийские письменности
   - translation_iso: spa
     name: Itálico aperra
+  - translation_iso: swa
+    name: hati ya Kiitaliki cha Kale
+    auto: true
+  - translation_iso: urd
+    name: قدیم اطالوی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 古意大利字母
 ---

@@ -54,6 +54,12 @@ translations:
   - translation_iso: spa
     name: khutsuri
     auto: true
+  - translation_iso: swa
+    name: Khutsuri
+    auto: true
+  - translation_iso: urd
+    name: خوتسوری رسم الخط
+    auto: true
   - translation_iso: zho
     name: 胡楚里文
     auto: true

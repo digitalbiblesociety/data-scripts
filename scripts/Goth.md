@@ -53,6 +53,12 @@ translations:
     name: готское письмо
   - translation_iso: spa
     name: Alfabeto gótico
+  - translation_iso: swa
+    name: hati ya Kigothi
+    auto: true
+  - translation_iso: urd
+    name: گوتھک رسم الخط
+    auto: true
   - translation_iso: zho
     name: 哥德字母
 ---

@@ -59,6 +59,12 @@ translations:
   - translation_iso: spa
     name: coreano
     auto: true
+  - translation_iso: swa
+    name: hati ya Kikorea
+    auto: true
+  - translation_iso: urd
+    name: کوریائی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 韩汉混用文
 ---

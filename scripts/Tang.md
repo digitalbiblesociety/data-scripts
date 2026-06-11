@@ -48,6 +48,12 @@ translations:
     name: Тангутское письмо
   - translation_iso: spa
     name: Escritura tangut
+  - translation_iso: swa
+    name: hati ya Kitangut
+    auto: true
+  - translation_iso: urd
+    name: تنگوت رسم الخط
+    auto: true
   - translation_iso: zho
     name: 西夏文
 ---

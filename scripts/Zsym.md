@@ -29,6 +29,11 @@ translations:
     name: символ
   - translation_iso: spa
     name: símbolo
+  - translation_iso: swa
+    name: alama
+    auto: true
+  - translation_iso: urd
+    name: علامات و اشارات
   - translation_iso: zho
     name: 符号
 ---

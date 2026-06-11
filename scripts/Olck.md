@@ -55,6 +55,12 @@ translations:
   - translation_iso: spa
     name: alfabeto ol chiki
     auto: true
+  - translation_iso: swa
+    name: Ol Chiki
+    auto: true
+  - translation_iso: urd
+    name: اول چکی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 奥尔奇基字母
 ---

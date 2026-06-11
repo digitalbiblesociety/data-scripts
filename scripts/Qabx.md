@@ -39,6 +39,12 @@ translations:
   - translation_iso: spa
     name: reservado para uso privado, fin
     auto: true
+  - translation_iso: swa
+    name: Imehifadhiwa kwa matumizi ya kibinafsi (mwisho)
+    auto: true
+  - translation_iso: urd
+    name: نجی استعمال کے لیے محفوظ (اختتام)
+    auto: true
   - translation_iso: zho
     name: 私用保留区末位
     auto: true

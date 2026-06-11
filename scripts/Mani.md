@@ -46,6 +46,12 @@ translations:
     name: манихейское письмо
   - translation_iso: spa
     name: alfabeto maniqueo
+  - translation_iso: swa
+    name: hati ya Kimanikai
+    auto: true
+  - translation_iso: urd
+    name: مانوی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 摩尼字母
 ---

@@ -48,6 +48,12 @@ translations:
     name: соёмбо
   - translation_iso: spa
     name: escritura soyombo
+  - translation_iso: swa
+    name: Soyombo
+    auto: true
+  - translation_iso: urd
+    name: سویومبو رسم الخط
+    auto: true
   - translation_iso: zho
     name: 索永布文字
 ---

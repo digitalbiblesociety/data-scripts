@@ -48,6 +48,12 @@ translations:
     name: Басса (письмо)
   - translation_iso: spa
     name: Alfabeto vah
+  - translation_iso: swa
+    name: Bassa Vah
+    auto: true
+  - translation_iso: urd
+    name: باسا واہ رسم الخط
+    auto: true
   - translation_iso: zho
     name: 巴萨哇文字
 ---

@@ -51,6 +51,12 @@ translations:
   - translation_iso: spa
     name: corasmio
     auto: true
+  - translation_iso: swa
+    name: hati ya Kikhwarezmi
+    auto: true
+  - translation_iso: urd
+    name: خوارزمی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 花剌子模文
     auto: true

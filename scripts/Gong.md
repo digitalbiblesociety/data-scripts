@@ -50,6 +50,12 @@ translations:
     auto: true
   - translation_iso: spa
     name: Gunjala Gondi
+  - translation_iso: swa
+    name: Gunjala Gondi
+    auto: true
+  - translation_iso: urd
+    name: گنجالا گونڈی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 贡贾拉贡德文字
 ---

@@ -37,6 +37,12 @@ translations:
   - translation_iso: spa
     name: código para documentos no escritos
     auto: true
+  - translation_iso: swa
+    name: msimbo wa hati isiyoandikwa
+    auto: true
+  - translation_iso: urd
+    name: غیر تحریری دستاویزات کا کوڈ
+    auto: true
   - translation_iso: zho
     name: 非书面文字
     auto: true

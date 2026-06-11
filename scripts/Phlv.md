@@ -44,6 +44,12 @@ translations:
     auto: true
   - translation_iso: spa
     name: pahlavi cursivo o de libro
+  - translation_iso: swa
+    name: hati ya Kipahlavi cha vitabu
+    auto: true
+  - translation_iso: urd
+    name: کتابی پہلوی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 书本巴列维文
     auto: true

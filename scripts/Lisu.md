@@ -67,6 +67,12 @@ translations:
     name: Алфавит Фрейзера
   - translation_iso: spa
     name: alfabeto de Fraser
+  - translation_iso: swa
+    name: Lisu
+    auto: true
+  - translation_iso: urd
+    name: لیسو رسم الخط
+    auto: true
   - translation_iso: zho
     name: 老傈僳文
 ---

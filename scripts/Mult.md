@@ -51,6 +51,12 @@ translations:
   - translation_iso: spa
     name: multani
     auto: true
+  - translation_iso: swa
+    name: Multani
+    auto: true
+  - translation_iso: urd
+    name: ملتانی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 穆尔塔尼文
 ---

@@ -56,6 +56,12 @@ translations:
     name: Чамская письменность
   - translation_iso: spa
     name: alfabeto cham
+  - translation_iso: swa
+    name: hati ya Kicham
+    auto: true
+  - translation_iso: urd
+    name: چم رسم الخط
+    auto: true
   - translation_iso: zho
     name: 占語字母
 ---

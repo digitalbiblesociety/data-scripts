@@ -80,6 +80,10 @@ translations:
     name: еврейский алфавит
   - translation_iso: spa
     name: alfabeto hebreo
+  - translation_iso: swa
+    name: Mwandiko wa Kiebrania
+  - translation_iso: urd
+    name: عبرانی خطات
   - translation_iso: zho
     name: 希伯来字母
 ---

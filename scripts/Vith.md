@@ -47,6 +47,12 @@ translations:
     name: Алфавит Бютакукье
   - translation_iso: spa
     name: alfabeto Vithkuqi
+  - translation_iso: swa
+    name: Vithkuqi
+    auto: true
+  - translation_iso: urd
+    name: وتھکوقی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 維斯庫奇文
 ---

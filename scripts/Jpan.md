@@ -66,6 +66,11 @@ translations:
     name: японское письмо
   - translation_iso: spa
     name: escritura japonesa
+  - translation_iso: swa
+    name: hati ya Kijapani
+    auto: true
+  - translation_iso: urd
+    name: جاپانی رسم الخط
   - translation_iso: zho
     name: 日语书写系统
 ---

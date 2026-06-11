@@ -55,6 +55,12 @@ translations:
     name: бухидское письмо
   - translation_iso: spa
     name: Buhid
+  - translation_iso: swa
+    name: Buhid
+    auto: true
+  - translation_iso: urd
+    name: بوہد رسم الخط
+    auto: true
   - translation_iso: zho
     name: 布希德文
 ---

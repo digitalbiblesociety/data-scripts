@@ -61,6 +61,12 @@ translations:
     name: Фрактура
   - translation_iso: spa
     name: Fraktur
+  - translation_iso: swa
+    name: hati ya Kilatini (Fraktur)
+    auto: true
+  - translation_iso: urd
+    name: لاطینی (فریکچر) رسم الخط
+    auto: true
   - translation_iso: zho
     name: Fraktur
 ---

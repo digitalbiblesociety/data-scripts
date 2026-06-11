@@ -47,6 +47,11 @@ translations:
     name: Южноаравийское письмо
   - translation_iso: spa
     name: abecedario árabe meridional
+  - translation_iso: swa
+    name: hati ya Kiarabu cha Kusini cha Kale
+    auto: true
+  - translation_iso: urd
+    name: قدیم جنوبی عرب رسم الخط
   - translation_iso: zho
     name: 南阿拉伯字母
 ---

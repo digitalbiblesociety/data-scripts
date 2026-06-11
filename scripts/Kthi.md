@@ -51,6 +51,11 @@ translations:
     name: Кайтхи
   - translation_iso: spa
     name: Kaithi
+  - translation_iso: swa
+    name: Kaithi
+    auto: true
+  - translation_iso: urd
+    name: کیتھی
   - translation_iso: zho
     name: 凯提文
 ---

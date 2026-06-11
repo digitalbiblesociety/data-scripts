@@ -51,6 +51,12 @@ translations:
   - translation_iso: spa
     name: gurung khema
     auto: true
+  - translation_iso: swa
+    name: Gurung Khema
+    auto: true
+  - translation_iso: urd
+    name: گرونگ کھیما رسم الخط
+    auto: true
   - translation_iso: zho
     name: 古隆克玛文
     auto: true

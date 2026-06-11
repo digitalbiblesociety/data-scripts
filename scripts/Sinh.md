@@ -66,6 +66,12 @@ translations:
     name: сингальское письмо
   - translation_iso: spa
     name: alfabeto cingalés
+  - translation_iso: swa
+    name: hati ya Kisinhala
+    auto: true
+  - translation_iso: urd
+    name: سنہالا رسم الخط
+    auto: true
   - translation_iso: zho
     name: 僧伽罗文
 ---

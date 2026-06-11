@@ -61,6 +61,12 @@ translations:
     name: нко
   - translation_iso: spa
     name: "alfabeto N'Ko"
+  - translation_iso: swa
+    name: "N'Ko"
+    auto: true
+  - translation_iso: urd
+    name: اینکو رسم الخط
+    auto: true
   - translation_iso: zho
     name: 西非書面字母
 ---

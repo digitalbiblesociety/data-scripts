@@ -47,6 +47,12 @@ translations:
   - translation_iso: spa
     name: no escrito
     auto: true
+  - translation_iso: swa
+    name: Isiyoandikwa
+    auto: true
+  - translation_iso: urd
+    name: غیر تحریری
+    auto: true
   - translation_iso: zho
     name: 非书面文字
     auto: true

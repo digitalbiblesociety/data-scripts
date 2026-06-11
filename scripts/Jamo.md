@@ -49,6 +49,12 @@ translations:
     name: символ хангыля
   - translation_iso: spa
     name: jamo
+  - translation_iso: swa
+    name: Jamo
+    auto: true
+  - translation_iso: urd
+    name: جامو
+    auto: true
   - translation_iso: zho
     name: 韩语字母
 ---

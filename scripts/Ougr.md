@@ -43,6 +43,12 @@ translations:
     name: староуйгурское письмо
   - translation_iso: spa
     name: alfabeto uigur antiguo
+  - translation_iso: swa
+    name: hati ya Kiuyghur cha Kale
+    auto: true
+  - translation_iso: urd
+    name: قدیم اویغور رسم الخط
+    auto: true
   - translation_iso: zho
     name: 回鹘字母
 ---

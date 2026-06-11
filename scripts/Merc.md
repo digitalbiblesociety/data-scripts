@@ -54,6 +54,12 @@ translations:
   - translation_iso: spa
     name: cursivo meroítico
     auto: true
+  - translation_iso: swa
+    name: hati ya Kimeroe ya mlalo
+    auto: true
+  - translation_iso: urd
+    name: میروٹک شکستہ رسم الخط
+    auto: true
   - translation_iso: zho
     name: 麦罗埃文草书体
     auto: true

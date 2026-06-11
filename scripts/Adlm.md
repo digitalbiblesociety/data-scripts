@@ -52,6 +52,12 @@ translations:
     name: адлам
   - translation_iso: spa
     name: alfabeto adlam
+  - translation_iso: swa
+    name: Adlam
+    auto: true
+  - translation_iso: urd
+    name: ادلم رسم الخط
+    auto: true
   - translation_iso: zho
     name: 阿德拉姆字母
 ---

@@ -74,6 +74,11 @@ translations:
     name: упрощение иероглифов
   - translation_iso: spa
     name: caracteres chinos simplificados
+  - translation_iso: swa
+    name: Han (umbo lililorahisishwa)
+    auto: true
+  - translation_iso: urd
+    name: آسان چینی حروف
   - translation_iso: zho
     name: 简化字
 ---

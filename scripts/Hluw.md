@@ -50,6 +50,12 @@ translations:
     name: Лувийские иероглифы
   - translation_iso: spa
     name: Jeroglíficos de Anatolia
+  - translation_iso: swa
+    name: hieroglifi za Kianatolia
+    auto: true
+  - translation_iso: urd
+    name: اناطولیائی ہیروغلیفی
+    auto: true
   - translation_iso: zho
     name: 安納托利亞象形文字
 ---

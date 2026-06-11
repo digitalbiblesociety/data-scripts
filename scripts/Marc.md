@@ -53,6 +53,12 @@ translations:
   - translation_iso: spa
     name: marchen
     auto: true
+  - translation_iso: swa
+    name: Marchen
+    auto: true
+  - translation_iso: urd
+    name: مارچن رسم الخط
+    auto: true
   - translation_iso: zho
     name: 瑪欽文
 ---

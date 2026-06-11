@@ -143,6 +143,11 @@ translations:
     name: шрифт Брайля
   - translation_iso: spa
     name: braille
+  - translation_iso: swa
+    name: nukta nundu (Breli)
+    auto: true
+  - translation_iso: urd
+    name: بریل سسٹم
   - translation_iso: zho
     name: 盲文
 ---

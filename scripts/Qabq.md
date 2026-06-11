@@ -47,6 +47,12 @@ translations:
   - translation_iso: spa
     name: escritura badaga
     auto: true
+  - translation_iso: swa
+    name: Badaga
+    auto: true
+  - translation_iso: urd
+    name: بداگا رسم الخط
+    auto: true
   - translation_iso: zho
     name: 巴达加文
     auto: true

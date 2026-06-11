@@ -47,6 +47,12 @@ translations:
     name: агванское письмо
   - translation_iso: spa
     name: Alfabeto albanés caucásico
+  - translation_iso: swa
+    name: hati ya Kialbania ya Kaukasia
+    auto: true
+  - translation_iso: urd
+    name: قفقازی البانوی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 高加索阿尔巴尼亚文
 ---

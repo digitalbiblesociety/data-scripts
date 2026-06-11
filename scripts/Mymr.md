@@ -107,6 +107,12 @@ translations:
     name: бирманское письмо
   - translation_iso: spa
     name: alfabeto miagmá
+  - translation_iso: swa
+    name: hati ya Kiburma
+    auto: true
+  - translation_iso: urd
+    name: برمی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 緬甸字母
 ---

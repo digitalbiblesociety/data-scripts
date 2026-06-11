@@ -52,6 +52,12 @@ translations:
     name: древнепермское письмо
   - translation_iso: spa
     name: antiguo alfabeto pérmico
+  - translation_iso: swa
+    name: hati ya Kipermi cha Kale
+    auto: true
+  - translation_iso: urd
+    name: قدیم پرمی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 古彼尔姆文
 ---

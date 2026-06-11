@@ -47,6 +47,12 @@ translations:
   - translation_iso: spa
     name: jeroglíficos micmac
     auto: true
+  - translation_iso: swa
+    name: hieroglifi za Kimicmac
+    auto: true
+  - translation_iso: urd
+    name: میکمیک ہیروغلیفی
+    auto: true
   - translation_iso: zho
     name: 米克马克象形文字
     auto: true

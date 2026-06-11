@@ -48,6 +48,12 @@ translations:
   - translation_iso: spa
     name: alfabeto ol onal
     auto: true
+  - translation_iso: swa
+    name: Ol Onal
+    auto: true
+  - translation_iso: urd
+    name: اول اونال رسم الخط
+    auto: true
   - translation_iso: zho
     name: 奥尔奥纳尔文
     auto: true

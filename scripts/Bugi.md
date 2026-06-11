@@ -57,6 +57,12 @@ translations:
   - translation_iso: spa
     name: alfabeto buginés
     auto: true
+  - translation_iso: swa
+    name: hati ya Kibugini
+    auto: true
+  - translation_iso: urd
+    name: بوگینی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 布吉文
 ---

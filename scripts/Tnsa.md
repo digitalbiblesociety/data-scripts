@@ -51,6 +51,12 @@ translations:
   - translation_iso: spa
     name: alfabeto tangsa
     auto: true
+  - translation_iso: swa
+    name: Tangsa
+    auto: true
+  - translation_iso: urd
+    name: تانگسا رسم الخط
+    auto: true
   - translation_iso: zho
     name: 唐萨文
     auto: true

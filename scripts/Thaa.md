@@ -57,6 +57,11 @@ translations:
     name: Тана
   - translation_iso: spa
     name: thaana
+  - translation_iso: swa
+    name: Thaana
+    auto: true
+  - translation_iso: urd
+    name: تانہ رسم خط
   - translation_iso: zho
     name: 它拿字母
 ---

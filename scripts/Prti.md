@@ -52,6 +52,12 @@ translations:
     auto: true
   - translation_iso: spa
     name: parto inscripcional
+  - translation_iso: swa
+    name: hati ya Kiparthia cha maandishi
+    auto: true
+  - translation_iso: urd
+    name: کتبہ جاتی پارتھی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 碑铭帕提亚文
 ---

@@ -46,6 +46,12 @@ translations:
   - translation_iso: spa
     name: escritura dongba
     auto: true
+  - translation_iso: swa
+    name: Naxi Dongba
+    auto: true
+  - translation_iso: urd
+    name: ناشی دونگبا رسم الخط
+    auto: true
   - translation_iso: zho
     name: 东巴文
 ---

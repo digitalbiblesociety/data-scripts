@@ -44,6 +44,12 @@ translations:
     name: Согдийское письмо
   - translation_iso: spa
     name: Sogdiano
+  - translation_iso: swa
+    name: Kisogdi
+    auto: true
+  - translation_iso: urd
+    name: سغدی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 粟特字母
 ---

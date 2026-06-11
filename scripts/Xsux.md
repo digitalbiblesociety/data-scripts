@@ -50,6 +50,10 @@ translations:
     name: клинопись
   - translation_iso: spa
     name: escritura cuneiforme
+  - translation_iso: swa
+    name: mwandiko wa kikabari
+  - translation_iso: urd
+    name: خط میخنی
   - translation_iso: zho
     name: 楔形文字
 ---

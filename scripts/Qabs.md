@@ -51,6 +51,12 @@ translations:
   - translation_iso: spa
     name: alfabeto wancho
     auto: true
+  - translation_iso: swa
+    name: Wancho
+    auto: true
+  - translation_iso: urd
+    name: وانچو رسم الخط
+    auto: true
   - translation_iso: zho
     name: 万乔文
     auto: true

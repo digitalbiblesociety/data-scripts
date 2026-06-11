@@ -40,6 +40,12 @@ translations:
     name: Visible Speech
   - translation_iso: spa
     name: Discurso Visible
+  - translation_iso: swa
+    name: Usemi Unaoonekana
+    auto: true
+  - translation_iso: urd
+    name: قابلِ رؤیت گفتار
+    auto: true
   - translation_iso: zho
     name: 视话法
 ---

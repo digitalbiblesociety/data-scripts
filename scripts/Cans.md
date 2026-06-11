@@ -82,6 +82,12 @@ translations:
     name: канадское слоговое письмо
   - translation_iso: spa
     name: silabarios indígenas canadienses
+  - translation_iso: swa
+    name: silabari za Wenyeji wa Kanada
+    auto: true
+  - translation_iso: urd
+    name: متحدہ کینیڈین مقامی صوتی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 加拿大原住民音节文字
 ---

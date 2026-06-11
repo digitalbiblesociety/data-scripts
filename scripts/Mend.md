@@ -49,6 +49,12 @@ translations:
     name: Кикакуи
   - translation_iso: spa
     name: Silabario Ki-ka-ku
+  - translation_iso: swa
+    name: Mende Kikakui
+    auto: true
+  - translation_iso: urd
+    name: مینڈے کیکاکوئی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 门地奇卡奎文
 ---

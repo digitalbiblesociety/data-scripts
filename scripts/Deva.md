@@ -301,6 +301,10 @@ translations:
     name: деванагари
   - translation_iso: spa
     name: devanagari
+  - translation_iso: swa
+    name: Devanagari
+  - translation_iso: urd
+    name: دیوناگری
   - translation_iso: zho
     name: 天城文
 ---

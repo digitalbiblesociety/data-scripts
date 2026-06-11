@@ -51,6 +51,12 @@ translations:
   - translation_iso: spa
     name: han tradicional con latino
     auto: true
+  - translation_iso: swa
+    name: Han (umbo la jadi) na Kilatini
+    auto: true
+  - translation_iso: urd
+    name: ہان (روایتی) مع لاطینی
+    auto: true
   - translation_iso: zho
     name: 带拉丁字母的繁体汉字
     auto: true

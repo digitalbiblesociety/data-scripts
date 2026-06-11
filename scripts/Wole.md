@@ -46,6 +46,12 @@ translations:
   - translation_iso: spa
     name: silabario woleai
     auto: true
+  - translation_iso: swa
+    name: Woleai
+    auto: true
+  - translation_iso: urd
+    name: ولیائی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 沃莱艾文
 ---

@@ -43,6 +43,12 @@ translations:
     name: Кирт
   - translation_iso: spa
     name: cirth
+  - translation_iso: swa
+    name: Cirth
+    auto: true
+  - translation_iso: urd
+    name: کرتھ رسم الخط
+    auto: true
   - translation_iso: zho
     name: 切斯文
 ---

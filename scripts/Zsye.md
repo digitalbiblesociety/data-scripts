@@ -41,6 +41,11 @@ translations:
     name: эмодзи
   - translation_iso: spa
     name: emoji
+  - translation_iso: swa
+    name: Alama (umbo la emoji)
+    auto: true
+  - translation_iso: urd
+    name: ایموجی
   - translation_iso: zho
     name: 绘文字
 ---

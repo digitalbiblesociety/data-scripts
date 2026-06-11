@@ -55,6 +55,12 @@ translations:
     name: Мандейское письмо
   - translation_iso: spa
     name: Alfabeto mandeo
+  - translation_iso: swa
+    name: hati ya Kimandai
+    auto: true
+  - translation_iso: urd
+    name: منڈائی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 曼达文字
 ---

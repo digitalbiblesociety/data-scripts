@@ -48,6 +48,12 @@ translations:
   - translation_iso: spa
     name: escritura tai yo
     auto: true
+  - translation_iso: swa
+    name: Tai Yo
+    auto: true
+  - translation_iso: urd
+    name: تائی یو رسم الخط
+    auto: true
   - translation_iso: zho
     name: 泰约文
     auto: true

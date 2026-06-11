@@ -51,6 +51,12 @@ translations:
     name: Сомалийское письмо
   - translation_iso: spa
     name: osmanya
+  - translation_iso: swa
+    name: Osmanya
+    auto: true
+  - translation_iso: urd
+    name: عثمانیہ رسم الخط
+    auto: true
   - translation_iso: zho
     name: 奥斯曼亚字母
 ---

@@ -54,6 +54,12 @@ translations:
     name: Угаритское письмо
   - translation_iso: spa
     name: alfabeto ugarítico
+  - translation_iso: swa
+    name: hati ya Kiugariti
+    auto: true
+  - translation_iso: urd
+    name: یوگاریتی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 乌加里特字母
 ---

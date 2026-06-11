@@ -48,6 +48,12 @@ translations:
   - translation_iso: spa
     name: alfabeto toto
     auto: true
+  - translation_iso: swa
+    name: Toto
+    auto: true
+  - translation_iso: urd
+    name: توتو رسم الخط
+    auto: true
   - translation_iso: zho
     name: 托托字母
     auto: true

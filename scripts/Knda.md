@@ -81,6 +81,12 @@ translations:
     name: каннада
   - translation_iso: spa
     name: alfabeto canarés
+  - translation_iso: swa
+    name: hati ya Kikannada
+    auto: true
+  - translation_iso: urd
+    name: کنڑ رسم الخط
+    auto: true
   - translation_iso: zho
     name: 卡纳达文
 ---

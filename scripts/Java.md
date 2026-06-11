@@ -58,6 +58,12 @@ translations:
     name: яванское письмо
   - translation_iso: spa
     name: alfabeto javanés
+  - translation_iso: swa
+    name: hati ya Kijava
+    auto: true
+  - translation_iso: urd
+    name: جاوی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 爪哇字母
 ---

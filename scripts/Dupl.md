@@ -57,6 +57,12 @@ translations:
     name: Система Дюплойе
   - translation_iso: spa
     name: estenografía duployeana
+  - translation_iso: swa
+    name: mfumo wa mkato wa Duployan
+    auto: true
+  - translation_iso: urd
+    name: دوپلوآں مختصر نویسی
+    auto: true
   - translation_iso: zho
     name: 杜普雷速记
 ---

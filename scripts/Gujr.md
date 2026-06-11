@@ -83,6 +83,12 @@ translations:
     name: гуджарати
   - translation_iso: spa
     name: Alfabeto guyarati
+  - translation_iso: swa
+    name: hati ya Kigujarati
+    auto: true
+  - translation_iso: urd
+    name: گجراتی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 古吉拉特文
 ---

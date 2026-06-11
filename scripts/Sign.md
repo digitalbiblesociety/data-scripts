@@ -43,6 +43,12 @@ translations:
   - translation_iso: spa
     name: lengua de señas
     auto: true
+  - translation_iso: swa
+    name: lugha ya ishara
+    auto: true
+  - translation_iso: urd
+    name: اشاراتی زبان
+    auto: true
   - translation_iso: zho
     name: 手语
     auto: true

@@ -55,6 +55,12 @@ translations:
   - translation_iso: spa
     name: siríaco occidental
     auto: true
+  - translation_iso: swa
+    name: hati ya Kisiria (umbo la magharibi)
+    auto: true
+  - translation_iso: urd
+    name: سریانی (مغربی) رسم الخط
+    auto: true
   - translation_iso: zho
     name: 西叙利亚文
     auto: true

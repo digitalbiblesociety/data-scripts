@@ -50,6 +50,10 @@ translations:
     name: египетское иероглифическое письмо
   - translation_iso: spa
     name: jeroglífico egipcio
+  - translation_iso: swa
+    name: Hiroglifi
+  - translation_iso: urd
+    name: حیروغلیفی
   - translation_iso: zho
     name: 圣书体
 ---

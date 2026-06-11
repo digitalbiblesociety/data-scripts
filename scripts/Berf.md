@@ -47,6 +47,12 @@ translations:
   - translation_iso: spa
     name: alfabeto beria erfe
     auto: true
+  - translation_iso: swa
+    name: Beria Erfe
+    auto: true
+  - translation_iso: urd
+    name: بیریا ایرفے رسم الخط
+    auto: true
   - translation_iso: zho
     name: 札格哈瓦字母
 ---

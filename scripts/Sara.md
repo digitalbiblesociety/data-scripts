@@ -44,6 +44,12 @@ translations:
     name: Сарати
   - translation_iso: spa
     name: sarati
+  - translation_iso: swa
+    name: Sarati
+    auto: true
+  - translation_iso: urd
+    name: ساراتی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 沙拉堤文字
 ---

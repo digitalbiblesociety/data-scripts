@@ -55,6 +55,11 @@ translations:
   - translation_iso: spa
     name: syloti nagri
     auto: true
+  - translation_iso: swa
+    name: Syloti Nagri
+    auto: true
+  - translation_iso: urd
+    name: جلال آبادی رسم الخط
   - translation_iso: zho
     name: 锡尔赫特文
 ---

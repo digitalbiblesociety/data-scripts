@@ -47,6 +47,12 @@ translations:
     name: старославянская кириллица
   - translation_iso: spa
     name: alfabeto cirílico arcaico
+  - translation_iso: swa
+    name: hati ya Kikyrili (Kislavoni cha Kanisa la Kale)
+    auto: true
+  - translation_iso: urd
+    name: سیریلیک (قدیم کلیسائی سلاوونی) رسم الخط
+    auto: true
   - translation_iso: zho
     name: 早期西里尔字母
 ---

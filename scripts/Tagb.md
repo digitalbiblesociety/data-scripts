@@ -57,6 +57,12 @@ translations:
     name: Тагбанва
   - translation_iso: spa
     name: escritura tagbanuá
+  - translation_iso: swa
+    name: Tagbanwa
+    auto: true
+  - translation_iso: urd
+    name: تگبنوا رسم الخط
+    auto: true
   - translation_iso: zho
     name: 塔格巴努亚文
 ---

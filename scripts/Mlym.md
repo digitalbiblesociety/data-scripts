@@ -85,6 +85,12 @@ translations:
     name: малаялам
   - translation_iso: spa
     name: alfabeto malabar
+  - translation_iso: swa
+    name: hati ya Kimalayalam
+    auto: true
+  - translation_iso: urd
+    name: ملیالم رسم الخط
+    auto: true
   - translation_iso: zho
     name: 馬拉雅拉姆文
 ---

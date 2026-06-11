@@ -51,6 +51,11 @@ translations:
     name: шарада
   - translation_iso: spa
     name: alfabeto sharada
+  - translation_iso: swa
+    name: Sharada
+    auto: true
+  - translation_iso: urd
+    name: شاردا رسم الخط
   - translation_iso: zho
     name: 夏拉达文
 ---

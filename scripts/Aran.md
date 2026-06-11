@@ -71,6 +71,11 @@ translations:
     name: Насталик
   - translation_iso: spa
     name: nastaliq
+  - translation_iso: swa
+    name: hati ya Kiarabu (Nastaliq)
+    auto: true
+  - translation_iso: urd
+    name: نستعلیق
   - translation_iso: zho
     name: 波斯体
 ---

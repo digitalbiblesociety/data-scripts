@@ -63,6 +63,12 @@ translations:
   - translation_iso: spa
     name: tai tham
     auto: true
+  - translation_iso: swa
+    name: Tai Tham
+    auto: true
+  - translation_iso: urd
+    name: تائی تھم رسم الخط
+    auto: true
   - translation_iso: zho
     name: 老傣仂文
 ---

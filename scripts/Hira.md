@@ -64,6 +64,11 @@ translations:
     name: хирагана
   - translation_iso: spa
     name: hiragana
+  - translation_iso: swa
+    name: Hiragana
+    auto: true
+  - translation_iso: urd
+    name: ہیراگانا
   - translation_iso: zho
     name: 平假名
 ---

@@ -48,6 +48,12 @@ translations:
     name: Сидетский алфавит
   - translation_iso: spa
     name: Alfabeto sidético
+  - translation_iso: swa
+    name: hati ya Kisideti
+    auto: true
+  - translation_iso: urd
+    name: سیدیتی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 西代字母
     auto: true

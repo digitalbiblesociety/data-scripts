@@ -60,6 +60,11 @@ translations:
     name: катакана
   - translation_iso: spa
     name: katakana
+  - translation_iso: swa
+    name: Katakana
+    auto: true
+  - translation_iso: urd
+    name: کاتاکانا
   - translation_iso: zho
     name: 片假名
 ---

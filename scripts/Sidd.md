@@ -44,6 +44,12 @@ translations:
     name: сиддхаматрика
   - translation_iso: spa
     name: siddham
+  - translation_iso: swa
+    name: Siddham
+    auto: true
+  - translation_iso: urd
+    name: سدھم رسم الخط
+    auto: true
   - translation_iso: zho
     name: 悉曇文
 ---

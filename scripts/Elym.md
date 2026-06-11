@@ -49,6 +49,12 @@ translations:
     auto: true
   - translation_iso: spa
     name: elimaico
+  - translation_iso: swa
+    name: hati ya Kielymi
+    auto: true
+  - translation_iso: urd
+    name: ایلیمی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 埃利迈斯字母
 ---

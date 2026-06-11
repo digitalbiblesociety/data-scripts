@@ -52,6 +52,12 @@ translations:
     auto: true
   - translation_iso: spa
     name: alfabeto dogra
+  - translation_iso: swa
+    name: Dogra
+    auto: true
+  - translation_iso: urd
+    name: ڈوگرا رسم الخط
+    auto: true
   - translation_iso: zho
     name: 多格拉文
 ---

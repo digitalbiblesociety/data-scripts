@@ -52,6 +52,12 @@ translations:
     name: Гэльский шрифт
   - translation_iso: spa
     name: caligrafía gaélica
+  - translation_iso: swa
+    name: hati ya Kilatini (Kigaeli)
+    auto: true
+  - translation_iso: urd
+    name: لاطینی (گیلک) رسم الخط
+    auto: true
   - translation_iso: zho
     name: 盖尔体
 ---

@@ -112,6 +112,12 @@ translations:
   - translation_iso: spa
     name: alfabeto bengalí
     auto: true
+  - translation_iso: swa
+    name: hati ya Kibengali
+    auto: true
+  - translation_iso: urd
+    name: بنگالی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 东部城文
 ---

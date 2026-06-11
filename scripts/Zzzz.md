@@ -37,6 +37,12 @@ translations:
   - translation_iso: spa
     name: código para escritura no codificada
     auto: true
+  - translation_iso: swa
+    name: msimbo wa hati isiyosimbwa
+    auto: true
+  - translation_iso: urd
+    name: غیر کوڈ شدہ رسم الخط کا کوڈ
+    auto: true
   - translation_iso: zho
     name: 未知文字
     auto: true

@@ -37,6 +37,11 @@ translations:
     name: письменность долины Инда
   - translation_iso: spa
     name: escritura del Indo
+  - translation_iso: swa
+    name: hati ya Indus
+    auto: true
+  - translation_iso: urd
+    name: وادی سندھ کا رسم الخط
   - translation_iso: zho
     name: 印度河文字
 ---

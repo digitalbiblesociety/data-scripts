@@ -74,6 +74,12 @@ translations:
   - translation_iso: spa
     name: alfabeto armenio
     auto: true
+  - translation_iso: swa
+    name: hati ya Kiarmenia
+    auto: true
+  - translation_iso: urd
+    name: آرمینیائی حروف تہجی
+    auto: true
   - translation_iso: zho
     name: 亚美尼亚字母
     auto: true

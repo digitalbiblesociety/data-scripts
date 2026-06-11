@@ -59,6 +59,12 @@ translations:
     name: чжуинь
   - translation_iso: spa
     name: Zhuyin
+  - translation_iso: swa
+    name: Bopomofo
+    auto: true
+  - translation_iso: urd
+    name: بوپوموفو
+    auto: true
   - translation_iso: zho
     name: 注音符号
 ---

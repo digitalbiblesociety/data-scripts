@@ -62,6 +62,12 @@ translations:
     name: Пахау
   - translation_iso: spa
     name: Pahawh Hmong
+  - translation_iso: swa
+    name: Pahawh Hmong
+    auto: true
+  - translation_iso: urd
+    name: پاہاو مونگ رسم الخط
+    auto: true
   - translation_iso: zho
     name: 帕哈苗文
 ---

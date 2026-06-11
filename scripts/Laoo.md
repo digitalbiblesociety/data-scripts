@@ -69,6 +69,12 @@ translations:
     name: лаосское письмо
   - translation_iso: spa
     name: alfabeto laosiano
+  - translation_iso: swa
+    name: hati ya Kilao
+    auto: true
+  - translation_iso: urd
+    name: لاؤ رسم الخط
+    auto: true
   - translation_iso: zho
     name: 寮文字
 ---

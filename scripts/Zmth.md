@@ -44,6 +44,12 @@ translations:
     name: математические обозначения
   - translation_iso: spa
     name: notación matemática
+  - translation_iso: swa
+    name: nukuu za kihisabati
+    auto: true
+  - translation_iso: urd
+    name: ریاضیاتی علامتیں
+    auto: true
   - translation_iso: zho
     name: 数学符号
 ---

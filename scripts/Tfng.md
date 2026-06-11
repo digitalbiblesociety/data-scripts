@@ -75,6 +75,12 @@ translations:
     name: древнеливийское письмо
   - translation_iso: spa
     name: tifinag
+  - translation_iso: swa
+    name: Tifinagh (Kiberber)
+    auto: true
+  - translation_iso: urd
+    name: تیفناغ (بربر) رسم الخط
+    auto: true
   - translation_iso: zho
     name: 提非纳文字
 ---

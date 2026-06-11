@@ -44,6 +44,12 @@ translations:
     name: малое киданьское письмо
   - translation_iso: spa
     name: Escritura kitán pequeña
+  - translation_iso: swa
+    name: hati ndogo ya Kikhitan
+    auto: true
+  - translation_iso: urd
+    name: ختنی چھوٹا رسم الخط
+    auto: true
   - translation_iso: zho
     name: 契丹小字
 ---

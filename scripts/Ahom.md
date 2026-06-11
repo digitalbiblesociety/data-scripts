@@ -48,6 +48,12 @@ translations:
   - translation_iso: spa
     name: escritura ahom
     auto: true
+  - translation_iso: swa
+    name: Ahom
+    auto: true
+  - translation_iso: urd
+    name: اہوم رسم الخط
+    auto: true
   - translation_iso: zho
     name: 阿洪姆文
 ---

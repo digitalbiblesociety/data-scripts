@@ -51,6 +51,12 @@ translations:
     auto: true
   - translation_iso: spa
     name: makasar
+  - translation_iso: swa
+    name: Makasar
+    auto: true
+  - translation_iso: urd
+    name: ماکاسر رسم الخط
+    auto: true
   - translation_iso: zho
     name: 望加锡文
 ---

@@ -52,6 +52,12 @@ translations:
   - translation_iso: spa
     name: antiguo árabe del norte
     auto: true
+  - translation_iso: swa
+    name: hati ya Kiarabu cha Kaskazini cha Kale
+    auto: true
+  - translation_iso: urd
+    name: قدیم شمالی عربی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 古北阿拉伯字母
     auto: true

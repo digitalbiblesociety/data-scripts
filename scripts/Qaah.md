@@ -51,6 +51,12 @@ translations:
   - translation_iso: spa
     name: notación de movimiento Eshkol-Wachman
     auto: true
+  - translation_iso: swa
+    name: mfumo wa nukuu wa miondoko wa Eshkol-Wachman
+    auto: true
+  - translation_iso: urd
+    name: ایشکول-واخمان حرکات کا نظامِ تحریر
+    auto: true
   - translation_iso: zho
     name: 艾希科尔-瓦赫曼动作记谱法
     auto: true

@@ -60,6 +60,12 @@ translations:
     name: Манипури
   - translation_iso: spa
     name: alfabeto meitei
+  - translation_iso: swa
+    name: Meitei Mayek
+    auto: true
+  - translation_iso: urd
+    name: میتائی مایک رسم الخط
+    auto: true
   - translation_iso: zho
     name: 曼尼普尔文
 ---

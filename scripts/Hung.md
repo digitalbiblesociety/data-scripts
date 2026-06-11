@@ -51,6 +51,12 @@ translations:
     name: венгерские руны
   - translation_iso: spa
     name: alfabeto húngaro antiguo
+  - translation_iso: swa
+    name: hati ya Kihungari cha Kale
+    auto: true
+  - translation_iso: urd
+    name: قدیم ہنگاری رسم الخط
+    auto: true
   - translation_iso: zho
     name: 古匈牙利字母
 ---

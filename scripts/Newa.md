@@ -65,6 +65,12 @@ translations:
   - translation_iso: spa
     name: escritura newa
     auto: true
+  - translation_iso: swa
+    name: Newa
+    auto: true
+  - translation_iso: urd
+    name: نیوا رسم الخط
+    auto: true
   - translation_iso: zho
     name: 尼泊尔纽瓦字母
 ---

@@ -49,6 +49,12 @@ translations:
   - translation_iso: spa
     name: nandinagari
     auto: true
+  - translation_iso: swa
+    name: Nandinagari
+    auto: true
+  - translation_iso: urd
+    name: نندی ناگری رسم الخط
+    auto: true
   - translation_iso: zho
     name: 难提城文
 ---

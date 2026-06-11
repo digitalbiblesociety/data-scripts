@@ -55,6 +55,12 @@ translations:
   - translation_iso: spa
     name: escritura ranjana
     auto: true
+  - translation_iso: swa
+    name: Ranjana
+    auto: true
+  - translation_iso: urd
+    name: رنجنا رسم الخط
+    auto: true
   - translation_iso: zho
     name: 兰札文
     auto: true

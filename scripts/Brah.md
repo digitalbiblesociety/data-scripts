@@ -48,6 +48,11 @@ translations:
     name: брахми
   - translation_iso: spa
     name: Brahmi
+  - translation_iso: swa
+    name: Brahmi
+    auto: true
+  - translation_iso: urd
+    name: برہمی رسم الخط
   - translation_iso: zho
     name: 婆罗米文
 ---

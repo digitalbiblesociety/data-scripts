@@ -45,6 +45,12 @@ translations:
     name: Сяочжуань
   - translation_iso: spa
     name: Escritura de sello pequeño
+  - translation_iso: swa
+    name: hati ya muhuri
+    auto: true
+  - translation_iso: urd
+    name: مہر رسم الخط
+    auto: true
   - translation_iso: zho
     name: 小篆
 ---

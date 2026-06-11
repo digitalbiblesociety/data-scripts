@@ -47,6 +47,12 @@ translations:
     name: пальмирский алфавит
   - translation_iso: spa
     name: alfabeto de Palmira
+  - translation_iso: swa
+    name: hati ya Kipalmyra
+    auto: true
+  - translation_iso: urd
+    name: پالمیری رسم الخط
+    auto: true
   - translation_iso: zho
     name: 帕尔迈拉字母
 ---

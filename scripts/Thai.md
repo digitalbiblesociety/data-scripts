@@ -123,6 +123,12 @@ translations:
     name: тайское письмо
   - translation_iso: spa
     name: alfabeto tailandés
+  - translation_iso: swa
+    name: hati ya Kithai
+    auto: true
+  - translation_iso: urd
+    name: تھائی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 泰文字
 ---

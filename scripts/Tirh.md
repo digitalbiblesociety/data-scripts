@@ -49,6 +49,12 @@ translations:
     name: Тирхута
   - translation_iso: spa
     name: tirhuta
+  - translation_iso: swa
+    name: Tirhuta
+    auto: true
+  - translation_iso: urd
+    name: تیرہوتا رسم الخط
+    auto: true
   - translation_iso: zho
     name: 提尔胡塔文
 ---

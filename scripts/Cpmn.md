@@ -43,6 +43,12 @@ translations:
     name: Кипро-минойское письмо
   - translation_iso: spa
     name: Silabario chipro-minoico
+  - translation_iso: swa
+    name: Kipro-Minoa
+    auto: true
+  - translation_iso: urd
+    name: قبرصی-مینوائی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 塞浦路斯-米诺斯文字
 ---

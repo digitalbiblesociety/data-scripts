@@ -46,6 +46,12 @@ translations:
     auto: true
   - translation_iso: spa
     name: Protocuneiforme
+  - translation_iso: swa
+    name: kikabari cha awali
+    auto: true
+  - translation_iso: urd
+    name: قبل از میخی رسم الخط
+    auto: true
   - translation_iso: zho
     name: 原始楔形文字
 ---
