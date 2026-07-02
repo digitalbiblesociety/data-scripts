@@ -1,0 +1,83 @@
+name: upstream-sync
+
+# Monthly freshness pass: refresh the UCD ranges table (picks up annual
+# Unicode releases), import any new scripts from silnrsi/wstr, run the
+# mechanical fills, regenerate the export artifacts, and open a pull request
+# with whatever changed. Requires "Allow GitHub Actions to create and approve
+# pull requests" (Settings → Actions → General → Workflow permissions).
+on:
+  schedule:
+    - cron: "17 6 1 * *" # 06:17 UTC on the 1st of each month
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+
+      - name: Refresh Unicode ranges table
+        run: go run ./tools -gen-ranges | tee -a sync-log.txt
+
+      - name: Import new upstream scripts
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: go run ./tools | tee -a sync-log.txt
+
+      - name: Run mechanical fills
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          go run ./tools -fill-pdfs  | tee -a sync-log.txt
+          go run ./tools -fill-fonts | tee -a sync-log.txt
+          go run ./tools -fill-abbr  | tee -a sync-log.txt
+          go run ./tools -fill       | tee -a sync-log.txt
+
+      - name: Validate corpus
+        id: validate
+        continue-on-error: true
+        run: go run ./tools -validate | tee -a sync-log.txt
+
+      - name: Regenerate export artifacts
+        run: go run ./tools -export
+
+      - name: Build PR body
+        id: body
+        run: |
+          {
+            echo 'text<<SYNC_EOF'
+            if [ "${{ steps.validate.outcome }}" = "success" ]; then
+              echo 'Monthly upstream sync. Validation: ✅ passing.'
+            else
+              echo 'Monthly upstream sync. Validation: ❌ FAILING — see log below, fix before merging.'
+            fi
+            echo
+            echo 'New files need curation: `sample`, `screen_fonts`, and any fields the fills could not derive.'
+            echo
+            echo '<details><summary>Sync log</summary>'
+            echo
+            echo '```'
+            grep -v -E '^  skip ' sync-log.txt
+            echo '```'
+            echo '</details>'
+            echo
+            echo 'Note: checks do not run automatically on bot PRs opened with the default token; the same gate already ran inside this sync job. Close and reopen the PR to force the `validate` workflow.'
+            echo 'SYNC_EOF'
+          } >> "$GITHUB_OUTPUT"
+          rm sync-log.txt
+
+      - name: Open or update pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: bot/upstream-sync
+          title: "Upstream sync: new scripts and mechanical fills"
+          commit-message: "Sync from upstream: new scripts, UCD refresh, mechanical fills"
+          body: ${{ steps.body.outputs.text }}
+          delete-branch: true

@@ -36,34 +36,41 @@ type ghEntry struct {
 
 func main() {
 	var (
-		dir          = flag.String("dir", "scripts", "directory holding local <Code>.md files")
-		dryRun       = flag.Bool("dry-run", false, "list new scripts without writing")
-		only         = flag.String("only", "", "comma-separated codes to restrict to (e.g. 'Vith,Toto')")
-		validate     = flag.Bool("validate", false, "validate frontmatter of all local files against schema (no network)")
-		translations = flag.Bool("translations", false, "populate translations[] from Wikidata labels")
-		force        = flag.Bool("force", false, "bypass the monthly on-disk Wikidata cache (-translations mode)")
-		missing      = flag.Bool("missing", false, "print JSON of translation targets still missing per script (no network)")
-		fill         = flag.String("fill", "", "merge LLM/MT translation proposals from a JSON file as auto: true entries")
+		dir       = flag.String("dir", "scripts", "directory holding local <Code>.md files")
+		dryRun    = flag.Bool("dry-run", false, "list new scripts without writing")
+		only      = flag.String("only", "", "comma-separated codes to restrict to (e.g. 'Vith,Toto')")
+		validate  = flag.Bool("validate", false, "validate frontmatter of all local files against schema (no network)")
+		report    = flag.Bool("report", false, "print corpus completeness statistics (no network)")
+		genRanges = flag.Bool("gen-ranges", false, "regenerate tools/uniranges_gen.go from the latest UCD")
+		fillPDFs  = flag.Bool("fill-pdfs", false, "derive missing unicode_pdf values from UCD block data")
+		fillFonts = flag.Bool("fill-fonts", false, "fill missing fonts from Noto families on Google Fonts")
+		fillAbbr  = flag.Bool("fill-abbr", false, "assign unique abbr_short values where missing")
+		fill      = flag.Bool("fill", false, "replace unspecified/unknown derivable fields from upstream (honors -only)")
+		export    = flag.Bool("export", false, "regenerate scripts.json and INDEX.md from the corpus")
+		check     = flag.Bool("check", false, "with -export: verify artifacts are in sync instead of writing")
 	)
 	flag.Parse()
 
-	if *validate {
+	switch {
+	case *validate:
 		os.Exit(runValidate(*dir))
+	case *report:
+		os.Exit(runReport(*dir))
+	case *genRanges:
+		os.Exit(runGenRanges("tools/uniranges_gen.go"))
+	case *fillPDFs:
+		os.Exit(runFillPDFs(*dir, *dryRun))
+	case *fillFonts:
+		os.Exit(runFillFonts(*dir, *dryRun))
+	case *fillAbbr:
+		os.Exit(runFillAbbr(*dir, *dryRun))
+	case *fill:
+		os.Exit(runFillUpstream(*dir, *dryRun, parseOnly(*only)))
+	case *export:
+		os.Exit(runExport(*dir, *check))
 	}
 
-	if *missing {
-		os.Exit(runMissing(*dir))
-	}
-
-	if *fill != "" {
-		os.Exit(runFill(*dir, *fill, *only, *dryRun))
-	}
-
-	if *translations {
-		os.Exit(runTranslations(*dir, *only, *dryRun, *force))
-	}
-
-	client := &http.Client{Timeout: 30 * time.Second}
+	client := newHTTPClient()
 
 	entries, err := listUpstream(client)
 	if err != nil {
@@ -130,6 +137,10 @@ func main() {
 	} else {
 		fmt.Printf("\nwrote %d file(s)\n", written)
 	}
+}
+
+func newHTTPClient() *http.Client {
+	return &http.Client{Timeout: 30 * time.Second}
 }
 
 func parseOnly(s string) map[string]bool {
@@ -225,19 +236,60 @@ var (
 	reBlankLines  = regexp.MustCompile(`\n{3,}`)
 )
 
-func convert(mdx string) (string, error) {
+// upstreamFields converts upstream MDX frontmatter into canonical-key values
+// (plain, unquoted) plus the extracted plain-markdown description.
+func upstreamFields(mdx string) (map[string]string, string, error) {
 	fm, body, err := splitFrontmatter(mdx)
 	if err != nil {
-		return "", err
+		return nil, "", err
 	}
 	props := parseSimpleYAML(fm)
 
 	code := props["scrpropcode"]
 	if code == "" {
-		return "", fmt.Errorf("missing scrpropcode")
+		return nil, "", fmt.Errorf("missing scrpropcode")
 	}
 
-	desc := extractDescription(body)
+	// Behavior flags from scrpropbehavior comma-separated list.
+	behavior := map[string]bool{}
+	if raw := props["scrpropbehavior"]; raw != "" {
+		for _, part := range reBehavior.Split(raw, -1) {
+			behavior[strings.ToLower(strings.TrimSpace(part))] = true
+		}
+	}
+	otCode := props["scrpropotcode"]
+	if otCode == "" {
+		otCode = "none"
+	}
+	dir := strings.ToLower(strings.TrimSpace(props["scrpropdirection"]))
+
+	f := map[string]string{
+		"script":              code,
+		"name":                props["scrpropname"],
+		"family":              props["scrpropregion"],
+		"type":                props["scrproptype"],
+		"whitespace":          props["scrpropwspace"],
+		"open_type_tag":       otCode,
+		"complex_positioning": yesNoUnknown(behavior, "complex positioning"),
+		"diacritics":          boolStr(behavior["diacritics"]),
+		"contextual_forms":    boolStr(behavior["contextual forms"]),
+		"reordering":          boolStr(behavior["reordering"]),
+		"split_graphs":        boolStr(behavior["split graphs"]),
+		"status":              props["scrpropstatus"],
+		"baseline":            props["scrpropbaseline"],
+	}
+	if dir != "" {
+		f["direction"] = dir
+		f["direction_notes"] = directionNotes(dir)
+	}
+	return f, extractDescription(body), nil
+}
+
+func convert(mdx string) (string, error) {
+	f, desc, err := upstreamFields(mdx)
+	if err != nil {
+		return "", err
+	}
 
 	var b strings.Builder
 	b.WriteString("---\n")
@@ -257,40 +309,28 @@ func convert(mdx string) (string, error) {
 		}
 	}
 
-	// Behavior flags from scrpropbehavior comma-separated list.
-	behavior := map[string]bool{}
-	if raw := props["scrpropbehavior"]; raw != "" {
-		for _, part := range reBehavior.Split(raw, -1) {
-			behavior[strings.ToLower(strings.TrimSpace(part))] = true
-		}
-	}
-	otCode := props["scrpropotcode"]
-	if otCode == "" {
-		otCode = "none"
-	}
-	dir := strings.ToLower(strings.TrimSpace(props["scrpropdirection"]))
-
 	// Emit fields in the canonical schema order (see schema.json).
-	put("script", code)
+	put("script", f["script"])
 	// abbr_short, unicode_pdf: curated, no upstream source — omitted.
-	put("name", props["scrpropname"])
-	put("family", props["scrpropregion"])
-	put("type", props["scrproptype"])
-	put("whitespace", props["scrpropwspace"])
-	put("open_type_tag", otCode)
-	put("complex_positioning", yesNoUnknown(behavior, "complex positioning"))
+	put("name", f["name"])
+	put("family", f["family"])
+	put("type", f["type"])
+	put("whitespace", f["whitespace"])
+	put("open_type_tag", f["open_type_tag"])
+	put("complex_positioning", quoteYesNo(f["complex_positioning"]))
 	put("requires_font", "false")
 	put("unicode", "true")
-	put("diacritics", boolStr(behavior["diacritics"]))
-	put("contextual_forms", boolStr(behavior["contextual forms"]))
-	put("reordering", boolStr(behavior["reordering"]))
-	put("split_graphs", boolStr(behavior["split graphs"]))
-	put("status", props["scrpropstatus"])
-	put("baseline", props["scrpropbaseline"])
+	put("diacritics", f["diacritics"])
+	put("contextual_forms", f["contextual_forms"])
+	put("reordering", f["reordering"])
+	put("split_graphs", f["split_graphs"])
+	put("status", f["status"])
+	put("baseline", f["baseline"])
 	put("ligatures", "unspecified")
-	if dir != "" {
-		put("direction", dir)
-		put("direction_notes", directionNotes(dir))
+	put("direction", f["direction"])
+	if f["direction"] != "" {
+		// corpus convention: direction_notes is always double-quoted
+		put("direction_notes", fmt.Sprintf("%q", f["direction_notes"]))
 	}
 	// sample, fonts, screen_fonts: curated, no upstream source — omitted.
 
@@ -302,6 +342,15 @@ func convert(mdx string) (string, error) {
 		}
 	}
 	return b.String(), nil
+}
+
+// quoteYesNo renders yes/no double-quoted (corpus convention, and YAML 1.1
+// would otherwise read them as booleans); other values pass through bare.
+func quoteYesNo(v string) string {
+	if v == "yes" || v == "no" {
+		return fmt.Sprintf("%q", v)
+	}
+	return v
 }
 
 func splitFrontmatter(mdx string) (string, string, error) {
@@ -404,7 +453,7 @@ func boolStr(b bool) string {
 
 func yesNoUnknown(behavior map[string]bool, key string) string {
 	if behavior[key] {
-		return `"yes"`
+		return "yes"
 	}
 	return "unknown"
 }
@@ -466,8 +515,6 @@ var canonicalOrder = []string{
 	"sample",
 	"fonts",
 	"screen_fonts",
-	"languages",
-	"translations",
 }
 
 var (
@@ -566,7 +613,12 @@ func readFrontmatter(path string) ([]fmEntry, error) {
 	return entries, nil
 }
 
-func validateEntries(entries []fmEntry) []string {
+func validateFile(path string) []string {
+	entries, err := readFrontmatter(path)
+	if err != nil {
+		return []string{fmt.Sprintf("frontmatter: %v", err)}
+	}
+
 	var errs []string
 	seen := map[string]bool{}
 	lastIdx := -1
@@ -597,6 +649,7 @@ func validateEntries(entries []fmEntry) []string {
 			errs = append(errs, fmt.Sprintf("missing required key %q", req))
 		}
 	}
+	errs = append(errs, checkCrossField(entries)...)
 	return errs
 }
 
@@ -605,7 +658,7 @@ func validateValue(e fmEntry) string {
 
 	// Sequences (fonts, screen_fonts) — we accept them if the key is allowed
 	// to be a sequence in the schema and the lines beneath looked list-ish.
-	if e.key == "fonts" || e.key == "screen_fonts" || e.key == "languages" || e.key == "translations" {
+	if e.key == "fonts" || e.key == "screen_fonts" {
 		if e.value != "" {
 			return "must be a YAML sequence (no inline scalar)"
 		}
@@ -649,8 +702,8 @@ func validateValue(e fmEntry) string {
 			return fmt.Sprintf("value %q must be 'none' or 2-4 lowercase alphanumerics", v)
 		}
 	case "unicode_pdf":
-		if !strings.HasPrefix(v, "http://") && !strings.HasPrefix(v, "https://") {
-			return "must be an http(s) URL"
+		if !reChartPDF.MatchString(v) {
+			return fmt.Sprintf("value %q must be a Unicode chart URL (https://www.unicode.org/charts/PDF/U<hex>.pdf)", v)
 		}
 	}
 	return ""
@@ -663,28 +716,6 @@ func unquote(v string) string {
 		}
 	}
 	return v
-}
-
-// dupReport returns one group of lines per value that appears in more than one
-// file, sorted for stable output, plus the count of colliding values.
-func dupReport(label string, byValue map[string][]string) (lines []string, count int) {
-	var dups []string
-	for v, files := range byValue {
-		if len(files) > 1 {
-			dups = append(dups, v)
-		}
-	}
-	sort.Strings(dups)
-	for _, v := range dups {
-		count++
-		lines = append(lines, fmt.Sprintf("duplicate %s %q in:", label, v))
-		files := append([]string(nil), byValue[v]...)
-		sort.Strings(files)
-		for _, f := range files {
-			lines = append(lines, "  - "+f)
-		}
-	}
-	return lines, count
 }
 
 func runValidate(dir string) int {
@@ -701,60 +732,50 @@ func runValidate(dir string) int {
 	}
 	sort.Strings(paths)
 
-	// Accumulate script codes and abbr_short values across the whole corpus;
-	// per-file validation can't see collisions between files.
-	codeFiles := map[string][]string{}
-	abbrFiles := map[string][]string{}
-
-	ok, bad := 0, 0
-	for _, p := range paths {
-		entries, err := readFrontmatter(p)
-		if err != nil {
-			bad++
-			fmt.Printf("%s\n  - frontmatter: %v\n", p, err)
-			continue
-		}
-		for _, e := range entries {
-			switch e.key {
-			case "script":
-				if v := unquote(e.value); v != "" {
-					codeFiles[v] = append(codeFiles[v], p)
-				}
-			case "abbr_short":
-				if v := unquote(e.value); v != "" {
-					abbrFiles[v] = append(abbrFiles[v], p)
+	fileErrs := make([][]string, len(paths))
+	abbrs := map[string][]int{}
+	for i, p := range paths {
+		fileErrs[i] = validateFile(p)
+		if entries, err := readFrontmatter(p); err == nil {
+			for _, e := range entries {
+				if e.key == "abbr_short" {
+					a := unquote(e.value)
+					abbrs[a] = append(abbrs[a], i)
 				}
 			}
 		}
+	}
 
-		errs := validateEntries(entries)
-		if len(errs) == 0 {
+	// corpus-wide: abbr_short values are cross-reference keys and must be unique
+	for a, idxs := range abbrs {
+		if len(idxs) < 2 {
+			continue
+		}
+		var names []string
+		for _, i := range idxs {
+			names = append(names, filepath.Base(paths[i]))
+		}
+		sort.Strings(names)
+		for _, i := range idxs {
+			fileErrs[i] = append(fileErrs[i],
+				fmt.Sprintf("abbr_short %q duplicated across %s", a, strings.Join(names, ", ")))
+		}
+	}
+
+	ok, bad := 0, 0
+	for i, p := range paths {
+		if len(fileErrs[i]) == 0 {
 			ok++
 			continue
 		}
 		bad++
 		fmt.Printf("%s\n", p)
-		for _, e := range errs {
+		for _, e := range fileErrs[i] {
 			fmt.Printf("  - %s\n", e)
 		}
 	}
-
-	codeLines, codeDups := dupReport("script code", codeFiles)
-	abbrLines, abbrDups := dupReport("abbr_short", abbrFiles)
-	dupLines := append(codeLines, abbrLines...)
-	dups := codeDups + abbrDups
-	if len(dupLines) > 0 {
-		fmt.Println()
-		for _, l := range dupLines {
-			fmt.Println(l)
-		}
-	}
-
 	fmt.Printf("\n%d ok, %d with errors (of %d total)\n", ok, bad, len(paths))
-	if dups > 0 {
-		fmt.Printf("%d duplicate value(s) across files\n", dups)
-	}
-	if bad > 0 || dups > 0 {
+	if bad > 0 {
 		return 1
 	}
 	return 0
