@@ -19,6 +19,12 @@ type exportFont struct {
 	Notes    string `json:"notes,omitempty"`
 }
 
+type exportTranslation struct {
+	TranslationISO string `json:"translation_iso"`
+	Name           string `json:"name"`
+	Auto           bool   `json:"auto,omitempty"`
+}
+
 // exportEntry mirrors the canonical schema key order.
 type exportEntry struct {
 	Script             string       `json:"script"`
@@ -42,9 +48,11 @@ type exportEntry struct {
 	Direction          string       `json:"direction,omitempty"`
 	DirectionNotes     string       `json:"direction_notes,omitempty"`
 	Sample             string       `json:"sample,omitempty"`
-	Fonts              []exportFont `json:"fonts,omitempty"`
-	ScreenFonts        []exportFont `json:"screen_fonts,omitempty"`
-	Description        string       `json:"description,omitempty"`
+	Fonts              []exportFont        `json:"fonts,omitempty"`
+	ScreenFonts        []exportFont        `json:"screen_fonts,omitempty"`
+	Languages          []string            `json:"languages,omitempty"`
+	Translations       []exportTranslation `json:"translations,omitempty"`
+	Description        string              `json:"description,omitempty"`
 }
 
 func boolPtr(v string) *bool {
@@ -53,6 +61,30 @@ func boolPtr(v string) *bool {
 		return nil
 	}
 	return &b
+}
+
+func languagesOf(doc *fmDoc) []string {
+	blk := doc.get("languages")
+	if blk == nil {
+		return nil
+	}
+	return blk.seqScalars()
+}
+
+func translationsOf(doc *fmDoc) []exportTranslation {
+	blk := doc.get("translations")
+	if blk == nil {
+		return nil
+	}
+	var out []exportTranslation
+	for _, item := range blk.seqItems() {
+		out = append(out, exportTranslation{
+			TranslationISO: item["translation_iso"],
+			Name:           item["name"],
+			Auto:           item["auto"] == "true",
+		})
+	}
+	return out
 }
 
 func fontsOf(doc *fmDoc, key string) []exportFont {
@@ -107,6 +139,8 @@ func buildExport(dir string) ([]exportEntry, error) {
 			Sample:             doc.scalar("sample"),
 			Fonts:              fontsOf(doc, "fonts"),
 			ScreenFonts:        fontsOf(doc, "screen_fonts"),
+			Languages:          languagesOf(doc),
+			Translations:       translationsOf(doc),
 			Description:        strings.TrimSpace(doc.rest),
 		})
 	}

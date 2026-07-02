@@ -16,7 +16,7 @@ baseline: bottom
 ligatures: optional
 direction: ltr
 direction_notes: "LTR (left-to-right)"
-sample: "ᝊᝑᝒᝃ᝔"
+sample: "ᝊᝓᝑᝒ"
 fonts:
   - name: "Noto Sans Buhid"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Buhid"

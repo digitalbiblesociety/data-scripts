@@ -137,6 +137,19 @@ func (d *fmDoc) save() error {
 	return os.WriteFile(d.path, d.marshal(), 0o644)
 }
 
+// seqScalars parses a sequence block of bare scalar items (languages) into
+// its values in order.
+func (b *fmBlock) seqScalars() []string {
+	var items []string
+	for _, raw := range b.lines[1:] {
+		line := strings.TrimSpace(raw)
+		if strings.HasPrefix(line, "- ") {
+			items = append(items, unquote(strings.TrimSpace(line[2:])))
+		}
+	}
+	return items
+}
+
 // seqItems parses a sequence block (fonts, screen_fonts) into ordered
 // key→value maps, one per "- " item.
 func (b *fmBlock) seqItems() []map[string]string {

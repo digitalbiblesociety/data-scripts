@@ -37,7 +37,7 @@
 | [Qa85](scripts/Qa85.md) | Borama (Gadabuursi) | alphabet | Historical | ltr |  |
 | [Qaaz](scripts/Qaaz.md) | Beria (Erfe) | alphabet | Current | ltr |  |
 | [Qabh](scripts/Qabh.md) | Bagam (Eghap) | logo-syllabary | Current | ltr |  |
-| [Tfng](scripts/Tfng.md) | Tifinagh (Berber) | abjad | Current | ltr | ⵜⵉⴼⵉⵏⴰⵖ |
+| [Tfng](scripts/Tfng.md) | Tifinagh (Berber) | abjad | Current | ltr |  |
 | [Vaii](scripts/Vaii.md) | Vai | syllabary | Current | ltr | ꕉꕢꕣ |
 
 ## American (9)
@@ -50,7 +50,7 @@
 | [Dsrt](scripts/Dsrt.md) | Deseret (Mormon) | alphabet | Historical | rtl |  |
 | [Dupl](scripts/Dupl.md) | Duployan shorthand, Duployan stenography | alphabet | Current | ltr |  |
 | [Maya](scripts/Maya.md) | Mayan hieroglyphs | logo-syllabary | Historical | ltr |  |
-| [Osge](scripts/Osge.md) | Osage | alphabet | Current | ltr | 𐓏𐓘𐓻𐓘𐓻𐓟 |
+| [Osge](scripts/Osge.md) | Osage | alphabet | Current | ltr |  |
 | [Qa26](scripts/Qa26.md) | Aztec Pictograms | logo-syllabary | Historical | ltr |  |
 | [Qabg](scripts/Qabg.md) | Micmac Hieroglyphs (Kauder ideograms) | logo-syllabary | Historical | ltr |  |
 
@@ -67,8 +67,8 @@
 | [Shaw](scripts/Shaw.md) | Shavian (Shaw) | alphabet | Historical | ltr |  |
 | [Teng](scripts/Teng.md) | Tengwar | abugida | Fictional | ltr |  |
 | [Visp](scripts/Visp.md) | Visible Speech | featural | Historical | ltr |  |
-| [Zmth](scripts/Zmth.md) | Mathematical notation | alphabet | Current | ltr | ∀x ∈ ℝ: x² ≥ 0 |
-| [Zsye](scripts/Zsye.md) | Symbols (Emoji variant) | alphabet | Current | ltr | 😀 ❤️ 🎉 |
+| [Zmth](scripts/Zmth.md) | Mathematical notation | alphabet | Current | ltr |  |
+| [Zsye](scripts/Zsye.md) | Symbols (Emoji variant) | alphabet | Current | ltr |  |
 
 ## Central Asian (12)
 
@@ -95,19 +95,19 @@
 | [Hanb](scripts/Hanb.md) | Han with Bopomofo (alias for Han + Bopomofo) | logo-syllabary | Current | ltr |  |
 | [Hang](scripts/Hang.md) | Hangul (Hangŭl, Hangeul) | featural | Current | ltr | 하늘에 계신 우리 아버지 |
 | [Hani](scripts/Hani.md) | Han (Hanzi, Kanji, Hanja) | logo-syllabary | Current | ltr | 在天我等父者 |
-| [Hans](scripts/Hans.md) | Han (Simplified variant) | logo-syllabary | Current | ltr | 简体中文 |
-| [Hant](scripts/Hant.md) | Han (Traditional variant) | logo-syllabary | Current | ltr | 繁體中文 |
+| [Hans](scripts/Hans.md) | Han (Simplified variant) | logo-syllabary | Current | ltr |  |
+| [Hant](scripts/Hant.md) | Han (Traditional variant) | logo-syllabary | Current | ltr |  |
 | [Hira](scripts/Hira.md) | Hiragana | syllabary | Current | ltr | てんにおられるわたしたちのちち |
 | [Hmng](scripts/Hmng.md) | Pahawh Hmong | syllabary | Current | ltr |  |
 | [Hntl](scripts/Hntl.md) | Han (Traditional variant) with Latin (alias for Hant + Latn) | logo-syllabary | Current | unspecified |  |
-| [Hrkt](scripts/Hrkt.md) | Japanese syllabaries (alias for Hiragana + Katakana) | syllabary | Current | ltr | ひらがな カタカナ |
-| [Jamo](scripts/Jamo.md) | Jamo (alias for Jamo subset of Hangul) | featural | Current | ltr | ㄱㄴㄷㄹㅁㅂㅅㅇ |
-| [Jpan](scripts/Jpan.md) | Japanese (alias for Han + Hiragana + Katakana) | logo-syllabary | Current | ltr | 日本語の文字 |
+| [Hrkt](scripts/Hrkt.md) | Japanese syllabaries (alias for Hiragana + Katakana) | syllabary | Current | ltr |  |
+| [Jamo](scripts/Jamo.md) | Jamo (alias for Jamo subset of Hangul) | featural | Current | ltr |  |
+| [Jpan](scripts/Jpan.md) | Japanese (alias for Han + Hiragana + Katakana) | logo-syllabary | Current | ltr |  |
 | [Jurc](scripts/Jurc.md) | Jurchen | logo-syllabary | Historical | ltr |  |
 | [Kana](scripts/Kana.md) | Katakana | syllabary | Current | ltr | テンニオラレルワタシタチノチチ |
 | [Kitl](scripts/Kitl.md) | Khitan large script | logo-syllabary | Historical | ltr |  |
 | [Kits](scripts/Kits.md) | Khitan small script | logo-syllabary | Historical | ltr |  |
-| [Kore](scripts/Kore.md) | Korean (alias for Hangul + Han) | logo-syllabary | Current | ltr | 한국어 韓國語 |
+| [Kore](scripts/Kore.md) | Korean (alias for Hangul + Han) | logo-syllabary | Current | ltr |  |
 | [Lisu](scripts/Lisu.md) | Lisu (Fraser) | alphabet | Current | ltr | ꓬꓳꓰꓭꓸ |
 | [Nkdb](scripts/Nkdb.md) | Naxi Dongba | unspecified | Current | unspecified |  |
 | [Nshu](scripts/Nshu.md) | Nüshu | logo-syllabary | Unclear | ltr |  |
@@ -142,7 +142,7 @@
 | [Grek](scripts/Grek.md) | Greek | alphabet | Current | ltr | Πάτερ ἡμῶν ὁ ἐν τοῖς οὐρανοῖς |
 | [Hung](scripts/Hung.md) | Old Hungarian (Hungarian Runic) | abjad | Historical | ltr | 𐲖𐲛𐲡𐲯 |
 | [Ital](scripts/Ital.md) | Old Italic (Etruscan, Oscan, etc.) | alphabet | Historical | ltr |  |
-| [Latf](scripts/Latf.md) | Latin (Fraktur variant) | alphabet | Current | ltr | Deutſche Fraktur |
+| [Latf](scripts/Latf.md) | Latin (Fraktur variant) | alphabet | Current | ltr |  |
 | [Latg](scripts/Latg.md) | Latin (Gaelic variant) | alphabet | Historical | ltr |  |
 | [Latn](scripts/Latn.md) | Latin | alphabet | Current | ltr | Pater noster, qui es in caelis |
 | [Lina](scripts/Lina.md) | Linear A | logo-syllabary | Historical | ltr |  |
@@ -172,28 +172,28 @@
 | [Beng](scripts/Beng.md) | Bengali (Bangla) | abugida | Current | ltr | আমাদের স্বর্গে যিনি পিতা |
 | [Bhks](scripts/Bhks.md) | Bhaiksuki | abugida | Historical | ltr |  |
 | [Brah](scripts/Brah.md) | Brahmi | abugida | Historical | ltr |  |
-| [Cakm](scripts/Cakm.md) | Chakma | abugida | Current | ltr | 𑄌𑄋𑄴𑄟𑄳𑄦 |
+| [Cakm](scripts/Cakm.md) | Chakma | abugida | Current | ltr |  |
 | [Deva](scripts/Deva.md) | Devanagari (Nagari) | abugida | Current | ltr | हे हमारे पिता, स्वर्ग में |
 | [Dogr](scripts/Dogr.md) | Dogra | abugida | Historical | ltr |  |
 | [Gong](scripts/Gong.md) | Gunjala Gondi | abugida | Current | ltr |  |
 | [Gonm](scripts/Gonm.md) | Masaram Gondi | abugida | Current | ltr |  |
-| [Gran](scripts/Gran.md) | Grantha | abugida | Current | ltr | 𑌗𑍍𑌰𑌨𑍍𑌥 |
+| [Gran](scripts/Gran.md) | Grantha | abugida | Current | ltr |  |
 | [Gujr](scripts/Gujr.md) | Gujarati | abugida | Current | ltr | હે અમારા પિતા, સ્વર્ગમાં |
 | [Guru](scripts/Guru.md) | Gurmukhi | abugida | Current | ltr | ਹੇ ਸਾਡੇ ਪਿਤਾ, ਜੋ ਸਵਰਗ ਵਿੱਚ ਹੈਂ |
 | [Inds](scripts/Inds.md) | Indus (Harappan) | logo-syllabary | Historical | rtl |  |
 | [Khar](scripts/Khar.md) | Kharoshthi | abugida | Historical | rtl |  |
 | [Khoj](scripts/Khoj.md) | Khojki | abugida | Current | ltr |  |
 | [Knda](scripts/Knda.md) | Kannada | abugida | Current | ltr | ಸ್ವರ್ಗದಲ್ಲಿರುವ ನಮ್ಮ ತಂದೆಯೇ |
-| [Kthi](scripts/Kthi.md) | Kaithi | abugida | Current | ltr | 𑂍𑂶𑂟𑂲 |
+| [Kthi](scripts/Kthi.md) | Kaithi | abugida | Current | ltr |  |
 | [Limb](scripts/Limb.md) | Limbu | abugida | Current | ltr | ᤋᤠᤵᤐᤠ |
 | [Mahj](scripts/Mahj.md) | Mahajani | alphabet | Historical | ltr |  |
 | [Marc](scripts/Marc.md) | Marchen | abugida | Historical | ltr |  |
 | [Mlym](scripts/Mlym.md) | Malayalam | abugida | Current | ltr | ആകാശസ്ഥനായ ഞങ്ങളുടെ പിതാവേ |
-| [Modi](scripts/Modi.md) | Modi, Moḍī | abugida | Current | ltr | 𑘦𑘻𑘚𑘲 |
+| [Modi](scripts/Modi.md) | Modi, Moḍī | abugida | Current | ltr |  |
 | [Mroo](scripts/Mroo.md) | Mro, Mru | alphabet | Current | ltr | 𖩃𖩄𖩅 |
 | [Mtei](scripts/Mtei.md) | Meitei Mayek (Meithei, Meetei) | abugida | Current | ltr | ꯃꯔꯨꯄꯄꯥ |
 | [Mult](scripts/Mult.md) | Multani | abjad | Current | ltr |  |
-| [Newa](scripts/Newa.md) | Newa, Newar, Newari, Nepāla lipi | abugida | Current | ltr | 𑐣𑐾𑐥𑐵𑐮 𑐮𑐶𑐥𑐶 |
+| [Newa](scripts/Newa.md) | Newa, Newar, Newari, Nepāla lipi | abugida | Current | ltr |  |
 | [Olck](scripts/Olck.md) | Ol Chiki (Ol Cemet’, Ol, Santali) | alphabet | Current | ltr | ᱚᱱᱟᱜ ᱵᱟᱵᱟ |
 | [Orya](scripts/Orya.md) | Oriya (Odia) | abugida | Current | ltr | ସ୍ୱର୍ଗସ୍ଥ ଆମ ପିତା |
 | [Qa03](scripts/Qa03.md) | Masaram Gondi | abugida |  | ltr |  |
@@ -226,18 +226,18 @@
 | [Qabl](scripts/Qabl.md) | Akkha | abugida | Current | ltr |  |
 | [Qabq](scripts/Qabq.md) | Badaga | abugida | Unclear | ltr |  |
 | [Saur](scripts/Saur.md) | Saurashtra | abugida | Current | ltr | ꢂꢃꢄ |
-| [Shrd](scripts/Shrd.md) | Sharada, Śāradā | abugida | Current | ltr | 𑆯𑆳𑆫𑆢𑆳 |
+| [Shrd](scripts/Shrd.md) | Sharada, Śāradā | abugida | Current | ltr |  |
 | [Sidd](scripts/Sidd.md) | Siddham, Siddhaṃ, Siddhamātṛkā | abugida | Historical | ltr |  |
 | [Sind](scripts/Sind.md) | Khudawadi, Sindhi | abugida | Historical | ltr |  |
 | [Sinh](scripts/Sinh.md) | Sinhala | abugida | Current | ltr | ස්වර්ගයේ සිටින අපගේ පියාණෙනි |
 | [Sora](scripts/Sora.md) | Sora Sompeng | syllabary | Current | ltr |  |
 | [Soyo](scripts/Soyo.md) | Soyombo | abugida | Current | ltr |  |
-| [Sylo](scripts/Sylo.md) | Syloti Nagri | abugida | Current | ltr | ꠍꠤꠟꠐꠤ ꠘꠣꠉꠞꠤ |
+| [Sylo](scripts/Sylo.md) | Syloti Nagri | abugida | Current | ltr |  |
 | [Takr](scripts/Takr.md) | Takri, Ṭākrī, Ṭāṅkrī | abugida | Historical | ltr |  |
 | [Taml](scripts/Taml.md) | Tamil | abugida | Current | ltr | பரலோகத்திலிருக்கிற எங்கள் பிதாவே |
 | [Telu](scripts/Telu.md) | Telugu | abugida | Current | ltr | పరలోకమందున్న మా తండ్రీ |
 | [Thaa](scripts/Thaa.md) | Thaana | alphabet | Current | rtl | ފައިދާ ލިބިވަޑައިގެންފިއެ |
-| [Tirh](scripts/Tirh.md) | Tirhuta | abugida | Current | ltr | 𑒞𑒱𑒩𑒯𑒳𑒞𑒰 |
+| [Tirh](scripts/Tirh.md) | Tirhuta | abugida | Current | ltr |  |
 | [Wara](scripts/Wara.md) | Warang Citi (Varang Kshiti) | abugida | Current | ltr |  |
 
 ## Insular Southeast Asian (14)
@@ -245,17 +245,17 @@
 | Code | Name | Type | Status | Direction | Sample |
 |------|------|------|--------|-----------|--------|
 | [Bali](scripts/Bali.md) | Balinese | abugida | Current | ltr | ᬒᬁ​ᬲ᭄ᬯᬲ᭄ᬢ᭄ᬬᬲ᭄ᬢᬸ |
-| [Batk](scripts/Batk.md) | Batak | abugida | Current | ltr | ᯅᯖᯂ᯲ |
+| [Batk](scripts/Batk.md) | Batak | abugida | Current | ltr |  |
 | [Bugi](scripts/Bugi.md) | Buginese | abugida | Current | ltr | ᨅᨔ ᨕᨘᨁᨗ |
 | [Buhd](scripts/Buhd.md) | Buhid | abugida | Current | ltr | ᝊᝓᝑᝒ |
-| [Hano](scripts/Hano.md) | Hanunoo (Hanunóo) | abugida | Current | ltr | ᜱᜨᜳᜨᜳᜢ |
+| [Hano](scripts/Hano.md) | Hanunoo (Hanunóo) | abugida | Current | ltr |  |
 | [Java](scripts/Java.md) | Javanese | abugida | Current | ltr | ꦲꦺꦴꦫꦲꦤꦺ |
 | [Maka](scripts/Maka.md) | Makasar | abugida | Historical | ltr |  |
 | [Qa82](scripts/Qa82.md) | Makasar | abugida |  | ltr |  |
 | [Qa83](scripts/Qa83.md) | Iban | syllabary | Current | ltr |  |
 | [Qabr](scripts/Qabr.md) | Eskaya | syllabary | Current | ltr |  |
-| [Rjng](scripts/Rjng.md) | Rejang (Redjang, Kaganga) | abugida | Current | ltr | ꤽꥍꤺꥏ |
-| [Sund](scripts/Sund.md) | Sundanese | abugida | Current | ltr | ᮃᮊ᮪ᮞᮛ ᮞᮥᮔ᮪ᮓ |
+| [Rjng](scripts/Rjng.md) | Rejang (Redjang, Kaganga) | abugida | Current | ltr |  |
+| [Sund](scripts/Sund.md) | Sundanese | abugida | Current | ltr |  |
 | [Tagb](scripts/Tagb.md) | Tagbanwa | abugida | Current | ltr | ᝦᝪᝯ |
 | [Tglg](scripts/Tglg.md) | Tagalog (Baybayin, Alibata) | abugida | Historical | ltr |  |
 
@@ -264,7 +264,7 @@
 | Code | Name | Type | Status | Direction | Sample |
 |------|------|------|--------|-----------|--------|
 | [Kawi](scripts/Kawi.md) | Kawi | abugida | Historical | ltr |  |
-| [Rohg](scripts/Rohg.md) | Hanifi Rohingya | alphabet | Current | rtl | 𐴌𐴟𐴇𐴥𐴝𐴚𐴒𐴙𐴝 |
+| [Rohg](scripts/Rohg.md) | Hanifi Rohingya | alphabet | Current | rtl |  |
 | [Tayo](scripts/Tayo.md) | Tai Yo | abugida | Unclear | vertical (rtl) |  |
 
 ## Middle Eastern (43)
@@ -272,7 +272,7 @@
 | Code | Name | Type | Status | Direction | Sample |
 |------|------|------|--------|-----------|--------|
 | [Arab](scripts/Arab.md) | Arabic | abjad | Current | rtl | بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ |
-| [Aran](scripts/Aran.md) | Arabic (Nastaliq variant) | abjad | Current | rtl | اردو نستعلیق |
+| [Aran](scripts/Aran.md) | Arabic (Nastaliq variant) | abjad | Current | rtl |  |
 | [Armi](scripts/Armi.md) | Imperial Aramaic | abjad | Historical | rtl |  |
 | [Avst](scripts/Avst.md) | Avestan | alphabet | Historical | rtl |  |
 | [Cari](scripts/Cari.md) | Carian | alphabet | Historical | ltr |  |
@@ -355,11 +355,11 @@
 
 | Code | Name | Type | Status | Direction | Sample |
 |------|------|------|--------|-----------|--------|
-| [Ahom](scripts/Ahom.md) | Ahom | abugida | Current | ltr | 𑜒𑜑𑜪𑜨 |
+| [Ahom](scripts/Ahom.md) | Ahom | abugida | Current | ltr |  |
 | [Cham](scripts/Cham.md) | Cham | abugida | Current | ltr |  |
-| [Kali](scripts/Kali.md) | Kayah Li | alphabet | Current | ltr | ꤊꤢ꤬ꤛꤢ꤭ ꤜꤟꤤ꤬ |
+| [Kali](scripts/Kali.md) | Kayah Li | alphabet | Current | ltr |  |
 | [Khmr](scripts/Khmr.md) | Khmer | abugida | Current | ltr | ព្រះបិតារបស់យើង |
-| [Lana](scripts/Lana.md) | Tai Tham (Lanna) | abugida | Current | ltr | ᨲ᩠ᩅᩫᨾᩮᩬᩥᨦ |
+| [Lana](scripts/Lana.md) | Tai Tham (Lanna) | abugida | Current | ltr |  |
 | [Laoo](scripts/Laoo.md) | Lao | abugida | Current | ltr | ພໍ່ຂອງພວກເຮົາຜູ້ຢູ່ໃນສະຫວັນ |
 | [Leke](scripts/Leke.md) | Leke | alphabet | Current | ltr |  |
 | [Mymr](scripts/Mymr.md) | Myanmar (Burmese) | abugida | Current | ltr | ကောင်းကင်ဘုံ၌ ရှိတော်မူသော ငါတို့အဘ |
@@ -372,9 +372,9 @@
 | [Qa84](scripts/Qa84.md) | Eebee Hmong | alphabet | Current | ltr |  |
 | [Qaaf](scripts/Qaaf.md) | Duota | abugida | Current | ltr |  |
 | [Qaaw](scripts/Qaaw.md) | Tai Yo | abugida | Unclear | rtl |  |
-| [Tale](scripts/Tale.md) | Tai Le | abugida | Current | ltr | ᥖᥭᥰᥘᥫᥴ |
-| [Talu](scripts/Talu.md) | New Tai Lue | alphabet | Current | ltr | ᦺᦑᦟᦹᧉ |
-| [Tavt](scripts/Tavt.md) | Tai Viet | abugida | Current | ltr | ꪼꪕꪒꪾ |
+| [Tale](scripts/Tale.md) | Tai Le | abugida | Current | ltr |  |
+| [Talu](scripts/Talu.md) | New Tai Lue | alphabet | Current | ltr |  |
+| [Tavt](scripts/Tavt.md) | Tai Viet | abugida | Current | ltr |  |
 | [Thai](scripts/Thai.md) | Thai | abugida | Current | ltr | ข้าแต่พระบิดาของข้าพเจ้าทั้งหลาย |
 
 ## Unclassified (13)

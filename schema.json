@@ -36,7 +36,9 @@
       "direction_notes",
       "sample",
       "fonts",
-      "screen_fonts"
+      "screen_fonts",
+      "languages",
+      "translations"
     ]
   },
   "$comment": "Field order below is the canonical emission order. Tools that write files should preserve it.",
@@ -186,6 +188,18 @@
       "type": "array",
       "items": { "$ref": "#/$defs/screenFont" },
       "minItems": 1
+    },
+    "languages": {
+      "description": "ISO 639-3 codes of languages written with this script.",
+      "type": "array",
+      "items": { "type": "string", "pattern": "^[a-z]{3}$" },
+      "minItems": 1
+    },
+    "translations": {
+      "description": "Localized names of the script in other languages.",
+      "type": "array",
+      "items": { "$ref": "#/$defs/translation" },
+      "minItems": 1
     }
   },
   "$defs": {
@@ -208,6 +222,23 @@
         "url":      { "type": "string", "format": "uri" },
         "provider": { "type": "string", "minLength": 1 },
         "notes":    { "type": "string" }
+      }
+    },
+    "translation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["translation_iso", "name"],
+      "properties": {
+        "translation_iso": {
+          "description": "ISO 639-3 code of the language the name is given in.",
+          "type": "string",
+          "pattern": "^[a-z]{3}$"
+        },
+        "name": { "type": "string", "minLength": 1 },
+        "auto": {
+          "description": "True if the name was machine-translated and has not been human-reviewed; absent once curated.",
+          "type": "boolean"
+        }
       }
     }
   }

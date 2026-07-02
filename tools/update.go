@@ -515,6 +515,8 @@ var canonicalOrder = []string{
 	"sample",
 	"fonts",
 	"screen_fonts",
+	"languages",
+	"translations",
 }
 
 var (
@@ -554,6 +556,13 @@ var (
 		"contextual_forms": true,
 		"reordering":       true,
 		"split_graphs":     true,
+	}
+
+	sequenceFields = map[string]bool{
+		"fonts":        true,
+		"screen_fonts": true,
+		"languages":    true,
+		"translations": true,
 	}
 
 	reScriptCode = regexp.MustCompile(`^([A-Z][a-z]{3}|Qa[a-z0-9]{2})$`)
@@ -656,9 +665,10 @@ func validateFile(path string) []string {
 func validateValue(e fmEntry) string {
 	v := unquote(e.value)
 
-	// Sequences (fonts, screen_fonts) — we accept them if the key is allowed
-	// to be a sequence in the schema and the lines beneath looked list-ish.
-	if e.key == "fonts" || e.key == "screen_fonts" {
+	// Sequences (fonts, screen_fonts, languages, translations) — we accept
+	// them if the key is allowed to be a sequence in the schema and the lines
+	// beneath looked list-ish.
+	if sequenceFields[e.key] {
 		if e.value != "" {
 			return "must be a YAML sequence (no inline scalar)"
 		}

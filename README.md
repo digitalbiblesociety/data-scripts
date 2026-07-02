@@ -54,6 +54,12 @@ fonts:
   - name: "Noto Sans Adlam"
     url: "https://fonts.google.com/noto/specimen/Noto+Sans+Adlam"
     provider: "Google Fonts"
+translations:
+  - translation_iso: ara
+    name: خط أدلم
+  - translation_iso: hin
+    name: ऐडलम लिपि
+    auto: true
 ---
 
 The Adlam script is used for writing the Fulani language in Guinea…
@@ -71,7 +77,9 @@ Placeholder codes (`Qa*`, `Z***`, `Sign`) intentionally omit `family`/`type`/`st
 
 | Derivable from upstream (silnrsi/wstr)                                                                                                                                                                  | Manually curated                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| `script`, `name`, `family`, `type`, `whitespace`, `open_type_tag`, `complex_positioning`, `diacritics`, `contextual_forms`, `reordering`, `split_graphs`, `status`, `baseline`, `direction`, description | `abbr_short`, `unicode_pdf`, `sample`, `fonts`, `screen_fonts` |
+| `script`, `name`, `family`, `type`, `whitespace`, `open_type_tag`, `complex_positioning`, `diacritics`, `contextual_forms`, `reordering`, `split_graphs`, `status`, `baseline`, `direction`, description | `abbr_short`, `unicode_pdf`, `sample`, `fonts`, `screen_fonts`, `languages`, `translations` |
+
+`languages` (where known) lists ISO 639-3 codes of languages written with the script. `translations` gives the script's name in other languages; items carry `auto: true` while the name is machine-translated — drop the flag once a human has reviewed it.
 
 The updater fills in the left column for new scripts. The right column is left blank for human curation, though several `-fill*` modes below can bootstrap it mechanically.
 
